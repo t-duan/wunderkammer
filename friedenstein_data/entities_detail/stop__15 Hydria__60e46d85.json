@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080217,
+    "uuid": "60e46d85-ce0f-423f-afde-b3eae8b1ef15",
+    "title": "15 Hydria",
+    "content": {
+      "image": "ef99832b-e139-4ca9-a16c-9de5caf9ccee",
+      "title": {
+        "de-DE": "Hydria",
+        "en-US": "Hydria"
+      },
+      "preview": false,
+      "stopnumber": 115,
+      "primary_segment": "160c2629-60ec-4e3a-bd87-98fa8d620701",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "35e24cdf9a519708d2c41ecf9b954e708141af9d",
+      "title": "15 Hydria",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T15:01:17.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "ef99832b-e139-4ca9-a16c-9de5caf9ccee"
+        ],
+        "audio_segment": [
+          "160c2629-60ec-4e3a-bd87-98fa8d620701"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

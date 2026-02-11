@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080505,
+    "uuid": "775019a7-7e4c-4a35-9e21-c0dcb418af9e",
+    "title": "The Large Rococo Hall",
+    "content": {
+      "title": {
+        "de-DE": "The Large Rococo Hall",
+        "en-US": "The Large Rococo Hall"
+      },
+      "audiofile": {
+        "de-DE": "03166799-c4f7-4dae-9976-024eeeb8892a",
+        "en-US": "76743fd2-648d-4105-aec7-1262ef8c76db"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a5d7c96864862419f65218a1a4d2ca852b88f46e",
+      "title": "The Large Rococo Hall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:09:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "03166799-c4f7-4dae-9976-024eeeb8892a",
+          "76743fd2-648d-4105-aec7-1262ef8c76db"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

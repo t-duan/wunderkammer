@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35568,
+    "uuid": "49460d42-0969-5a32-8c50-716ef87d55f8",
+    "title": "Blick vom Schloss Friedenstein über Wasserkunst zum Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Blick vom Schloss Friedenstein über Wasserkunst zum Rathaus",
+        "en-US": "Blick vom Schloss Friedenstein über Wasserkunst zum Rathaus"
+      },
+      "period": {
+        "de-DE": [
+          "07.06.1983"
+        ],
+        "en-US": [
+          "07.06.1983"
+        ]
+      },
+      "creator": [
+        "Ernst Prause"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.5 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.5 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055430%2F871347_00248315_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55603"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c7f02363e75809e97a6d484418ef8eb1b163a371",
+      "title": "Blick vom Schloss Friedenstein über Wasserkunst zum Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.753Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "625E151CBE05492CBDE73ADACD00FDA8"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

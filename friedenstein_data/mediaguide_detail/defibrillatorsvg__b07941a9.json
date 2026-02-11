@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6326,
+    "uuid": "b07941a9-da29-46c2-a330-1ee678770d69",
+    "title": "defibrillator.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/b07941a9-da29-46c2-a330-1ee678770d69/defibrillator.svg",
+      "file_name": "defibrillator.svg",
+      "file_size": 2538,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "f6cb7b80a9f21712ea63a42cc8cc9929f0bc0282",
+      "title": "defibrillator.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

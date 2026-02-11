@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35520,
+    "uuid": "8bfe72c1-3706-50e3-96fe-9ba40de9dca0",
+    "title": "Hauptmarkt",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt",
+        "en-US": "Hauptmarkt"
+      },
+      "period": {
+        "de-DE": [
+          "1895"
+        ],
+        "en-US": [
+          "1895"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 12.5 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 12.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01037881%2F871347_00248663_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "45106"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b09bceb61210e3bdd05f03da03c7eee113f0ccd0",
+      "title": "Hauptmarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.274Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "A5E14C8628E44FE7B12EF5B2164FF02C"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

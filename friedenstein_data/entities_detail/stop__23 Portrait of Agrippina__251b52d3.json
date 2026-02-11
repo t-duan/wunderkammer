@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080148,
+    "uuid": "251b52d3-055a-41a9-9918-c3a784fdb054",
+    "title": "23 Portrait of Agrippina",
+    "content": {
+      "image": "185372d2-b1f0-42fa-aaed-22df1181aaa7",
+      "title": {
+        "de-DE": "Portrait der Agrippina",
+        "en-US": "Portrait of Agrippina"
+      },
+      "preview": false,
+      "stopnumber": 123,
+      "primary_segment": "23843db7-7361-4003-9581-dc589a6150a0",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6c1aa6a46e5bf250345f6dbb2143dc01cf4f2e6f",
+      "title": "23 Portrait of Agrippina",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:02:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "185372d2-b1f0-42fa-aaed-22df1181aaa7"
+        ],
+        "audio_segment": [
+          "23843db7-7361-4003-9581-dc589a6150a0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

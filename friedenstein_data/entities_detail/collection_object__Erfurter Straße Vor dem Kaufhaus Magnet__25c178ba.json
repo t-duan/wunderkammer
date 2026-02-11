@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35409,
+    "uuid": "25c178ba-a975-5ba6-8e9c-679acb229f88",
+    "title": "Erfurter Straße, Vor dem Kaufhaus \"Magnet\"",
+    "content": {
+      "title": {
+        "de-DE": "Erfurter Straße, Vor dem Kaufhaus \"Magnet\"",
+        "en-US": "Erfurter Straße, Vor dem Kaufhaus \"Magnet\""
+      },
+      "period": {
+        "de-DE": [
+          "Juni 1982"
+        ],
+        "en-US": [
+          "Juni 1982"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970443%2F871347_00247811_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "26461"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1827e94882cc91760c4b2c9d93cc15beea010838",
+      "title": "Erfurter Straße, Vor dem Kaufhaus \"Magnet\"",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.369Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "201C1011A730492CA897989091B5B188"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

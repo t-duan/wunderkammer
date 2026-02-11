@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080025,
+    "uuid": "e45cceb4-6671-48f1-9e6b-fc11866bc5de",
+    "title": "41 Böttger Stoneware",
+    "content": {
+      "title": {
+        "de-DE": "41 Böttger Stoneware",
+        "en-US": "41 Böttger Stoneware"
+      },
+      "audiofile": {
+        "de-DE": "bf44ee1f-153a-484e-be07-20d2bf3da9c3",
+        "en-US": "8e048dcf-9f27-4023-8f48-1612345a3d59"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a2e29221425482b49acfdbab3ed50e41c386db6a",
+      "title": "41 Böttger Stoneware",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:36:44.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8e048dcf-9f27-4023-8f48-1612345a3d59",
+          "bf44ee1f-153a-484e-be07-20d2bf3da9c3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

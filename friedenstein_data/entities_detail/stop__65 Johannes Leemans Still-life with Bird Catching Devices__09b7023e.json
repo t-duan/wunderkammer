@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079878,
+    "uuid": "09b7023e-998e-46ac-a3e5-e6a88aeea3b3",
+    "title": "65 Johannes Leemans: Still-life with Bird Catching Devices",
+    "content": {
+      "image": "4705ae61-112b-4c30-9590-26fb3f86b30a",
+      "title": {
+        "de-DE": "Johannes Leemans: Vogelfangstillleben",
+        "en-US": "Johannes Leemans: Still-life with Bird Catching Devices"
+      },
+      "preview": false,
+      "stopnumber": 165,
+      "primary_segment": "6e9e63d5-f1c8-462f-94c4-d09fe42c049f",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "801c078e4a9d83f3bc5baa7ea6979d0ea7c7f60d",
+      "title": "65 Johannes Leemans: Still-life with Bird Catching Devices",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:13:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4705ae61-112b-4c30-9590-26fb3f86b30a"
+        ],
+        "audio_segment": [
+          "6e9e63d5-f1c8-462f-94c4-d09fe42c049f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

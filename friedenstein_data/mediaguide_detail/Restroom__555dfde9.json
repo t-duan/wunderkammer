@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070696,
+    "uuid": "555dfde9-e992-44f8-b5e3-cc7c8e9ec87f",
+    "title": "Restroom",
+    "content": {
+      "key": "restroom",
+      "icon": "956633eb-09aa-48b3-853b-15abc2524e79",
+      "label": {
+        "ar-AE": "دورة المياه",
+        "ar-SA": "دورة المياه",
+        "de-DE": "Toilette",
+        "en-GB": "Restroom",
+        "en-US": "Restroom",
+        "es-ES": "Aseo",
+        "fa-IR": "سرویس بهداشتی",
+        "fr-FR": "Toilettes",
+        "it-IT": "Servizi igienici",
+        "ja-JP": "トイレ",
+        "nl-NL": "Toilet",
+        "zh-CN": "洗手间",
+        "nl-NL-AD": "Toilet",
+        "nl-NL-sl": "Toilet"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c498689a600a4f02935b8253d37ac8e34d1e9933",
+      "title": "Restroom",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:52:49.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "956633eb-09aa-48b3-853b-15abc2524e79"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

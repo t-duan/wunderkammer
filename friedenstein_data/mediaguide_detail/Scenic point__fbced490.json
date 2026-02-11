@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070621,
+    "uuid": "fbced490-07e4-49a8-97af-0f717cd6b265",
+    "title": "Scenic point",
+    "content": {
+      "key": "scenic_point",
+      "icon": "ed4fe649-98f5-41f9-9efc-4aa6e7972967",
+      "label": {
+        "ar-AE": " نقطة منظر",
+        "ar-SA": " نقطة منظر",
+        "de-DE": "Aussichtspunkt",
+        "en-GB": "Scenic point",
+        "en-US": "Scenic point",
+        "es-ES": "Mirador",
+        "fa-IR": "نقطه دید",
+        "fr-FR": "Point de vue",
+        "it-IT": "Punto panoramico",
+        "ja-JP": "展望スポット",
+        "nl-NL": "Uitkijkpunt",
+        "zh-CN": "观景点",
+        "nl-NL-AD": "Uitkijkpunt",
+        "nl-NL-sl": "Uitkijkpunt"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "cabf8ef68d8896ec74321f39d887eb4eeea4802b",
+      "title": "Scenic point",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:54:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "ed4fe649-98f5-41f9-9efc-4aa6e7972967"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

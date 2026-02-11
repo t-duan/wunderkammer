@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6300,
+    "uuid": "398771c9-cf17-4e03-a365-1731480954c0",
+    "title": "train.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/398771c9-cf17-4e03-a365-1731480954c0/train.svg",
+      "file_name": "train.svg",
+      "file_size": 2691,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "82eedc27e9c1cb239c7eb00366b7d4b630533a1a",
+      "title": "train.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:40.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080427,
+    "uuid": "a99cb6c9-b935-4c4e-b9aa-4f7993c32bc2",
+    "title": "24 The Electoral Prince, John Frederick of Saxony’s Bootn",
+    "content": {
+      "image": "c6397090-4f19-441d-a4a9-e71f26d6bab4",
+      "title": {
+        "de-DE": "Stiefel des Kurfürsten Johann Friedrich v. Sachsen",
+        "en-US": "The Electoral Prince, John Frederick of Saxony’s Boot"
+      },
+      "preview": false,
+      "stopnumber": 24,
+      "primary_segment": "faa4cdf2-cade-4955-bb0a-b1b4e764880a",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7827a2de7eea7fb12dddfba4dc78ab19204ada9d",
+      "title": "24 The Electoral Prince, John Frederick of Saxony’s Bootn",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:00:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c6397090-4f19-441d-a4a9-e71f26d6bab4"
+        ],
+        "audio_segment": [
+          "faa4cdf2-cade-4955-bb0a-b1b4e764880a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

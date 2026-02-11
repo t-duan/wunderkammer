@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071206,
+    "uuid": "5d198144-65ab-4b9f-b431-6d1bfa1d5268",
+    "title": "3D",
+    "content": {
+      "key": "3d",
+      "icon": "3a9d7740-f8a7-46b8-994a-718e1603f9e3",
+      "label": {
+        "ar-AE": "3D",
+        "ar-SA": "3D",
+        "de-DE": "3D",
+        "en-GB": "3D",
+        "en-US": "3D",
+        "es-ES": "3D",
+        "fa-IR": "سه بعدی",
+        "fr-FR": "3D",
+        "it-IT": "3D",
+        "ja-JP": "3D",
+        "nl-NL": "3D",
+        "zh-CN": "3D",
+        "nl-NL-AD": "3D",
+        "nl-NL-sl": "3D"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8484878ab22ebdcb49d1bf8d14a76783d7c6d0c7",
+      "title": "3D",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:42:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3a9d7740-f8a7-46b8-994a-718e1603f9e3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

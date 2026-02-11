@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2080100,
+    "uuid": "91a55936-b9db-4e19-be04-335855f91853",
+    "title": "Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      },
+      "comments": [
+        {
+          "id": "b1f4d0b8-11ae-4208-ba7e-9df45a3f5f68",
+          "date": "2025-04-23",
+          "text": {
+            "de-DE": "Ein sehr schöner Ort. "
+          },
+          "blockName": "Doreen",
+          "blockType": "comment"
+        }
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "94674e8d553b6f4bccd05fcbaa66feba1ea1509a",
+      "title": "Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:12:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

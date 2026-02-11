@@ -1,0 +1,145 @@
+[
+  {
+    "id": 2080607,
+    "uuid": "8c16b78c-75c9-473e-a2af-e31c59e43491",
+    "title": "Innungshalle/Handelsschule",
+    "content": {
+      "title": {
+        "de-DE": "Innungshalle/Handelsschule",
+        "en-US": "Guild Hall and Trade School"
+      },
+      "audiofile": {
+        "de-DE": "e3c4ee03-bffc-49ac-b639-5db384827f98",
+        "en-US": "832e0ffb-30bb-493a-b96b-8b67a735d6d9"
+      },
+      "timed_images": [
+        {
+          "id": "d2e7607d-974d-41bf-aaf9-88909dc4be56",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Innungshalle1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "05352d88-e36d-58f5-a447-c966a5e8618d"
+        },
+        {
+          "id": "d10e4415-c946-4ddb-8c9d-e46b0799a962",
+          "hide_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image Innungshalle2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1d205129-4cf3-5b81-b220-36c31a9b1f04"
+        },
+        {
+          "id": "a4eca091-0c1f-4565-a573-b0be66bfddb2",
+          "hide_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "show_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "blockName": "Timed image Innungshalle3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1da0801c-9654-5e73-b7d2-6a9f71cfa1cd"
+        },
+        {
+          "id": "11db4d52-92b8-41a2-9856-5a7817891e6c",
+          "hide_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "show_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "blockName": "Timed image Innungshalle4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "eb9258be-ef76-5e61-abdb-348d499e833b"
+        },
+        {
+          "id": "bb4840bc-5847-4ca6-a862-eb632149c8a3",
+          "hide_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "show_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "blockName": "Timed image Innungshalle5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "28cbc701-e5f1-50d0-a81a-c37b187b6180"
+        },
+        {
+          "id": "58c36739-3dcc-43bb-85c9-19b1bc5c3824",
+          "hide_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "show_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "blockName": "Timed image Innungshalle6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "efc688b0-74fa-55a1-a85a-5f92402c592a"
+        },
+        {
+          "id": "204791ad-b441-4729-80bd-ebd9a51baaf4",
+          "hide_at": {
+            "de-DE": 64,
+            "en-US": 64
+          },
+          "show_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "blockName": "Timed image Innungshalle7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "d137675d-b775-53ef-8edc-3098ab85ba34"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Hier, am Rande des Marktplatzes, steht ein Gebäude, das über Jahrhunderte hinweg Zentrum des Handels, der Bildung und der Gemeinschaft war. Die Innungshalle, einst der Treffpunkt der Kaufmannsgilden, trägt noch immer die Spuren ihrer bewegten Vergangenheit.\"\n\n\"Im Mittelalter war dies der Ort, an dem Handwerker zusammenkamen, um ihre Rechte zu verteidigen, Waren zu handeln und ihr Wissen weiterzugeben. Das ursprüngliche Gebäude, ein romanisches Steinhaus, wurde später zum ersten Rathaus der Stadt. Doch wie so viele Orte in Gotha blieb auch dieses nicht von Katastrophen verschont… Der große Stadtbrand von 1665 zerstörte es vollständig.\"\n\n\"Aus den Trümmern entstand ein neues Gebäude, das als Theater, Hochzeitsstätte und sogar als Gefängnis diente. Doch die wohl bedeutendste Veränderung kam im Jahr 1818, als hier die erste deutsche Handelsschule gegründet wurde – eine revolutionäre Idee in einer Zeit, in der eine formale kaufmännische Ausbildung kaum existierte. Kaufmannssöhne und angehende Händler lernten hier die Grundlagen ihres Fachs, während Gotha sich zu einem Zentrum des Handels und der Versicherungen entwickelte.\"\n\n\"Und werfen Sie einmal einen Blick auf die Fassade… Sehen Sie die Figur in der Mitte? Das ist der 'liebe Augustin', ein Mann, der in schweren Zeiten Brot an die Kinder Gothas verteilte. Ein Symbol für Fürsorge und Gemeinschaft – Werte, die auch hier in diesen Mauern eine zentrale Rolle spielten.\"\n\n\"Heute erinnern nur noch die Mauern und Fassaden an diese lebendige Geschichte. Doch wenn Sie genau hinhören, können Sie vielleicht noch das Echo der Kaufleute, Lehrer und Schüler vernehmen, die hier einst ihre Zukunft gestalteten.\"",
+        "en-US": "\"Here, at the edge of the marketplace, stands a building that has been at the center of trade, education, and community for centuries. The Guild Hall, once the meeting place of merchant guilds, still bears the traces of its rich past.\"\n\n\"In the Middle Ages, this was where craftsmen gathered to defend their rights, trade goods, and pass on their knowledge. The original building, a Romanesque stone house, later became the city's first town hall. But like many places in Gotha, it was not spared from disaster… The great city fire of 1665 reduced it to ashes.\"\n\n\"From the ruins rose a new building, which served various purposes over the years – a theater, a wedding venue, and even a prison. But its most significant transformation came in 1818, when the first German trade school was founded here – a revolutionary idea in a time when formal commercial education was rare. Sons of merchants and aspiring traders learned the foundations of their craft here, while Gotha established itself as a center for trade and insurance.\"\n\n\"And take a moment to look at the facade… Do you see the figure in the center? That is ‘Dear Augustin,’ a man known for distributing bread to the children of Gotha in difficult times. A symbol of care and community – values that have always been at the heart of this building.\"\n\n\"Today, only the walls and facade remind us of this vibrant past. But if you listen closely, you might still hear the echoes of merchants, teachers, and students shaping their futures within these very walls.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "464e704b291a0af7c982e9ce99f33f546473294f",
+      "title": "Innungshalle/Handelsschule",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-17T12:29:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "832e0ffb-30bb-493a-b96b-8b67a735d6d9",
+          "e3c4ee03-bffc-49ac-b639-5db384827f98"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

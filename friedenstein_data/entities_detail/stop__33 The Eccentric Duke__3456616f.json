@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080379,
+    "uuid": "3456616f-e875-4ee0-a0bb-41beb92f2b68",
+    "title": "33 The Eccentric Duke",
+    "content": {
+      "image": "c755878c-fa76-4557-a94d-5b3d7d941025",
+      "title": {
+        "de-DE": "Exkurs: Der exzentrische Herzog",
+        "en-US": "The Eccentric Duke"
+      },
+      "preview": false,
+      "stopnumber": 33,
+      "primary_segment": "52a4e62d-f40a-4ce0-ae40-d66ac0345e8d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8aeae758eea336590e475b0f0bc90e84242da7f2",
+      "title": "33 The Eccentric Duke",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:14:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c755878c-fa76-4557-a94d-5b3d7d941025"
+        ],
+        "audio_segment": [
+          "52a4e62d-f40a-4ce0-ae40-d66ac0345e8d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

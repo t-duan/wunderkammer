@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079803,
+    "uuid": "2fce66ac-feb1-47bb-8a27-d3886e1a2cde",
+    "title": "78 Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "78 Cabinet",
+        "en-US": "78 Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "e77a18ff-35da-4957-97bc-385d28a11db7",
+        "en-US": "c6d4c39c-6701-4057-bb66-46c3c2c945fa"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "69dd75d44af489b7db4fad51d65b7bd582fc96c5",
+      "title": "78 Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:45:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c6d4c39c-6701-4057-bb66-46c3c2c945fa",
+          "e77a18ff-35da-4957-97bc-385d28a11db7"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

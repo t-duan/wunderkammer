@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35412,
+    "uuid": "3484db8b-235d-519d-8832-2c3139e07d6c",
+    "title": "Ekhof-Platz, Blick auf das Hof- und Landestheater",
+    "content": {
+      "title": {
+        "de-DE": "Ekhof-Platz, Blick auf das Hof- und Landestheater",
+        "en-US": "Ekhof-Platz, Blick auf das Hof- und Landestheater"
+      },
+      "period": {
+        "de-DE": [
+          "um 1935"
+        ],
+        "en-US": [
+          "um 1935"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.5 cm",
+          "Breite 13.5 cm"
+        ],
+        "en-US": [
+          "Höhe 8.5 cm",
+          "Breite 13.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01073382%2F871347_00276084_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "26532"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7d5d06e91a54e2e1285e4f18573522e65c73711e",
+      "title": "Ekhof-Platz, Blick auf das Hof- und Landestheater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.341Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "FB299ADEE9DF43D0A1B18C55F9E036A8"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

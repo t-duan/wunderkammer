@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080106,
+    "uuid": "205fda63-490c-4701-9ea7-e9d2bfb5446a",
+    "title": "Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7c6fba1b8bbf9fd489eb65e5c1f2931876ea01a7",
+      "title": "Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:10:57.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

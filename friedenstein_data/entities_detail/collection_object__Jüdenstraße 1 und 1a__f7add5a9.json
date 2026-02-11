@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35490,
+    "uuid": "f7add5a9-9076-5211-8382-aec96c7efe11",
+    "title": "Jüdenstraße 1 und 1a",
+    "content": {
+      "title": {
+        "de-DE": "Jüdenstraße 1 und 1a",
+        "en-US": "Jüdenstraße 1 und 1a"
+      },
+      "period": {
+        "de-DE": [
+          "22.08.1992"
+        ],
+        "en-US": [
+          "22.08.1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01033361%2F871347_00223916_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42309"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "45787866d22c0962c091182c463121a0681567ab",
+      "title": "Jüdenstraße 1 und 1a",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.587Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "0973AFDA50494C8DB542B924BC9666F5"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35487,
+    "uuid": "f561a980-a837-51cb-b0e5-f556830edf2d",
+    "title": "Neumarkt - Häuser der Südseite",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt - Häuser der Südseite",
+        "en-US": "Neumarkt - Häuser der Südseite"
+      },
+      "period": {
+        "de-DE": [
+          "August 1992"
+        ],
+        "en-US": [
+          "August 1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040251%2F871347_00251076_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42292"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "28141a5d8e617958ee8f16e7d48c65518a25bb3b",
+      "title": "Neumarkt - Häuser der Südseite",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.616Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "AEBEBD91C0B5463F9D8EEF56E64FB10B"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

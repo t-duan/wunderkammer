@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22228,
+    "uuid": "f66f28e5-1962-447b-9c7e-0a7eb67df089",
+    "title": "Cas_22 ENG Double Sided Bowl Sleeping Venus.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/f66f28e5-1962-447b-9c7e-0a7eb67df089/Cas_22%20ENG%20Double%20Sided%20Bowl%20Sleeping%20Venus.mp3",
+      "file_name": "Cas_22 ENG Double Sided Bowl Sleeping Venus.mp3",
+      "file_size": 1360499,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "4f17ec760231b671ac7301818162261d1d4913b7",
+      "title": "Cas_22 ENG Double Sided Bowl Sleeping Venus.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:28.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

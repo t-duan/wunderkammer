@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080097,
+    "uuid": "87916421-6189-4e7a-a279-19d025facdc5",
+    "title": "30 Cupola Room and Bronze Statue of Ernest II.",
+    "content": {
+      "title": {
+        "de-DE": "30 Cupola Room and Bronze Statue of Ernest II.",
+        "en-US": "30 Cupola Room and Bronze Statue of Ernest II."
+      },
+      "audiofile": {
+        "de-DE": "e515364e-7479-4ab2-b786-934acba21477",
+        "en-US": "803e9dfd-15d6-4895-be66-89ac0f4d3e46"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "45055fdda0fbe724e3d238e98658a76501830152",
+      "title": "30 Cupola Room and Bronze Statue of Ernest II.",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:12:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "803e9dfd-15d6-4895-be66-89ac0f4d3e46",
+          "e515364e-7479-4ab2-b786-934acba21477"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

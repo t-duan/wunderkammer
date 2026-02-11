@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35463,
+    "uuid": "57a1b6ec-0b24-5dd1-b8bd-2fc89cae9ba1",
+    "title": "Blick auf die Vorderansicht des Schlosses mit Pagen und Wachthaus",
+    "content": {
+      "title": {
+        "de-DE": "Blick auf die Vorderansicht des Schlosses mit Pagen und Wachthaus",
+        "en-US": "Blick auf die Vorderansicht des Schlosses mit Pagen und Wachthaus"
+      },
+      "period": {
+        "de-DE": [
+          "um 1920"
+        ],
+        "en-US": [
+          "um 1920"
+        ]
+      },
+      "creator": [
+        "Hans-Georg Bräunlich"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 11.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040435%2F871347_00251292_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "39806"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "33ed178976cf0a96701b56075de4d82357920b29",
+      "title": "Blick auf die Vorderansicht des Schlosses mit Pagen und Wachthaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.841Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "FC27B0D9C215491F843C90386A172EA1"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080385,
+    "uuid": "1298c75d-8874-4315-8232-2cb2e3db2b36",
+    "title": "32 The Duchess’s Reception Room",
+    "content": {
+      "image": "a39381dc-08f5-49e0-97b0-2df7c669dbff",
+      "title": {
+        "de-DE": "Audienzzimmer der Herzogin",
+        "en-US": "The Duchess’s Reception Room"
+      },
+      "preview": false,
+      "stopnumber": 32,
+      "primary_segment": "e31f3516-244c-4aa1-a314-183fec8b5fb8",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "02f4c89983c9f05d34826243003c72d5059e8076",
+      "title": "32 The Duchess’s Reception Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:12:56.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "a39381dc-08f5-49e0-97b0-2df7c669dbff"
+        ],
+        "audio_segment": [
+          "e31f3516-244c-4aa1-a314-183fec8b5fb8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

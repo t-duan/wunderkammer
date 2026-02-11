@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6336,
+    "uuid": "6999a98b-5273-459e-946d-852b185809de",
+    "title": "audio.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/6999a98b-5273-459e-946d-852b185809de/audio.svg",
+      "file_name": "audio.svg",
+      "file_size": 1206,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "82e106d013a5e0d1d67f88f467adf4bcc22e38c2",
+      "title": "audio.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:28.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

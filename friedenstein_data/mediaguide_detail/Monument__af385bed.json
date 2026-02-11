@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070831,
+    "uuid": "af385bed-ee8d-4301-b72f-737a184dd06e",
+    "title": "Monument",
+    "content": {
+      "key": "monument",
+      "icon": "94a5cd5a-0c9d-40fb-820a-5b2d2bf21851",
+      "label": {
+        "ar-AE": "النصب التذكاري",
+        "ar-SA": "النصب التذكاري",
+        "de-DE": "Monument",
+        "en-GB": "Monument",
+        "en-US": "Monument",
+        "es-ES": "Monumento",
+        "fa-IR": "بنای یادبود",
+        "fr-FR": "Monument",
+        "it-IT": "Monumento",
+        "ja-JP": "モニュメント",
+        "nl-NL": "Monument",
+        "zh-CN": "纪念碑",
+        "nl-NL-AD": "Monument",
+        "nl-NL-sl": "Monument"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7edea657f29940d435f169b254dc48fbd94e5e89",
+      "title": "Monument",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:48:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "94a5cd5a-0c9d-40fb-820a-5b2d2bf21851"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

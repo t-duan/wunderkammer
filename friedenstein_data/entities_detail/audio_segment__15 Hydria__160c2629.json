@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080220,
+    "uuid": "160c2629-60ec-4e3a-bd87-98fa8d620701",
+    "title": "15 Hydria",
+    "content": {
+      "title": {
+        "de-DE": "15 Hydria",
+        "en-US": "15 Hydria"
+      },
+      "audiofile": {
+        "de-DE": "a99a5c26-b783-4cf0-8520-655fd875806c",
+        "en-US": "99e4b6ec-4c99-4a23-bde9-39eb603c0f28"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "00fe9d3875d71b5448c65518e6f41fe55507cf17",
+      "title": "15 Hydria",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T15:01:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "99e4b6ec-4c99-4a23-bde9-39eb603c0f28",
+          "a99a5c26-b783-4cf0-8520-655fd875806c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

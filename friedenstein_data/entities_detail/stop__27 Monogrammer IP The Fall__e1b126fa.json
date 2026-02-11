@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080409,
+    "uuid": "e1b126fa-bf25-4be3-b2d6-f086561a1fcc",
+    "title": "27 Monogrammer IP: The Fall",
+    "content": {
+      "image": "6f7d6020-1c67-45d8-9edb-40b8bbcceef4",
+      "title": {
+        "de-DE": "Monogrammist IP: Der Sündenfall",
+        "en-US": "Monogrammer IP: The Fall"
+      },
+      "preview": false,
+      "stopnumber": 27,
+      "primary_segment": "9b6749c6-9c81-45a7-a759-2524e01fdc62",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6e75851cf18e38df076a2861156c48d555c33bbf",
+      "title": "27 Monogrammer IP: The Fall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:06:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6f7d6020-1c67-45d8-9edb-40b8bbcceef4"
+        ],
+        "audio_segment": [
+          "9b6749c6-9c81-45a7-a759-2524e01fdc62"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

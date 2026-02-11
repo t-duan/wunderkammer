@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079851,
+    "uuid": "9be1f39d-cccd-485a-ab62-27ced51dacf3",
+    "title": "70 Lion with Cubs, Jade",
+    "content": {
+      "title": {
+        "de-DE": "70 Lion with Cubs, Jade",
+        "en-US": "70 Lion with Cubs, Jade"
+      },
+      "audiofile": {
+        "de-DE": "011f8863-349d-48a6-be9e-94a00c64b69e",
+        "en-US": "fa983913-e01c-42fc-ae2f-896f8dff4010"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3911cae5b9e7d4fc0791a6b5fd2d6f291309f415",
+      "title": "70 Lion with Cubs, Jade",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:31:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "011f8863-349d-48a6-be9e-94a00c64b69e",
+          "fa983913-e01c-42fc-ae2f-896f8dff4010"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

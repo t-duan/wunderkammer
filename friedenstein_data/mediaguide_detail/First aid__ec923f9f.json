@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070951,
+    "uuid": "ec923f9f-bd09-4c7d-a2bb-941619b7fbf0",
+    "title": "First aid",
+    "content": {
+      "key": "first_aid",
+      "icon": "4ee0ae8a-f902-47dc-b0c4-0eb06c0ebb80",
+      "label": {
+        "ar-AE": "الإسعافات الأولية",
+        "ar-SA": "الإسعافات الأولية",
+        "de-DE": "Erste Hilfe",
+        "en-GB": "First aid",
+        "en-US": "First aid",
+        "es-ES": "Primeros Auxilios",
+        "fa-IR": " کمک‌های اولیه ",
+        "fr-FR": "Premiers Secours",
+        "it-IT": "Primo Soccorso",
+        "ja-JP": "応急処置 ",
+        "nl-NL": "EHBO",
+        "zh-CN": "急救",
+        "nl-NL-AD": "EHBO",
+        "nl-NL-sl": "EHBO"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "02e1cae0d5c77ba232a648917307d39ab2743c9d",
+      "title": "First aid",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:46:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4ee0ae8a-f902-47dc-b0c4-0eb06c0ebb80"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

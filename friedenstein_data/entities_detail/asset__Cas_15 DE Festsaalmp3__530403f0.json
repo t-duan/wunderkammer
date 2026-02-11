@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22274,
+    "uuid": "530403f0-8b20-4940-8b19-9c5a201a0ead",
+    "title": "Cas_15 DE Festsaal.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/530403f0-8b20-4940-8b19-9c5a201a0ead/Cas_15%20DE%20Festsaal.mp3",
+      "file_name": "Cas_15 DE Festsaal.mp3",
+      "file_size": 2409043,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "efbc47506d8a5cefbabbc83e1e53e582b1453f05",
+      "title": "Cas_15 DE Festsaal.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

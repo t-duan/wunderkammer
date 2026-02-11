@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22224,
+    "uuid": "62bd1ca2-608c-4d3e-95ca-1d7e9d83ba68",
+    "title": "Cas_24 ENG John Frederick Boot.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/62bd1ca2-608c-4d3e-95ca-1d7e9d83ba68/Cas_24%20ENG%20John%20Frederick%20Boot.mp3",
+      "file_name": "Cas_24 ENG John Frederick Boot.mp3",
+      "file_size": 1768007,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "763b450a6597bf266e776ac8eceb62e049b3ae99",
+      "title": "Cas_24 ENG John Frederick Boot.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

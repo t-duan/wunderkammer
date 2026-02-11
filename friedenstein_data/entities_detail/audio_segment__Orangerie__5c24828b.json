@@ -1,0 +1,145 @@
+[
+  {
+    "id": 2080634,
+    "uuid": "5c24828b-63b8-4843-a8f4-bd0af30ddd25",
+    "title": "Orangerie",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie",
+        "en-US": "Orangerie"
+      },
+      "audiofile": {
+        "de-DE": "8d7b6aca-4b3c-4bf5-aec5-892140173ac4",
+        "en-US": "4c3691d1-a1f4-4700-a4c5-912e5b938693"
+      },
+      "timed_images": [
+        {
+          "id": "0172aad9-155a-49eb-89e7-7acfce4243e6",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image orangerie 1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "166a0fe7-b200-50f8-a360-9f5e2e9b2628"
+        },
+        {
+          "id": "4d05443c-262d-415d-8f25-0c7b3f524573",
+          "hide_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image orangerie 2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "87a63858-ca89-5822-83d8-68f099f3d2b9"
+        },
+        {
+          "id": "3185743b-5e23-42f4-a8ae-dc08eb4f3f69",
+          "hide_at": {
+            "de-DE": 33,
+            "en-US": 33
+          },
+          "show_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "blockName": "Timed image orangerie 3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "b02a855e-c943-5a6f-94d2-1cb6d0ef81ca"
+        },
+        {
+          "id": "016496e1-1d8f-45a2-a0d5-65c0c6a83c17",
+          "hide_at": {
+            "de-DE": 41,
+            "en-US": 41
+          },
+          "show_at": {
+            "de-DE": 33,
+            "en-US": 33
+          },
+          "blockName": "Timed image orangerie 4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "b2721d90-1523-5081-8b8d-1329ce7795a8"
+        },
+        {
+          "id": "19d3db6a-b334-4f39-a5bf-c5c526c9f462",
+          "hide_at": {
+            "de-DE": 27,
+            "en-US": 27
+          },
+          "show_at": {
+            "de-DE": 21,
+            "en-US": 21
+          },
+          "blockName": "Timed image orangerie 4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "6647bcfa-1f60-5d6c-8b3a-2022545c605e"
+        },
+        {
+          "id": "2672ee2a-4317-494f-b9a8-0351ff583f37",
+          "hide_at": {
+            "de-DE": 50,
+            "en-US": 50
+          },
+          "show_at": {
+            "de-DE": 41,
+            "en-US": 41
+          },
+          "blockName": "Timed image orangerie 5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "b02a855e-c943-5a6f-94d2-1cb6d0ef81ca"
+        },
+        {
+          "id": "36f117b0-f906-4a6e-ae58-112b30e87363",
+          "hide_at": {
+            "de-DE": 65,
+            "en-US": 65
+          },
+          "show_at": {
+            "de-DE": 58,
+            "en-US": 58
+          },
+          "blockName": "Timed image orangerie 8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "b02a855e-c943-5a6f-94d2-1cb6d0ef81ca"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Stellen Sie sich eine Zeit vor ohne Elektrizität, ohne moderne Heizsysteme. Eine Zeit, in der Fürsten und Adelige die winterliche Kälte in ihren steinernen Schlössern ertrugen. Und doch… hier in der Orangerie von Gotha blühten Zitronen- und Orangenbäume – selbst in den kältesten Wintern.\"\n\n\"Die Orangerie wurde im 18. Jahrhundert errichtet, als exotische Pflanzen nicht nur ein Luxus, sondern ein Statussymbol waren. Herzog Friedrich III. ließ diese beeindruckende barocke Gartenanlage zwischen 1747 und 1774 erbauen – ein Ort, an dem seltene Gewächse aus fernen Ländern gedeihen konnten.\"\n\n\"In ihrer Blütezeit standen hier zahlreiche Pflanzkübel mit duftenden Zitrusbäumen, Feigen und Lorbeer. Im Sommer schmückten sie die Gärten von Schloss Friedenstein, doch sobald der Herbst nahte, wurden sie sorgsam ins imposante Orangenhaus zurückgebracht – ein Palast für Pflanzen, der selbst ein Kunstwerk war.\"\n\n\"Doch der Krieg veränderte alles. Ein Teil der Orangerie wurde durch Bomben schwer beschädigt. Der südliche Bereich wurde nie wieder aufgebaut. In der DDR erhielt der Ort eine neue Funktion – nicht länger ein exklusiver Rückzugsort für den Adel, sondern ein Platz für das Volk. Hier wurde gefeiert, getanzt und getrunken – in denselben Räumen, in denen einst seltene Pflanzen wuchsen. Die Bar und der Tanzsaal im Orangenhaus boten eine willkommene Ablenkung vom Alltag der sozialistischen Republik. \"\n\n\"Heute ist die Orangerie wieder ein Ort der Begegnung. Der Duft von Orangen- und Zitronenbäumen ist weitgehend verschwunden. Kunst, Kultur und wechselnde Ausstellungen füllen nun die Räume, in denen einst die exotische Flora Gothas stand.\"\n\n\"Schauen Sie sich um und stellen Sie sich vor, wie es hier einst war… wie im 18. Jahrhundert die Adligen durch die Gärten wandelten, wie die Mauern die Musik der DDR-Feste widerhallten. Was bleibt, ist ein Ort, an dem die Zeit ihre Spuren hinterlassen hat – ein Ort, an dem Natur, Geschichte und Menschen aufeinandertreffen.\"",
+        "en-US": "\"Imagine a time without electricity, without modern heating systems. A time when princes and nobility endured the winter cold in their stone castles. And yet… here in Gotha’s Orangerie, lemon and orange trees thrived – even in the harshest winters.\"\n\n\"The Orangerie was built in the 18th century when exotic plants were not just a luxury but a status symbol. Duke Friedrich III had this magnificent Baroque garden complex constructed between 1747 and 1774 – a place where rare plants from distant lands could flourish.\"\n\n\"In its prime, numerous plant tubs stood here, filled with fragrant citrus trees, figs, and laurels. In the summer, they adorned the gardens of Friedenstein Castle, but as autumn approached, they were carefully brought back into the grand Orangerie – a palace for plants, itself a work of art.\"\n\n\"But war changed everything. Part of the Orangerie was severely damaged by bombs. The southern section was never rebuilt. When Gotha was under the reign of East Germany, the place took on a new role – no longer an exclusive retreat for the nobility but a space for the people. Here, celebrations were held, people danced and drank – in the same halls where rare plants once grew. The bar and dance hall in the Orangerie provided a welcome escape from everyday socialist life.\"\n\n\"Today, the Orangerie is once again a place of gathering. The scent of orange and lemon trees has largely vanished. Art, culture, and temporary exhibitions now fill the halls where Gotha’s exotic flora once stood.\"\n\n\"Look around and imagine how it once was… how in the 18th century, nobles strolled through the gardens, how the walls echoed with the music of the East German DDR celebrations. What remains is a place marked by time – a place where nature, history, and people meet.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ce84e311a4587b121cd751b6d49df7c05eb9f27f",
+      "title": "Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T12:39:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4c3691d1-a1f4-4700-a4c5-912e5b938693",
+          "8d7b6aca-4b3c-4bf5-aec5-892140173ac4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

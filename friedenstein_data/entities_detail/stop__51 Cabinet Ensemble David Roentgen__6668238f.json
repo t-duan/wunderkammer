@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079962,
+    "uuid": "6668238f-1a12-4de4-95e1-4488611cd23e",
+    "title": "51 Cabinet Ensemble David Roentgen",
+    "content": {
+      "image": "c171a502-533e-4032-8bdb-6f08c317d1ee",
+      "title": {
+        "de-DE": "Kommodenensemble von David Roentgen",
+        "en-US": "Cabinet Ensemble David Roentgen"
+      },
+      "preview": false,
+      "stopnumber": 151,
+      "primary_segment": "7133579e-d176-4c75-8fd8-9f9b730eff8d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "22bc03dbfade968c514eb98bccb15de455bc9373",
+      "title": "51 Cabinet Ensemble David Roentgen",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:53:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c171a502-533e-4032-8bdb-6f08c317d1ee"
+        ],
+        "audio_segment": [
+          "7133579e-d176-4c75-8fd8-9f9b730eff8d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

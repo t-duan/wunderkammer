@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079890,
+    "uuid": "3e5abacb-4092-4a49-8c67-46cf88bfb6e5",
+    "title": "63 Peter Paul Rubens: St. Basilius",
+    "content": {
+      "image": "709cc1b5-0207-4131-bc86-68e7bb04bd28",
+      "title": {
+        "de-DE": "Peter Paul Rubens: St. Basilius",
+        "en-US": "Peter Paul Rubens: St. Basilius"
+      },
+      "preview": false,
+      "stopnumber": 163,
+      "primary_segment": "f70551ca-67d5-47b3-bd5e-ba012cb5657a",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "44717f870e4e4ee083d47ee7d961fd8f51c7fb68",
+      "title": "63 Peter Paul Rubens: St. Basilius",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:11:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "709cc1b5-0207-4131-bc86-68e7bb04bd28"
+        ],
+        "audio_segment": [
+          "f70551ca-67d5-47b3-bd5e-ba012cb5657a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

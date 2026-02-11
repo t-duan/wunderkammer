@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22331,
+    "uuid": "5a0cff75-736e-453e-a981-528d4bb6028c",
+    "title": "Gotha Town Hall - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/5a0cff75-736e-453e-a981-528d4bb6028c/Gotha%20Town%20Hall%20-%20EN.mp3",
+      "file_name": "Gotha Town Hall - EN.mp3",
+      "file_size": 4678283,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "30f9e203c7521572f9c852d40509f7497dc67b74",
+      "title": "Gotha Town Hall - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:34:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

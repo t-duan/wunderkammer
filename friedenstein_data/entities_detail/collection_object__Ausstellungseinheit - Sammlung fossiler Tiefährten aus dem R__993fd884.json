@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35619,
+    "uuid": "993fd884-7bd7-558d-a1e9-b196d046730f",
+    "title": "Ausstellungseinheit - Sammlung fossiler Tiefährten aus dem Rotliegenden",
+    "content": {
+      "title": {
+        "de-DE": "Ausstellungseinheit - Sammlung fossiler Tiefährten aus dem Rotliegenden",
+        "en-US": "Ausstellungseinheit - Sammlung fossiler Tiefährten aus dem Rotliegenden"
+      },
+      "period": {
+        "de-DE": [
+          "1890er Jahre"
+        ],
+        "en-US": [
+          "1890er Jahre"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Glas"
+        ],
+        "en-US": [
+          "Glas"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 12.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 12.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Negativ <Fotografie>"
+        ],
+        "en-US": [
+          "Negativ <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01072333%2F871347_00282008_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "871347_00282008"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8d914f53c6f99a6e85803051d0e383a553afc45a",
+      "title": "Ausstellungseinheit - Sammlung fossiler Tiefährten aus dem Rotliegenden",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.172Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "FCAFF99C5AA84BE1A8B5D7FD0CA87F8E"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

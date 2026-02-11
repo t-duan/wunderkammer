@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079923,
+    "uuid": "8e44aed8-650d-48fc-96c5-3e9279a0c99d",
+    "title": "58 Jan Josefz. van Goyen: Valkhof",
+    "content": {
+      "title": {
+        "de-DE": "58 Jan Josefz. van Goyen: Valkhof",
+        "en-US": "58 Jan Josefz. van Goyen: Valkhof"
+      },
+      "audiofile": {
+        "de-DE": "ebc7abdb-62a2-451e-9434-097355961c67",
+        "en-US": "6e458cb1-493d-4fc7-a6c1-00cbefc85845"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "16af8c30d5932761adf80f6d07d5612c836d72b4",
+      "title": "58 Jan Josefz. van Goyen: Valkhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:04:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6e458cb1-493d-4fc7-a6c1-00cbefc85845",
+          "ebc7abdb-62a2-451e-9434-097355961c67"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

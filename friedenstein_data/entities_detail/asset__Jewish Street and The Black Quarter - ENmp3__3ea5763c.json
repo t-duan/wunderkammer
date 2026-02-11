@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22336,
+    "uuid": "3ea5763c-e5f7-4921-9f65-ffe278471b99",
+    "title": "Jewish Street and The Black Quarter - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3ea5763c-e5f7-4921-9f65-ffe278471b99/Jewish%20Street%20and%20The%20Black%20Quarter%20-%20EN.mp3",
+      "file_name": "Jewish Street and The Black Quarter - EN.mp3",
+      "file_size": 4255883,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "36ed9f297c0e3a00e516a443f23a137007d9633b",
+      "title": "Jewish Street and The Black Quarter - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:28:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22231,
+    "uuid": "1089cf32-91bb-459a-85ac-755f8a8c9480",
+    "title": "Cas_19 ENG Rhinoceros Horn Beaker.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/1089cf32-91bb-459a-85ac-755f8a8c9480/Cas_19%20ENG%20Rhinoceros%20Horn%20Beaker.mp3",
+      "file_name": "Cas_19 ENG Rhinoceros Horn Beaker.mp3",
+      "file_size": 1750176,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "4abfe7e3f6a29412996bb74f1f36729fa6c28ac4",
+      "title": "Cas_19 ENG Rhinoceros Horn Beaker.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

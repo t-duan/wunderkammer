@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079956,
+    "uuid": "eca27de9-3bf6-46bc-a6be-f8672d9f96f0",
+    "title": "52 Majolica",
+    "content": {
+      "image": "b5a30f2b-7c9b-4d21-9f1a-05b533279925",
+      "title": {
+        "de-DE": "Majolika",
+        "en-US": "Majolica"
+      },
+      "preview": false,
+      "stopnumber": 152,
+      "primary_segment": "68f64dd3-2add-45cd-b579-59619df3a8e9",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "82feeede86c99d3b4ac0d2103bf678b70f6d964b",
+      "title": "52 Majolica",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:56:10.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b5a30f2b-7c9b-4d21-9f1a-05b533279925"
+        ],
+        "audio_segment": [
+          "68f64dd3-2add-45cd-b579-59619df3a8e9"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

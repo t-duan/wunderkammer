@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35628,
+    "uuid": "24ecc0b0-6e53-5735-ac93-3a31d6944484",
+    "title": "Gotha Hauptmarkt, Rathaus vor dem Vereinigungsparteitag von KPD und SPD zur SED",
+    "content": {
+      "title": {
+        "de-DE": "Gotha Hauptmarkt, Rathaus vor dem Vereinigungsparteitag von KPD und SPD zur SED",
+        "en-US": "Gotha Hauptmarkt, Rathaus vor dem Vereinigungsparteitag von KPD und SPD zur SED"
+      },
+      "period": {
+        "de-DE": [
+          "1946"
+        ],
+        "en-US": [
+          "1946"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.3 cm",
+          "Breite 17.3 cm"
+        ],
+        "en-US": [
+          "Höhe 12.3 cm",
+          "Breite 17.3 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00969761%2F871347_00247081_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "9820"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8d5a82644d6246bf7713233350b59ef398dc0d60",
+      "title": "Gotha Hauptmarkt, Rathaus vor dem Vereinigungsparteitag von KPD und SPD zur SED",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.055Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "CC1F7F072E27448EA8E8DD985BA1FAC4"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

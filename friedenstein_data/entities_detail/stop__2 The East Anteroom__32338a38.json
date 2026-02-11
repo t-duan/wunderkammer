@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080556,
+    "uuid": "32338a38-5e27-4c16-90d5-e57cd5fce883",
+    "title": "2 The East Anteroom",
+    "content": {
+      "image": "80c8d0c3-131b-46d0-be99-6a30c7c28f73",
+      "title": {
+        "de-DE": "Gardesaal",
+        "en-US": "The East Anteroom"
+      },
+      "preview": false,
+      "stopnumber": 2,
+      "primary_segment": "a3a33cf7-20ce-4f10-8962-b99043da336e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9fd149a9c050434f6df37f00ddf4b23fde4768b8",
+      "title": "2 The East Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:44:01.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "80c8d0c3-131b-46d0-be99-6a30c7c28f73"
+        ],
+        "audio_segment": [
+          "a3a33cf7-20ce-4f10-8962-b99043da336e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22214,
+    "uuid": "2277fe4b-adce-422a-a033-9cab4b29eeb2",
+    "title": "Cas_36 ENG Duchess Cabinet.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/2277fe4b-adce-422a-a033-9cab4b29eeb2/Cas_36%20ENG%20Duchess%20Cabinet.mp3",
+      "file_name": "Cas_36 ENG Duchess Cabinet.mp3",
+      "file_size": 2479223,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "b7f6dd92f45b08222696ee604b94b45ef15ffe02",
+      "title": "Cas_36 ENG Duchess Cabinet.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:35.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070981,
+    "uuid": "defcd538-19a8-402d-acba-3cf165a4c1d1",
+    "title": "Defibrillator",
+    "content": {
+      "key": "defibrillator",
+      "icon": "b07941a9-da29-46c2-a330-1ee678770d69",
+      "label": {
+        "ar-AE": "مزيل الرجفان",
+        "ar-SA": "مزيل الرجفان",
+        "de-DE": "Defibrillator",
+        "en-GB": "Defibrillator",
+        "en-US": "Defibrillator",
+        "es-ES": "Desfibrilador",
+        "fa-IR": "دفیبریلاتور",
+        "fr-FR": "Défibrillateur",
+        "it-IT": "Defibrillatore",
+        "ja-JP": "除細動器",
+        "nl-NL": "Defibrillator",
+        "zh-CN": "除颤器",
+        "nl-NL-AD": "Defibrillator",
+        "nl-NL-sl": "Defibrillator"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "37f636daf221bfb87d80f2019677a3f4918802f4",
+      "title": "Defibrillator",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:45:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b07941a9-da29-46c2-a330-1ee678770d69"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

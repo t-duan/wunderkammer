@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080484,
+    "uuid": "1eda4754-2f1e-4229-95b9-ac13c223dd25",
+    "title": "14 The Porcelain Cabinet",
+    "content": {
+      "image": "f2798a6b-262c-4fe9-8b14-d929872bcb97",
+      "title": {
+        "de-DE": "Porzellankabinett",
+        "en-US": "The Porcelain Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 14,
+      "primary_segment": "0fe16508-9c76-4653-9044-f98d555ced4b",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8ea4cc7e2e0026d046374ed04b9635df09081ad8",
+      "title": "14 The Porcelain Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:14:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "f2798a6b-262c-4fe9-8b14-d929872bcb97"
+        ],
+        "audio_segment": [
+          "0fe16508-9c76-4653-9044-f98d555ced4b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

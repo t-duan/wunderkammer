@@ -1,0 +1,215 @@
+[
+  {
+    "id": 2080613,
+    "uuid": "057ecbc3-b5e3-4b7a-800f-bc1be6753bb7",
+    "title": "Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Wasserkunst",
+        "en-US": "Water Art"
+      },
+      "audiofile": {
+        "de-DE": "519240f4-d21e-413a-adee-5579e57208cf",
+        "en-US": "f4099850-0291-4f10-9226-4409139b7b24"
+      },
+      "timed_images": [
+        {
+          "id": "1f09a730-b0e6-4839-8211-433656fa9a0e",
+          "hide_at": {
+            "de-DE": 10,
+            "en-US": 10
+          },
+          "show_at": {
+            "de-DE": 5,
+            "en-US": 5
+          },
+          "blockName": "Timed image Wasserkunst1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "6362a0ae-cf28-54f9-85ec-5ba1817a2d29"
+        },
+        {
+          "id": "82da0849-0ada-46cc-8cad-c2c94cc0953e",
+          "hide_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "show_at": {
+            "de-DE": 10,
+            "en-US": 10
+          },
+          "blockName": "Timed image Wasserkunst2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "5af7c94c-9e5e-56a8-ac27-348beaed92ff"
+        },
+        {
+          "id": "69b70865-c915-4d51-998f-4d07a18e4242",
+          "hide_at": {
+            "de-DE": 20,
+            "en-US": 20
+          },
+          "show_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "blockName": "Timed image Wasserkunst3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "afa3db16-de06-5b16-8bc9-4e9a73a3470e"
+        },
+        {
+          "id": "7f80d52e-905e-4170-b0eb-624f508b5587",
+          "hide_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "show_at": {
+            "de-DE": 20,
+            "en-US": 20
+          },
+          "blockName": "Timed image Wasserkunst4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "393a8059-8eeb-5fed-ac0a-f0c2389489c3"
+        },
+        {
+          "id": "c4906b65-873d-4f7e-a470-fc6b51d08484",
+          "hide_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "show_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "blockName": "Timed image Wasserkunst5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "8bfe72c1-3706-50e3-96fe-9ba40de9dca0"
+        },
+        {
+          "id": "a5485877-dd15-4e44-80d9-02739bab3561",
+          "hide_at": {
+            "de-DE": 35,
+            "en-US": 35
+          },
+          "show_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "blockName": "Timed image Wasserkunst6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "8d7b8a76-3488-5bc6-9537-b58633289f4a"
+        },
+        {
+          "id": "6f73da52-94bd-44be-94b0-0c856ca6ef23",
+          "hide_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "show_at": {
+            "de-DE": 35,
+            "en-US": 35
+          },
+          "blockName": "Timed image Wasserkunst7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "49460d42-0969-5a32-8c50-716ef87d55f8"
+        },
+        {
+          "id": "f9ac1d23-ba88-4c2f-8ea8-ee66a2f2fb1e",
+          "hide_at": {
+            "de-DE": 50,
+            "en-US": 50
+          },
+          "show_at": {
+            "de-DE": 45,
+            "en-US": 45
+          },
+          "blockName": "Timed image Wasserkunst8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "76bae3e3-63b9-53ca-bb78-790f6e01f256"
+        },
+        {
+          "id": "3285a5ea-68ca-4ad9-850c-96ba0ce6e3bf",
+          "hide_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "show_at": {
+            "de-DE": 50,
+            "en-US": 50
+          },
+          "blockName": "Timed image Wasserkunst9",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "5af7c94c-9e5e-56a8-ac27-348beaed92ff"
+        },
+        {
+          "id": "a3e6ffac-5b4c-4f70-b392-adeca9440a77",
+          "hide_at": {
+            "de-DE": 60,
+            "en-US": 60
+          },
+          "show_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "blockName": "Timed image Wasserkunst10",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "afa3db16-de06-5b16-8bc9-4e9a73a3470e"
+        },
+        {
+          "id": "343ccc31-b0a4-4efa-bc78-9570ba4c3541",
+          "hide_at": {
+            "de-DE": 65,
+            "en-US": 65
+          },
+          "show_at": {
+            "de-DE": 60,
+            "en-US": 60
+          },
+          "blockName": "Timed image Wasserkunst11",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "393a8059-8eeb-5fed-ac0a-f0c2389489c3"
+        },
+        {
+          "id": "2557f54b-fbef-4c2a-8436-53ca71952298",
+          "hide_at": {
+            "de-DE": 70,
+            "en-US": 70
+          },
+          "show_at": {
+            "de-DE": 65,
+            "en-US": 65
+          },
+          "blockName": "Timed image Wasserkunst12",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "8bfe72c1-3706-50e3-96fe-9ba40de9dca0"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Stellen Sie sich vor … Es ist das späte Mittelalter. Gotha wächst und gedeiht, doch mit jeder Erweiterung der Stadt steigt auch der Wasserbedarf. Vor allem für das Handwerk, aber auch für die vielen Verrichtungen im Alltag wird das kostbare Nass dringend gebraucht. Die Brunnen reichen längst nicht mehr aus.\"\n\n\"Die Lösung kam im Jahr 1369. Landgraf Balthasar ließ den Leinakanal anlegen – ein beeindruckendes technisches Meisterwerk. Über dreißig Kilometer hinweg leitete dieser künstliche Wasserlauf das klare Wasser aus dem Thüringer Wald nach Gotha. Ein ausgeklügeltes System aus Holzleitungen und Pumpen brachte es sogar bis hinauf zum Schloss Friedenstein.\"\n\n\"Jahrhundertelang stand hier die Bergmühle, angetrieben von der Strömung des Leinakanals. Doch die Zeiten änderten sich. 1895 wurde die alte Mühle abgerissen und etwas Neues entstand: die Wasserkunst – ein kunstvolles Wasserwerk, das die Stadt nicht nur mit Trinkwasser versorgte, sondern auch mit Elektrizität.\"\n\n\"Die Gothaer Maschinenfabrik Briegleb & Hansen installierte eine Pump- und Turbinenanlage, die – bis heute nahezu unverändert – noch immer funktioniert. Ein verborgenes mechanisches Herz, das unter der Stadt schlägt.\"\n\n\"1995 wurde die Wasserkunst restauriert. Noch heute können Sie dieses verborgene Stück Geschichte im Keller des Lucas-Cranach-Hauses entdecken.\"\n\n**Erzähler (reflektierend, inspirierend)**:\n\n\"Wasser fließt, Jahrhunderte vergehen, doch der Leinakanal versorgt Gotha noch immer.\"",
+        "en-US": "\"Imagine… It is the late Middle Ages. Gotha is growing, but with each expansion, the demand for water increases. Not just for daily life, but also for the city’s craftsmen and industries. The old wells can no longer keep up.\"\n\n\"The solution arrived in 1369. Landgrave Balthasar ordered the construction of the Leina Canal – an impressive feat of engineering. Over thirty kilometers long, this artificial watercourse carried fresh water from the Thuringian Forest to Gotha. A sophisticated system of wooden pipes and pumps even brought it up to Friedenstein Castle.\"\n\n\"For centuries, a watermill stood here, powered by the current of the Leinakanal. But times changed. In 1895, the old mill was demolished, making way for something new: the Gotha Waterworks – an architectural and technological marvel that not only supplied drinking water but also generated electricity.\"\n\n\"The Gotha engineering firm Briegleb & Hansen installed a pump and turbine system that, to this day, remains almost entirely intact. A hidden mechanical heart still beats beneath the city.\"\n\n\"In 1995, the waterworks were restored. Today, you can still explore this remarkable piece of history in the basement of the Lucas-Cranach House.\"\n\n**Narrator (reflective, inspiring):**\n\n\"Water flows, centuries pass, but the Leina Canal still nourishes Gotha.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "90116a90052c20a278ac7d20524e9eaa56a6ddf8",
+      "title": "Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-16T10:03:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "519240f4-d21e-413a-adee-5579e57208cf",
+          "f4099850-0291-4f10-9226-4409139b7b24"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

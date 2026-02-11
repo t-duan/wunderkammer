@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2079752,
+    "uuid": "0252cfd1-3d66-4911-b8d6-ea5f72fdaecb",
+    "title": "Über uns",
+    "content": {
+      "slug": "about-us",
+      "title": {
+        "de-DE": "Über uns",
+        "en-US": "About us"
+      },
+      "content": {
+        "de-DE": "# Die Friedenstein Stiftung Gotha\nDer Friedenstein ist einer der größten Museumsstandorte in Mitteldeutschland. Im Verbund mit weiteren Einrichtungen betreut die Friedenstein Stiftung Gotha ein einzigartiges Bau-, Garten- und Sammlungsensemble europäischer Residenzkultur.\n\nDie Friedenstein Stiftung Gotha betreut museale Sammlungen mit 1,15 Millionen Objekten aus den Bereichen Kunst-, Natur- und Kulturgeschichte. Im Rahmen des groß angelegten Digitalisierungsprojektes Gotha transdigital werden zentrale Bestände der Sammlungen digital erfasst und der Öffentlichkeit zugänglich gemacht. Ermöglicht wird Gotha transdigital durch den Beauftragten für Kultur und Medien (BKM) und den Freistaat Thüringen aus Mitteln des Europäischen Fonds für regionale Entwicklung (EFRE).\n\nGröße und Umfang der Sammlungen ergeben sich aus der Geschichte des Schlosses. Zwischen 1643 und 1654 als herzogliche Residenz erbaut, ist Schloss Friedenstein die größte frühbarocke Schlossanlage Deutschlands. Das weitgehend original erhaltene Baudenkmal repräsentiert einen besonderen Typus universaler Wissensvermittlung. Zentrales Element war die herzogliche Kunst- und Wunderkammer, in der nach barockem Verständnis alles gesammelt wurde, was über die Welt informierte und zum Wissen gehörte. Daraus entwickelte sich das spätere Sammlungsprofil. Heute bietet das Gothaer Ensemble ein herausragendes Potenzial für die Erforschung und Vermittlung von Wissenskulturen - von der Reformation bis zur Gegenwart.\n\nDiese App wurde mit Mitteln von Gotha transdigital realisiert, das gefördert wird von:\n\n!![](a91480a8-69ed-47ef-a2b2-0331fbf73fec)\n!![](0923e454-f7b8-4eff-ba76-2055f825cfbe)\n!![](1d0aa40e-a6b2-4972-bba5-4c0c48c5815e)",
+        "en-US": "# The Friedenstein Foundation Gotha\nThe Friedenstein is one of the largest museum sites in central Germany. Together with other institutions, the Friedenstein Foundation Gotha looks after a unique ensemble of buildings, gardens and collections of European residential culture.\n\nThe Friedenstein Foundation Gotha looks after museum collections with 1.15 million objects from the fields of art, natural and cultural history. As part of the large-scale digitisation project Gotha transdigital, central holdings of the collections are being digitally recorded and made accessible to the public. Gotha transdigital is being made possible by the Federal Commissioner for Culture and the Media (BKM) and the Free State of Thuringia with funding from the European Regional Development Fund (ERDF).\n\nThe size and scope of the collections are a result of the palace's history. Built between 1643 and 1654 as a ducal residence, Friedenstein Castle is the largest early Baroque castle complex in Germany. The largely originally preserved monument represents a special type of universal knowledge transfer. The central element was the ducal chamber of art and curiosities, in which everything that in the understanding of the Baroque period provided information about the world and belonged to knowledge was collected. The later collection profile developed from this. Today, the Gotha ensemble offers outstanding potential for researching and communicating cultures of knowledge - from the Reformation to the present day.\n\nThis app was realised with funding from Gotha transdigital, which is supported by:\n\n!![](a91480a8-69ed-47ef-a2b2-0331fbf73fec)\n!![](0923e454-f7b8-4eff-ba76-2055f825cfbe)\n!![](1d0aa40e-a6b2-4972-bba5-4c0c48c5815e)"
+      },
+      "markdown_assets": {
+        "de-DE": [
+          "a91480a8-69ed-47ef-a2b2-0331fbf73fec",
+          "0923e454-f7b8-4eff-ba76-2055f825cfbe",
+          "1d0aa40e-a6b2-4972-bba5-4c0c48c5815e"
+        ],
+        "en-US": [
+          "a91480a8-69ed-47ef-a2b2-0331fbf73fec",
+          "0923e454-f7b8-4eff-ba76-2055f825cfbe",
+          "1d0aa40e-a6b2-4972-bba5-4c0c48c5815e"
+        ]
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "97a93ef05cb8f504089368ace244475fb0616440",
+      "title": "Über uns",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-07-17T15:35:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0923e454-f7b8-4eff-ba76-2055f825cfbe",
+          "1d0aa40e-a6b2-4972-bba5-4c0c48c5815e",
+          "a91480a8-69ed-47ef-a2b2-0331fbf73fec"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "mediaguide_page",
+    "status": "published"
+  }
+]

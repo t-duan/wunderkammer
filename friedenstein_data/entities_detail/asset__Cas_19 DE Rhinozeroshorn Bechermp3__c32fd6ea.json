@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22268,
+    "uuid": "c32fd6ea-2426-43ff-a977-4bf7c31109b5",
+    "title": "Cas_19 DE Rhinozeroshorn Becher.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/c32fd6ea-2426-43ff-a977-4bf7c31109b5/Cas_19%20DE%20Rhinozeroshorn%20Becher.mp3",
+      "file_name": "Cas_19 DE Rhinozeroshorn Becher.mp3",
+      "file_size": 1630301,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "05dd1fd8a777bb8c0e79778075b4ec08aa87a5f5",
+      "title": "Cas_19 DE Rhinozeroshorn Becher.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

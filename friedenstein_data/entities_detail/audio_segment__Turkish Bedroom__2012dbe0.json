@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080370,
+    "uuid": "2012dbe0-d210-40d0-876b-700288332cc8",
+    "title": "Turkish Bedroom",
+    "content": {
+      "title": {
+        "de-DE": "Turkish Bedroom",
+        "en-US": "Turkish Bedroom"
+      },
+      "audiofile": {
+        "de-DE": "cb4763a4-91dd-4b0b-ae18-dc82e0c20a63",
+        "en-US": "814a5f0a-7f46-419e-9956-b365c27deb1d"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6b0898d50cf59b4e1e21ab22611b16a12a3ca802",
+      "title": "Turkish Bedroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:16:56.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "814a5f0a-7f46-419e-9956-b365c27deb1d",
+          "cb4763a4-91dd-4b0b-ae18-dc82e0c20a63"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

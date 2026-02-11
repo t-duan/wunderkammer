@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080334,
+    "uuid": "83b4e4f8-52b6-486e-840b-96647430101a",
+    "title": "Gold and Silver",
+    "content": {
+      "title": {
+        "de-DE": "Gold and Silver",
+        "en-US": "Gold and Silver"
+      },
+      "audiofile": {
+        "de-DE": "5e3e4840-0aab-4d09-b445-b734b14d772b",
+        "en-US": "2123aee2-ee62-4302-8d88-bf895c32c78e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e711b74e6344f78146c4551bacb22ef1545ae0ff",
+      "title": "Gold and Silver",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:23:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2123aee2-ee62-4302-8d88-bf895c32c78e",
+          "5e3e4840-0aab-4d09-b445-b734b14d772b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

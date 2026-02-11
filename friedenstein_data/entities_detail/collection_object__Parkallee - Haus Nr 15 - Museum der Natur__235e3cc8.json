@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35511,
+    "uuid": "235e3cc8-2735-5941-8f6f-0dbce160fdd2",
+    "title": "Parkallee - Haus Nr. 15 - Museum der Natur",
+    "content": {
+      "title": {
+        "de-DE": "Parkallee - Haus Nr. 15 - Museum der Natur",
+        "en-US": "Parkallee - Haus Nr. 15 - Museum der Natur"
+      },
+      "period": {
+        "de-DE": [
+          "März 1993"
+        ],
+        "en-US": [
+          "März 1993"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01038042%2F871347_00249039_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "43535"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "27694fdf3e5873980d4413c25c16eca0d5fb153f",
+      "title": "Parkallee - Haus Nr. 15 - Museum der Natur",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.359Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "86588BFEB9D04FB4ABDE2DF449E301E6"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

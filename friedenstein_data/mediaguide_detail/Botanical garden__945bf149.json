@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071086,
+    "uuid": "945bf149-d8d0-4667-82e7-49e63659b4b5",
+    "title": "Botanical garden",
+    "content": {
+      "key": "botanical_garden",
+      "icon": "f3b9252a-805b-441b-8af5-a1dc321f3d8a",
+      "label": {
+        "ar-AE": "الحديقة النباتية",
+        "ar-SA": "الحديقة النباتية",
+        "de-DE": "Botanischer Garten",
+        "en-GB": "Botanical garden",
+        "en-US": "Botanical garden",
+        "es-ES": "Jardín botánico",
+        "fa-IR": "باغ گیاه شناسی",
+        "fr-FR": "Jardin botanique",
+        "it-IT": "Giardino botanico",
+        "ja-JP": "植物園",
+        "nl-NL": "Botanische tuin",
+        "zh-CN": "植物园",
+        "nl-NL-AD": "Botanische tuin",
+        "nl-NL-sl": "Botanische tuin"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "88e09205e89ce23f35f38127abcb94468ce440fc",
+      "title": "Botanical garden",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:44:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "f3b9252a-805b-441b-8af5-a1dc321f3d8a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

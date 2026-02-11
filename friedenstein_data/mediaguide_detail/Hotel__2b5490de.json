@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070861,
+    "uuid": "2b5490de-7b63-42c3-9cea-05ec8c02f1cc",
+    "title": "Hotel",
+    "content": {
+      "key": "hotel",
+      "icon": "8643e78c-0763-4138-bac9-278cf0534026",
+      "label": {
+        "ar-AE": "الفندق",
+        "ar-SA": "الفندق",
+        "de-DE": "Hotel",
+        "en-GB": "Hotel",
+        "en-US": "Hotel",
+        "es-ES": "Hotel",
+        "fa-IR": "هتل",
+        "fr-FR": "hôtel",
+        "it-IT": "Albergo",
+        "ja-JP": "ホテル",
+        "nl-NL": "Hotel",
+        "zh-CN": "酒店",
+        "nl-NL-AD": "Hotel",
+        "nl-NL-sl": "Hotel"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "decfb6e191f79d9725887b61befcea6e507830f2",
+      "title": "Hotel",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:48:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8643e78c-0763-4138-bac9-278cf0534026"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

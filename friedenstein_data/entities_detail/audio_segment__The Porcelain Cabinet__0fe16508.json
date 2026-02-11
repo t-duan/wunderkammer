@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080487,
+    "uuid": "0fe16508-9c76-4653-9044-f98d555ced4b",
+    "title": "The Porcelain Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "The Porcelain Cabinet",
+        "en-US": "The Porcelain Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "020ab51c-5ee8-4045-9787-e957464dc350",
+        "en-US": "3122b4f1-a96b-47e8-bc16-b8db81dd387a"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "36bc8b2932b8b112ef1d034d1e1943c5b03273ad",
+      "title": "The Porcelain Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:14:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "020ab51c-5ee8-4045-9787-e957464dc350",
+          "3122b4f1-a96b-47e8-bc16-b8db81dd387a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

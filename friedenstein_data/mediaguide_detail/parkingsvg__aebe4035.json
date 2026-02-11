@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6315,
+    "uuid": "aebe4035-8d93-4314-83d0-f36378bb6f9e",
+    "title": "parking.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/aebe4035-8d93-4314-83d0-f36378bb6f9e/parking.svg",
+      "file_name": "parking.svg",
+      "file_size": 1043,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "2e516ced825ef23bec506f6dbb34f6e410cf0cc6",
+      "title": "parking.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:35.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

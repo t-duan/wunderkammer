@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080091,
+    "uuid": "01619759-6f00-4b17-b1a3-c54544eef1eb",
+    "title": "30a Duke Ernest II",
+    "content": {
+      "title": {
+        "de-DE": "30a Duke Ernest II",
+        "en-US": "30a Duke Ernest II"
+      },
+      "audiofile": {
+        "de-DE": "7532f061-eb67-416a-8e3f-88ce2f99b368",
+        "en-US": "72137dce-a1be-4fc3-b258-1775dd4b6f25"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "97b6c7f9cc409254760f02d55d45b5e7580257a4",
+      "title": "30a Duke Ernest II",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:14:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "72137dce-a1be-4fc3-b258-1775dd4b6f25",
+          "7532f061-eb67-416a-8e3f-88ce2f99b368"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35433,
+    "uuid": "28cbc701-e5f1-50d0-a81a-c37b187b6180",
+    "title": "Hauptmarkt, Rekonstruktion des Hauptmarktes",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Rekonstruktion des Hauptmarktes",
+        "en-US": "Hauptmarkt, Rekonstruktion des Hauptmarktes"
+      },
+      "period": {
+        "de-DE": [
+          "1983"
+        ],
+        "en-US": [
+          "1983"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055393%2F871347_00248262_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "28293"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "fe605c61fb7f21e120258dfd78952327624a251f",
+      "title": "Hauptmarkt, Rekonstruktion des Hauptmarktes",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.125Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "D1D1726D01D5406683AA436B77C4F618"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

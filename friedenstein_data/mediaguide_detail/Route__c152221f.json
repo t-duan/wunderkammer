@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070651,
+    "uuid": "c152221f-7030-4316-ba78-ba685d274a81",
+    "title": "Route",
+    "content": {
+      "key": "route",
+      "icon": "4c9cb6df-d2c1-42b5-940f-c33f1aae96de",
+      "label": {
+        "ar-AE": "المسار",
+        "ar-SA": "المسار",
+        "de-DE": "Route",
+        "en-GB": "Route",
+        "en-US": "Route",
+        "es-ES": "Ruta",
+        "fa-IR": "مسیر",
+        "fr-FR": "Itinéraire",
+        "it-IT": "Percorso",
+        "ja-JP": "ルート",
+        "nl-NL": "Route",
+        "zh-CN": "路线",
+        "nl-NL-AD": "Route",
+        "nl-NL-sl": "Route"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "445774c24aff142aa7a131098b2d9b6a3cd8df84",
+      "title": "Route",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:53:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4c9cb6df-d2c1-42b5-940f-c33f1aae96de"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

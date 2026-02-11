@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2079785,
+    "uuid": "2c372e89-1a9d-43c1-a117-d7510329e6df",
+    "title": "Bauhaus Kaufhaus",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "96e97efd-5bed-5f82-9e83-ea69097ca042",
+        "a04e3701-ac9d-5337-912c-c878e899f867",
+        "58cf82ca-5df4-595c-83e2-0a20979cd4cc",
+        "25c178ba-a975-5ba6-8e9c-679acb229f88",
+        "edc90e0c-ff3d-56c4-ad13-f66001f2dc3f",
+        "51af328f-5fe1-5b15-90ac-ce75169dbdff"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7893633ac65859fdc230851a666e25ff8ca89e36",
+      "title": "Bauhaus Kaufhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:36:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

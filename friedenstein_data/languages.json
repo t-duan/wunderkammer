@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "code": "de-DE",
+      "extended_code": "de-DE",
+      "extension": null,
+      "name": {
+        "en": "German",
+        "de-DE": "Deutsch"
+      },
+      "language": {
+        "code": "de-DE",
+        "name": {
+          "en": "German (Germany)",
+          "de-DE": "Deutsch (Deutschland)"
+        }
+      },
+      "region": {
+        "code": "DE",
+        "name": {
+          "en": "Germany",
+          "de-DE": "Deutschland"
+        }
+      },
+      "default": false
+    },
+    {
+      "code": "en-US",
+      "extended_code": "en-US",
+      "extension": null,
+      "name": {
+        "en": "English",
+        "en-US": "English"
+      },
+      "language": {
+        "code": "en-US",
+        "name": {
+          "en": "American English",
+          "en-US": "American English"
+        }
+      },
+      "region": {
+        "code": "US",
+        "name": {
+          "en": "United States",
+          "en-US": "United States"
+        }
+      },
+      "default": false
+    }
+  ]
+}

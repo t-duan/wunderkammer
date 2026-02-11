@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080202,
+    "uuid": "2c8d43fb-10b7-4499-b491-447f6123e9f5",
+    "title": "Gothaer Lebensversicherungsbank",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "90d49f4cc479cce671deb6e5c2b3fb59da9765bf",
+      "title": "Gothaer Lebensversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:24:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080166,
+    "uuid": "d473b5bc-5c15-4051-ae84-13025f1d904e",
+    "title": "20 Friedrich-Wilhelm Doell: Relief carving",
+    "content": {
+      "image": "8226880a-c92f-4f75-8ed6-639bdce9bea9",
+      "title": {
+        "de-DE": "Friedrich-Wilhelm Doell: Relief",
+        "en-US": "Friedrich-Wilhelm Doell: Relief carving"
+      },
+      "preview": false,
+      "stopnumber": 120,
+      "primary_segment": "443af22e-d3de-440e-a105-2c7723422e94",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e7b2859503dd67943b922fc9295fd753e7458e07",
+      "title": "20 Friedrich-Wilhelm Doell: Relief carving",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:56:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8226880a-c92f-4f75-8ed6-639bdce9bea9"
+        ],
+        "audio_segment": [
+          "443af22e-d3de-440e-a105-2c7723422e94"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35373,
+    "uuid": "c24d7658-5335-51f9-af73-da38e774185b",
+    "title": "Arnoldiplatz, vor Umgestaltung 1969",
+    "content": {
+      "title": {
+        "de-DE": "Arnoldiplatz, vor Umgestaltung 1969",
+        "en-US": "Arnoldiplatz, vor Umgestaltung 1969"
+      },
+      "period": {
+        "de-DE": [
+          "vor 1969"
+        ],
+        "en-US": [
+          "vor 1969"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.3 cm",
+          "Breite 11.6 cm"
+        ],
+        "en-US": [
+          "Höhe 8.3 cm",
+          "Breite 11.6 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970333%2F871347_00247655_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "20569"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "44139c5721e2f16f1b8c78dd455d13a7162168fb",
+      "title": "Arnoldiplatz, vor Umgestaltung 1969",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.737Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "14784AE91AC54CACB48F3FB113061550"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

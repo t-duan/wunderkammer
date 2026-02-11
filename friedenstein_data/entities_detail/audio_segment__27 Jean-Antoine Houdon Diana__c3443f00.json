@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080124,
+    "uuid": "c3443f00-f7ae-4a5f-967e-a32ada2e8bfa",
+    "title": "27 Jean-Antoine Houdon: Diana",
+    "content": {
+      "title": {
+        "de-DE": "27 Jean-Antoine Houdon: Diana",
+        "en-US": "27 Jean-Antoine Houdon: Diana"
+      },
+      "audiofile": {
+        "de-DE": "27087f2c-f9c0-4486-b586-c9f9f07ff3f5",
+        "en-US": "5dfd38a8-274e-48db-9f23-663ccfcda738"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1e29b208ccdf94b88b8e1870b449cd6206d9ba44",
+      "title": "27 Jean-Antoine Houdon: Diana",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:07:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "27087f2c-f9c0-4486-b586-c9f9f07ff3f5",
+          "5dfd38a8-274e-48db-9f23-663ccfcda738"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

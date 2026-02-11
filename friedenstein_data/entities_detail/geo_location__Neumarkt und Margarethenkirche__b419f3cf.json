@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080580,
+    "uuid": "b419f3cf-6b74-4b81-9021-6b2f90b68deb",
+    "title": "Neumarkt und Margarethenkirche",
+    "content": {
+      "type": "audio",
+      "content": "900649a7-5ce5-4178-8312-ef41a08c8b8b",
+      "geo_location": {
+        "lat": 50.950076,
+        "lng": 10.704645
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "27a7fa858a4f7aeb80d508a63941c17eb8755784",
+      "title": "Neumarkt und Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:38:54.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "900649a7-5ce5-4178-8312-ef41a08c8b8b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

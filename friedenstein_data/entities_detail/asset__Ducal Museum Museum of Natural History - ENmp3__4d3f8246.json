@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22340,
+    "uuid": "4d3f8246-dcb5-44fd-82bf-eeb51bd6e2c8",
+    "title": "Ducal Museum Museum of Natural History - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/4d3f8246-dcb5-44fd-82bf-eeb51bd6e2c8/Ducal%20Museum%20Museum%20of%20Natural%20History%20-%20EN.mp3",
+      "file_name": "Ducal Museum Museum of Natural History - EN.mp3",
+      "file_size": 3805067,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "6f72ea2dcf71919f65a69608074c1af2b5cd1668",
+      "title": "Ducal Museum Museum of Natural History - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:25:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

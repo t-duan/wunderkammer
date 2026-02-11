@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6312,
+    "uuid": "93d17001-c0f5-486f-805c-f5f45ec74ca3",
+    "title": "restraurant.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/93d17001-c0f5-486f-805c-f5f45ec74ca3/restraurant.svg",
+      "file_name": "restraurant.svg",
+      "file_size": 2138,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d612f35140f53bc73ee7340fea3a59f25d813e58",
+      "title": "restraurant.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

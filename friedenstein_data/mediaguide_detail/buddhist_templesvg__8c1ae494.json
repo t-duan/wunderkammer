@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6332,
+    "uuid": "8c1ae494-ff9a-453b-ab7a-f05b512eb16c",
+    "title": "buddhist_temple.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/8c1ae494-ff9a-453b-ab7a-f05b512eb16c/buddhist_temple.svg",
+      "file_name": "buddhist_temple.svg",
+      "file_size": 2145,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "622f25ff21119ed879108fcb5fdfd84290def44e",
+      "title": "buddhist_temple.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

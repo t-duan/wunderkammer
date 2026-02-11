@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080655,
+    "uuid": "aae79fcd-47f4-4820-876d-6c7f0fa9c7a7",
+    "title": "Innungshalle/Handelsschule",
+    "content": {
+      "image": "63e481ac-2eff-43be-826b-aa0e5cb72581",
+      "title": {
+        "de-DE": "Innungshalle/Handelsschule",
+        "en-US": "Guild Hall and Trade School"
+      },
+      "preview": false,
+      "primary_segment": "8c16b78c-75c9-473e-a2af-e31c59e43491",
+      "secondary_segments": [
+        "381191db-65d8-4d1e-a5bf-42b20c167ba4",
+        "83a03bd8-b2b3-4fc7-a710-55ac54482f75"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b0dd9d44053fce523bda597c5d66342ae623b07c",
+      "title": "Innungshalle/Handelsschule",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T07:52:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "63e481ac-2eff-43be-826b-aa0e5cb72581"
+        ],
+        "audio_segment": [
+          "8c16b78c-75c9-473e-a2af-e31c59e43491"
+        ],
+        "comments_segment": [
+          "83a03bd8-b2b3-4fc7-a710-55ac54482f75"
+        ],
+        "collection_object_gallery_segment": [
+          "381191db-65d8-4d1e-a5bf-42b20c167ba4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

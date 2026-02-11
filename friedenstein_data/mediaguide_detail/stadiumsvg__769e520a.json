@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6305,
+    "uuid": "769e520a-af42-408c-93ce-2fe7c2b55044",
+    "title": "stadium.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/769e520a-af42-408c-93ce-2fe7c2b55044/stadium.svg",
+      "file_name": "stadium.svg",
+      "file_size": 2314,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "c5ed9100755d2a57a30f02cd3da6ad0ce9f1b625",
+      "title": "stadium.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

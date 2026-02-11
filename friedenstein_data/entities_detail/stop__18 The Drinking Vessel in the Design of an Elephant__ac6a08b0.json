@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080460,
+    "uuid": "ac6a08b0-5617-4c54-94ab-e6f6d7a10e42",
+    "title": "18 The Drinking Vessel in the Design of an Elephant",
+    "content": {
+      "image": "2f7c8e81-deea-428c-a42e-b2bb732513d2",
+      "title": {
+        "de-DE": "Das Trinkgeschirr in Gestalt eines Elefanten",
+        "en-US": "The Drinking Vessel in the Design of an Elephant"
+      },
+      "preview": false,
+      "stopnumber": 18,
+      "primary_segment": "7a9546fc-1899-4571-af9f-ff286287fb08",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2aa8a9bd247c4e5acd376cdc1c22a3313f0f44aa",
+      "title": "18 The Drinking Vessel in the Design of an Elephant",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:49:24.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2f7c8e81-deea-428c-a42e-b2bb732513d2"
+        ],
+        "audio_segment": [
+          "7a9546fc-1899-4571-af9f-ff286287fb08"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35478,
+    "uuid": "75ea5705-1010-5a6e-b1e5-f99b5d0042b9",
+    "title": "Schloss Friedenstein - Schlosshof - Pagenhaus",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein - Schlosshof - Pagenhaus",
+        "en-US": "Schloss Friedenstein - Schlosshof - Pagenhaus"
+      },
+      "period": {
+        "de-DE": [
+          "August 1992"
+        ],
+        "en-US": [
+          "August 1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040415%2F871347_00251270_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "41906"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "734f771e3adcc5b663f572b3ebc99f1e401b7975",
+      "title": "Schloss Friedenstein - Schlosshof - Pagenhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.702Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "F2BB054994A04CE5BDF79A4CEB0C787D"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

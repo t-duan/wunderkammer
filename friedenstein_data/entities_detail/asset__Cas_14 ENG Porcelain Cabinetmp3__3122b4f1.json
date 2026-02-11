@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22232,
+    "uuid": "3122b4f1-a96b-47e8-bc16-b8db81dd387a",
+    "title": "Cas_14 ENG Porcelain Cabinet.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3122b4f1-a96b-47e8-bc16-b8db81dd387a/Cas_14%20ENG%20Porcelain%20Cabinet.mp3",
+      "file_name": "Cas_14 ENG Porcelain Cabinet.mp3",
+      "file_size": 461880,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "4878b8d0595f9c8cc40dd87737589a3402d193fc",
+      "title": "Cas_14 ENG Porcelain Cabinet.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080454,
+    "uuid": "36d40edb-c30b-4c59-9e5e-cd08dd1c551a",
+    "title": "19 The Rhinoceros Horn Beaker",
+    "content": {
+      "image": "fc920d68-928c-4cba-b9bd-c6c4d284145b",
+      "title": {
+        "de-DE": "Der Rhinozeroshorn-Becher",
+        "en-US": "The Rhinoceros Horn Beaker"
+      },
+      "preview": false,
+      "stopnumber": 19,
+      "primary_segment": "03d1f65f-62c0-4add-a707-4a2c51277334",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f1bf047886e9f3af10b91c80982e31a532cc855b",
+      "title": "19 The Rhinoceros Horn Beaker",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:50:43.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "fc920d68-928c-4cba-b9bd-c6c4d284145b"
+        ],
+        "audio_segment": [
+          "03d1f65f-62c0-4add-a707-4a2c51277334"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070711,
+    "uuid": "52f60877-472f-4bf3-aceb-b8830554f8c1",
+    "title": "Restaurant",
+    "content": {
+      "key": "restaurant",
+      "icon": "93d17001-c0f5-486f-805c-f5f45ec74ca3",
+      "label": {
+        "ar-AE": "المطعم",
+        "ar-SA": "المطعم",
+        "de-DE": "Restaurant",
+        "en-GB": "Restaurant",
+        "en-US": "Restaurant",
+        "es-ES": "Restaurante",
+        "fa-IR": "رستوران",
+        "fr-FR": "Restaurant",
+        "it-IT": "Ristorante",
+        "ja-JP": "レストラン",
+        "nl-NL": "Restaurant",
+        "zh-CN": "餐厅",
+        "nl-NL-AD": "Restaurant",
+        "nl-NL-sl": "Restaurant"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "081ed4f806eb62006547f51c4b24c076095c24f3",
+      "title": "Restaurant",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:51:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "93d17001-c0f5-486f-805c-f5f45ec74ca3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

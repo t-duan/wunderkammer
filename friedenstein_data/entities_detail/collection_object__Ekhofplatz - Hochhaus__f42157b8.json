@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35499,
+    "uuid": "f42157b8-69f8-59fc-8742-68abda3444e1",
+    "title": "Ekhofplatz - Hochhaus",
+    "content": {
+      "title": {
+        "de-DE": "Ekhofplatz - Hochhaus",
+        "en-US": "Ekhofplatz - Hochhaus"
+      },
+      "period": {
+        "de-DE": [
+          "Dezember 1992"
+        ],
+        "en-US": [
+          "Dezember 1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970558%2F871347_00250672_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42438"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2e9959f698f62e82e7235750c7d79b1fc744c86d",
+      "title": "Ekhofplatz - Hochhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.488Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "3119634B2E224FD688BB72418D8C2FBE"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

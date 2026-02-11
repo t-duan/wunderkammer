@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070606,
+    "uuid": "9bc501f6-bb5c-4440-95dc-ac5f50751301",
+    "title": "Shop",
+    "content": {
+      "key": "shop",
+      "icon": "72db8cca-ab6b-45eb-9f9b-6bed7f4103a6",
+      "label": {
+        "ar-AE": "المتجر",
+        "ar-SA": "المتجر",
+        "de-DE": "Laden",
+        "en-GB": "Shop",
+        "en-US": "Shop",
+        "es-ES": "Tienda",
+        "fa-IR": "خرید کنید",
+        "fr-FR": "Boutique",
+        "it-IT": "Negozio",
+        "ja-JP": "ショップ",
+        "nl-NL": "Winkel",
+        "zh-CN": "商店",
+        "nl-NL-AD": "Winkel",
+        "nl-NL-sl": "Winkel"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "649513b27f933315c6fc5c17811b01f914297c77",
+      "title": "Shop",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:54:49.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "72db8cca-ab6b-45eb-9f9b-6bed7f4103a6"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

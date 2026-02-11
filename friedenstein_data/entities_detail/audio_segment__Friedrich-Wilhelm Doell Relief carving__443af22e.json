@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080169,
+    "uuid": "443af22e-d3de-440e-a105-2c7723422e94",
+    "title": "Friedrich-Wilhelm Doell: Relief carving",
+    "content": {
+      "title": {
+        "de-DE": "Friedrich-Wilhelm Doell: Relief carving",
+        "en-US": "Friedrich-Wilhelm Doell: Relief carving"
+      },
+      "audiofile": {
+        "de-DE": "8b1bf592-3b34-4cd3-a840-045e11bc0832",
+        "en-US": "2f133962-696c-46c2-8089-92378481188b"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ff961312162b8b5f06c243f93158e5118b917feb",
+      "title": "Friedrich-Wilhelm Doell: Relief carving",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:55:47.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2f133962-696c-46c2-8089-92378481188b",
+          "8b1bf592-3b34-4cd3-a840-045e11bc0832"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

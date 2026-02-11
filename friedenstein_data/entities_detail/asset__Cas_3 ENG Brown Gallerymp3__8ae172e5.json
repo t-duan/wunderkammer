@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22244,
+    "uuid": "8ae172e5-99f0-41d9-87fa-a14c85cd2ddd",
+    "title": "Cas_3 ENG Brown Gallery.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/8ae172e5-99f0-41d9-87fa-a14c85cd2ddd/Cas_3%20ENG%20Brown%20Gallery.mp3",
+      "file_name": "Cas_3 ENG Brown Gallery.mp3",
+      "file_size": 3235678,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "839a3fdec1d4a95a5a272211715f53b551984763",
+      "title": "Cas_3 ENG Brown Gallery.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

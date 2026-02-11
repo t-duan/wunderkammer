@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080322,
+    "uuid": "c0751c60-bc3c-42f3-a82b-3fca3519dfe4",
+    "title": "Ekhof Theatre",
+    "content": {
+      "title": {
+        "de-DE": "Ekhof Theatre",
+        "en-US": "Ekhof Theatre"
+      },
+      "audiofile": {
+        "de-DE": "8dc5e70d-9f11-4d6f-87ca-032ef3d7ffe9",
+        "en-US": "76a27b8a-d0ae-422f-9d06-8a5a9eaf5f1f"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4373bd7c227d55b341958446bab901ccca6075ef",
+      "title": "Ekhof Theatre",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:25:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "76a27b8a-d0ae-422f-9d06-8a5a9eaf5f1f",
+          "8dc5e70d-9f11-4d6f-87ca-032ef3d7ffe9"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

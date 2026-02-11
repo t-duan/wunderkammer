@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079896,
+    "uuid": "b6ad2eda-f93a-4daa-a88f-6788ca03bd9c",
+    "title": "62 Rogier, School: Philipp III",
+    "content": {
+      "image": "84ebaf0d-3f07-4eaf-af64-cf1b2bb74104",
+      "title": {
+        "de-DE": "Rogier, Schule: Philipp III",
+        "en-US": "Rogier, School: Philipp III"
+      },
+      "preview": false,
+      "stopnumber": 162,
+      "primary_segment": "0ccef37e-48a1-461b-8476-08e3dc44c6b5",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "87c294687d30fd2467ee7ef47c8084dc7b7b1382",
+      "title": "62 Rogier, School: Philipp III",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:10:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "84ebaf0d-3f07-4eaf-af64-cf1b2bb74104"
+        ],
+        "audio_segment": [
+          "0ccef37e-48a1-461b-8476-08e3dc44c6b5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

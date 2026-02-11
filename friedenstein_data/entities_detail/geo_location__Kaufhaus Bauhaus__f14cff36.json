@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080583,
+    "uuid": "f14cff36-c076-4950-ba41-734b051d0700",
+    "title": "Kaufhaus Bauhaus",
+    "content": {
+      "type": "audio",
+      "content": "e2880366-f720-40c3-806d-dd1fead8011d",
+      "geo_location": {
+        "lat": 50.950244,
+        "lng": 10.706284
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1ea2fd34c967552dead821608aa40e6f3b68be4d",
+      "title": "Kaufhaus Bauhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:38:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "e2880366-f720-40c3-806d-dd1fead8011d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

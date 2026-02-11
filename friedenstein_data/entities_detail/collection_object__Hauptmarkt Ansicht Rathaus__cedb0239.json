@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35397,
+    "uuid": "cedb0239-e7d3-5e3b-bec5-d5752e1236f2",
+    "title": "Hauptmarkt, Ansicht Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Ansicht Rathaus",
+        "en-US": "Hauptmarkt, Ansicht Rathaus"
+      },
+      "period": {
+        "de-DE": [
+          "1980"
+        ],
+        "en-US": [
+          "1980"
+        ]
+      },
+      "creator": [
+        "Dieter Demme"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.4 cm",
+          "Breite 10.8 cm"
+        ],
+        "en-US": [
+          "Höhe 8.4 cm",
+          "Breite 10.8 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055478%2F871347_00248393_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "24670"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "80fcdeb94e776965ac17e2617d059e1d8385af46",
+      "title": "Hauptmarkt, Ansicht Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.486Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "43301BFD3EFC43A5877ADF55513322AB"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

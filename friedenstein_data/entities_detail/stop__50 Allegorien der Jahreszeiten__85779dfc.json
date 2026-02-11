@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079968,
+    "uuid": "85779dfc-7e4e-4adf-9e09-d6bfc9895bdc",
+    "title": "50 Allegorien der Jahreszeiten",
+    "content": {
+      "image": "6e00b2db-0d23-4368-a844-e705dd37ce8d",
+      "title": {
+        "de-DE": "Allegorien der Jahreszeiten",
+        "en-US": "Allegories of the seasons"
+      },
+      "preview": false,
+      "stopnumber": 150,
+      "primary_segment": "bf4080a6-a457-4783-a3c7-636accc2e01e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4a055a309fce453c1bf77e100c7f4786e061f245",
+      "title": "50 Allegorien der Jahreszeiten",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:52:10.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6e00b2db-0d23-4368-a844-e705dd37ce8d"
+        ],
+        "audio_segment": [
+          "bf4080a6-a457-4783-a3c7-636accc2e01e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

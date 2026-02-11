@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6309,
+    "uuid": "8e015a03-48ac-462e-bc4c-c04a954b6e09",
+    "title": "restroom_disabled.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/8e015a03-48ac-462e-bc4c-c04a954b6e09/restroom_disabled.svg",
+      "file_name": "restroom_disabled.svg",
+      "file_size": 2475,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "0f5a27635c101dc317aff8497df3b4e296f77202",
+      "title": "restroom_disabled.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:37.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080439,
+    "uuid": "3bd6404f-4b11-49a2-b096-3749300383c0",
+    "title": "Double-Sided Bowl with Sleeping Venus",
+    "content": {
+      "title": {
+        "de-DE": "Double-Sided Bowl with Sleeping Venus",
+        "en-US": "Double-Sided Bowl with Sleeping Venus"
+      },
+      "audiofile": {
+        "de-DE": "5425da44-df76-409b-bb75-9af3a44c20dc",
+        "en-US": "f66f28e5-1962-447b-9c7e-0a7eb67df089"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c9a67a582df6abbae21abe9918652c8a8511e2fd",
+      "title": "Double-Sided Bowl with Sleeping Venus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:58:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5425da44-df76-409b-bb75-9af3a44c20dc",
+          "f66f28e5-1962-447b-9c7e-0a7eb67df089"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

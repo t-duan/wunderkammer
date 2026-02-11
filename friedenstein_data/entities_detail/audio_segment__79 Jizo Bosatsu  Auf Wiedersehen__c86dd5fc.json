@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079797,
+    "uuid": "c86dd5fc-1772-49a1-b789-8e15076aafb0",
+    "title": "79 Jizo Bosatsu – Auf Wiedersehen!",
+    "content": {
+      "title": {
+        "de-DE": "79 Jizo Bosatsu – Auf Wiedersehen!",
+        "en-US": "79 Jizo Bosatsu – Auf Wiedersehen!"
+      },
+      "audiofile": {
+        "de-DE": "530c4337-c1e6-486e-ac4e-d1a461d332db",
+        "en-US": "5e0bf1e4-08fb-40c3-bbec-c28cbda814b6"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "234378cc89b0ab30d46f41b92b7e4fe5495911a2",
+      "title": "79 Jizo Bosatsu – Auf Wiedersehen!",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:46:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "530c4337-c1e6-486e-ac4e-d1a461d332db",
+          "5e0bf1e4-08fb-40c3-bbec-c28cbda814b6"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

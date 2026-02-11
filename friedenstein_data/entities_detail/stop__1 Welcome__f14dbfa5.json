@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080562,
+    "uuid": "f14dbfa5-6658-48c2-a6d9-463b883904f0",
+    "title": "1 Welcome",
+    "content": {
+      "image": "e9b46c5b-985f-41d0-a2ec-a9e492b8eedb",
+      "title": {
+        "de-DE": "Herzlich willkommen",
+        "en-US": "Welcome"
+      },
+      "preview": false,
+      "stopnumber": 1,
+      "primary_segment": "32df8c4b-ed25-416b-832c-fd3ab2e44f06",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "87392eb7f6e8c5d5325060f149cd85f0a51f0309",
+      "title": "1 Welcome",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:40:51.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "e9b46c5b-985f-41d0-a2ec-a9e492b8eedb"
+        ],
+        "audio_segment": [
+          "32df8c4b-ed25-416b-832c-fd3ab2e44f06"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

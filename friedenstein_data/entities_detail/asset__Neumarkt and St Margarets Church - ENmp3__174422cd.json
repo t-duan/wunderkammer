@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22335,
+    "uuid": "174422cd-1345-41b6-8467-b2abbc57ec0d",
+    "title": "Neumarkt and St Margaret's Church - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/174422cd-1345-41b6-8467-b2abbc57ec0d/Neumarkt%20and%20St%20Margaret's%20Church%20-%20EN.mp3",
+      "file_name": "Neumarkt and St Margaret's Church - EN.mp3",
+      "file_size": 3914123,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "cb72a994cbd77e4725f5c5c609ad790ffa30adad",
+      "title": "Neumarkt and St Margaret's Church - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:29:44.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

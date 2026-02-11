@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071191,
+    "uuid": "db1cd875-f6ec-4dcc-9b7e-77cd9ad77400",
+    "title": "Audio",
+    "content": {
+      "key": "audio",
+      "icon": "6999a98b-5273-459e-946d-852b185809de",
+      "label": {
+        "ar-AE": "صوتي",
+        "ar-SA": "صوتي",
+        "de-DE": "Audio",
+        "en-GB": "Audio",
+        "en-US": "Audio",
+        "es-ES": "Audio",
+        "fa-IR": "صوتی",
+        "fr-FR": "Audio",
+        "it-IT": "Audio",
+        "ja-JP": "オーディオ",
+        "nl-NL": "Audio",
+        "zh-CN": "声音的",
+        "nl-NL-AD": "Audio",
+        "nl-NL-sl": "Audio"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "715c57bc911e540e8a8698a88c56442b4d831b11",
+      "title": "Audio",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:42:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6999a98b-5273-459e-946d-852b185809de"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

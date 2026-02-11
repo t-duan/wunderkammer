@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070771,
+    "uuid": "514973f5-00a8-4a9e-9caa-5823e6ad562c",
+    "title": "Parking",
+    "content": {
+      "key": "parking",
+      "icon": "aebe4035-8d93-4314-83d0-f36378bb6f9e",
+      "label": {
+        "ar-AE": "وقوف السيارات",
+        "ar-SA": "وقوف السيارات",
+        "de-DE": "Parken",
+        "en-GB": "Parking",
+        "en-US": "Parking",
+        "es-ES": "Aparcamiento",
+        "fa-IR": "پارکینگ",
+        "fr-FR": "Parking",
+        "it-IT": "Parcheggio",
+        "ja-JP": "駐車場",
+        "nl-NL": "Parkeren",
+        "zh-CN": "停車處",
+        "nl-NL-AD": "Parkeren",
+        "nl-NL-sl": "Parkeren"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2e49ddd330abe765e2e4d9973465d2c7db3e2262",
+      "title": "Parking",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:50:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "aebe4035-8d93-4314-83d0-f36378bb6f9e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

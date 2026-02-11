@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080376,
+    "uuid": "0dd38056-32d5-4171-a8f7-13f257280957",
+    "title": "The Duchess’ Salon",
+    "content": {
+      "title": {
+        "de-DE": "The Duchess’ Salon",
+        "en-US": "The Duchess’ Salon"
+      },
+      "audiofile": {
+        "de-DE": "4ca8c9c4-fa0b-4a25-9424-cad49abe403f",
+        "en-US": "0d8005bf-81cc-4d30-bf09-93615bb993b8"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "abe11829db4c765f9ff5ebf467cdd93a3e9bbdbb",
+      "title": "The Duchess’ Salon",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:15:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0d8005bf-81cc-4d30-bf09-93615bb993b8",
+          "4ca8c9c4-fa0b-4a25-9424-cad49abe403f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080070,
+    "uuid": "8fe33b94-736e-4f43-844c-6a787ef7c86f",
+    "title": "33 Cranach: Damnation and Salvation",
+    "content": {
+      "image": "83f0eb8b-40f6-45e3-994a-c34b345ad323",
+      "title": {
+        "de-DE": "Cranach: Verdammnis und Erlösung",
+        "en-US": "Cranach: Damnation and Salvation"
+      },
+      "preview": false,
+      "stopnumber": 133,
+      "primary_segment": "56449b53-86f4-4087-9c99-9b7a86fbc531",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f1ee874fccf226cd24b9c7557852e5a168cfe07f",
+      "title": "33 Cranach: Damnation and Salvation",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:20:49.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "83f0eb8b-40f6-45e3-994a-c34b345ad323"
+        ],
+        "audio_segment": [
+          "56449b53-86f4-4087-9c99-9b7a86fbc531"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

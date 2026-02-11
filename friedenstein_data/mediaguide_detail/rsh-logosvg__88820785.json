@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6341,
+    "uuid": "88820785-b49e-47a8-b54b-7ec851e44059",
+    "title": "rsh-logo.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/88820785-b49e-47a8-b54b-7ec851e44059/rsh-logo.svg",
+      "file_name": "rsh-logo.svg",
+      "file_size": 11925,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "3783e6ce556ccc79dc9818b8b76b1bfc22359675",
+      "title": "rsh-logo.svg",
+      "locales": [],
+      "createdAt": "2024-09-20T14:23:54.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22226,
+    "uuid": "06ea0845-3e0f-45bb-a67f-562cc1bd021d",
+    "title": "Cas_25 ENG Wax portraits Gotha Royal Couples.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/06ea0845-3e0f-45bb-a67f-562cc1bd021d/Cas_25%20ENG%20Wax%20portraits%20Gotha%20Royal%20Couples.mp3",
+      "file_name": "Cas_25 ENG Wax portraits Gotha Royal Couples.mp3",
+      "file_size": 1701976,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a7fa42cf23678188be4a76d5c69bacf031227477",
+      "title": "Cas_25 ENG Wax portraits Gotha Royal Couples.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

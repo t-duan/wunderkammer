@@ -1,0 +1,131 @@
+[
+  {
+    "id": 2080610,
+    "uuid": "90dbcec4-638d-4454-94e1-8ad944690ff6",
+    "title": "Kaufhaus Bauhaus",
+    "content": {
+      "title": {
+        "de-DE": "Kaufhaus Bauhaus",
+        "en-US": "Bauhaus Department Store"
+      },
+      "audiofile": {
+        "de-DE": "cd438f30-8402-4de9-bb15-3639d6abf905",
+        "en-US": "e74b7448-942b-4a31-add7-d0793d4681e1"
+      },
+      "timed_images": [
+        {
+          "id": "48300995-e65f-4cbe-a23e-3a580e58bb39",
+          "hide_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Bauhaus Kaufhaus1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "96e97efd-5bed-5f82-9e83-ea69097ca042"
+        },
+        {
+          "id": "11b467fb-53ac-45f3-8741-ee3ab20ec882",
+          "hide_at": {
+            "de-DE": 23,
+            "en-US": 23
+          },
+          "show_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "blockName": "Timed image Bauhaus Kaufhaus2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "a04e3701-ac9d-5337-912c-c878e899f867"
+        },
+        {
+          "id": "5ae8e6dd-620c-400b-a2f1-d5702baad625",
+          "hide_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "show_at": {
+            "de-DE": 23,
+            "en-US": 23
+          },
+          "blockName": "Timed image Bauhaus Kaufhaus3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "58cf82ca-5df4-595c-83e2-0a20979cd4cc"
+        },
+        {
+          "id": "1a596b64-ec31-4a33-8143-329da1e5a4f0",
+          "hide_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "show_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "blockName": "Timed image Bauhaus Kaufhaus4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "25c178ba-a975-5ba6-8e9c-679acb229f88"
+        },
+        {
+          "id": "d48c66f2-1488-440d-b3c4-b248b8eef540",
+          "hide_at": {
+            "de-DE": 46,
+            "en-US": 46
+          },
+          "show_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "blockName": "Timed image Bauhaus Kaufhaus5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "edc90e0c-ff3d-56c4-ad13-f66001f2dc3f"
+        },
+        {
+          "id": "daae1565-0c23-4084-a872-f25daac8e200",
+          "hide_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "show_at": {
+            "de-DE": 46,
+            "en-US": 46
+          },
+          "blockName": "Timed image Bauhaus Kaufhaus6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "51af328f-5fe1-5b15-90ac-ce75169dbdff"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Hier, im Herzen von Gotha, steht ein Gebäude, das einst die Silhouette der Stadt veränderte. Das Kaufhaus, erbaut im Jahr 1928, war ein Fremdkörper – modern, schlicht und mit einer ungewohnten Klarheit, die im starken Kontrast zu den barocken und neoklassizistischen Fassaden der Umgebung stand. Der Architekt Bruno Tamme ließ sich von der revolutionären Bauhaus-Bewegung inspirieren, die damals die Architektur neu definierte. Dies war kein gewöhnliches Warenhaus. Dies war ein Statement.\"\n\n\"Doch hinter dieser modernen Fassade verbarg sich eine dunkle Geschichte. Das Kaufhaus wurde für die jüdische Kaufmannsfamilie Israelski errichtet, die hier Stoffe und Manufakturwaren verkaufte. Doch 1938, während der NS-Zeit, wurde ihnen das Geschäft genommen. Die Nationalsozialisten zwangen sie zur Enteignung – das Kaufhaus wurde 'arisiert' und in deutsche Hände überführt.\"\n\n\"Nach dem Krieg erhielt die Familie Israelski das Kaufhaus zurück, doch die neue Zeit brachte neue Machtstrukturen. 1953 wurde es Teil der staatlichen Handelsorganisation (HO) der DDR. Generationen von Gothaern kauften hier Kleidung und Haushaltswaren, unter immer neuen Namen: 'Magnet', 'Joh' und schließlich, nach der Wende, 'Moses'. Doch wer genau hinsieht, erkennt noch immer die Konturen des ursprünglichen Designs – ein Echo der Bauhaus-Vision und der Menschen, die sie zum Leben erweckten.\"\n\n\"Heute ist es ein Warenhaus wie viele andere. Doch wenn Sie nach oben blicken, stellen Sie sich vor, wie es 1928 aussah – mit seiner leuchtenden Turmspitze, die über der Ecke thronte, ein Symbol des Fortschritts. Der Turm ist verschwunden, aber die Geschichte bleibt.\"",
+        "en-US": "\"Here, in the heart of Gotha, stands a building that once changed the city’s skyline. The department store, built in 1928, was an anomaly – modern, sleek, and with an unprecedented clarity that stood in stark contrast to the baroque and neoclassical facades surrounding it. Architect Bruno Tamme took inspiration from the revolutionary Bauhaus movement, which was redefining architecture at the time. This was no ordinary store. This was a statement.\"\n\n\"But behind this modern facade lay a darker story. The department store was built for the Jewish merchant family Israelski, who sold textiles and manufactured goods here. But in 1938, during the Nazi era, they were forced to give up their business. The National Socialists confiscated their store – it was ‘Aryanized’ and taken over by German owners.\"\n\n\"After the war, the Israelski family regained ownership of the department store, but the new era brought new power structures. In 1953, it became part of the Eastern German state-owned conglomerate of retail business, by the name of HO. Generations of Gotha residents bought clothing and household goods here. The store went through changes of names during the various generations, such as the store name of Magnet, Joh, and then, after reunification, the store name Moses finally stuck. But those who look closely can still see the outlines of the original design – an echo of the Bauhaus vision and the people who brought it to life.\"\n\n\"Today, it is just another department store. But if you look up, imagine how it appeared in 1928 – with its illuminated tower crown, rising above the corner, a symbol of progress. The tower is gone, but the story remains.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "fba34dddf70074e5a5695eea1205a860b083895c",
+      "title": "Kaufhaus Bauhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-17T10:22:47.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "cd438f30-8402-4de9-bb15-3639d6abf905",
+          "e74b7448-942b-4a31-add7-d0793d4681e1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

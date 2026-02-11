@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35526,
+    "uuid": "9afc14af-7553-5aa4-8871-6d25251ecd98",
+    "title": "Bahnhofstraße, Am Hauptbahnhof",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Am Hauptbahnhof",
+        "en-US": "Bahnhofstraße, Am Hauptbahnhof"
+      },
+      "period": {
+        "de-DE": [
+          "1922 - 1945"
+        ],
+        "en-US": [
+          "1922 - 1945"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 6.0 cm",
+          "Breite 9.0 cm"
+        ],
+        "en-US": [
+          "Höhe 6.0 cm",
+          "Breite 9.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031918%2F871347_00221911_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "467"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f8182fa59ed86b0cb9395d40627202d14628ba0f",
+      "title": "Bahnhofstraße, Am Hauptbahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.218Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "B88D1A377519486C823FE8F9C60D187F"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

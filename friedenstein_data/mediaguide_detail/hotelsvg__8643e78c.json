@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6317,
+    "uuid": "8643e78c-0763-4138-bac9-278cf0534026",
+    "title": "hotel.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/8643e78c-0763-4138-bac9-278cf0534026/hotel.svg",
+      "file_name": "hotel.svg",
+      "file_size": 2916,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "65a6c3bcd655723eea725ced0472f0b031fcacbb",
+      "title": "hotel.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

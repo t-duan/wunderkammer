@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080325,
+    "uuid": "34d2dccd-e52d-4ab4-a516-805195a4f816",
+    "title": "42 West Tower",
+    "content": {
+      "image": "852daa67-0472-451c-928c-3c76fb1e0cb0",
+      "title": {
+        "de-DE": "Westturm",
+        "en-US": "West Tower"
+      },
+      "preview": false,
+      "stopnumber": 42,
+      "primary_segment": "24ae7b1c-0736-4290-9433-4e7f3cf554f1",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5442641d8dcbc7a819bd75d62616c74a73fc8e90",
+      "title": "42 West Tower",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:25:05.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "852daa67-0472-451c-928c-3c76fb1e0cb0"
+        ],
+        "audio_segment": [
+          "24ae7b1c-0736-4290-9433-4e7f3cf554f1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

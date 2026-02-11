@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35613,
+    "uuid": "4e74da78-fdd9-5504-b567-82b9eef13442",
+    "title": "Ostasiatische Sammlung im Herzoglichen Museum Gotha",
+    "content": {
+      "title": {
+        "de-DE": "Ostasiatische Sammlung im Herzoglichen Museum Gotha",
+        "en-US": "Ostasiatische Sammlung im Herzoglichen Museum Gotha"
+      },
+      "creator": [
+        "Rose Heidl"
+      ],
+      "material": {
+        "de-DE": [
+          "Gelatinetrockenplatte"
+        ],
+        "en-US": [
+          "Gelatinetrockenplatte"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 24.0 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 24.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Negativ <Fotografie>"
+        ],
+        "en-US": [
+          "Negativ <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01073101%2F871347_00274566_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "871347_00274566"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "deda46f8f0fb77d631960ecf752050752ea39b92",
+      "title": "Ostasiatische Sammlung im Herzoglichen Museum Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.246Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "F1ABEF13DA3E4682B68C93E9B5B3DC27"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

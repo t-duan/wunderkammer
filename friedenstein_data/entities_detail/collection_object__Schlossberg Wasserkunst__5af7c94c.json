@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35424,
+    "uuid": "5af7c94c-9e5e-56a8-ac27-348beaed92ff",
+    "title": "Schlossberg, Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Schlossberg, Wasserkunst",
+        "en-US": "Schlossberg, Wasserkunst"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 6.0 cm",
+          "Breite 8.8 cm"
+        ],
+        "en-US": [
+          "Höhe 6.0 cm",
+          "Breite 8.8 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01061980%2F871347_00249542_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2781"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "134326f2fcb6f6fec086f9a9e4f6821c218382f2",
+      "title": "Schlossberg, Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.214Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "84F59C09CE7F46D1AAEA5A1BC6F3B3F2"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

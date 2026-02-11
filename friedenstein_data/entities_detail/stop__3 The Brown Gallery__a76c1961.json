@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080550,
+    "uuid": "a76c1961-1473-4a17-bbf7-221fde70dfef",
+    "title": "3 The Brown Gallery",
+    "content": {
+      "image": "f77059dc-a53e-4221-bc5c-6a6e4daa7f1e",
+      "title": {
+        "de-DE": "Braune Galerie",
+        "en-US": "The Brown Gallery"
+      },
+      "preview": false,
+      "stopnumber": 3,
+      "primary_segment": "e461ca72-f2a8-40b8-abe4-d18691b51133",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9f8482b16842a721e06879d645a50fee85db7a23",
+      "title": "3 The Brown Gallery",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:46:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "f77059dc-a53e-4221-bc5c-6a6e4daa7f1e"
+        ],
+        "audio_segment": [
+          "e461ca72-f2a8-40b8-abe4-d18691b51133"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

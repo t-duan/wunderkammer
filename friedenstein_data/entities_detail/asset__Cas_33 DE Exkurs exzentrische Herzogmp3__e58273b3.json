@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22257,
+    "uuid": "e58273b3-83c4-4d19-93e0-867ff1f39e55",
+    "title": "Cas_33 DE Exkurs exzentrische Herzog.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/e58273b3-83c4-4d19-93e0-867ff1f39e55/Cas_33%20DE%20Exkurs%20exzentrische%20Herzog.mp3",
+      "file_name": "Cas_33 DE Exkurs exzentrische Herzog.mp3",
+      "file_size": 7673757,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e7d7e3244bb5853504c2c8f1b1d01b53885aebb5",
+      "title": "Cas_33 DE Exkurs exzentrische Herzog.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:17.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35625,
+    "uuid": "1ed49030-54e7-58b8-9e8b-293c1d504636",
+    "title": "Bahnhofstraße, Lebensversicherungsbank a.G.",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Lebensversicherungsbank a.G.",
+        "en-US": "Bahnhofstraße, Lebensversicherungsbank a.G."
+      },
+      "period": {
+        "de-DE": [
+          "1894 - 1918"
+        ],
+        "en-US": [
+          "1894 - 1918"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Papier"
+        ],
+        "en-US": [
+          "Papier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031921%2F871347_00221916_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "9728"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f7a2f5d4a44c2322100fb90bc5ae6c94b8eb3b28",
+      "title": "Bahnhofstraße, Lebensversicherungsbank a.G.",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.104Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "85A79B7F79B54222A287546510AFC187"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

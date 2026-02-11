@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070531,
+    "uuid": "8190655b-c63e-4e3d-837c-a57f0165c75a",
+    "title": "Train",
+    "content": {
+      "key": "train",
+      "icon": "398771c9-cf17-4e03-a365-1731480954c0",
+      "label": {
+        "ar-AE": "يدرب",
+        "ar-SA": "يدرب",
+        "de-DE": "Zug",
+        "en-GB": "Train",
+        "en-US": "Train",
+        "es-ES": "Tren",
+        "fa-IR": "قطار",
+        "fr-FR": "Train",
+        "it-IT": "Treno",
+        "ja-JP": "電車",
+        "nl-NL": "Trein",
+        "zh-CN": "火车",
+        "nl-NL-AD": "Trein",
+        "nl-NL-sl": "Trein"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "618243d7cfd3b6d69423885ac216416014641642",
+      "title": "Train",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:56:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "398771c9-cf17-4e03-a365-1731480954c0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

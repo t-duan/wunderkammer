@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070816,
+    "uuid": "b5f2c5ff-da79-48e9-b442-aeea4a1b19d9",
+    "title": "Mosque",
+    "content": {
+      "key": "mosque",
+      "icon": "d4617a21-99db-40c3-b960-437a6e98669c",
+      "label": {
+        "ar-AE": "مسجد",
+        "ar-SA": "مسجد",
+        "de-DE": "Moschee",
+        "en-GB": "Mosque",
+        "en-US": "Mosque",
+        "es-ES": "Mezquita",
+        "fa-IR": "مسجد",
+        "fr-FR": "Mosquée",
+        "it-IT": "Moschea",
+        "ja-JP": "モスク",
+        "nl-NL": "Moskee",
+        "zh-CN": "清真寺",
+        "nl-NL-AD": "Moskee",
+        "nl-NL-sl": "Moskee"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "999277bae6e8c9ab6e7c2525ce2c5480343db668",
+      "title": "Mosque",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:49:00.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "d4617a21-99db-40c3-b960-437a6e98669c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

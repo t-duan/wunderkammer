@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080670,
+    "uuid": "83833416-53f3-44c0-ae0b-3cc073d99108",
+    "title": "Altes Theater",
+    "content": {
+      "image": "b4721a13-5d39-460a-a572-b453bc0b0101",
+      "title": {
+        "de-DE": "Altes Theater",
+        "en-US": "The Old Theater"
+      },
+      "preview": false,
+      "primary_segment": "04256b75-00ca-4ec3-be93-31296d35a795",
+      "secondary_segments": [
+        "f78bf8f1-c6b6-4dd7-a941-83fee1037422",
+        "b0346d3b-eaa8-4624-b828-151c7329db69"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1215e4261493b2743c7703b3656cb58c0457e1f9",
+      "title": "Altes Theater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-10T11:50:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b4721a13-5d39-460a-a572-b453bc0b0101"
+        ],
+        "audio_segment": [
+          "04256b75-00ca-4ec3-be93-31296d35a795"
+        ],
+        "comments_segment": [
+          "b0346d3b-eaa8-4624-b828-151c7329db69"
+        ],
+        "collection_object_gallery_segment": [
+          "f78bf8f1-c6b6-4dd7-a941-83fee1037422"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

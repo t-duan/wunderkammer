@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080133,
+    "uuid": "cd2121af-9e4f-4fc6-9b65-791dc3c02a6c",
+    "title": "Neumarkt und Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a8f71d90299835b8e85a8db7c28f00341aaef6f7",
+      "title": "Neumarkt und Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:05:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

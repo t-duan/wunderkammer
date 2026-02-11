@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22236,
+    "uuid": "76743fd2-648d-4105-aec7-1262ef8c76db",
+    "title": "Cas_11 ENG Rococo Hall & Duchess Audience Room.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/76743fd2-648d-4105-aec7-1262ef8c76db/Cas_11%20ENG%20Rococo%20Hall%20%26%20Duchess%20Audience%20Room.mp3",
+      "file_name": "Cas_11 ENG Rococo Hall & Duchess Audience Room.mp3",
+      "file_size": 1965829,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1d589b30776a0aba4e0944963744ee09d71c9e46",
+      "title": "Cas_11 ENG Rococo Hall & Duchess Audience Room.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:24.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

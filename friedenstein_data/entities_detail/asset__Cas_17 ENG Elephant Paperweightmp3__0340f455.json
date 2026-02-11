@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21012,
+    "uuid": "0340f455-0fb2-4101-9806-1713530834e4",
+    "title": "Cas_17 ENG Elephant Paperweight.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/0340f455-0fb2-4101-9806-1713530834e4/Cas_17%20ENG%20Elephant%20Paperweight.mp3",
+      "file_name": "Cas_17 ENG Elephant Paperweight.mp3",
+      "file_size": 815564,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "df22447d63477ca14228ebf5390fb6b4e5b7d543",
+      "title": "Cas_17 ENG Elephant Paperweight.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

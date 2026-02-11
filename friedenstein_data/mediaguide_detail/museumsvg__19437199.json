@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6008,
+    "uuid": "19437199-9d28-41ad-962b-24dc00789eae",
+    "title": "museum.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/19437199-9d28-41ad-962b-24dc00789eae/museum.svg",
+      "file_name": "museum.svg",
+      "file_size": 693,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a5ba41219fbd7981e3d68cd0ba6bb1eafc918372",
+      "title": "museum.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:35.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

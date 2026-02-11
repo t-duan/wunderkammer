@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071146,
+    "uuid": "b56dfdf6-9863-413c-aa6b-dd0cf3fad887",
+    "title": "Beach",
+    "content": {
+      "key": "beach",
+      "icon": "e90736c1-1657-4196-ae32-84542104ec72",
+      "label": {
+        "ar-AE": "شاطئ",
+        "ar-SA": "شاطئ",
+        "de-DE": "Strand",
+        "en-GB": "Beach",
+        "en-US": "Beach",
+        "es-ES": "Playa",
+        "fa-IR": "ساحل",
+        "fr-FR": "Plage",
+        "it-IT": "Spiaggia",
+        "ja-JP": "ビーチ",
+        "nl-NL": "Strand",
+        "zh-CN": "海滩",
+        "nl-NL-AD": "Strand",
+        "nl-NL-sl": "Strand"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d7a36536a3604b986b5facfad81a906387817463",
+      "title": "Beach",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:43:05.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "e90736c1-1657-4196-ae32-84542104ec72"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

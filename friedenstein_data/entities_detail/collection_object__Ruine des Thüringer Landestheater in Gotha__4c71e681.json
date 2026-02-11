@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35394,
+    "uuid": "4c71e681-4514-5a33-9926-e0b63b36fcd8",
+    "title": "Ruine des Thüringer Landestheater in Gotha",
+    "content": {
+      "title": {
+        "de-DE": "Ruine des Thüringer Landestheater in Gotha",
+        "en-US": "Ruine des Thüringer Landestheater in Gotha"
+      },
+      "period": {
+        "de-DE": [
+          "1945 - 1958"
+        ],
+        "en-US": [
+          "1945 - 1958"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.2 cm",
+          "Breite 11.6 cm"
+        ],
+        "en-US": [
+          "Höhe 8.2 cm",
+          "Breite 11.6 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01047845%2F871347_00226592_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "24613"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "54502e52994ec70f0cc7031a2f356539db37316c",
+      "title": "Ruine des Thüringer Landestheater in Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.515Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "1CD6EAFC5AB6482FB5989C9CE230E956"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

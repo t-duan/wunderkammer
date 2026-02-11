@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22233,
+    "uuid": "3a61a11b-8d81-4f99-90c8-61077e5187a0",
+    "title": "Cas_15 ENG Banqueting Hall.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3a61a11b-8d81-4f99-90c8-61077e5187a0/Cas_15%20ENG%20Banqueting%20Hall.mp3",
+      "file_name": "Cas_15 ENG Banqueting Hall.mp3",
+      "file_size": 2618749,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "26ac6c2c877db6c105b3e3cbd094c7f50809fe61",
+      "title": "Cas_15 ENG Banqueting Hall.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

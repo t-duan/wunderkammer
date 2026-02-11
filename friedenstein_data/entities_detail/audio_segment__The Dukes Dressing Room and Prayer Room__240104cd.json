@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080517,
+    "uuid": "240104cd-165d-415f-972f-c78a2dae0bf7",
+    "title": "The Duke’s Dressing Room and Prayer Room",
+    "content": {
+      "title": {
+        "de-DE": "The Duke’s Dressing Room and Prayer Room",
+        "en-US": "The Duke’s Dressing Room and Prayer Room"
+      },
+      "audiofile": {
+        "de-DE": "07c2c61e-474e-4eb4-8df5-eb135129692a",
+        "en-US": "e4e55d8d-c09f-4905-95c8-fd05fe17c2d5"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "96247836523f74469599b5d1db26ab23ba80e146",
+      "title": "The Duke’s Dressing Room and Prayer Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:59:51.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "07c2c61e-474e-4eb4-8df5-eb135129692a",
+          "e4e55d8d-c09f-4905-95c8-fd05fe17c2d5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

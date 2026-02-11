@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079911,
+    "uuid": "4dd4d878-7155-4a7c-8a9b-91c0398b2ffd",
+    "title": "60 Rembrandt, Workshop/Circle: Bust Portrait",
+    "content": {
+      "title": {
+        "de-DE": "60 Rembrandt, Workshop/Circle: Bust Portrait",
+        "en-US": "60 Rembrandt, Workshop/Circle: Bust Portrait"
+      },
+      "audiofile": {
+        "de-DE": "c2f1d1d2-f296-48c4-bb26-57f5302fc19e",
+        "en-US": "334fcae3-e09e-4527-9798-ac95acea06a8"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "379d3e5b30615da16633b7db4170415dd7c4e69f",
+      "title": "60 Rembrandt, Workshop/Circle: Bust Portrait",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:07:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "334fcae3-e09e-4527-9798-ac95acea06a8",
+          "c2f1d1d2-f296-48c4-bb26-57f5302fc19e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

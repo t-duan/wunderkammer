@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6327,
+    "uuid": "4ee0ae8a-f902-47dc-b0c4-0eb06c0ebb80",
+    "title": "first_aid.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/4ee0ae8a-f902-47dc-b0c4-0eb06c0ebb80/first_aid.svg",
+      "file_name": "first_aid.svg",
+      "file_size": 1191,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "2d222308015cdf64907a11e0f86124c91d92fdfe",
+      "title": "first_aid.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

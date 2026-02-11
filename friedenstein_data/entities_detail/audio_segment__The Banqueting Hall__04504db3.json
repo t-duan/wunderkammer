@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080481,
+    "uuid": "04504db3-d258-4a72-846d-70f706d6b6c8",
+    "title": "The Banqueting Hall",
+    "content": {
+      "title": {
+        "de-DE": "The Banqueting Hall",
+        "en-US": "The Banqueting Hall"
+      },
+      "audiofile": {
+        "de-DE": "530403f0-8b20-4940-8b19-9c5a201a0ead",
+        "en-US": "3a61a11b-8d81-4f99-90c8-61077e5187a0"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3f549ebd17e2b085d6d8afb8ee18de2cb60c6bab",
+      "title": "The Banqueting Hall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:17:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3a61a11b-8d81-4f99-90c8-61077e5187a0",
+          "530403f0-8b20-4940-8b19-9c5a201a0ead"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

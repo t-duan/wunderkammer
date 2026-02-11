@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35427,
+    "uuid": "6abcdd7d-3af3-53a2-8ba3-0153dc8c491a",
+    "title": "Schloss Friedenstein, Baugerüst am Ostturm",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein, Baugerüst am Ostturm",
+        "en-US": "Schloss Friedenstein, Baugerüst am Ostturm"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 7.0 cm",
+          "Breite 10.0 cm"
+        ],
+        "en-US": [
+          "Höhe 7.0 cm",
+          "Breite 10.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01063455%2F871347_00250041_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2796"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "91db9a00bf797ed726c39e94e0ae5e252d95d083",
+      "title": "Schloss Friedenstein, Baugerüst am Ostturm",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.183Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "1162C934046044D2A012BDEEF2B13E4E"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

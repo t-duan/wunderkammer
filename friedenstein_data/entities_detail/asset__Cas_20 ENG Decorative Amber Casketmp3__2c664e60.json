@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22229,
+    "uuid": "2c664e60-a668-4f19-a353-fc1f584da65f",
+    "title": "Cas_20 ENG Decorative Amber Casket.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/2c664e60-a668-4f19-a353-fc1f584da65f/Cas_20%20ENG%20Decorative%20Amber%20Casket.mp3",
+      "file_name": "Cas_20 ENG Decorative Amber Casket.mp3",
+      "file_size": 1109170,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1e53e664de3e7d80b6f0007d884026e7d9a9f079",
+      "title": "Cas_20 ENG Decorative Amber Casket.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

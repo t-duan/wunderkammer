@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080445,
+    "uuid": "a580dfd1-3086-4893-8052-51946ded429a",
+    "title": "Small Equestrian Statuette of August the Strong",
+    "content": {
+      "title": {
+        "de-DE": "Small Equestrian Statuette of August the Strong",
+        "en-US": "Small Equestrian Statuette of August the Strong"
+      },
+      "audiofile": {
+        "de-DE": "0dd420f6-0b93-4025-afaa-843439080c2c",
+        "en-US": "b1574ba1-1b24-4994-ac4c-69eb41b3d644"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7981289ed44208e84728fac46265698d93b0fb4d",
+      "title": "Small Equestrian Statuette of August the Strong",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:57:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0dd420f6-0b93-4025-afaa-843439080c2c",
+          "b1574ba1-1b24-4994-ac4c-69eb41b3d644"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080346,
+    "uuid": "89df70e8-5442-4664-80fe-a29910ab95fa",
+    "title": "The Duke’s Yellow Room",
+    "content": {
+      "title": {
+        "de-DE": "The Duke’s Yellow Room",
+        "en-US": "The Duke’s Yellow Room"
+      },
+      "audiofile": {
+        "de-DE": "c196ba00-5958-4247-bdca-5b196a08ab1d",
+        "en-US": "fcd54937-39f0-40e6-b5ef-9999045af502"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "01711e94c573a3302f520569286a8db7ea7705ac",
+      "title": "The Duke’s Yellow Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:21:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c196ba00-5958-4247-bdca-5b196a08ab1d",
+          "fcd54937-39f0-40e6-b5ef-9999045af502"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

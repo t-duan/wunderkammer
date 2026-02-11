@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35457,
+    "uuid": "1da0801c-9654-5e73-b7d2-6a9f71cfa1cd",
+    "title": "Hauptmarkt, Standbild in der Westfassade der Innungshalle",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Standbild in der Westfassade der Innungshalle",
+        "en-US": "Hauptmarkt, Standbild in der Westfassade der Innungshalle"
+      },
+      "period": {
+        "de-DE": [
+          "1992"
+        ],
+        "en-US": [
+          "1992"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.8 cm",
+          "Breite 12.8 cm"
+        ],
+        "en-US": [
+          "Höhe 8.8 cm",
+          "Breite 12.8 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064073%2F871347_00250803_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "3928"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a41c64d59443da5a2002385aeac3d8c93e529906",
+      "title": "Hauptmarkt, Standbild in der Westfassade der Innungshalle",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.897Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "A2A7446A86D64DB296B43E1F79507218"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

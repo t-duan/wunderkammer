@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080082,
+    "uuid": "d0d64697-10fd-488b-beb3-346d2061d022",
+    "title": "31 The Picture Collection",
+    "content": {
+      "image": "661adb1c-0210-47ba-a0c2-c6278dacb7f5",
+      "title": {
+        "de-DE": "Die Gemäldesammlung",
+        "en-US": "The Picture Collection"
+      },
+      "preview": false,
+      "stopnumber": 131,
+      "primary_segment": "fa9681c3-b05b-426e-aaa6-e76ece04b383",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "97418f73aa6dd587cfc539a2085fa71800585eb1",
+      "title": "31 The Picture Collection",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:18:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "661adb1c-0210-47ba-a0c2-c6278dacb7f5"
+        ],
+        "audio_segment": [
+          "fa9681c3-b05b-426e-aaa6-e76ece04b383"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

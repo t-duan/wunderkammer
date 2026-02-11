@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080295,
+    "uuid": "c95f91c3-f449-4151-acc9-14bf8d706e67",
+    "title": "02 The mummy of Tian Tian",
+    "content": {
+      "image": "2aab83b9-441e-4c47-9896-372b986d8dae",
+      "title": {
+        "de-DE": "Die Mumie der Tjen-Tjen",
+        "en-US": "The mummy of Tian Tian"
+      },
+      "preview": false,
+      "stopnumber": 102,
+      "primary_segment": "d6f53a7d-9222-4265-ac2d-d3d98fd8e69f",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c1861921adaafd2c27a375650b6a28a22f9a02f5",
+      "title": "02 The mummy of Tian Tian",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:27:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2aab83b9-441e-4c47-9896-372b986d8dae"
+        ],
+        "audio_segment": [
+          "d6f53a7d-9222-4265-ac2d-d3d98fd8e69f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

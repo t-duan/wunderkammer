@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070846,
+    "uuid": "59a28a70-94ea-4cc2-841e-97f5b194e7c2",
+    "title": "Information",
+    "content": {
+      "key": "information",
+      "icon": "abc0c38b-cbea-44a2-8f55-60472d57359a",
+      "label": {
+        "ar-AE": "المعلومات",
+        "ar-SA": "المعلومات",
+        "de-DE": "Informationen",
+        "en-GB": "Information",
+        "en-US": "Information",
+        "es-ES": "Información",
+        "fa-IR": "اطلاعات",
+        "fr-FR": "Informations",
+        "it-IT": "Informazioni",
+        "ja-JP": "インフォメーション",
+        "nl-NL": "Informatie",
+        "zh-CN": "信息",
+        "nl-NL-AD": "Informatie",
+        "nl-NL-sl": "Informatie"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e760a6f5d7fbc6289a109a04b101f9e35c6689de",
+      "title": "Information",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:48:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "abc0c38b-cbea-44a2-8f55-60472d57359a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

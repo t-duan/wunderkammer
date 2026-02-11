@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079836,
+    "uuid": "d549cac0-9f51-487a-8d2a-f7f52d4800aa",
+    "title": "72 Teapot with Small Dormice Between Vine Branches",
+    "content": {
+      "image": "d8f52680-8209-46a7-a837-3b0c627b1213",
+      "title": {
+        "de-DE": "Teekanne mit Bilchen in Weinranken",
+        "en-US": "Teapot with Small Dormice Between Vine Branches"
+      },
+      "preview": false,
+      "stopnumber": 172,
+      "primary_segment": "ce0267c6-38cf-43d6-bd77-66043137b53e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "061651dd8a2804b6a4d04bb34e159ff1606a7055",
+      "title": "72 Teapot with Small Dormice Between Vine Branches",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:34:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "d8f52680-8209-46a7-a837-3b0c627b1213"
+        ],
+        "audio_segment": [
+          "ce0267c6-38cf-43d6-bd77-66043137b53e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

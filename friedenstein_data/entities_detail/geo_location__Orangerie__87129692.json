@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080577,
+    "uuid": "87129692-a701-4864-846d-5fede7136c0c",
+    "title": "Orangerie",
+    "content": {
+      "type": "audio",
+      "content": "22c77d1c-8c4d-46bd-b111-002b9ceb6983",
+      "geo_location": {
+        "lat": 50.946978,
+        "lng": 10.709633
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1a2958b79ec989da8293eccad9181919c067b193",
+      "title": "Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:39:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "22c77d1c-8c4d-46bd-b111-002b9ceb6983"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

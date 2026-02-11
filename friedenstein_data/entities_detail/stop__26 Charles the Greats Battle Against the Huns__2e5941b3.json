@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080415,
+    "uuid": "2e5941b3-5ffe-4f80-88b8-eb44692df902",
+    "title": "26 Charles the Great’s Battle Against the Huns",
+    "content": {
+      "image": "b97fc8a1-13ac-4fb4-85bf-ef68123ba64d",
+      "title": {
+        "de-DE": "Schlacht Karls d. G. gegen die Hunnen vor Regensburg",
+        "en-US": "Charles the Great’s Battle Against the Huns"
+      },
+      "preview": false,
+      "stopnumber": 26,
+      "primary_segment": "c2227e07-cb3e-4ce0-af26-f752f6a41720",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "eb0d97fa2f5f9b5f9a3bcd6e3e5bb2ca957b15e1",
+      "title": "26 Charles the Great’s Battle Against the Huns",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:05:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b97fc8a1-13ac-4fb4-85bf-ef68123ba64d"
+        ],
+        "audio_segment": [
+          "c2227e07-cb3e-4ce0-af26-f752f6a41720"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

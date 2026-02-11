@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080586,
+    "uuid": "673dfb1a-7bc5-4851-ba67-096da55fdb6e",
+    "title": "Jüdenstraße und Schwarzes Viertel",
+    "content": {
+      "type": "audio",
+      "content": "4e78c58d-7fa7-4c7b-a248-8521fb12e957",
+      "geo_location": {
+        "lat": 50.948159,
+        "lng": 10.701702
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "53c159bf454376108ce5e4237213101a7f0bf45f",
+      "title": "Jüdenstraße und Schwarzes Viertel",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:38:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "4e78c58d-7fa7-4c7b-a248-8521fb12e957"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

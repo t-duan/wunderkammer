@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35574,
+    "uuid": "9617dc0a-5c7d-587d-9e93-b56dab87fe83",
+    "title": "Orangerie mit Gewächshaus",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie mit Gewächshaus",
+        "en-US": "Orangerie mit Gewächshaus"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.0 cm",
+          "Breite 16.5 cm"
+        ],
+        "en-US": [
+          "Höhe 11.0 cm",
+          "Breite 16.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040486%2F871347_00251448_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55949"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3f50a2595bc85410b1822cdf769fc1c3a89075c8",
+      "title": "Orangerie mit Gewächshaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.692Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "0E310346FFD44ADB8FCB34FDC866198A"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

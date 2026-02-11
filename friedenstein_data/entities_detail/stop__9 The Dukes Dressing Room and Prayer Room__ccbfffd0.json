@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080514,
+    "uuid": "ccbfffd0-1b6e-4b25-9fb2-5ed2601ab7f8",
+    "title": "9 The Duke’s Dressing Room and Prayer Room",
+    "content": {
+      "image": "b01fd996-4fea-4f33-9c5e-3496c491aa1c",
+      "title": {
+        "de-DE": "Ankleide- und Betkabinett des Herzogs",
+        "en-US": "The Duke’s Dressing Room and Prayer Room"
+      },
+      "preview": false,
+      "stopnumber": 9,
+      "primary_segment": "240104cd-165d-415f-972f-c78a2dae0bf7",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "bf1525c92c3249251dcf6bf1d1f8233989d8f69c",
+      "title": "9 The Duke’s Dressing Room and Prayer Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:00:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b01fd996-4fea-4f33-9c5e-3496c491aa1c"
+        ],
+        "audio_segment": [
+          "240104cd-165d-415f-972f-c78a2dae0bf7"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

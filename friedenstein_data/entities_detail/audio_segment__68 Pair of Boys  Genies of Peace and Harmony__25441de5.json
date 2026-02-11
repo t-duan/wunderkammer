@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079863,
+    "uuid": "25441de5-1279-42d5-b54c-3b26f34b6f4b",
+    "title": "68 Pair of Boys – Genies of Peace and Harmony",
+    "content": {
+      "title": {
+        "de-DE": "68 Pair of Boys – Genies of Peace and Harmony",
+        "en-US": "68 Pair of Boys – Genies of Peace and Harmony"
+      },
+      "audiofile": {
+        "de-DE": "361b71d7-ba2d-4621-bcb2-7f01764092fd",
+        "en-US": "5f9f0cfe-a304-4546-bb6a-5ca9aeb40a9e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c44361c388df379a1a9d606500a7dde4d976c6e2",
+      "title": "68 Pair of Boys – Genies of Peace and Harmony",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:27:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "361b71d7-ba2d-4621-bcb2-7f01764092fd",
+          "5f9f0cfe-a304-4546-bb6a-5ca9aeb40a9e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35544,
+    "uuid": "8f1ab779-72a6-5599-9cf3-c5039f1599c7",
+    "title": "Bahnhofstraße, Blick auf das Gebäude der Lebensversicherungsbank",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Blick auf das Gebäude der Lebensversicherungsbank",
+        "en-US": "Bahnhofstraße, Blick auf das Gebäude der Lebensversicherungsbank"
+      },
+      "period": {
+        "de-DE": [
+          "um 1935"
+        ],
+        "en-US": [
+          "um 1935"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031922%2F871347_00221917_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54793"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6a58ab04440cb6dc4b954b875654bf974460b997",
+      "title": "Bahnhofstraße, Blick auf das Gebäude der Lebensversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.040Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "53BDEF667DA74503BA65C29914AA47E8"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

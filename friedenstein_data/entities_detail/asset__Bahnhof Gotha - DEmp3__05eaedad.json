@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22346,
+    "uuid": "05eaedad-573f-4509-835e-311ee4529bd1",
+    "title": "Bahnhof Gotha - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/05eaedad-573f-4509-835e-311ee4529bd1/Bahnhof%20Gotha%20-%20DE.mp3",
+      "file_name": "Bahnhof Gotha - DE.mp3",
+      "file_size": 7143563,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e7331baf6e63d9568ede37952ad6890f3c1d278d",
+      "title": "Bahnhof Gotha - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:18:54.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

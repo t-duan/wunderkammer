@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2079791,
+    "uuid": "f78bf8f1-c6b6-4dd7-a941-83fee1037422",
+    "title": "Altes Theater",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "78daa358-8497-530a-b1e5-cc7e928ea4d6",
+        "3484db8b-235d-519d-8832-2c3139e07d6c",
+        "18fa92d7-b9ff-5e27-a4bd-5c6c2da877a8",
+        "375cf30c-4030-55e1-a2f2-a6a3bdd2dbf7",
+        "4c71e681-4514-5a33-9926-e0b63b36fcd8",
+        "b3cf4e33-5423-5e42-93fb-4209b6e5634d",
+        "c24d7658-5335-51f9-af73-da38e774185b",
+        "60bf5b50-1b81-5b28-b29c-2fd4990538f0",
+        "f42157b8-69f8-59fc-8742-68abda3444e1",
+        "bef8479f-9523-5bfd-bf07-65485f2ff37d"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "af57b37158a7968de18c4cf06309fbcd6396db12",
+      "title": "Altes Theater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:27:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

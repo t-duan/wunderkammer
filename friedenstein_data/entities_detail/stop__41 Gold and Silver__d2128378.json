@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080331,
+    "uuid": "d2128378-f1f0-41c4-b8b1-78cfe1637d09",
+    "title": "41 Gold and Silver",
+    "content": {
+      "image": "1cee301d-0899-4e49-bd72-e46d23cad58b",
+      "title": {
+        "de-DE": "Exkurs: Gold und Silber",
+        "en-US": "Gold and Silver"
+      },
+      "preview": false,
+      "stopnumber": 41,
+      "primary_segment": "83b4e4f8-52b6-486e-840b-96647430101a",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a5ab90beeed3c3a0fce68b9b6e6c88f967280aa8",
+      "title": "41 Gold and Silver",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:23:40.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1cee301d-0899-4e49-bd72-e46d23cad58b"
+        ],
+        "audio_segment": [
+          "83b4e4f8-52b6-486e-840b-96647430101a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35484,
+    "uuid": "29d82cdc-c62c-5642-83cd-dd7351395cf6",
+    "title": "Mozartstraße - Haus Nr. 6 und Bahnhofstraße 3a - Versicherung",
+    "content": {
+      "title": {
+        "de-DE": "Mozartstraße - Haus Nr. 6 und Bahnhofstraße 3a - Versicherung",
+        "en-US": "Mozartstraße - Haus Nr. 6 und Bahnhofstraße 3a - Versicherung"
+      },
+      "period": {
+        "de-DE": [
+          "23.08.1992"
+        ],
+        "en-US": [
+          "23.08.1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01033535%2F871347_00224105_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42091"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7a6fe003ceea821e2b60ef7aea2b8b270f9fbd0a",
+      "title": "Mozartstraße - Haus Nr. 6 und Bahnhofstraße 3a - Versicherung",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.644Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "46A73C809A904F3996D746B2F1B79068"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

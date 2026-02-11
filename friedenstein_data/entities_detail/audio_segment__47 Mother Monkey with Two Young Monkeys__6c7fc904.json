@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079989,
+    "uuid": "6c7fc904-2806-479c-a0f9-e4123bd717e2",
+    "title": "47 Mother Monkey with Two Young Monkeys",
+    "content": {
+      "title": {
+        "de-DE": "47 Mother Monkey with Two Young Monkeys",
+        "en-US": "47 Mother Monkey with Two Young Monkeys"
+      },
+      "audiofile": {
+        "de-DE": "a22dbca8-30e8-475b-bd27-dc3f17c5dce5",
+        "en-US": "ef257f1d-8081-4bef-81d9-cb88f5458e83"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "af8775e426813da4b4b0a3ef8141e32aed2a841e",
+      "title": "47 Mother Monkey with Two Young Monkeys",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:47:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "a22dbca8-30e8-475b-bd27-dc3f17c5dce5",
+          "ef257f1d-8081-4bef-81d9-cb88f5458e83"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

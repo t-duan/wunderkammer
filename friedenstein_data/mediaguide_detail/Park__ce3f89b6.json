@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070786,
+    "uuid": "ce3f89b6-9af6-403c-8435-0b704bee5960",
+    "title": "Park",
+    "content": {
+      "key": "park",
+      "icon": "03862b4e-f4bd-44c7-8790-4cfce22edc3e",
+      "label": {
+        "ar-AE": "حديقة",
+        "ar-SA": "حديقة",
+        "de-DE": "Park",
+        "en-GB": "Park",
+        "en-US": "Park",
+        "es-ES": "Parque",
+        "fa-IR": "پارک",
+        "fr-FR": "Parc",
+        "it-IT": "Parco",
+        "ja-JP": "公園",
+        "nl-NL": "Park",
+        "zh-CN": "公园",
+        "nl-NL-AD": "Park",
+        "nl-NL-sl": "Park"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "cbcc068b23b384160591cd54283ca480341f41bd",
+      "title": "Park",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:49:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "03862b4e-f4bd-44c7-8790-4cfce22edc3e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

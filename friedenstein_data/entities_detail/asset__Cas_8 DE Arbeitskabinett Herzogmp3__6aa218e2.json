@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22278,
+    "uuid": "6aa218e2-5650-4f24-af43-c3428b829762",
+    "title": "Cas_8 DE Arbeitskabinett Herzog.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/6aa218e2-5650-4f24-af43-c3428b829762/Cas_8%20DE%20Arbeitskabinett%20Herzog.mp3",
+      "file_name": "Cas_8 DE Arbeitskabinett Herzog.mp3",
+      "file_size": 1414664,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ef07fe3f882f70dafc6143ebfc3a9d3596114225",
+      "title": "Cas_8 DE Arbeitskabinett Herzog.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

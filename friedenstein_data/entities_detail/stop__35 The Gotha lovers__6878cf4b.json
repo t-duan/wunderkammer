@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080058,
+    "uuid": "6878cf4b-7136-4cde-8aa7-5260e721c245",
+    "title": "35 The Gotha lovers",
+    "content": {
+      "image": "1db9ad18-1bf7-4f4b-b2e3-0394a3853173",
+      "title": {
+        "de-DE": "Das Gothaer Liebespaar",
+        "en-US": "The Gotha lovers"
+      },
+      "preview": false,
+      "stopnumber": 135,
+      "primary_segment": "a9ae2194-0903-48bd-887b-e98733bb0744",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "29b0d668f27d4623125278d2c547d69b26643efb",
+      "title": "35 The Gotha lovers",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:25:01.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1db9ad18-1bf7-4f4b-b2e3-0394a3853173"
+        ],
+        "audio_segment": [
+          "a9ae2194-0903-48bd-887b-e98733bb0744"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

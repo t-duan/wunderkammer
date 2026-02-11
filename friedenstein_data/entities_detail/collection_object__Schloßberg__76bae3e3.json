@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35460,
+    "uuid": "76bae3e3-63b9-53ca-bb78-790f6e01f256",
+    "title": "Schloßberg",
+    "content": {
+      "title": {
+        "de-DE": "Schloßberg",
+        "en-US": "Schloßberg"
+      },
+      "period": {
+        "de-DE": [
+          "1895"
+        ],
+        "en-US": [
+          "1895"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.5 cm",
+          "Breite 15.5 cm"
+        ],
+        "en-US": [
+          "Höhe 9.5 cm",
+          "Breite 15.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01037810%2F871347_00248530_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "395"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1d59b46d509c4765f51a80585982117113c03051",
+      "title": "Schloßberg",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.870Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "5452C02FD719483AAA56891429784DD5"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

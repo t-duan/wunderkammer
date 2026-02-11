@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35358,
+    "uuid": "58cf82ca-5df4-595c-83e2-0a20979cd4cc",
+    "title": "Erfurter Straße, Kaufhaus \"Magnet\"",
+    "content": {
+      "title": {
+        "de-DE": "Erfurter Straße, Kaufhaus \"Magnet\"",
+        "en-US": "Erfurter Straße, Kaufhaus \"Magnet\""
+      },
+      "period": {
+        "de-DE": [
+          "1960er Jahre - 1970er Jahre"
+        ],
+        "en-US": [
+          "1960er Jahre - 1970er Jahre"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 13.8 cm",
+          "Breite 9.0 cm"
+        ],
+        "en-US": [
+          "Höhe 13.8 cm",
+          "Breite 9.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01035762%2F871347_00247834_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "16387"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "95a343aa4930fca9b4dafb57f952115ff19d1b95",
+      "title": "Erfurter Straße, Kaufhaus \"Magnet\"",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.874Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "B4BC7F6E03B744F685FD36CF61C35C30"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

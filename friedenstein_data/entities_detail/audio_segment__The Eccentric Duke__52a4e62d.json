@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080382,
+    "uuid": "52a4e62d-f40a-4ce0-ae40-d66ac0345e8d",
+    "title": "The Eccentric Duke",
+    "content": {
+      "title": {
+        "de-DE": "The Eccentric Duke",
+        "en-US": "The Eccentric Duke"
+      },
+      "audiofile": {
+        "de-DE": "e58273b3-83c4-4d19-93e0-867ff1f39e55",
+        "en-US": "67a97bf4-d858-43cc-8139-3bd0670abb24"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7fe47d6df7a24abde68f8ed8c0408b34764d486b",
+      "title": "The Eccentric Duke",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:13:56.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "67a97bf4-d858-43cc-8139-3bd0670abb24",
+          "e58273b3-83c4-4d19-93e0-867ff1f39e55"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

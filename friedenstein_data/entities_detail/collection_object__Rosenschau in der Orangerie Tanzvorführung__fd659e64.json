@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35385,
+    "uuid": "fd659e64-8d51-5808-a19b-96ae5e330ccb",
+    "title": "Rosenschau in der Orangerie, Tanzvorführung",
+    "content": {
+      "title": {
+        "de-DE": "Rosenschau in der Orangerie, Tanzvorführung",
+        "en-US": "Rosenschau in der Orangerie, Tanzvorführung"
+      },
+      "period": {
+        "de-DE": [
+          "1930"
+        ],
+        "en-US": [
+          "1930"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Papier"
+        ],
+        "en-US": [
+          "Papier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00968766%2F871347_00221575_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2347"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4193d30b2b06e9e2c72b9cc2d93a843c42b01e15",
+      "title": "Rosenschau in der Orangerie, Tanzvorführung",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.600Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "D9FAE19916C147BA94107C726AD0B088"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

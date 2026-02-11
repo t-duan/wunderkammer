@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35466,
+    "uuid": "a362ccf7-a745-58ca-aa2a-5065b8d5df92",
+    "title": "Gotha, Blick auf das Bahnhofsgebäude mit Bahnhofsvorplatz",
+    "content": {
+      "title": {
+        "de-DE": "Gotha, Blick auf das Bahnhofsgebäude mit Bahnhofsvorplatz",
+        "en-US": "Gotha, Blick auf das Bahnhofsgebäude mit Bahnhofsvorplatz"
+      },
+      "period": {
+        "de-DE": [
+          "um 1930"
+        ],
+        "en-US": [
+          "um 1930"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031882%2F871347_00221871_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "40271"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d80f054b2ee6cf0c73d70975f392d963a934840c",
+      "title": "Gotha, Blick auf das Bahnhofsgebäude mit Bahnhofsvorplatz",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.813Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "A878A8BBCE914E9EBE83CFDDD48AFF62"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079794,
+    "uuid": "108af39c-1b66-44db-8f19-215a8002f1d4",
+    "title": "79 Jizo Bosatsu – Good bye!",
+    "content": {
+      "image": "047031a6-da1a-44ce-882f-3e8387088b4c",
+      "title": {
+        "de-DE": "Jizo Bosatsu – Auf Wiedersehen!",
+        "en-US": "Jizo Bosatsu – Good bye!"
+      },
+      "preview": false,
+      "stopnumber": 179,
+      "primary_segment": "c86dd5fc-1772-49a1-b789-8e15076aafb0",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2c16fc044893fa88b3c34005e462614f534b9693",
+      "title": "79 Jizo Bosatsu – Good bye!",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:47:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "047031a6-da1a-44ce-882f-3e8387088b4c"
+        ],
+        "audio_segment": [
+          "c86dd5fc-1772-49a1-b789-8e15076aafb0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

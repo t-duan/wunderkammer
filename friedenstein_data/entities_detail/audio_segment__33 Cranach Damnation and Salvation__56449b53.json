@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080073,
+    "uuid": "56449b53-86f4-4087-9c99-9b7a86fbc531",
+    "title": " 33 Cranach: Damnation and Salvation",
+    "content": {
+      "title": {
+        "de-DE": " 33 Cranach: Damnation and Salvation",
+        "en-US": " 33 Cranach: Damnation and Salvation"
+      },
+      "audiofile": {
+        "de-DE": "7bf9d3f6-5f44-4e33-9998-e554a13db42e",
+        "en-US": "66a0eee1-3825-4c4c-8955-3dd8fbfe981a"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3b9d2ce2939a9192c9c7792b41a0760258f3f696",
+      "title": " 33 Cranach: Damnation and Salvation",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:20:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "66a0eee1-3825-4c4c-8955-3dd8fbfe981a",
+          "7bf9d3f6-5f44-4e33-9998-e554a13db42e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

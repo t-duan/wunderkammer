@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079938,
+    "uuid": "4b68318a-02c4-438b-b0a0-f00ac00d2ab4",
+    "title": "55 Benedetto da Maiano: Old Man",
+    "content": {
+      "image": "afd618b7-8585-4643-8744-8133d148a211",
+      "title": {
+        "de-DE": "Benedetto da Maiano: Alter Mann",
+        "en-US": "Benedetto da Maiano: Old Man"
+      },
+      "preview": false,
+      "stopnumber": 155,
+      "primary_segment": "855ff2dc-1004-4ae7-8fc5-6b6f3fdc8763",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "105a451ba19fd139739258a322a069b0fad9623e",
+      "title": "55 Benedetto da Maiano: Old Man",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:00:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "afd618b7-8585-4643-8744-8133d148a211"
+        ],
+        "audio_segment": [
+          "855ff2dc-1004-4ae7-8fc5-6b6f3fdc8763"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

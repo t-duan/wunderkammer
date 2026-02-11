@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080643,
+    "uuid": "1ef499aa-54ec-4a22-8621-6312a95b8cce",
+    "title": "Herzogliches Museum",
+    "content": {
+      "image": "61937d13-6425-4dec-b864-d8dfb4cf2527",
+      "title": {
+        "de-DE": "Herzogliches Museum",
+        "en-US": "Ducal Museum"
+      },
+      "preview": false,
+      "primary_segment": "82dc4ebc-3c0a-4766-9832-c2609e0be420",
+      "secondary_segments": [
+        "a5ef0580-eb9e-47e9-9a39-5b53c1f8f62b",
+        "97504fe0-eaa5-4af1-9860-f616131f70d3"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "bad6331a5f5dac2e50a6ea3f0d223274cde03b34",
+      "title": "Herzogliches Museum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T09:43:49.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "61937d13-6425-4dec-b864-d8dfb4cf2527"
+        ],
+        "audio_segment": [
+          "82dc4ebc-3c0a-4766-9832-c2609e0be420"
+        ],
+        "comments_segment": [
+          "97504fe0-eaa5-4af1-9860-f616131f70d3"
+        ],
+        "collection_object_gallery_segment": [
+          "a5ef0580-eb9e-47e9-9a39-5b53c1f8f62b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

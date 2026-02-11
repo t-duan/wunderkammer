@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080199,
+    "uuid": "97504fe0-eaa5-4af1-9860-f616131f70d3",
+    "title": "Herzogliches Museum",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d6953bc5910ca66bc1edacdca2b75d67fccd6fef",
+      "title": "Herzogliches Museum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:27:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

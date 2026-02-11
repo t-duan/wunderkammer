@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35571,
+    "uuid": "54b78ac3-b7a6-514b-804d-49ab02dbfbcc",
+    "title": "Neumarkt mit Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt mit Margarethenkirche",
+        "en-US": "Neumarkt mit Margarethenkirche"
+      },
+      "period": {
+        "de-DE": [
+          "um 1910"
+        ],
+        "en-US": [
+          "um 1910"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ],
+        "en-US": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055681%2F871347_00248808_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55650"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ca212876dfb745ce959f36f29c0ccfb7db84bf97",
+      "title": "Neumarkt mit Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.721Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "94E091B482B94862A171AC88CE62419F"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

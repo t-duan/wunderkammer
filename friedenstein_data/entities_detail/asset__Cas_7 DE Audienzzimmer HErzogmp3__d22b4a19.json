@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22279,
+    "uuid": "d22b4a19-0bd4-44fd-aa8e-9504fbefdd2b",
+    "title": "Cas_7 DE Audienzzimmer HErzog.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/d22b4a19-0bd4-44fd-aa8e-9504fbefdd2b/Cas_7%20DE%20Audienzzimmer%20HErzog.mp3",
+      "file_name": "Cas_7 DE Audienzzimmer HErzog.mp3",
+      "file_size": 2384960,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a2cf8fc3fdb1d6a00937074622f6a1b7937c8539",
+      "title": "Cas_7 DE Audienzzimmer HErzog.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070546,
+    "uuid": "e6a3e402-74f0-401d-a2a1-422da41ccd3f",
+    "title": "Text",
+    "content": {
+      "key": "text",
+      "icon": "05bb78e9-f554-43d4-967a-1cc62ad1719e",
+      "label": {
+        "ar-AE": "نص",
+        "ar-SA": "نص",
+        "de-DE": "Text",
+        "en-GB": "Text",
+        "en-US": "Text",
+        "es-ES": "Texto",
+        "fa-IR": "متن",
+        "fr-FR": "Texte",
+        "it-IT": "Testo",
+        "ja-JP": "文章",
+        "nl-NL": "Tekst",
+        "zh-CN": "文本",
+        "nl-NL-AD": "Tekst",
+        "nl-NL-sl": "Tekst"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "92b38f05bbd117e2187bd71debdef862bad8d9ab",
+      "title": "Text",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:55:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "05bb78e9-f554-43d4-967a-1cc62ad1719e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

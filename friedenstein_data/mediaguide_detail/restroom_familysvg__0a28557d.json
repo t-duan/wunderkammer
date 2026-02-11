@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6005,
+    "uuid": "0a28557d-1a38-480a-a627-d05bc61f079d",
+    "title": "restroom_family.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/0a28557d-1a38-480a-a627-d05bc61f079d/restroom_family.svg",
+      "file_name": "restroom_family.svg",
+      "file_size": 3001,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "cd5a15b425d05c3f1f72051c12e634f76de2c0a1",
+      "title": "restroom_family.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080238,
+    "uuid": "e0ed790e-127e-4d7b-a273-9b43078c7e0a",
+    "title": "Olpe",
+    "content": {
+      "title": {
+        "de-DE": "Olpe",
+        "en-US": "Olpe"
+      },
+      "audiofile": {
+        "de-DE": "92556cf3-4b97-4cd5-89cf-ee71176fde3f",
+        "en-US": "1c36dc49-51be-4b92-b1e4-5ff7e66024f2"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ba4e487e6668fbfb3fed59911b6475f577ee660b",
+      "title": "Olpe",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:54:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1c36dc49-51be-4b92-b1e4-5ff7e66024f2",
+          "92556cf3-4b97-4cd5-89cf-ee71176fde3f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

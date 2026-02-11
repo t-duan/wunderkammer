@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080463,
+    "uuid": "7a9546fc-1899-4571-af9f-ff286287fb08",
+    "title": "The Drinking Vessel in the Design of an Elephant",
+    "content": {
+      "title": {
+        "de-DE": "The Drinking Vessel in the Design of an Elephant",
+        "en-US": "The Drinking Vessel in the Design of an Elephant"
+      },
+      "audiofile": {
+        "de-DE": "88272611-082c-47f2-b54a-cc6b9e691754",
+        "en-US": "d3e82fc4-33b5-476d-9c30-29efb9c8d831"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "60c6418909d37dec7916846017ce1055c7211f84",
+      "title": "The Drinking Vessel in the Design of an Elephant",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:49:02.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "88272611-082c-47f2-b54a-cc6b9e691754",
+          "d3e82fc4-33b5-476d-9c30-29efb9c8d831"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22219,
+    "uuid": "d6638d8d-4e7d-44c4-8a58-b197e7c5e037",
+    "title": "Cas_28 ENG Small Chapel.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/d6638d8d-4e7d-44c4-8a58-b197e7c5e037/Cas_28%20ENG%20Small%20Chapel.mp3",
+      "file_name": "Cas_28 ENG Small Chapel.mp3",
+      "file_size": 355765,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1620339ceb5d29030480ee322f782aade4a56bb2",
+      "title": "Cas_28 ENG Small Chapel.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

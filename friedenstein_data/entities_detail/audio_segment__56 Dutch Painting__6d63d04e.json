@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079935,
+    "uuid": "6d63d04e-413f-4df4-8d09-41649a133e0b",
+    "title": "56 Dutch Painting",
+    "content": {
+      "title": {
+        "de-DE": "56 Dutch Painting",
+        "en-US": "56 Dutch Painting"
+      },
+      "audiofile": {
+        "de-DE": "098d9be2-d25f-4b38-a376-82690e3e2404",
+        "en-US": "7f550e73-c83d-4a19-a455-3eb8bbd92d7f"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d3d547efcbe9063ce074931f1224820ff4dcd333",
+      "title": "56 Dutch Painting",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:01:10.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "098d9be2-d25f-4b38-a376-82690e3e2404",
+          "7f550e73-c83d-4a19-a455-3eb8bbd92d7f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

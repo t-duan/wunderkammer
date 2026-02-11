@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080001,
+    "uuid": "c270b079-5225-48b0-b21b-3af68f70513f",
+    "title": "45 Three Turkish-Type Coffee Pots",
+    "content": {
+      "title": {
+        "de-DE": "45 Three Turkish-Type Coffee Pots",
+        "en-US": "45 Three Turkish-Type Coffee Pots"
+      },
+      "audiofile": {
+        "de-DE": "deba6a2d-dd9a-4fd8-a4f7-67dd6f180d3e",
+        "en-US": "756787c5-e15e-4aee-810a-9635b33d9626"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0c3b288524808bd03eb5275becf22d80fe7d8202",
+      "title": "45 Three Turkish-Type Coffee Pots",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:43:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "756787c5-e15e-4aee-810a-9635b33d9626",
+          "deba6a2d-dd9a-4fd8-a4f7-67dd6f180d3e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

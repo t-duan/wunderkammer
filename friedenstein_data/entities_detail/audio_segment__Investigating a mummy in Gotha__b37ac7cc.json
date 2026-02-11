@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080292,
+    "uuid": "b37ac7cc-8568-4179-8903-bc4205c3dc42",
+    "title": "Investigating a mummy in Gotha",
+    "content": {
+      "title": {
+        "de-DE": "Investigating a mummy in Gotha",
+        "en-US": "Investigating a mummy in Gotha"
+      },
+      "audiofile": {
+        "de-DE": "69df4fe1-73bf-4b30-beef-f64c209ad3cf",
+        "en-US": "bfe88e94-9bbd-4568-82cc-7bd7a8b7d2db"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a625a7cdef7c3d12707cd1c04e3b4d63a551f4ea",
+      "title": "Investigating a mummy in Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:29:50.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "69df4fe1-73bf-4b30-beef-f64c209ad3cf",
+          "bfe88e94-9bbd-4568-82cc-7bd7a8b7d2db"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

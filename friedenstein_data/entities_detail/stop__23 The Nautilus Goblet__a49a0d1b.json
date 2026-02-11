@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080433,
+    "uuid": "a49a0d1b-82bd-4704-b154-b63f97246caf",
+    "title": "23 The Nautilus Goblet",
+    "content": {
+      "image": "3ec602e5-4c3a-4244-8652-12d58a199a59",
+      "title": {
+        "de-DE": " Der Nautilus-Pokal",
+        "en-US": "The Nautilus Goblet"
+      },
+      "preview": false,
+      "stopnumber": 23,
+      "primary_segment": "20bd1da2-cc58-43fc-a556-d37457b70c66",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "652bce9a4940a029aadb78455d3974f87878e642",
+      "title": "23 The Nautilus Goblet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:59:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3ec602e5-4c3a-4244-8652-12d58a199a59"
+        ],
+        "audio_segment": [
+          "20bd1da2-cc58-43fc-a556-d37457b70c66"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

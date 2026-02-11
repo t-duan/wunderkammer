@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080016,
+    "uuid": "5749bd63-ee90-4d51-a1df-ba4b4b40e407",
+    "title": "42 Six Figurines from the Commedia dell’arte",
+    "content": {
+      "image": "8e5fa211-2fdf-4cef-ac59-af868470b876",
+      "title": {
+        "de-DE": "Komödienfiguren",
+        "en-US": "Six Figurines from the Commedia dell’arte"
+      },
+      "preview": false,
+      "stopnumber": 142,
+      "primary_segment": "8fc5fbce-ef0b-424a-b4ee-8a8229bb0ddf",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2ab8b13e7f20e51b379cb024838f8c4454df6b0c",
+      "title": "42 Six Figurines from the Commedia dell’arte",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:38:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8e5fa211-2fdf-4cef-ac59-af868470b876"
+        ],
+        "audio_segment": [
+          "8fc5fbce-ef0b-424a-b4ee-8a8229bb0ddf"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

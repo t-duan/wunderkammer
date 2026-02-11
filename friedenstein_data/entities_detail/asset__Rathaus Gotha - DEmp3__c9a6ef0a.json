@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22330,
+    "uuid": "c9a6ef0a-5ad8-4aa3-b122-9e637219d960",
+    "title": "Rathaus Gotha - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/c9a6ef0a-5ad8-4aa3-b122-9e637219d960/Rathaus%20Gotha%20-%20DE.mp3",
+      "file_name": "Rathaus Gotha - DE.mp3",
+      "file_size": 5579915,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "7f45e9a279baf3f29daf70b8886c49678eaa1f6a",
+      "title": "Rathaus Gotha - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:34:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

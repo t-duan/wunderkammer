@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6012,
+    "uuid": "2e2030ab-8a61-49cc-90bd-abe3749bef04",
+    "title": "bike.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/2e2030ab-8a61-49cc-90bd-abe3749bef04/bike.svg",
+      "file_name": "bike.svg",
+      "file_size": 3915,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "761039c71324ef5f2a6233c0637cbf87da309584",
+      "title": "bike.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:08:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

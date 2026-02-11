@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080208,
+    "uuid": "b0346d3b-eaa8-4624-b828-151c7329db69",
+    "title": "Altes Theater",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1f3b4d1410dded2ff4c61e9adfecccfd8d3e5272",
+      "title": "Altes Theater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-14T15:46:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080418,
+    "uuid": "c2227e07-cb3e-4ce0-af26-f752f6a41720",
+    "title": "Charles the Great’s Battle Against the Huns",
+    "content": {
+      "title": {
+        "de-DE": "Charles the Great’s Battle Against the Huns",
+        "en-US": "Charles the Great’s Battle Against the Huns"
+      },
+      "audiofile": {
+        "de-DE": "a302d212-a385-4b34-af55-c33665e6d0f8",
+        "en-US": "f4d2181c-7037-430a-b1ba-bdc44d8709ab"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5227b1aa94b4e90db82fb426b29db471fea33e37",
+      "title": "Charles the Great’s Battle Against the Huns",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:05:16.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "a302d212-a385-4b34-af55-c33665e6d0f8",
+          "f4d2181c-7037-430a-b1ba-bdc44d8709ab"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

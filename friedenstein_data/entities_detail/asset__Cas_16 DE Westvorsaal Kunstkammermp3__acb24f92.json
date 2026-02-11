@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22272,
+    "uuid": "acb24f92-3e6f-473d-8da6-257849460235",
+    "title": "Cas_16 DE Westvorsaal Kunstkammer.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/acb24f92-3e6f-473d-8da6-257849460235/Cas_16%20DE%20Westvorsaal%20Kunstkammer.mp3",
+      "file_name": "Cas_16 DE Westvorsaal Kunstkammer.mp3",
+      "file_size": 2127345,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "b3ba7bb97f442224de798eb6bcc6313cdb8ebed6",
+      "title": "Cas_16 DE Westvorsaal Kunstkammer.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:10.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22348,
+    "uuid": "6d730cdd-36e3-4694-a8f7-1ff3de37f4cd",
+    "title": "The Old Theater of Gotha - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/6d730cdd-36e3-4694-a8f7-1ff3de37f4cd/The%20Old%20Theater%20of%20Gotha%20-%20EN.mp3",
+      "file_name": "The Old Theater of Gotha - EN.mp3",
+      "file_size": 5074571,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "dd1e06a8fdabf1f39d3263e6eb38fc4764a18b81",
+      "title": "The Old Theater of Gotha - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:16:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

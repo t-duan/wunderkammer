@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22270,
+    "uuid": "e785ff54-4eef-4713-93f6-cd34839c567f",
+    "title": "Cas_20 DE Prunkkasten aus Bernstein.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/e785ff54-4eef-4713-93f6-cd34839c567f/Cas_20%20DE%20Prunkkasten%20aus%20Bernstein.mp3",
+      "file_name": "Cas_20 DE Prunkkasten aus Bernstein.mp3",
+      "file_size": 1102914,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "adee58e49d5abec9c6bd518900b9498fd70118b1",
+      "title": "Cas_20 DE Prunkkasten aus Bernstein.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

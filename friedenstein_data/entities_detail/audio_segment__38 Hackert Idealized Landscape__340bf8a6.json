@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080043,
+    "uuid": "340bf8a6-6e19-4976-89de-b40d986c69dc",
+    "title": "38 Hackert: Idealized Landscape",
+    "content": {
+      "title": {
+        "de-DE": "38 Hackert: Idealized Landscape",
+        "en-US": "38 Hackert: Idealized Landscape"
+      },
+      "audiofile": {
+        "de-DE": "b7eee181-3a09-4c76-b05c-337276d1a54c",
+        "en-US": "27b968d3-3596-4131-9bb1-f7e83bd77ce5"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3bcaef7846a7220e8ab6f556c09dae14443c93ff",
+      "title": "38 Hackert: Idealized Landscape",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:30:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "27b968d3-3596-4131-9bb1-f7e83bd77ce5",
+          "b7eee181-3a09-4c76-b05c-337276d1a54c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

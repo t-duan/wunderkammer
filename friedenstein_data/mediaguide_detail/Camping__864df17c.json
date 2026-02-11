@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071026,
+    "uuid": "864df17c-fef0-4329-96d7-82182ddbb9a7",
+    "title": "Camping",
+    "content": {
+      "key": "camping",
+      "icon": "d5b00c5a-03bb-4d89-bc02-90708e712607",
+      "label": {
+        "ar-AE": "موقع المخيم",
+        "ar-SA": "موقع المخيم",
+        "de-DE": "Campingplatz",
+        "en-GB": "Campsite",
+        "en-US": "Campsite",
+        "es-ES": "Cámping",
+        "fa-IR": "کمپینگ",
+        "fr-FR": "Camping",
+        "it-IT": "Campeggio",
+        "ja-JP": "キャンプ場",
+        "nl-NL": "Camping",
+        "zh-CN": "营地",
+        "nl-NL-AD": "Camping",
+        "nl-NL-sl": "Camping"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1105d2dcb6de9befc3d2a2b43bc852a60ee9c898",
+      "title": "Camping",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:44:54.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "d5b00c5a-03bb-4d89-bc02-90708e712607"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

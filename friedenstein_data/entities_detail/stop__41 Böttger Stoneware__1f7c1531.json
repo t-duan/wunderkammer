@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080022,
+    "uuid": "1f7c1531-c467-415b-80f7-85d43a5185b7",
+    "title": "41 Böttger Stoneware",
+    "content": {
+      "image": "0b164232-0676-4cda-a03e-6355b0faa7d6",
+      "title": {
+        "de-DE": "Böttgersteinzeug",
+        "en-US": "Böttger Stoneware"
+      },
+      "preview": false,
+      "stopnumber": 141,
+      "primary_segment": "e45cceb4-6671-48f1-9e6b-fc11866bc5de",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8e1f2a4c352c2c5a70c0a29df20d925b36dad24e",
+      "title": "41 Böttger Stoneware",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:37:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0b164232-0676-4cda-a03e-6355b0faa7d6"
+        ],
+        "audio_segment": [
+          "e45cceb4-6671-48f1-9e6b-fc11866bc5de"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

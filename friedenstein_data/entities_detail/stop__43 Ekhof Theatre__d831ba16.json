@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080319,
+    "uuid": "d831ba16-05f6-4285-ba95-e3b6fc8d5c7c",
+    "title": "43 Ekhof Theatre",
+    "content": {
+      "image": "67aeb5c4-2333-4782-9128-a98f3ed60fde",
+      "title": {
+        "de-DE": "Ekhof-Theater",
+        "en-US": "Ekhof Theatre"
+      },
+      "preview": false,
+      "stopnumber": 43,
+      "primary_segment": "c0751c60-bc3c-42f3-a82b-3fca3519dfe4",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "935c8d21d516c6fa3a5f013c256cc3244f37391f",
+      "title": "43 Ekhof Theatre",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:26:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "67aeb5c4-2333-4782-9128-a98f3ed60fde"
+        ],
+        "audio_segment": [
+          "c0751c60-bc3c-42f3-a82b-3fca3519dfe4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

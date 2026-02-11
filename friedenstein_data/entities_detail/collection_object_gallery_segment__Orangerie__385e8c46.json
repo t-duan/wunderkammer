@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2079767,
+    "uuid": "385e8c46-1153-4f9d-b258-16b7cdaef145",
+    "title": "Orangerie",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "9617dc0a-5c7d-587d-9e93-b56dab87fe83",
+        "87a63858-ca89-5822-83d8-68f099f3d2b9",
+        "166a0fe7-b200-50f8-a360-9f5e2e9b2628",
+        "8a85cf39-873a-53f0-bf9e-425a35b12b00",
+        "b2721d90-1523-5081-8b8d-1329ce7795a8",
+        "b02a855e-c943-5a6f-94d2-1cb6d0ef81ca",
+        "fd659e64-8d51-5808-a19b-96ae5e330ccb",
+        "6281b4ff-2107-5c82-80d9-d7f9ea88bfe5",
+        "086f7c70-1d55-5194-892e-7c1124e94aab",
+        "6647bcfa-1f60-5d6c-8b3a-2022545c605e"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e2cbeed30493e214eded963f8a38fd7a40996210",
+      "title": "Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:37:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22337,
+    "uuid": "3e36ec94-b08f-444b-8b1d-516b4d173e1d",
+    "title": "Jüdenstrasse und Schwarze Viertel - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3e36ec94-b08f-444b-8b1d-516b4d173e1d/Ju%CC%88denstrasse%20und%20Schwarze%20Viertel%20-%20DE.mp3",
+      "file_name": "Jüdenstrasse und Schwarze Viertel - DE.mp3",
+      "file_size": 5025419,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "c820a44070da6e1618f5eefce12bb33cd54173f5",
+      "title": "Jüdenstrasse und Schwarze Viertel - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:28:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

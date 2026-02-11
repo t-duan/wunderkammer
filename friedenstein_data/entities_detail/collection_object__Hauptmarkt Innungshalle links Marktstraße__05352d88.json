@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35589,
+    "uuid": "05352d88-e36d-58f5-a447-c966a5e8618d",
+    "title": "Hauptmarkt, Innungshalle, links Marktstraße",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Innungshalle, links Marktstraße",
+        "en-US": "Hauptmarkt, Innungshalle, links Marktstraße"
+      },
+      "period": {
+        "de-DE": [
+          "um 1898"
+        ],
+        "en-US": [
+          "um 1898"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.8 cm",
+          "Breite 14.3 cm"
+        ],
+        "en-US": [
+          "Höhe 9.8 cm",
+          "Breite 14.3 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064067%2F871347_00250796_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "65"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "28d0002c8c14aeab400bcf6d07e0ddd45c63f54a",
+      "title": "Hauptmarkt, Innungshalle, links Marktstraße",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.512Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "0BE670EE1D4548D0A7C1DA994665E86F"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

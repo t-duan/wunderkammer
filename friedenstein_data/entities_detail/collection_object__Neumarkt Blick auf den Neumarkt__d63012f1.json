@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35439,
+    "uuid": "d63012f1-3a8d-5e73-baef-b3bffa1211c7",
+    "title": "Neumarkt, Blick auf den Neumarkt",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt, Blick auf den Neumarkt",
+        "en-US": "Neumarkt, Blick auf den Neumarkt"
+      },
+      "period": {
+        "de-DE": [
+          "um 1970"
+        ],
+        "en-US": [
+          "um 1970"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 7.5 cm",
+          "Breite 10.5 cm"
+        ],
+        "en-US": [
+          "Höhe 7.5 cm",
+          "Breite 10.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055691%2F871347_00248825_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "28960"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "82d674849c7c9864fc6f40e6a4aa4d281011d232",
+      "title": "Neumarkt, Blick auf den Neumarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.071Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "5ECFDB5A7FD7455399F303BF4F394794"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22271,
+    "uuid": "a669f054-743b-4e1f-82a7-0ca3e2c07c9d",
+    "title": "Cas_17 DE Elefant Briefbeschwerer.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/a669f054-743b-4e1f-82a7-0ca3e2c07c9d/Cas_17%20DE%20Elefant%20Briefbeschwerer.mp3",
+      "file_name": "Cas_17 DE Elefant Briefbeschwerer.mp3",
+      "file_size": 821515,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "94adf12bbd29f53d8266c4ada18f9f9eaa9edd54",
+      "title": "Cas_17 DE Elefant Briefbeschwerer.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:10.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

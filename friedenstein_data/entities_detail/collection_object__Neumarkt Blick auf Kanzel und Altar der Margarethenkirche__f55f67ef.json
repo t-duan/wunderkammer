@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35535,
+    "uuid": "f55f67ef-c2f4-53f1-bc6c-17d99cd1d565",
+    "title": "Neumarkt, Blick auf Kanzel und Altar der Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt, Blick auf Kanzel und Altar der Margarethenkirche",
+        "en-US": "Neumarkt, Blick auf Kanzel und Altar der Margarethenkirche"
+      },
+      "period": {
+        "de-DE": [
+          "um 1970"
+        ],
+        "en-US": [
+          "um 1970"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 13.5 cm",
+          "Breite 8.5 cm"
+        ],
+        "en-US": [
+          "Höhe 13.5 cm",
+          "Breite 8.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055641%2F871347_00248746_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54544"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d5aeedc4c836e4997524056770644ee70f988068",
+      "title": "Neumarkt, Blick auf Kanzel und Altar der Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.128Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "95D5B29366D14F35A01F585BF39DC532"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

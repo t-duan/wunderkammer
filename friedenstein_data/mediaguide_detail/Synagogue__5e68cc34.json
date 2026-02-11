@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070561,
+    "uuid": "5e68cc34-f671-4ef5-a9b0-2fa923933762",
+    "title": "Synagogue",
+    "content": {
+      "key": "synagogue",
+      "icon": "6006012e-98a2-47aa-8e13-b11dcfe359ab",
+      "label": {
+        "ar-AE": "كنيس",
+        "ar-SA": "كنيس",
+        "de-DE": "Synagoge",
+        "en-GB": "Synagogue",
+        "en-US": "Synagogue",
+        "es-ES": "Sinagoga",
+        "fa-IR": "کنیسه",
+        "fr-FR": "Synagogue",
+        "it-IT": "Sinagoga",
+        "ja-JP": "シナゴーグ",
+        "nl-NL": "Synagoge",
+        "zh-CN": "犹太教堂",
+        "nl-NL-AD": "Synagoge",
+        "nl-NL-sl": "Synagoge"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7558024764dd8bd14349722c6f5ac8cbafdb9fce",
+      "title": "Synagogue",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:55:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6006012e-98a2-47aa-8e13-b11dcfe359ab"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

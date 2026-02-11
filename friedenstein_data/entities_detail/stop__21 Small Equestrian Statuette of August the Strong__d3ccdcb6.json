@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080442,
+    "uuid": "d3ccdcb6-f694-4d2b-bcb3-648733a51e3d",
+    "title": "21 Small Equestrian Statuette of August the Strong",
+    "content": {
+      "image": "46171838-7ca2-45ff-a54a-e274d498239a",
+      "title": {
+        "de-DE": "Reiterstatuette Augusts des Starken",
+        "en-US": "Small Equestrian Statuette of August the Strong"
+      },
+      "preview": false,
+      "stopnumber": 21,
+      "primary_segment": "a580dfd1-3086-4893-8052-51946ded429a",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "09b6b48772f334c9e773e912cf333db4c403b115",
+      "title": "21 Small Equestrian Statuette of August the Strong",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:57:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "46171838-7ca2-45ff-a54a-e274d498239a"
+        ],
+        "audio_segment": [
+          "a580dfd1-3086-4893-8052-51946ded429a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

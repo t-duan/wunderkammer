@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080160,
+    "uuid": "bad06582-60ac-492b-aad0-83652312816b",
+    "title": "21 Antonio Chichi: Arch of Constantine",
+    "content": {
+      "image": "292cbc1c-d19d-426a-a4f3-c30794a599c0",
+      "title": {
+        "de-DE": "Antonio Chichi: Konstantinsbogen",
+        "en-US": "Antonio Chichi: Arch of Constantine"
+      },
+      "preview": false,
+      "stopnumber": 121,
+      "primary_segment": "0ea75acb-268d-4d23-8cb1-2f6b3c3eae4e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0e60a9a1ae21d8bcf03c28c5d34a23001d56247e",
+      "title": "21 Antonio Chichi: Arch of Constantine",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:59:24.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "292cbc1c-d19d-426a-a4f3-c30794a599c0"
+        ],
+        "audio_segment": [
+          "0ea75acb-268d-4d23-8cb1-2f6b3c3eae4e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

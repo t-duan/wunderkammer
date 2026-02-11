@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22344,
+    "uuid": "e74b7448-942b-4a31-add7-d0793d4681e1",
+    "title": "Bauhaus Department Store - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/e74b7448-942b-4a31-add7-d0793d4681e1/Bauhaus%20Department%20Store%20-%20EN.mp3",
+      "file_name": "Bauhaus Department Store - EN.mp3",
+      "file_size": 3935627,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "43c03bcf9577d066f4bb99fefa9e3e8c008ab0fa",
+      "title": "Bauhaus Department Store - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:20:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

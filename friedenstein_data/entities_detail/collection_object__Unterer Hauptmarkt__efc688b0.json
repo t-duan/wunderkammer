@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35580,
+    "uuid": "efc688b0-74fa-55a1-a85a-5f92402c592a",
+    "title": "Unterer Hauptmarkt",
+    "content": {
+      "title": {
+        "de-DE": "Unterer Hauptmarkt",
+        "en-US": "Unterer Hauptmarkt"
+      },
+      "period": {
+        "de-DE": [
+          "1900"
+        ],
+        "en-US": [
+          "1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Papier"
+        ],
+        "en-US": [
+          "Papier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 8.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055569%2F871347_00248555_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "57974"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4125990a9a28da552f0e8a2cc3d973108ce2bbac",
+      "title": "Unterer Hauptmarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.631Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "A62C362FD8FE42F099D23DE7E151D462"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

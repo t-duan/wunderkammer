@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22267,
+    "uuid": "5425da44-df76-409b-bb75-9af3a44c20dc",
+    "title": "Cas_22 DE Doppelwandschale Venus.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/5425da44-df76-409b-bb75-9af3a44c20dc/Cas_22%20DE%20Doppelwandschale%20Venus.mp3",
+      "file_name": "Cas_22 DE Doppelwandschale Venus.mp3",
+      "file_size": 1294773,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1ad4cf6924457e6703b6b240eab2366c93986fa0",
+      "title": "Cas_22 DE Doppelwandschale Venus.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

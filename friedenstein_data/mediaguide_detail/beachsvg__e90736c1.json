@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6335,
+    "uuid": "e90736c1-1657-4196-ae32-84542104ec72",
+    "title": "beach.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/e90736c1-1657-4196-ae32-84542104ec72/beach.svg",
+      "file_name": "beach.svg",
+      "file_size": 1073,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "8372e3ae281473c0dbc4a0178a5186ba14e86541",
+      "title": "beach.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080244,
+    "uuid": "951d750e-1bce-458d-b894-7cc20fbd54dc",
+    "title": "Bell-shaped crater",
+    "content": {
+      "title": {
+        "de-DE": "Bell-shaped crater",
+        "en-US": "Bell-shaped crater"
+      },
+      "audiofile": {
+        "de-DE": "4b020602-cd98-4a71-90e5-de56a82c053d",
+        "en-US": "f3da3a71-e6b4-4aaf-b85e-0504f61663e4"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a482a2980ed1b2cb9df415d41acd6d2ca91f60aa",
+      "title": "Bell-shaped crater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:42:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4b020602-cd98-4a71-90e5-de56a82c053d",
+          "f3da3a71-e6b4-4aaf-b85e-0504f61663e4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

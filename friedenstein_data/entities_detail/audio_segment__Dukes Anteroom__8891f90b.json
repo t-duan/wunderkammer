@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080358,
+    "uuid": "8891f90b-cd45-446f-88da-b995e72090de",
+    "title": "Duke’s Anteroom",
+    "content": {
+      "title": {
+        "de-DE": "Duke’s Anteroom",
+        "en-US": "Duke’s Anteroom"
+      },
+      "audiofile": {
+        "de-DE": "4bd1d7b7-dcad-4e26-b30f-79440c876e59",
+        "en-US": "a8619a56-a5e4-4fe6-b51b-6bc96b680684"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "249b733fd8193eada19ab41039792d0570f49bc7",
+      "title": "Duke’s Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:19:00.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4bd1d7b7-dcad-4e26-b30f-79440c876e59",
+          "a8619a56-a5e4-4fe6-b51b-6bc96b680684"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

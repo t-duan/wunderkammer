@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22220,
+    "uuid": "eb64110a-265f-4ecf-9ba9-938ec1072f0d",
+    "title": "Cas_31 ENG New Apartments.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/eb64110a-265f-4ecf-9ba9-938ec1072f0d/Cas_31%20ENG%20New%20Apartments.mp3",
+      "file_name": "Cas_31 ENG New Apartments.mp3",
+      "file_size": 2783172,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "33a8c90532528fcce4f43e3ae0248729e992144d",
+      "title": "Cas_31 ENG New Apartments.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

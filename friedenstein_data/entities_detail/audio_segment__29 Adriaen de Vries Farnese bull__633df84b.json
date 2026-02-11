@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080112,
+    "uuid": "633df84b-721f-49cf-8a8c-96729732f728",
+    "title": "29 Adriaen de Vries: Farnese bull",
+    "content": {
+      "title": {
+        "de-DE": "29 Adriaen de Vries: Farnese bull",
+        "en-US": "29 Adriaen de Vries: Farnese bull"
+      },
+      "audiofile": {
+        "de-DE": "73916cc8-98e0-4cd5-b6e9-93cdafd78204",
+        "en-US": "e04ec108-f867-40c0-8021-2b5bf1875b3e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "524a2c6d59fa6f522e67f8fa6344b89960eb4eaa",
+      "title": "29 Adriaen de Vries: Farnese bull",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:09:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "73916cc8-98e0-4cd5-b6e9-93cdafd78204",
+          "e04ec108-f867-40c0-8021-2b5bf1875b3e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35355,
+    "uuid": "71bd5b5d-2cb0-5552-8ab6-101663bb20c9",
+    "title": "Hauptmarkt, Das Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Das Rathaus",
+        "en-US": "Hauptmarkt, Das Rathaus"
+      },
+      "period": {
+        "de-DE": [
+          "November 1966"
+        ],
+        "en-US": [
+          "November 1966"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.0 cm",
+          "Breite 12.0 cm"
+        ],
+        "en-US": [
+          "Höhe 11.0 cm",
+          "Breite 12.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01036049%2F871347_00248174_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "16366"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "68d078ff3f77b59815a46db762fcb03a86e18429",
+      "title": "Hauptmarkt, Das Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.902Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "45F9E95FD4EE42DC97340E5590E23CA6"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

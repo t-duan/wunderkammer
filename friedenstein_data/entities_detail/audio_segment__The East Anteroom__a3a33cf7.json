@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080559,
+    "uuid": "a3a33cf7-20ce-4f10-8962-b99043da336e",
+    "title": "The East Anteroom",
+    "content": {
+      "title": {
+        "de-DE": "The East Anteroom",
+        "en-US": "The East Anteroom"
+      },
+      "audiofile": {
+        "de-DE": "2491791a-4d0a-44aa-93d7-bf0f49b28047",
+        "en-US": "436c10be-ae86-4f76-8d79-cab2cf631ad4"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7774b9eea88287418859b2cd31fca36dcfd60bde",
+      "title": "The East Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:43:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2491791a-4d0a-44aa-93d7-bf0f49b28047",
+          "436c10be-ae86-4f76-8d79-cab2cf631ad4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

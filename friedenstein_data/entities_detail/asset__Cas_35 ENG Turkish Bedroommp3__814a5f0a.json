@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22215,
+    "uuid": "814a5f0a-7f46-419e-9956-b365c27deb1d",
+    "title": "Cas_35 ENG Turkish Bedroom.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/814a5f0a-7f46-419e-9956-b365c27deb1d/Cas_35%20ENG%20Turkish%20Bedroom.mp3",
+      "file_name": "Cas_35 ENG Turkish Bedroom.mp3",
+      "file_size": 5724037,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "7d4880e377b6aa4d1cdc1217996839928410fa36",
+      "title": "Cas_35 ENG Turkish Bedroom.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

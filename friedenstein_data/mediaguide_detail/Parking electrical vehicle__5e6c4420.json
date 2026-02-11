@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070756,
+    "uuid": "5e6c4420-a589-4fdb-a409-b8d00a3e35f2",
+    "title": "Parking electrical vehicle",
+    "content": {
+      "key": "parking_electrical_vehicle",
+      "icon": "6d20ff8a-929c-4379-bc54-1fb198633307",
+      "label": {
+        "ar-AE": "وقوف السيارات الكهربائية",
+        "ar-SA": "وقوف السيارات الكهربائية",
+        "de-DE": "Parken eines Elektrofahrzeugs",
+        "en-GB": "Parking electrical vehicle",
+        "en-US": "Parking electrical vehicle",
+        "es-ES": "Aparcamiento de vehículos eléctricos",
+        "fa-IR": "پارکینگ خودروی برقی",
+        "fr-FR": "Stationnement véhicule électrique",
+        "it-IT": "Parcheggio veicolo elettrico",
+        "ja-JP": "電気自動車の駐車",
+        "nl-NL": "Parkeren elektrisch voertuig",
+        "zh-CN": "停车电动车",
+        "nl-NL-AD": "Parkeren elektrisch voertuig",
+        "nl-NL-sl": "Parkeren elektrisch voertuig"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "41d5efd302692818f656b980c639d6f7c19b61a8",
+      "title": "Parking electrical vehicle",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:50:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6d20ff8a-929c-4379-bc54-1fb198633307"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

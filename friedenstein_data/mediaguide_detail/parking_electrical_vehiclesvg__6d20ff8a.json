@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6314,
+    "uuid": "6d20ff8a-929c-4379-bc54-1fb198633307",
+    "title": "parking_electrical_vehicle.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/6d20ff8a-929c-4379-bc54-1fb198633307/parking_electrical_vehicle.svg",
+      "file_name": "parking_electrical_vehicle.svg",
+      "file_size": 2395,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a7ab181fa11c7453a5cbb295659eadae5ebe0a0a",
+      "title": "parking_electrical_vehicle.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079986,
+    "uuid": "e80bb191-078e-4de3-b123-c451637129c0",
+    "title": "47 Mother Monkey with Two Young Monkeys",
+    "content": {
+      "image": "8ad7938e-5434-4535-bdbb-3fbd50a1cf38",
+      "title": {
+        "de-DE": "Affenmutter mit zwei Jungen als Kanne",
+        "en-US": "Mother Monkey with Two Young Monkeys"
+      },
+      "preview": false,
+      "stopnumber": 147,
+      "primary_segment": "6c7fc904-2806-479c-a0f9-e4123bd717e2",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "190348db585ece9ed375fc11be911068dfd49bcb",
+      "title": "47 Mother Monkey with Two Young Monkeys",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:47:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8ad7938e-5434-4535-bdbb-3fbd50a1cf38"
+        ],
+        "audio_segment": [
+          "6c7fc904-2806-479c-a0f9-e4123bd717e2"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

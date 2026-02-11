@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080403,
+    "uuid": "be307bdc-8db1-48d7-a1f9-a583a4312010",
+    "title": "28 The Small Chapel",
+    "content": {
+      "image": "095fd50f-8672-4891-ac75-95a8a9948bbb",
+      "title": {
+        "de-DE": "Die kleine Kapelle",
+        "en-US": "The Small Chapel"
+      },
+      "preview": false,
+      "stopnumber": 28,
+      "primary_segment": "59b7175b-6140-4419-a9fb-1b3f9ca981b1",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "42885489a8e43ae65daab2cb6a016d1a02b40452",
+      "title": "28 The Small Chapel",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:08:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "095fd50f-8672-4891-ac75-95a8a9948bbb"
+        ],
+        "audio_segment": [
+          "59b7175b-6140-4419-a9fb-1b3f9ca981b1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22260,
+    "uuid": "5aed92a2-0208-4fed-9223-969f2bd79d40",
+    "title": "Cas_28 DE Die kleine Kapelle.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/5aed92a2-0208-4fed-9223-969f2bd79d40/Cas_28%20DE%20Die%20kleine%20Kapelle.mp3",
+      "file_name": "Cas_28 DE Die kleine Kapelle.mp3",
+      "file_size": 491932,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "b9d5543a466fd79fec4fa0635a556860d9dad74c",
+      "title": "Cas_28 DE Die kleine Kapelle.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

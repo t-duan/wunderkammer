@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080304,
+    "uuid": "778032ea-c47c-4cdd-8b7c-2e13256ab080",
+    "title": "The collection of Egyptian antiquities",
+    "content": {
+      "title": {
+        "de-DE": "The collection of Egyptian antiquities",
+        "en-US": "The collection of Egyptian antiquities"
+      },
+      "audiofile": {
+        "de-DE": "b7e9ba09-b704-4c2d-9ee6-561e0f798b2b",
+        "en-US": "75bb73d2-7648-49a4-8adb-2278afc2ea47"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1efb89b7fcc778e9cbe09d449759d88ee1425bee",
+      "title": "The collection of Egyptian antiquities",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:25:28.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "75bb73d2-7648-49a4-8adb-2278afc2ea47",
+          "b7e9ba09-b704-4c2d-9ee6-561e0f798b2b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

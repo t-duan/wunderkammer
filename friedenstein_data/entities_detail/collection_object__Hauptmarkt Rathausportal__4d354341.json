@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35421,
+    "uuid": "4d354341-575f-558b-b98a-581a24e2ecab",
+    "title": "Hauptmarkt, Rathausportal",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Rathausportal",
+        "en-US": "Hauptmarkt, Rathausportal"
+      },
+      "period": {
+        "de-DE": [
+          "1952"
+        ],
+        "en-US": [
+          "1952"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 17.5 cm",
+          "Breite 12.8 cm"
+        ],
+        "en-US": [
+          "Höhe 17.5 cm",
+          "Breite 12.8 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01036154%2F871347_00248432_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2706"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9a5e6fa6001ab9d49e12a4395d44ae887cdf5f52",
+      "title": "Hauptmarkt, Rathausportal",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.244Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "E1F7FE0DC3D04F989748757706DF56D4"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080598,
+    "uuid": "55429306-2065-41c9-96ef-65c1d80b8839",
+    "title": "Bahnhof",
+    "content": {
+      "type": "audio",
+      "content": "59ff8ea5-638d-4b57-adca-a14852565dd6",
+      "geo_location": {
+        "lat": 50.93957,
+        "lng": 10.712481
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c751f6c5d3a8fff4f3807216a85f5b4e506ee71f",
+      "title": "Bahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:37:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "59ff8ea5-638d-4b57-adca-a14852565dd6"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080337,
+    "uuid": "3f06c301-8ffb-4ef9-a1ea-9186d3aab557",
+    "title": "40 New Coin Cabinet",
+    "content": {
+      "image": "3355d54a-16b2-4150-a7fb-ac0b511fcf1f",
+      "title": {
+        "de-DE": "Neues Münzkabinett",
+        "en-US": "New Coin Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 40,
+      "primary_segment": "55181dc9-72fb-427a-9260-6e898a2c9f25",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ef42cf85fba16e8223bf0a051eb71c9aa17ec9d1",
+      "title": "40 New Coin Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:22:28.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3355d54a-16b2-4150-a7fb-ac0b511fcf1f"
+        ],
+        "audio_segment": [
+          "55181dc9-72fb-427a-9260-6e898a2c9f25"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

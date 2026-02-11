@@ -1,0 +1,40 @@
+[
+  {
+    "id": 2079776,
+    "uuid": "381191db-65d8-4d1e-a5bf-42b20c167ba4",
+    "title": "Innungshalle/Handelsschule",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "05352d88-e36d-58f5-a447-c966a5e8618d",
+        "1d205129-4cf3-5b81-b220-36c31a9b1f04",
+        "1da0801c-9654-5e73-b7d2-6a9f71cfa1cd",
+        "eb9258be-ef76-5e61-abdb-348d499e833b",
+        "28cbc701-e5f1-50d0-a81a-c37b187b6180",
+        "efc688b0-74fa-55a1-a85a-5f92402c592a",
+        "d137675d-b775-53ef-8edc-3098ab85ba34"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ad815ed080f03e8f71278968e260f5d4d295c350",
+      "title": "Innungshalle/Handelsschule",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:37:01.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

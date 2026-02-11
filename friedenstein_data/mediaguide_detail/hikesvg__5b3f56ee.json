@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6321,
+    "uuid": "5b3f56ee-847e-4c98-91f3-759a98cc73fa",
+    "title": "hike.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/5b3f56ee-847e-4c98-91f3-759a98cc73fa/hike.svg",
+      "file_name": "hike.svg",
+      "file_size": 1848,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e23b9934f1b8c894f162e399dac53e598b3980f5",
+      "title": "hike.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

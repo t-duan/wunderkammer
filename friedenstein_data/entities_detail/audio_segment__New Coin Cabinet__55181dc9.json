@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080340,
+    "uuid": "55181dc9-72fb-427a-9260-6e898a2c9f25",
+    "title": "New Coin Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "New Coin Cabinet",
+        "en-US": "New Coin Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "739c0921-69ee-4a9c-b399-42967fd1c716",
+        "en-US": "39272e63-b1b4-46dc-84a9-af9761800d0b"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ba2552640a97c71bbad61a5e71fc14236bf42711",
+      "title": "New Coin Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:22:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "39272e63-b1b4-46dc-84a9-af9761800d0b",
+          "739c0921-69ee-4a9c-b399-42967fd1c716"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

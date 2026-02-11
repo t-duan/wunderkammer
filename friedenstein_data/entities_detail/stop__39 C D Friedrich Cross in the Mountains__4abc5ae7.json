@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080034,
+    "uuid": "4abc5ae7-c8b7-4675-92d2-5335c42b9534",
+    "title": "39 C. D. Friedrich: Cross in the Mountains",
+    "content": {
+      "image": "00c585e5-69ed-47b5-a659-a392ed8adb80",
+      "title": {
+        "de-DE": "C. D. Friedrich: Kreuz im Gebirge",
+        "en-US": "C. D. Friedrich: Cross in the Mountains"
+      },
+      "preview": false,
+      "stopnumber": 139,
+      "primary_segment": "1d2fbb93-9c39-4971-9eed-739f123a28ec",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "94b32c02052df6e787e170840ed1af87fc071fe7",
+      "title": "39 C. D. Friedrich: Cross in the Mountains",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:32:01.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "00c585e5-69ed-47b5-a659-a392ed8adb80"
+        ],
+        "audio_segment": [
+          "1d2fbb93-9c39-4971-9eed-739f123a28ec"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

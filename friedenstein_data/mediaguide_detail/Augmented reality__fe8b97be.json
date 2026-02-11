@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071176,
+    "uuid": "fe8b97be-8933-4297-ac76-7266c31cb7cf",
+    "title": "Augmented reality",
+    "content": {
+      "key": "ar",
+      "icon": "8e383bdc-95d0-4ff0-b41e-214dbb00382f",
+      "label": {
+        "ar-AE": "الواقع المعزز",
+        "ar-SA": "الواقع المعزز",
+        "de-DE": "Augmented Reality",
+        "en-GB": "Augmented reality",
+        "en-US": "Augmented reality",
+        "es-ES": "Realidad aumentada",
+        "fa-IR": "واقعیت افزوده",
+        "fr-FR": "Réalité augmentée",
+        "it-IT": "Realtà aumentata",
+        "ja-JP": "拡張現実",
+        "nl-NL": "Augmented reality",
+        "zh-CN": "增强现实",
+        "nl-NL-AD": "Augmented reality",
+        "nl-NL-sl": "Augmented reality"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "49584943b8682bd79cf8f6d789cc270bd3e83e01",
+      "title": "Augmented reality",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:42:43.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8e383bdc-95d0-4ff0-b41e-214dbb00382f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

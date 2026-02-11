@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080265,
+    "uuid": "efadef55-7259-4972-9c7d-6b83174408b8",
+    "title": "07 Cat mummy",
+    "content": {
+      "image": "120213a1-d9b6-434d-9bbc-e33b88e21345",
+      "title": {
+        "de-DE": "Katzenmumie",
+        "en-US": "Cat mummy"
+      },
+      "preview": false,
+      "stopnumber": 107,
+      "primary_segment": "d4d09d86-ea38-48fc-a9a6-21a30d311fbb",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "82ecc08a3b5102abaa59de62064ff8cbbccfcade",
+      "title": "07 Cat mummy",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:36:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "120213a1-d9b6-434d-9bbc-e33b88e21345"
+        ],
+        "audio_segment": [
+          "d4d09d86-ea38-48fc-a9a6-21a30d311fbb"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

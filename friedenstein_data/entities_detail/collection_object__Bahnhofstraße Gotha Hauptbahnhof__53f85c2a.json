@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35604,
+    "uuid": "53f85c2a-5a58-5c2d-91a7-1db9406dc2a2",
+    "title": "Bahnhofstraße, Gotha Hauptbahnhof",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Gotha Hauptbahnhof",
+        "en-US": "Bahnhofstraße, Gotha Hauptbahnhof"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031875%2F871347_00221862_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "7578"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2256201639a5a635e9249160d1a14948e17e5b09",
+      "title": "Bahnhofstraße, Gotha Hauptbahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.360Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "54792E7F5A1F49EBB358CC875575E786"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

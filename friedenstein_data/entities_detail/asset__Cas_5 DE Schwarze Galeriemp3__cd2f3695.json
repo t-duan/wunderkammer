@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22280,
+    "uuid": "cd2f3695-cd9c-40bf-a2cb-fd7f35c46079",
+    "title": "Cas_5 DE Schwarze Galerie.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/cd2f3695-cd9c-40bf-a2cb-fd7f35c46079/Cas_5%20DE%20Schwarze%20Galerie.mp3",
+      "file_name": "Cas_5 DE Schwarze Galerie.mp3",
+      "file_size": 2343949,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "dd3f698b525e7c09b0448f3bb45725a62ae1c1ca",
+      "title": "Cas_5 DE Schwarze Galerie.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:05.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

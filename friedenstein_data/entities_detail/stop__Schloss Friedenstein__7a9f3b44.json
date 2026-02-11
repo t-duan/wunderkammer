@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080685,
+    "uuid": "7a9f3b44-be52-4db5-8c69-42134756bb7c",
+    "title": "Schloss Friedenstein",
+    "content": {
+      "image": "7497a47f-6897-41fb-a303-7f60b026e632",
+      "title": {
+        "de-DE": "Schloss Friedenstein",
+        "en-US": "Friedenstein Castle"
+      },
+      "preview": false,
+      "primary_segment": "b7a5abda-8693-44e8-b3de-c0f62c93eda7",
+      "secondary_segments": [
+        "10fd6ae9-646a-4c85-9979-a42c16e6a0b1",
+        "044ebb65-ed23-4ba1-ae18-5be081a3b4be"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d41930ca17252e528f6f05b75f4f711123a6790f",
+      "title": "Schloss Friedenstein",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-06T18:10:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "7497a47f-6897-41fb-a303-7f60b026e632"
+        ],
+        "audio_segment": [
+          "b7a5abda-8693-44e8-b3de-c0f62c93eda7"
+        ],
+        "comments_segment": [
+          "044ebb65-ed23-4ba1-ae18-5be081a3b4be"
+        ],
+        "collection_object_gallery_segment": [
+          "10fd6ae9-646a-4c85-9979-a42c16e6a0b1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

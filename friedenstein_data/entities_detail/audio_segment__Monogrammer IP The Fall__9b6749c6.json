@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080412,
+    "uuid": "9b6749c6-9c81-45a7-a759-2524e01fdc62",
+    "title": "Monogrammer IP: The Fall",
+    "content": {
+      "title": {
+        "de-DE": "Monogrammer IP: The Fall",
+        "en-US": "Monogrammer IP: The Fall"
+      },
+      "audiofile": {
+        "de-DE": "3df19fad-32f5-48d9-b6c5-2b0ecade410f",
+        "en-US": "8c0252fc-6911-42fc-8880-b775c2f2d0d8"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "023c88b31df3cfd308846861360cf4543ed6c7c8",
+      "title": "Monogrammer IP: The Fall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:06:28.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3df19fad-32f5-48d9-b6c5-2b0ecade410f",
+          "8c0252fc-6911-42fc-8880-b775c2f2d0d8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

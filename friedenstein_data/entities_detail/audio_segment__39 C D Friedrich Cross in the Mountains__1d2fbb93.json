@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080037,
+    "uuid": "1d2fbb93-9c39-4971-9eed-739f123a28ec",
+    "title": "39 C. D. Friedrich: Cross in the Mountains",
+    "content": {
+      "title": {
+        "de-DE": "39 C. D. Friedrich: Cross in the Mountains",
+        "en-US": "39 C. D. Friedrich: Cross in the Mountains"
+      },
+      "audiofile": {
+        "de-DE": "b219c9a0-2107-4433-bb61-e7daadd90a6c",
+        "en-US": "63373aba-e743-4aa3-96f7-c954e7311636"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6ab9c96b20f46c0bd9a619af13cbf32939e4ec64",
+      "title": "39 C. D. Friedrich: Cross in the Mountains",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:31:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "63373aba-e743-4aa3-96f7-c954e7311636",
+          "b219c9a0-2107-4433-bb61-e7daadd90a6c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

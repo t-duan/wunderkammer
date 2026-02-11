@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22283,
+    "uuid": "2491791a-4d0a-44aa-93d7-bf0f49b28047",
+    "title": "Cas_2 DE Gardesaal.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/2491791a-4d0a-44aa-93d7-bf0f49b28047/Cas_2%20DE%20Gardesaal.mp3",
+      "file_name": "Cas_2 DE Gardesaal.mp3",
+      "file_size": 1711679,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "87ecd74434bd1a20ed14bfd6a353211f28719583",
+      "title": "Cas_2 DE Gardesaal.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

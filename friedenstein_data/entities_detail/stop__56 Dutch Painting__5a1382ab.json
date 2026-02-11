@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079932,
+    "uuid": "5a1382ab-0830-4934-ae6a-da4e0f5697ae",
+    "title": "56 Dutch Painting",
+    "content": {
+      "image": "dab6ea3c-7ba3-4c3f-bba8-618966ce49cf",
+      "title": {
+        "de-DE": "Niederländische Malerei",
+        "en-US": "Dutch Painting"
+      },
+      "preview": false,
+      "stopnumber": 156,
+      "primary_segment": "6d63d04e-413f-4df4-8d09-41649a133e0b",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "99481c6311cb441ed1ab8d460407a40cebe961d4",
+      "title": "56 Dutch Painting",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:01:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "dab6ea3c-7ba3-4c3f-bba8-618966ce49cf"
+        ],
+        "audio_segment": [
+          "6d63d04e-413f-4df4-8d09-41649a133e0b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

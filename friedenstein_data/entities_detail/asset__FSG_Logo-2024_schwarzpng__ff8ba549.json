@@ -1,0 +1,44 @@
+[
+  {
+    "id": 22349,
+    "uuid": "ff8ba549-cc8b-4cb8-ad61-b0ac5d0b9aad",
+    "title": "FSG_Logo-2024_schwarz.png",
+    "content": {
+      "width": 2500,
+      "height": 2348,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/ff8ba549-cc8b-4cb8-ad61-b0ac5d0b9aad/FSG_Logo-2024_schwarz.png",
+      "variants": {
+        "iiif-tiles": {
+          "source": "https://media.tapart.me/media/friedenstein-stiftung/ff8ba549-cc8b-4cb8-ad61-b0ac5d0b9aad/variants/iiif-tiles/iiif/tiles/info.json",
+          "status": "ready"
+        }
+      },
+      "file_name": "FSG_Logo-2024_schwarz.png",
+      "file_size": 88219,
+      "mime_type": {
+        "template": "image/png",
+        "extension": "png"
+      },
+      "content_type": "image/png",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1762b8f96259c7f1a69bac3fba9794e7597f0437",
+      "title": "FSG_Logo-2024_schwarz.png",
+      "locales": [],
+      "createdAt": "2025-04-09T11:52:44.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

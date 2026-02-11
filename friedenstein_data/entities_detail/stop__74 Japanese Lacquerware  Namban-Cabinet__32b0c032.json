@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079824,
+    "uuid": "32b0c032-ecf4-4241-bd07-c7ffaae119bf",
+    "title": "74 Japanese Lacquerware – Namban-Cabinet",
+    "content": {
+      "image": "0ecae537-259b-4e62-8109-c65eac140ecf",
+      "title": {
+        "de-DE": "Lackkunst Japans – Namban-Kabinett",
+        "en-US": "Japanese Lacquerware – Namban-Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 174,
+      "primary_segment": "042937d0-5449-4ea3-8ce6-9897d183011d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b16a2dd4928daedacd24998622a60809b96b29b9",
+      "title": "74 Japanese Lacquerware – Namban-Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:37:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0ecae537-259b-4e62-8109-c65eac140ecf"
+        ],
+        "audio_segment": [
+          "042937d0-5449-4ea3-8ce6-9897d183011d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080181,
+    "uuid": "f78eee98-4c03-4f62-851c-b82e6a6049d2",
+    "title": "Antonio Chichi: Cestius-Pyramide",
+    "content": {
+      "title": {
+        "de-DE": "Antonio Chichi: Cestius-Pyramide",
+        "en-US": "Antonio Chichi: Cestius-Pyramide"
+      },
+      "audiofile": {
+        "de-DE": "a900ab8d-5a5f-488c-858d-341fe95d27c1",
+        "en-US": "84430d3e-7685-45c0-a469-66be9008f526"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ac233c6625944e36c68e5c0d2cf99b99391fdc72",
+      "title": "Antonio Chichi: Cestius-Pyramide",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:52:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "84430d3e-7685-45c0-a469-66be9008f526",
+          "a900ab8d-5a5f-488c-858d-341fe95d27c1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

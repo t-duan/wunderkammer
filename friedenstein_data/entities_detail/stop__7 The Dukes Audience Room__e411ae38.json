@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080526,
+    "uuid": "e411ae38-221f-45bc-9bd1-69ebe53ecb8d",
+    "title": "7 The Duke’s Audience Room",
+    "content": {
+      "image": "073f585e-29e9-4131-b656-0be0d32f8af1",
+      "title": {
+        "de-DE": "Audienzzimmer des Herzogs",
+        "en-US": "The Duke’s Audience Room"
+      },
+      "preview": false,
+      "stopnumber": 7,
+      "primary_segment": "c826f607-724e-413a-aa96-288d83277f7c",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "530452c86ccc5cae89c327b3165e7ecaebd9b38d",
+      "title": "7 The Duke’s Audience Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:52:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "073f585e-29e9-4131-b656-0be0d32f8af1"
+        ],
+        "audio_segment": [
+          "c826f607-724e-413a-aa96-288d83277f7c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

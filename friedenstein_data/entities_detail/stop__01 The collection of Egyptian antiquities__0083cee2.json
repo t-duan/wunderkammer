@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080301,
+    "uuid": "0083cee2-3bee-4ca1-84da-53d85bc95ffc",
+    "title": "01 The collection of Egyptian antiquities",
+    "content": {
+      "image": "6dca117d-aa7b-4ec9-82bd-c408b521e3c5",
+      "title": {
+        "de-DE": "Die Ägyptensammlung",
+        "en-US": "The collection of Egyptian antiquities"
+      },
+      "preview": false,
+      "stopnumber": 101,
+      "primary_segment": "778032ea-c47c-4cdd-8b7c-2e13256ab080",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ff4b0d962943947e09cb7bb1a0dd54998318ea12",
+      "title": "01 The collection of Egyptian antiquities",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:25:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6dca117d-aa7b-4ec9-82bd-c408b521e3c5"
+        ],
+        "audio_segment": [
+          "778032ea-c47c-4cdd-8b7c-2e13256ab080"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

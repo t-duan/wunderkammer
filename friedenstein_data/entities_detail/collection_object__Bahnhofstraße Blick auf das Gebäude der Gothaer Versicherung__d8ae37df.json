@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35562,
+    "uuid": "d8ae37df-f0b8-55fa-ae1f-048fa92003a1",
+    "title": "Bahnhofstraße, Blick auf das Gebäude der Gothaer Versicherung",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Blick auf das Gebäude der Gothaer Versicherung",
+        "en-US": "Bahnhofstraße, Blick auf das Gebäude der Gothaer Versicherung"
+      },
+      "period": {
+        "de-DE": [
+          "1980er Jahre"
+        ],
+        "en-US": [
+          "1980er Jahre"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Barytpapier"
+        ],
+        "en-US": [
+          "Barytpapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 12.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00969026%2F871347_00221843_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55439"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "588f9431e9fc725dc17f4b9ff1680d0d183c56c1",
+      "title": "Bahnhofstraße, Blick auf das Gebäude der Gothaer Versicherung",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.817Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "12EAF3317E164A06A74A8F7A6BD855F6"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35445,
+    "uuid": "afa3db16-de06-5b16-8bc9-4e9a73a3470e",
+    "title": "Hauptmarkt, Westseite des Schlossberges mit Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Westseite des Schlossberges mit Wasserkunst",
+        "en-US": "Hauptmarkt, Westseite des Schlossberges mit Wasserkunst"
+      },
+      "period": {
+        "de-DE": [
+          "um 1930"
+        ],
+        "en-US": [
+          "um 1930"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "PE-Papier"
+        ],
+        "en-US": [
+          "PE-Papier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 7.6 cm",
+          "Breite 11.5 cm"
+        ],
+        "en-US": [
+          "Höhe 7.6 cm",
+          "Breite 11.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055630%2F871347_00248677_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "3040"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "da697c5fef1a4ac8cd20ea70b976cf07ccd9f4ba",
+      "title": "Hauptmarkt, Westseite des Schlossberges mit Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.014Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "2C002559EF0343C68FD77F71F995E561"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

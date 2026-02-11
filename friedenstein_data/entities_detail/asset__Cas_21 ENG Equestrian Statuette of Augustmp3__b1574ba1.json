@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22227,
+    "uuid": "b1574ba1-1b24-4994-ac4c-69eb41b3d644",
+    "title": "Cas_21 ENG Equestrian Statuette of August.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/b1574ba1-1b24-4994-ac4c-69eb41b3d644/Cas_21%20ENG%20Equestrian%20Statuette%20of%20August.mp3",
+      "file_name": "Cas_21 ENG Equestrian Statuette of August.mp3",
+      "file_size": 743574,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "2cefd782b7f0fc61cb2da0c9491f9e88c908b083",
+      "title": "Cas_21 ENG Equestrian Statuette of August.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:28.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

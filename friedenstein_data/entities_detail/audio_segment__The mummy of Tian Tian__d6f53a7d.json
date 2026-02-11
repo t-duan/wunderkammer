@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080298,
+    "uuid": "d6f53a7d-9222-4265-ac2d-d3d98fd8e69f",
+    "title": "The mummy of Tian Tian",
+    "content": {
+      "title": {
+        "de-DE": "The mummy of Tian Tian",
+        "en-US": "The mummy of Tian Tian"
+      },
+      "audiofile": {
+        "de-DE": "37db6928-3512-4044-9104-3d4e629d69eb",
+        "en-US": "a439deab-9221-4c8e-8d79-2750a2d7283f"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "456a8ec757f051824dc19b7a5845a5db1eaf4817",
+      "title": "The mummy of Tian Tian",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:26:53.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "37db6928-3512-4044-9104-3d4e629d69eb",
+          "a439deab-9221-4c8e-8d79-2750a2d7283f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

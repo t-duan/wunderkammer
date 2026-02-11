@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22262,
+    "uuid": "a302d212-a385-4b34-af55-c33665e6d0f8",
+    "title": "Cas_26 DE Schlacht Karls d G Hunnen.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/a302d212-a385-4b34-af55-c33665e6d0f8/Cas_26%20DE%20Schlacht%20Karls%20d%20G%20Hunnen.mp3",
+      "file_name": "Cas_26 DE Schlacht Karls d G Hunnen.mp3",
+      "file_size": 1186794,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d707d5c4231c9c3385a34217b4266b8834a5247e",
+      "title": "Cas_26 DE Schlacht Karls d G Hunnen.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

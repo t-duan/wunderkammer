@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35508,
+    "uuid": "1978b585-4b67-5ecf-8d67-9e64b9860967",
+    "title": "Jüdenstraße",
+    "content": {
+      "title": {
+        "de-DE": "Jüdenstraße",
+        "en-US": "Jüdenstraße"
+      },
+      "period": {
+        "de-DE": [
+          "20.03.1993"
+        ],
+        "en-US": [
+          "20.03.1993"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01032585%2F871347_00222758_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "43522"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1db4ceed14de1a1ba80b177e717a7dc718bf4bfd",
+      "title": "Jüdenstraße",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.388Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "866B9D7605D9498E86F2ACDD1918945B"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

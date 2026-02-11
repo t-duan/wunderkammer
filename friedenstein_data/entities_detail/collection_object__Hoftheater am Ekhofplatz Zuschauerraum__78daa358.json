@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35430,
+    "uuid": "78daa358-8497-530a-b1e5-cc7e928ea4d6",
+    "title": "Hoftheater am Ekhofplatz, Zuschauerraum",
+    "content": {
+      "title": {
+        "de-DE": "Hoftheater am Ekhofplatz, Zuschauerraum",
+        "en-US": "Hoftheater am Ekhofplatz, Zuschauerraum"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01073360%2F871347_00276060_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "28253"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "59968d1509c64036143dbe7c18ce9bff7ffed38c",
+      "title": "Hoftheater am Ekhofplatz, Zuschauerraum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.153Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "D9FC6EE8523945119EE9738F32EF3CB8"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

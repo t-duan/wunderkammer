@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080541,
+    "uuid": "968e1cbe-c28e-4fba-9cf5-1cea25a0670b",
+    "title": "The Black Gallery",
+    "content": {
+      "title": {
+        "de-DE": "The Black Gallery",
+        "en-US": "The Black Gallery"
+      },
+      "audiofile": {
+        "de-DE": "cd2f3695-cd9c-40bf-a2cb-fd7f35c46079",
+        "en-US": "6a9f721c-726c-4a92-8786-f51f3d8f54c9"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8f09da8ad6db9ff909cba40bdbe0b217aeb8638a",
+      "title": "The Black Gallery",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:49:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6a9f721c-726c-4a92-8786-f51f3d8f54c9",
+          "cd2f3695-cd9c-40bf-a2cb-fd7f35c46079"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

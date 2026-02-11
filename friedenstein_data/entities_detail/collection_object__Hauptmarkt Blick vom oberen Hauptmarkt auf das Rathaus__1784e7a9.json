@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35541,
+    "uuid": "1784e7a9-1d2a-52ea-9a30-2f1b1d47dec5",
+    "title": "Hauptmarkt, Blick vom oberen Hauptmarkt auf das Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Blick vom oberen Hauptmarkt auf das Rathaus",
+        "en-US": "Hauptmarkt, Blick vom oberen Hauptmarkt auf das Rathaus"
+      },
+      "period": {
+        "de-DE": [
+          "um 1930"
+        ],
+        "en-US": [
+          "um 1930"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 14.0 cm",
+          "Breite 9.0 cm"
+        ],
+        "en-US": [
+          "Höhe 14.0 cm",
+          "Breite 9.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055389%2F871347_00248253_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54792"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c38f746446e915f90817ea7f01a676985f3d9d13",
+      "title": "Hauptmarkt, Blick vom oberen Hauptmarkt auf das Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.071Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "BAFB12AA5B554937A40149FDC14A52CD"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

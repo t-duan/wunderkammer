@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35334,
+    "uuid": "384715e2-5895-5327-8125-2f2040d64e42",
+    "title": "Jüdenstraße",
+    "content": {
+      "title": {
+        "de-DE": "Jüdenstraße",
+        "en-US": "Jüdenstraße"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.8 cm",
+          "Breite 13.7 cm"
+        ],
+        "en-US": [
+          "Höhe 8.8 cm",
+          "Breite 13.7 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01044657%2F871347_00222723_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "13708"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0bd92bb8e38655905a4847637e0ff94af40324e4",
+      "title": "Jüdenstraße",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:35.101Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "63DADC4FB5CE4964B58E0B97D918643E"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

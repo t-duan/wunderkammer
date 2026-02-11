@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080094,
+    "uuid": "b036d006-8fda-4468-a783-78f54067b7d5",
+    "title": "30 Cupola Room and Bronze Statue of Ernest II",
+    "content": {
+      "image": "34126467-ec21-47ca-8dfe-820d76c9ce75",
+      "title": {
+        "de-DE": "Kuppelsaal und Bronzestatue Ernsts II",
+        "en-US": "Cupola Room and Bronze Statue of Ernest II"
+      },
+      "preview": false,
+      "stopnumber": 130,
+      "primary_segment": "87916421-6189-4e7a-a279-19d025facdc5",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b34f9c149df1a6dbbcb88de3c9524ff194fd23b5",
+      "title": "30 Cupola Room and Bronze Statue of Ernest II",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:12:47.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "34126467-ec21-47ca-8dfe-820d76c9ce75"
+        ],
+        "audio_segment": [
+          "87916421-6189-4e7a-a279-19d025facdc5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35340,
+    "uuid": "e1798e63-fc2a-5c36-a309-bc34acb3788c",
+    "title": "Parkallee, Außenansicht Herzogliches Museum - Straßenseite",
+    "content": {
+      "title": {
+        "de-DE": "Parkallee, Außenansicht Herzogliches Museum - Straßenseite",
+        "en-US": "Parkallee, Außenansicht Herzogliches Museum - Straßenseite"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Papier"
+        ],
+        "en-US": [
+          "Papier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.8 cm",
+          "Breite 13.9 cm"
+        ],
+        "en-US": [
+          "Höhe 8.8 cm",
+          "Breite 13.9 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055759%2F871347_00248940_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "14961"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1b88ecac29bed2cd6c51a32e11a53b2084a2ff5d",
+      "title": "Parkallee, Außenansicht Herzogliches Museum - Straßenseite",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:35.045Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "5963B77C036A439789558363E9ECCD15"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

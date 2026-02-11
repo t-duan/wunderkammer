@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080400,
+    "uuid": "89e81651-6fc9-4ac0-978e-a9a68289aecd",
+    "title": "Weimar-Gallery with Ancestral Portraits",
+    "content": {
+      "title": {
+        "de-DE": "Weimar-Gallery with Ancestral Portraits",
+        "en-US": "Weimar-Gallery with Ancestral Portraits"
+      },
+      "audiofile": {
+        "de-DE": "02b13cd8-51c9-4c9e-a3d0-b225bc98641b",
+        "en-US": "a4c8747a-4858-4ac9-ae76-780f0a24bf8c"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "571369316bd7037777d320e98e79c6d6ded131f7",
+      "title": "Weimar-Gallery with Ancestral Portraits",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:09:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "02b13cd8-51c9-4c9e-a3d0-b225bc98641b",
+          "a4c8747a-4858-4ac9-ae76-780f0a24bf8c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

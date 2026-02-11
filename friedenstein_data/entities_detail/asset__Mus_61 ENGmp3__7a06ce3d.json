@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22121,
+    "uuid": "7a06ce3d-017c-4b0d-8404-8809381d4bc6",
+    "title": "Mus_61 ENG.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/7a06ce3d-017c-4b0d-8404-8809381d4bc6/Mus_61%20ENG.mp3",
+      "file_name": "Mus_61 ENG.mp3",
+      "file_size": 1263539,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "38eadb6303e8cd1d0a5a68c7bbdafc1231989bab",
+      "title": "Mus_61 ENG.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T13:19:50.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

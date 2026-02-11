@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080658,
+    "uuid": "900649a7-5ce5-4178-8312-ef41a08c8b8b",
+    "title": "Neumarkt und Margarethenkirche",
+    "content": {
+      "image": "bb84e117-ee38-408a-8c33-24822258a867",
+      "title": {
+        "de-DE": "Neumarkt und Margarethenkirche",
+        "en-US": "Neumarkt and St Margaret's Church"
+      },
+      "preview": false,
+      "primary_segment": "39172b7c-1243-4001-9586-641089fe8f60",
+      "secondary_segments": [
+        "7554c2a4-7328-4e8c-8394-47ef71448a19",
+        "cd2121af-9e4f-4fc6-9b65-791dc3c02a6c"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5a16d239f0bb71df1d4947075c4b012b18b1c0a5",
+      "title": "Neumarkt und Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T07:34:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "bb84e117-ee38-408a-8c33-24822258a867"
+        ],
+        "audio_segment": [
+          "39172b7c-1243-4001-9586-641089fe8f60"
+        ],
+        "comments_segment": [
+          "cd2121af-9e4f-4fc6-9b65-791dc3c02a6c"
+        ],
+        "collection_object_gallery_segment": [
+          "7554c2a4-7328-4e8c-8394-47ef71448a19"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

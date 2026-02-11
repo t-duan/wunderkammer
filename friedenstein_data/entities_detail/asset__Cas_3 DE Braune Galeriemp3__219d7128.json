@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22282,
+    "uuid": "219d7128-515e-4104-b5e0-217af06f415c",
+    "title": "Cas_3 DE Braune Galerie.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/219d7128-515e-4104-b5e0-217af06f415c/Cas_3%20DE%20Braune%20Galerie.mp3",
+      "file_name": "Cas_3 DE Braune Galerie.mp3",
+      "file_size": 3038179,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "fcd5a21cf3c1dc988719667987bbb55397061f5e",
+      "title": "Cas_3 DE Braune Galerie.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

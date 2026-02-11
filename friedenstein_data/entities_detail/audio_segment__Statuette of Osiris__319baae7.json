@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080274,
+    "uuid": "319baae7-0453-4903-ae0d-869725feb803",
+    "title": "Statuette of Osiris",
+    "content": {
+      "title": {
+        "de-DE": "Statuette of Osiris",
+        "en-US": "Statuette of Osiris"
+      },
+      "audiofile": {
+        "de-DE": "22dc4e1b-1124-40bb-8dcd-99935e2d14f8",
+        "en-US": "3995fea2-a90b-4231-a71b-c3272a8b4dce"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e005333820c93b7b92b9b0145eddf9b5a55114d3",
+      "title": "Statuette of Osiris",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:34:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "22dc4e1b-1124-40bb-8dcd-99935e2d14f8",
+          "3995fea2-a90b-4231-a71b-c3272a8b4dce"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

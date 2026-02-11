@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080175,
+    "uuid": "f44eaebe-c47a-4f9f-9773-ce8c540eb005",
+    "title": "19 Carl May: Temple of Poseidon",
+    "content": {
+      "title": {
+        "de-DE": "19 Carl May: Temple of Poseidon",
+        "en-US": "19 Carl May: Temple of Poseidon"
+      },
+      "audiofile": {
+        "de-DE": "a900ab8d-5a5f-488c-858d-341fe95d27c1",
+        "en-US": "84430d3e-7685-45c0-a469-66be9008f526"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "48da06bf118323b63d6a6e7a947bc7cc41dd3181",
+      "title": "19 Carl May: Temple of Poseidon",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:54:37.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "84430d3e-7685-45c0-a469-66be9008f526",
+          "a900ab8d-5a5f-488c-858d-341fe95d27c1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

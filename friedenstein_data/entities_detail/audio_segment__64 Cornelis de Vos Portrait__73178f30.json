@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079887,
+    "uuid": "73178f30-1b8b-4095-852c-31508fbf2b54",
+    "title": "64 Cornelis de Vos: Portrait",
+    "content": {
+      "title": {
+        "de-DE": "64 Cornelis de Vos: Portrait",
+        "en-US": "64 Cornelis de Vos: Portrait"
+      },
+      "audiofile": {
+        "de-DE": "c3214bc6-63c4-476e-a67a-456184d044db",
+        "en-US": "4bb8b8f2-3ea8-473a-bf94-abad365a9c2f"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e44ea5022647e002fb5fa53641bc1c10443fed72",
+      "title": "64 Cornelis de Vos: Portrait",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:12:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4bb8b8f2-3ea8-473a-bf94-abad365a9c2f",
+          "c3214bc6-63c4-476e-a67a-456184d044db"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

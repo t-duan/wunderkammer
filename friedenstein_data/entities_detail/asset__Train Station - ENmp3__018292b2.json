@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21019,
+    "uuid": "018292b2-cbf4-43af-a9b8-663c82b46be3",
+    "title": "Train Station - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/018292b2-cbf4-43af-a9b8-663c82b46be3/Train%20Station%20-%20EN.mp3",
+      "file_name": "Train Station - EN.mp3",
+      "file_size": 6551435,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "97b79b3785ead1fd7bd48c3300dcc526826dc0f4",
+      "title": "Train Station - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:18:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35331,
+    "uuid": "166a0fe7-b200-50f8-a360-9f5e2e9b2628",
+    "title": "Orangerie, Orangeriegarten mit Heinrich-Heine-Bibliothek",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie, Orangeriegarten mit Heinrich-Heine-Bibliothek",
+        "en-US": "Orangerie, Orangeriegarten mit Heinrich-Heine-Bibliothek"
+      },
+      "period": {
+        "de-DE": [
+          "um 1965"
+        ],
+        "en-US": [
+          "um 1965"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.7 cm",
+          "Breite 13.6 cm"
+        ],
+        "en-US": [
+          "Höhe 8.7 cm",
+          "Breite 13.6 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064881%2F871347_00251435_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "13445"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "533b8b852426d5f365064bdf0c67a75dafe47a79",
+      "title": "Orangerie, Orangeriegarten mit Heinrich-Heine-Bibliothek",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:35.129Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "1EE4CAC319E148D6925AEE93255E718E"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

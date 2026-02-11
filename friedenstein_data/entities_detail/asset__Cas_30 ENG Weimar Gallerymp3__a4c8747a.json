@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22221,
+    "uuid": "a4c8747a-4858-4ac9-ae76-780f0a24bf8c",
+    "title": "Cas_30 ENG Weimar Gallery.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/a4c8747a-4858-4ac9-ae76-780f0a24bf8c/Cas_30%20ENG%20Weimar%20Gallery.mp3",
+      "file_name": "Cas_30 ENG Weimar Gallery.mp3",
+      "file_size": 355765,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "58f8b51297cdd6dea30e8ab941d82fe139b87eb7",
+      "title": "Cas_30 ENG Weimar Gallery.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

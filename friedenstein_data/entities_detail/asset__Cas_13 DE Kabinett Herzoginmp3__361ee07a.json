@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22273,
+    "uuid": "361ee07a-40cb-45b1-a523-26384518be4e",
+    "title": "Cas_13 DE Kabinett Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/361ee07a-40cb-45b1-a523-26384518be4e/Cas_13%20DE%20Kabinett%20Herzogin.mp3",
+      "file_name": "Cas_13 DE Kabinett Herzogin.mp3",
+      "file_size": 402099,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ef2079bcd501663c14fb648b812e1a32afc56505",
+      "title": "Cas_13 DE Kabinett Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

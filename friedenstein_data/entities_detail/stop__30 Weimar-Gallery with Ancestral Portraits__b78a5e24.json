@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080397,
+    "uuid": "b78a5e24-e22b-4d1d-8102-e2e63f0458f5",
+    "title": "30 Weimar-Gallery with Ancestral Portraits",
+    "content": {
+      "image": "cc38e0e0-35a5-4c72-9ed9-e5e984d64bb5",
+      "title": {
+        "de-DE": "Weimargalerie",
+        "en-US": "Weimar-Gallery with Ancestral Portraits"
+      },
+      "preview": false,
+      "stopnumber": 30,
+      "primary_segment": "89e81651-6fc9-4ac0-978e-a9a68289aecd",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "56da4368a49574c3b2a3935fcd9a570d610eb3aa",
+      "title": "30 Weimar-Gallery with Ancestral Portraits",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:09:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "cc38e0e0-35a5-4c72-9ed9-e5e984d64bb5"
+        ],
+        "audio_segment": [
+          "89e81651-6fc9-4ac0-978e-a9a68289aecd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

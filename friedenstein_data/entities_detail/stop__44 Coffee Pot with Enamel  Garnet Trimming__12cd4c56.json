@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080004,
+    "uuid": "12cd4c56-83c5-49ff-8a04-6ac5ec7e45fb",
+    "title": "44 Coffee Pot with Enamel & Garnet Trimming",
+    "content": {
+      "image": "1ef41cbb-3bf4-49d4-9596-121630e3eb17",
+      "title": {
+        "de-DE": "Kaffeekanne mit Email & Granatbesatz",
+        "en-US": "Coffee Pot with Enamel & Garnet Trimming"
+      },
+      "preview": false,
+      "stopnumber": 144,
+      "primary_segment": "430a5646-0cbd-486e-bb95-6a2c0303abfd",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "00a754cdc2011718495d12c7ac3bc25235f672da",
+      "title": "44 Coffee Pot with Enamel & Garnet Trimming",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:42:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1ef41cbb-3bf4-49d4-9596-121630e3eb17"
+        ],
+        "audio_segment": [
+          "430a5646-0cbd-486e-bb95-6a2c0303abfd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

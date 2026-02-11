@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21013,
+    "uuid": "002aa0e8-ddff-4dc2-860c-72e395e4d0c3",
+    "title": "Cas_16 ENG West Entrance Hall.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/002aa0e8-ddff-4dc2-860c-72e395e4d0c3/Cas_16%20ENG%20West%20Entrance%20Hall.mp3",
+      "file_name": "Cas_16 ENG West Entrance Hall.mp3",
+      "file_size": 2259427,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ee292f85322e2a2447a484aa882e0aad1fdf525b",
+      "title": "Cas_16 ENG West Entrance Hall.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

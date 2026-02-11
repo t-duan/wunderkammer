@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35418,
+    "uuid": "1cb86ab5-30d9-5aa1-9bac-81bd138ffae5",
+    "title": "Bahnhofstraße, Blick auf das Gebäude der ehemaligen Feuerversicherungsbank",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Blick auf das Gebäude der ehemaligen Feuerversicherungsbank",
+        "en-US": "Bahnhofstraße, Blick auf das Gebäude der ehemaligen Feuerversicherungsbank"
+      },
+      "period": {
+        "de-DE": [
+          "1930er Jahre"
+        ],
+        "en-US": [
+          "1930er Jahre"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031884%2F871347_00221873_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2703"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "376e0d1b09ffcf7f77dc1a11621e06ccce66f311",
+      "title": "Bahnhofstraße, Blick auf das Gebäude der ehemaligen Feuerversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.273Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "EB0886103AC74092B31AED4F3AC656E3"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

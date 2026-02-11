@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080235,
+    "uuid": "5f2152af-aae7-4bc2-8110-016c3d142985",
+    "title": "12 Olpe",
+    "content": {
+      "image": "64974edc-89f9-444f-a663-287a607f14bc",
+      "title": {
+        "de-DE": "Olpe",
+        "en-US": "Olpe"
+      },
+      "preview": false,
+      "stopnumber": 112,
+      "primary_segment": "e0ed790e-127e-4d7b-a273-9b43078c7e0a",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "123d205f04bd83d15f524719bc82886dd74f52ce",
+      "title": "12 Olpe",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:54:47.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "64974edc-89f9-444f-a663-287a607f14bc"
+        ],
+        "audio_segment": [
+          "e0ed790e-127e-4d7b-a273-9b43078c7e0a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

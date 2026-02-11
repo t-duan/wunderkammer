@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080436,
+    "uuid": "20bd1da2-cc58-43fc-a556-d37457b70c66",
+    "title": "The Nautilus Goblet",
+    "content": {
+      "title": {
+        "de-DE": "The Nautilus Goblet",
+        "en-US": "The Nautilus Goblet"
+      },
+      "audiofile": {
+        "de-DE": "770a847f-0f8c-4417-870d-e8de62eec7d9",
+        "en-US": "ed130a4b-db96-4288-a0ff-cc0e65f857cf"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ab35060c51a5f123e496b8c5b5513d56347c8be5",
+      "title": "The Nautilus Goblet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:59:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "770a847f-0f8c-4417-870d-e8de62eec7d9",
+          "ed130a4b-db96-4288-a0ff-cc0e65f857cf"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

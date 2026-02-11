@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080049,
+    "uuid": "a8e5311a-94fa-4a35-a070-a039116e140e",
+    "title": "37 Tischbein: The judgement of death",
+    "content": {
+      "title": {
+        "de-DE": "37 Tischbein: The judgement of death",
+        "en-US": "37 Tischbein: The judgement of death"
+      },
+      "audiofile": {
+        "de-DE": "32eaa8cb-f237-43e6-acbb-916ac9177c68",
+        "en-US": "64578ae1-1bf1-41db-b74a-49e22125813a"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "06df0401e3546d547e3a400b57c2c744d0574dc6",
+      "title": "37 Tischbein: The judgement of death",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:28:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "32eaa8cb-f237-43e6-acbb-916ac9177c68",
+          "64578ae1-1bf1-41db-b74a-49e22125813a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

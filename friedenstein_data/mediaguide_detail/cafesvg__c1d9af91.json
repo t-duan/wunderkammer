@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6329,
+    "uuid": "c1d9af91-310a-41b7-b9cd-037d6b834c20",
+    "title": "cafe.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/c1d9af91-310a-41b7-b9cd-037d6b834c20/cafe.svg",
+      "file_name": "cafe.svg",
+      "file_size": 1589,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "5ec2e34e2bbccb847e7f9a1917178c63d4480e81",
+      "title": "cafe.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

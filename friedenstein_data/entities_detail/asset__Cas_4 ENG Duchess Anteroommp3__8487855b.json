@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22243,
+    "uuid": "8487855b-8882-4c44-90e9-a9952f908849",
+    "title": "Cas_4 ENG Duchess Anteroom.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/8487855b-8882-4c44-90e9-a9952f908849/Cas_4%20ENG%20Duchess%20Anteroom.mp3",
+      "file_name": "Cas_4 ENG Duchess Anteroom.mp3",
+      "file_size": 3662428,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "9bce2c9c72a82ed85c596600a81fa76000698d82",
+      "title": "Cas_4 ENG Duchess Anteroom.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

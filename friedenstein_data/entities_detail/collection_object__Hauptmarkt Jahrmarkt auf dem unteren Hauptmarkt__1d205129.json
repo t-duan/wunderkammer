@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35379,
+    "uuid": "1d205129-4cf3-5b81-b220-36c31a9b1f04",
+    "title": "Hauptmarkt, Jahrmarkt auf dem unteren Hauptmarkt",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Jahrmarkt auf dem unteren Hauptmarkt",
+        "en-US": "Hauptmarkt, Jahrmarkt auf dem unteren Hauptmarkt"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 11.7 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 11.7 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055352%2F871347_00248188_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2092"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "60b37f7b595aeda43114e4f708ebbe897973c8cc",
+      "title": "Hauptmarkt, Jahrmarkt auf dem unteren Hauptmarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.666Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "3C7FD8B7438B4A958BA271FE69139B84"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

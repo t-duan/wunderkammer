@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079758,
+    "uuid": "cb0fc33c-72d1-445e-a4b3-a0c4b76ab51a",
+    "title": "Wasserkunst Gotha",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "76bae3e3-63b9-53ca-bb78-790f6e01f256",
+        "6362a0ae-cf28-54f9-85ec-5ba1817a2d29",
+        "5af7c94c-9e5e-56a8-ac27-348beaed92ff",
+        "afa3db16-de06-5b16-8bc9-4e9a73a3470e",
+        "393a8059-8eeb-5fed-ac0a-f0c2389489c3",
+        "8bfe72c1-3706-50e3-96fe-9ba40de9dca0",
+        "8d7b8a76-3488-5bc6-9537-b58633289f4a",
+        "49460d42-0969-5a32-8c50-716ef87d55f8"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "11171e02866f189f5f2406be5cfe417a3efd6c95",
+      "title": "Wasserkunst Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:38:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

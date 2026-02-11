@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080253,
+    "uuid": "4677e48e-0478-4327-ae17-2da41daad01b",
+    "title": "09 Ancient burial cults",
+    "content": {
+      "image": "0629d747-13b4-42fb-849c-29b26e2e8882",
+      "title": {
+        "de-DE": "Antiker Begräbniskult",
+        "en-US": "Ancient burial cults"
+      },
+      "preview": false,
+      "stopnumber": 109,
+      "primary_segment": "2985d747-7ba5-400c-9e8a-bc0f44ea7cc3",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0e82b4e3c907c10923922a0ae9465143ccc23ae6",
+      "title": "09 Ancient burial cults",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:39:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0629d747-13b4-42fb-849c-29b26e2e8882"
+        ],
+        "audio_segment": [
+          "2985d747-7ba5-400c-9e8a-bc0f44ea7cc3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

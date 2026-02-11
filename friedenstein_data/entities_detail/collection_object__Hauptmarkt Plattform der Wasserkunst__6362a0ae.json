@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35595,
+    "uuid": "6362a0ae-cf28-54f9-85ec-5ba1817a2d29",
+    "title": "Hauptmarkt, Plattform der Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Plattform der Wasserkunst",
+        "en-US": "Hauptmarkt, Plattform der Wasserkunst"
+      },
+      "period": {
+        "de-DE": [
+          "1906 - 1907"
+        ],
+        "en-US": [
+          "1906 - 1907"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ],
+        "en-US": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055589%2F871347_00248609_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "709"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8043449c2543d07e5d0c5d7ffd8570e93bb0d7f4",
+      "title": "Hauptmarkt, Plattform der Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.455Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "6ED688D1168E4EAB8FC185D684137454"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080142,
+    "uuid": "c1122b81-bb5d-4a9f-a823-51c591a53946",
+    "title": "24 Jean-Antoine Houdon: Anatomical Study",
+    "content": {
+      "image": "b96f4707-b578-41fb-a014-c77c1c6c3df2",
+      "title": {
+        "de-DE": "Jean-Antoine Houdon: Muskelmann",
+        "en-US": "Jean-Antoine Houdon: Anatomical Study"
+      },
+      "preview": false,
+      "stopnumber": 124,
+      "primary_segment": "24cf7cf6-e053-45c3-8311-522290d1f50d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5489d61400ae340196eb6fe8a46caf0a3ee2050e",
+      "title": "24 Jean-Antoine Houdon: Anatomical Study",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:03:43.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b96f4707-b578-41fb-a014-c77c1c6c3df2"
+        ],
+        "audio_segment": [
+          "24cf7cf6-e053-45c3-8311-522290d1f50d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

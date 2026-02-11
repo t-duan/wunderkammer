@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070891,
+    "uuid": "515495b0-2239-49f4-9b93-acb3afde43e9",
+    "title": "Hike",
+    "content": {
+      "key": "hike_route",
+      "icon": "5b3f56ee-847e-4c98-91f3-759a98cc73fa",
+      "label": {
+        "ar-AE": "تنزه",
+        "ar-SA": "تنزه",
+        "de-DE": "Wanderung",
+        "en-GB": "Hike",
+        "en-US": "Hike",
+        "es-ES": "Caminata",
+        "fa-IR": "پیاده روی",
+        "fr-FR": "Randonnée",
+        "it-IT": "Escursione",
+        "ja-JP": "ハイキング",
+        "nl-NL": "Wandeling",
+        "zh-CN": "远足",
+        "nl-NL-AD": "Wandeling",
+        "nl-NL-sl": "Wandeling"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4588e01f2bf126229785074a7f2c68e53247e70a",
+      "title": "Hike",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:47:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5b3f56ee-847e-4c98-91f3-759a98cc73fa"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

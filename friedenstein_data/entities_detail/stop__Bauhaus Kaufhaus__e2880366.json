@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080661,
+    "uuid": "e2880366-f720-40c3-806d-dd1fead8011d",
+    "title": "Bauhaus Kaufhaus ",
+    "content": {
+      "image": "df222811-5bc5-4a7b-9f9f-eba27363ea83",
+      "title": {
+        "de-DE": "Bauhaus Kaufhaus",
+        "en-US": "Bauhaus Department Store"
+      },
+      "preview": false,
+      "primary_segment": "90dbcec4-638d-4454-94e1-8ad944690ff6",
+      "secondary_segments": [
+        "2c372e89-1a9d-43c1-a117-d7510329e6df",
+        "9aa30b67-b182-4c7c-9a2f-adc58178b4dc"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7bc1b424b1e4e0dc7e5f7875c2ad235684540d7d",
+      "title": "Bauhaus Kaufhaus ",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T07:21:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "df222811-5bc5-4a7b-9f9f-eba27363ea83"
+        ],
+        "audio_segment": [
+          "90dbcec4-638d-4454-94e1-8ad944690ff6"
+        ],
+        "comments_segment": [
+          "9aa30b67-b182-4c7c-9a2f-adc58178b4dc"
+        ],
+        "collection_object_gallery_segment": [
+          "2c372e89-1a9d-43c1-a117-d7510329e6df"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

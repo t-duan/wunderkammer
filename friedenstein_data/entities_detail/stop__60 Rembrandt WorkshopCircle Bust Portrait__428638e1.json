@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079908,
+    "uuid": "428638e1-1eb5-438f-a7ff-2fd17aece9c7",
+    "title": "60 Rembrandt, Workshop/Circle: Bust Portrait",
+    "content": {
+      "image": "ad445df6-8395-42d5-b7c1-a67e881890a8",
+      "title": {
+        "de-DE": "Rembrandt, Werkstatt/Umreis: Brustbild",
+        "en-US": "Rembrandt, Workshop/Circle: Bust Portrait"
+      },
+      "preview": false,
+      "stopnumber": 160,
+      "primary_segment": "4dd4d878-7155-4a7c-8a9b-91c0398b2ffd",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2dee34a2b8960b98058158f5554b042db7a8ac3b",
+      "title": "60 Rembrandt, Workshop/Circle: Bust Portrait",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:07:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "ad445df6-8395-42d5-b7c1-a67e881890a8"
+        ],
+        "audio_segment": [
+          "4dd4d878-7155-4a7c-8a9b-91c0398b2ffd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

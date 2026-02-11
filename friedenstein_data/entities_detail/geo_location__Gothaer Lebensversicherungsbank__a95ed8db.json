@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080595,
+    "uuid": "a95ed8db-2d41-4f70-8b4d-b0747d3189ca",
+    "title": "Gothaer Lebensversicherungsbank",
+    "content": {
+      "type": "audio",
+      "content": "4a700560-3428-4f0a-bd36-910dff64f6c4",
+      "geo_location": {
+        "lat": 50.943089,
+        "lng": 10.712222
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4d03f8f8a01e72b07174dd8948721f0f1cfa9695",
+      "title": "Gothaer Lebensversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:37:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "4a700560-3428-4f0a-bd36-910dff64f6c4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

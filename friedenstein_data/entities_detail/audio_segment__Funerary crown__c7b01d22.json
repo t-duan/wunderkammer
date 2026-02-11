@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080226,
+    "uuid": "c7b01d22-4b2e-4464-98d4-2822d35f4a10",
+    "title": "Funerary crown",
+    "content": {
+      "title": {
+        "de-DE": "Funerary crown",
+        "en-US": "Funerary crown"
+      },
+      "audiofile": {
+        "de-DE": "2bfacc73-246d-490d-a017-2926420dbd6e",
+        "en-US": "da3beea8-0d9f-4908-a2e6-311d2cf367dd"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a6b514d35aa29069a709fc262f82e54ed9b1e7a3",
+      "title": "Funerary crown",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:59:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2bfacc73-246d-490d-a017-2926420dbd6e",
+          "da3beea8-0d9f-4908-a2e6-311d2cf367dd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35559,
+    "uuid": "375cf30c-4030-55e1-a2f2-a6a3bdd2dbf7",
+    "title": "Arnoldiplatz, Hoftheater und Arnoldidenkmal",
+    "content": {
+      "title": {
+        "de-DE": "Arnoldiplatz, Hoftheater und Arnoldidenkmal",
+        "en-US": "Arnoldiplatz, Hoftheater und Arnoldidenkmal"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 11.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970308%2F871347_00247630_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55402"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "44cfa1711212c065c34b94011a1cd7e68ba7bf35",
+      "title": "Arnoldiplatz, Hoftheater und Arnoldidenkmal",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.848Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "5908D67422514320A07EBB3864CF3AB9"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

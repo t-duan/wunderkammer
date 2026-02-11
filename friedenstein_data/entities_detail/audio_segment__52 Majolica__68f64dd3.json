@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079959,
+    "uuid": "68f64dd3-2add-45cd-b579-59619df3a8e9",
+    "title": "52 Majolica",
+    "content": {
+      "title": {
+        "de-DE": "52 Majolica",
+        "en-US": "52 Majolica"
+      },
+      "audiofile": {
+        "de-DE": "62726379-326a-401a-9a3f-7cbf5f1a0f84",
+        "en-US": "86b2edec-3a94-4b0a-b034-02ee8a6d76b5"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "440eeb2c0957dafedd35866201eba2f2d6dfefb2",
+      "title": "52 Majolica",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:55:59.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "62726379-326a-401a-9a3f-7cbf5f1a0f84",
+          "86b2edec-3a94-4b0a-b034-02ee8a6d76b5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

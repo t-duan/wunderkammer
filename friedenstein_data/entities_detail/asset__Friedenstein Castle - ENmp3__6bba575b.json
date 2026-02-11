@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22328,
+    "uuid": "6bba575b-ee37-4e36-a9d2-aea540693e41",
+    "title": "Friedenstein Castle - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/6bba575b-ee37-4e36-a9d2-aea540693e41/Friedenstein%20Castle%20-%20EN.mp3",
+      "file_name": "Friedenstein Castle - EN.mp3",
+      "file_size": 5581451,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "13484de2989516f53db86dc51e71a8f130bb66be",
+      "title": "Friedenstein Castle - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:36:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

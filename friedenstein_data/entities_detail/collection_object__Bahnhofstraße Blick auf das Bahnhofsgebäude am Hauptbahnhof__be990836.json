@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35538,
+    "uuid": "be990836-681b-5a71-897d-78222016bf3e",
+    "title": "Bahnhofstraße, Blick auf das Bahnhofsgebäude am Hauptbahnhof",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Blick auf das Bahnhofsgebäude am Hauptbahnhof",
+        "en-US": "Bahnhofstraße, Blick auf das Bahnhofsgebäude am Hauptbahnhof"
+      },
+      "period": {
+        "de-DE": [
+          "1931"
+        ],
+        "en-US": [
+          "1931"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031908%2F871347_00221899_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54737"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3b1e995f907ac1217c6c626f16d2dc5404cc3fec",
+      "title": "Bahnhofstraße, Blick auf das Bahnhofsgebäude am Hauptbahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.099Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "074FE12C87444AACAF71EA2B24C2B204"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

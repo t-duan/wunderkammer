@@ -1,0 +1,67 @@
+[
+  {
+    "id": 2080682,
+    "uuid": "f73ebc5f-e007-4c46-94b1-e46c8a5a9113",
+    "title": "Mediaguide - Menu",
+    "content": {
+      "footer": [
+        {
+          "id": "51440075-5144-4144-a440-514400755144",
+          "page": "7cc20e74-68ba-46df-8453-42d3c1020f5e",
+          "title": {
+            "de-DE": "Datenschutz",
+            "en-US": "Data protection"
+          },
+          "blockName": "Page link: Datenschutz",
+          "blockType": "page_link"
+        },
+        {
+          "id": "227838c7-2278-4278-a783-227838c72278",
+          "page": "e86beeec-e405-4de6-9ddd-0c1f1f79d867",
+          "title": {
+            "de-DE": "Impressum",
+            "en-US": "Imprint"
+          },
+          "blockName": "Page link: Impressum",
+          "blockType": "page_link"
+        }
+      ],
+      "main_menu": [
+        {
+          "id": "2868fbb7-2868-4868-a68f-2868fbb72868",
+          "page": "0252cfd1-3d66-4911-b8d6-ea5f72fdaecb",
+          "title": {
+            "de-DE": "Über uns",
+            "en-US": "About us"
+          },
+          "blockName": "Page link: Über uns",
+          "blockType": "page_link"
+        }
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ae4dcd380267557aaf2ba6524f3cbf65df9bd1c3",
+      "title": "Mediaguide - Menu",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-08T10:39:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "mediaguide_page": [
+          "0252cfd1-3d66-4911-b8d6-ea5f72fdaecb",
+          "7cc20e74-68ba-46df-8453-42d3c1020f5e",
+          "e86beeec-e405-4de6-9ddd-0c1f1f79d867"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "mediaguide_menu",
+    "status": "published"
+  }
+]

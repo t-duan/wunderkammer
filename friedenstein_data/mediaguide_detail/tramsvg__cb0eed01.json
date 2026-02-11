@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6301,
+    "uuid": "cb0eed01-e414-4aa1-88cb-50d9d4555a2a",
+    "title": "tram.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/cb0eed01-e414-4aa1-88cb-50d9d4555a2a/tram.svg",
+      "file_name": "tram.svg",
+      "file_size": 1904,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1c95b518183c8cc37afaf407696a079da384083c",
+      "title": "tram.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:40.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

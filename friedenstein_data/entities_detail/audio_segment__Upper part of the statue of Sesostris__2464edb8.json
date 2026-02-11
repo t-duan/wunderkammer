@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080262,
+    "uuid": "2464edb8-4295-46d6-946e-8eb331f27b5d",
+    "title": "Upper part of the statue of Sesostris",
+    "content": {
+      "title": {
+        "de-DE": "Upper part of the statue of Sesostris",
+        "en-US": "Upper part of the statue of Sesostris"
+      },
+      "audiofile": {
+        "de-DE": "2849b745-cda6-4496-8c45-96fbb6b34f19",
+        "en-US": "52d6f12b-3c21-4958-a06a-c4b5c15af14e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "93b9baebd8c1983d1848b7e2ad063e299c82a204",
+      "title": "Upper part of the statue of Sesostris",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:37:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2849b745-cda6-4496-8c45-96fbb6b34f19",
+          "52d6f12b-3c21-4958-a06a-c4b5c15af14e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

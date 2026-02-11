@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22276,
+    "uuid": "7562cc00-421f-4547-84ae-c11abf8e26a4",
+    "title": "Cas_10 DE Schlafzimmer Herzogspaares.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/7562cc00-421f-4547-84ae-c11abf8e26a4/Cas_10%20DE%20Schlafzimmer%20Herzogspaares.mp3",
+      "file_name": "Cas_10 DE Schlafzimmer Herzogspaares.mp3",
+      "file_size": 1258784,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "3956e0a64d7401ec0831479d5d9f62b924f5ba03",
+      "title": "Cas_10 DE Schlafzimmer Herzogspaares.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

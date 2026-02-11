@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6316,
+    "uuid": "c77ed25c-8005-40be-8429-b342fc1f6149",
+    "title": "parking_bicycle.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/c77ed25c-8005-40be-8429-b342fc1f6149/parking_bicycle.svg",
+      "file_name": "parking_bicycle.svg",
+      "file_size": 3502,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "07c5b90c0c490a2a386bef3b73db13365ec67002",
+      "title": "parking_bicycle.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:35.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

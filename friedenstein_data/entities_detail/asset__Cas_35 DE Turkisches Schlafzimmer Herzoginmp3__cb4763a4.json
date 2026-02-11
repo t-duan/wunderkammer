@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22255,
+    "uuid": "cb4763a4-91dd-4b0b-ae18-dc82e0c20a63",
+    "title": "Cas_35 DE Turkisches Schlafzimmer Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/cb4763a4-91dd-4b0b-ae18-dc82e0c20a63/Cas_35%20DE%20Turkisches%20Schlafzimmer%20Herzogin.mp3",
+      "file_name": "Cas_35 DE Turkisches Schlafzimmer Herzogin.mp3",
+      "file_size": 4924942,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d84acfb734a9d111cba74a89a138d497cf113f0c",
+      "title": "Cas_35 DE Turkisches Schlafzimmer Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

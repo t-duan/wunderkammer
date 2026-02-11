@@ -1,0 +1,70 @@
+[
+  {
+    "id": 2080313,
+    "uuid": "94d1ca13-578a-4659-b7a7-06ec4d9dbe6b",
+    "title": "Mediaguide settings",
+    "content": {
+      "logo": "cabbabf5-e4b6-4fe0-afee-e41663f57a5b",
+      "labels": [
+        {
+          "id": "6b791854-6b79-4b79-a791-6b7918546b79",
+          "value": {
+            "de-DE": "Jahr/Zeitraum",
+            "en-US": "Period"
+          },
+          "blockName": "segment_metadata_period",
+          "blockType": "segment_metadata_period"
+        },
+        {
+          "id": "0fe45765-0fe4-4fe4-ae45-0fe457650fe4",
+          "value": {
+            "de-DE": "Abmessungen",
+            "en-US": "Dimensions"
+          },
+          "blockName": "segment_metadata_dimensions",
+          "blockType": "segment_metadata_dimensions"
+        },
+        {
+          "id": "283d94ee-283d-483d-a3d9-283d94ee283d",
+          "value": {
+            "de-DE": "Fotograf*in",
+            "en-US": "Photographer"
+          },
+          "blockName": "segment_metadata_creator",
+          "blockType": "segment_metadata_creator"
+        },
+        {
+          "id": "33e78113-56df-4bfc-84db-1a1b7f07944e",
+          "value": {
+            "en-US": " "
+          },
+          "blockType": "welcome_text"
+        }
+      ],
+      "welcome_background_image": "66087740-a8d8-4d34-81f1-528632a9cdbf"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "66b9d47e6d22573a6036d65d954bd8d978df6728",
+      "title": "Mediaguide settings",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T13:00:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "66087740-a8d8-4d34-81f1-528632a9cdbf",
+          "cabbabf5-e4b6-4fe0-afee-e41663f57a5b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "mediaguide_settings",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22218,
+    "uuid": "14780a5d-2370-48b6-ab2c-1097d656669e",
+    "title": "Cas_32 ENG Duchess Reception Room.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/14780a5d-2370-48b6-ab2c-1097d656669e/Cas_32%20ENG%20Duchess%20Reception%20Room.mp3",
+      "file_name": "Cas_32 ENG Duchess Reception Room.mp3",
+      "file_size": 3054543,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e9a9c097c1d16794bd72cc5e3de8182036d70d03",
+      "title": "Cas_32 ENG Duchess Reception Room.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

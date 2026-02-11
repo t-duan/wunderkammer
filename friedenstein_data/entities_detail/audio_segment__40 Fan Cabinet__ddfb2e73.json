@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080031,
+    "uuid": "ddfb2e73-f94a-4eef-aef7-186aaee102a7",
+    "title": "40 Fan Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "40 Fan Cabinet",
+        "en-US": "40 Fan Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "ab349ea4-af66-4ebd-9d53-c10c12b274cc",
+        "en-US": "30442cdf-42f6-42f8-92d6-244b515e0bce"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b8ba465a091b37edad226bed92b0ee2e3e3b1bfe",
+      "title": "40 Fan Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:33:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "30442cdf-42f6-42f8-92d6-244b515e0bce",
+          "ab349ea4-af66-4ebd-9d53-c10c12b274cc"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

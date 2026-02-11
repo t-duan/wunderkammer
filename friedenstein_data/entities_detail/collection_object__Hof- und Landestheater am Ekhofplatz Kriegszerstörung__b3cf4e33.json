@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35601,
+    "uuid": "b3cf4e33-5423-5e42-93fb-4209b6e5634d",
+    "title": "Hof- und Landestheater am Ekhofplatz, Kriegszerstörung",
+    "content": {
+      "title": {
+        "de-DE": "Hof- und Landestheater am Ekhofplatz, Kriegszerstörung",
+        "en-US": "Hof- und Landestheater am Ekhofplatz, Kriegszerstörung"
+      },
+      "period": {
+        "de-DE": [
+          "1957"
+        ],
+        "en-US": [
+          "1957"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01034386%2F871347_00226599_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "7573"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "759385466580af8a6fe3083cd6cdf6c1d4d7e139",
+      "title": "Hof- und Landestheater am Ekhofplatz, Kriegszerstörung",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.394Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "CD828857D7D84678B665ED6987F703D1"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

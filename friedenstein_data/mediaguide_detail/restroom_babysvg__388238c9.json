@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6006,
+    "uuid": "388238c9-07af-47a6-bec6-f226c2c67479",
+    "title": "restroom_baby.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/388238c9-07af-47a6-bec6-f226c2c67479/restroom_baby.svg",
+      "file_name": "restroom_baby.svg",
+      "file_size": 2687,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1ace0c2a8891022d9e894cfcc1edd62da6680eeb",
+      "title": "restroom_baby.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:37.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

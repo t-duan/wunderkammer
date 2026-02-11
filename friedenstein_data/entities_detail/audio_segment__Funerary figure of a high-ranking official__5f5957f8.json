@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080286,
+    "uuid": "5f5957f8-4453-4166-ab9e-d6dbbbe13c57",
+    "title": "Funerary figure of a high-ranking official",
+    "content": {
+      "title": {
+        "de-DE": "Funerary figure of a high-ranking official",
+        "en-US": "Funerary figure of a high-ranking official"
+      },
+      "audiofile": {
+        "de-DE": "badc8b93-1200-46ca-bc36-ae7b38f983da",
+        "en-US": "227f09dd-0c1a-40b0-8a05-231a3cc5e6b9"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "846b521a606682ecf1597e289635c7f77b1faca9",
+      "title": "Funerary figure of a high-ranking official",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:31:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "227f09dd-0c1a-40b0-8a05-231a3cc5e6b9",
+          "badc8b93-1200-46ca-bc36-ae7b38f983da"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

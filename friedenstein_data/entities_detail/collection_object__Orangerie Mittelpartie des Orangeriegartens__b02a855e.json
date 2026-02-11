@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35328,
+    "uuid": "b02a855e-c943-5a6f-94d2-1cb6d0ef81ca",
+    "title": "Orangerie, Mittelpartie des Orangeriegartens",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie, Mittelpartie des Orangeriegartens",
+        "en-US": "Orangerie, Mittelpartie des Orangeriegartens"
+      },
+      "period": {
+        "de-DE": [
+          "um 1885"
+        ],
+        "en-US": [
+          "um 1885"
+        ]
+      },
+      "creator": [
+        "Wilhelm Zink"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 5.4 cm",
+          "Breite 9.0 cm"
+        ],
+        "en-US": [
+          "Höhe 5.4 cm",
+          "Breite 9.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064657%2F871347_00251373_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "109"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1b5e3cadcad8f4e473d75bd0631868be1950b5b5",
+      "title": "Orangerie, Mittelpartie des Orangeriegartens",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:35.220Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "2E221C3312F4491C85A9E51E08CF11DF"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

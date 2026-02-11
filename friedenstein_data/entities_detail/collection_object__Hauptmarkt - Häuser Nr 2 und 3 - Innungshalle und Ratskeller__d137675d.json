@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35505,
+    "uuid": "d137675d-b775-53ef-8edc-3098ab85ba34",
+    "title": "Hauptmarkt - Häuser Nr. 2 und 3 - Innungshalle und Ratskeller",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt - Häuser Nr. 2 und 3 - Innungshalle und Ratskeller",
+        "en-US": "Hauptmarkt - Häuser Nr. 2 und 3 - Innungshalle und Ratskeller"
+      },
+      "period": {
+        "de-DE": [
+          "März 1993"
+        ],
+        "en-US": [
+          "März 1993"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040235%2F871347_00251055_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "43454"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d19e63dc300ec7751eb9f31c6bec76dfb8dbb4f6",
+      "title": "Hauptmarkt - Häuser Nr. 2 und 3 - Innungshalle und Ratskeller",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.418Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "61D0F11A742641649B60B4FCF42FB8CF"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

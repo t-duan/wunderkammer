@@ -1,0 +1,40 @@
+[
+  {
+    "id": 2080328,
+    "uuid": "24ae7b1c-0736-4290-9433-4e7f3cf554f1",
+    "title": "West Tower",
+    "content": {
+      "title": {
+        "de-DE": "West Tower",
+        "en-US": "West Tower"
+      },
+      "audiofile": {
+        "de-DE": "de9a0454-dc08-4fbf-b53d-fb64b90622f0",
+        "en-US": "46e898f7-1d33-4581-ad4d-35fe41e7d62e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ad99a6e1b81b06a728b94215822718cdafa17717",
+      "title": "West Tower",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:24:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "de9a0454-dc08-4fbf-b53d-fb64b90622f0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35400,
+    "uuid": "11510eb0-838e-55cf-9763-d45034c4d1a7",
+    "title": "Schloss Friedenstein - Westturm, Blick auf den Westturm mit Vorplatz",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein - Westturm, Blick auf den Westturm mit Vorplatz",
+        "en-US": "Schloss Friedenstein - Westturm, Blick auf den Westturm mit Vorplatz"
+      },
+      "period": {
+        "de-DE": [
+          "um 1945"
+        ],
+        "en-US": [
+          "um 1945"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 12.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 12.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01038551%2F871347_00250182_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2507"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d23b5c09b1fcf773d261b0c20da6ca76d1ecff36",
+      "title": "Schloss Friedenstein - Westturm, Blick auf den Westturm mit Vorplatz",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.458Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "91E1D42BC2A64DD8B3EE9A1AC999A811"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

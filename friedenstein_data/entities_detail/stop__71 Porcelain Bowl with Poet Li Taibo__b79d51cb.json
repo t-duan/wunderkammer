@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079842,
+    "uuid": "b79d51cb-4d90-4e74-baaf-2dce61c54c62",
+    "title": "71 Porcelain Bowl with Poet Li Taibo",
+    "content": {
+      "image": "9cf6bf3c-f674-4b6c-a296-526831bb292b",
+      "title": {
+        "de-DE": "Porzellankumme mit Dichter Li Taibo",
+        "en-US": "Porcelain Bowl with Poet Li Taibo"
+      },
+      "preview": false,
+      "stopnumber": 171,
+      "primary_segment": "c7e7654f-3eb2-4c06-8217-7182b37dee7e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2fe25126a90eedfc5c6a17091737d9830866cfb1",
+      "title": "71 Porcelain Bowl with Poet Li Taibo",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:32:50.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "9cf6bf3c-f674-4b6c-a296-526831bb292b"
+        ],
+        "audio_segment": [
+          "c7e7654f-3eb2-4c06-8217-7182b37dee7e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

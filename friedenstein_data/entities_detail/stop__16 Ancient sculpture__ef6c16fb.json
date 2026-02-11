@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080211,
+    "uuid": "ef6c16fb-350f-4630-a2f9-76a305aeac01",
+    "title": "16 Ancient sculpture",
+    "content": {
+      "image": "652802a8-d5ba-4d38-aafc-66d4d4aeb5a8",
+      "title": {
+        "de-DE": "Antike Skulptur",
+        "en-US": "Ancient sculpture"
+      },
+      "preview": false,
+      "stopnumber": 116,
+      "primary_segment": "4539ad1c-776f-4ed5-bb9c-7df9b1a944d4",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "da253d3f3be8b2453eaf8accc50fc4c7a7c3a868",
+      "title": "16 Ancient sculpture",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T15:03:17.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "652802a8-d5ba-4d38-aafc-66d4d4aeb5a8"
+        ],
+        "audio_segment": [
+          "4539ad1c-776f-4ed5-bb9c-7df9b1a944d4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

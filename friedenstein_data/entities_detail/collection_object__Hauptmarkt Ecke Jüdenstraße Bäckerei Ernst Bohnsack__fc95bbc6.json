@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35382,
+    "uuid": "fc95bbc6-5d11-5435-9948-5298304d4c55",
+    "title": "Hauptmarkt Ecke Jüdenstraße, Bäckerei Ernst Bohnsack",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt Ecke Jüdenstraße, Bäckerei Ernst Bohnsack",
+        "en-US": "Hauptmarkt Ecke Jüdenstraße, Bäckerei Ernst Bohnsack"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 17.6 cm",
+          "Breite 12.5 cm"
+        ],
+        "en-US": [
+          "Höhe 17.6 cm",
+          "Breite 12.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01036129%2F871347_00248387_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "21761"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "176cee554c02bb3501417209726114db05acbdb4",
+      "title": "Hauptmarkt Ecke Jüdenstraße, Bäckerei Ernst Bohnsack",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.628Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "3ADFDDF557F44AFEA906E130EFA85A37"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

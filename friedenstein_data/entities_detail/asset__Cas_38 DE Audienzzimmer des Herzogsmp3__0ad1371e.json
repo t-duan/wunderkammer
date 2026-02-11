@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22252,
+    "uuid": "0ad1371e-849e-47cd-91ec-c87734b68b5f",
+    "title": "Cas_38 DE Audienzzimmer des Herzogs.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/0ad1371e-849e-47cd-91ec-c87734b68b5f/Cas_38%20DE%20Audienzzimmer%20des%20Herzogs.mp3",
+      "file_name": "Cas_38 DE Audienzzimmer des Herzogs.mp3",
+      "file_size": 4045688,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "c124338d14e0053957947b840c75e0a71e58773a",
+      "title": "Cas_38 DE Audienzzimmer des Herzogs.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

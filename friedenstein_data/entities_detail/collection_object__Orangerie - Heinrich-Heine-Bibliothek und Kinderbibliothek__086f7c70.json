@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35502,
+    "uuid": "086f7c70-1d55-5194-892e-7c1124e94aab",
+    "title": "Orangerie - Heinrich-Heine-Bibliothek und Kinderbibliothek",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie - Heinrich-Heine-Bibliothek und Kinderbibliothek",
+        "en-US": "Orangerie - Heinrich-Heine-Bibliothek und Kinderbibliothek"
+      },
+      "period": {
+        "de-DE": [
+          "08.11.1992"
+        ],
+        "en-US": [
+          "08.11.1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01034335%2F871347_00226473_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42730"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3bea7986a7b9f6d74f9c3a78132672e5b0f7ff50",
+      "title": "Orangerie - Heinrich-Heine-Bibliothek und Kinderbibliothek",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.453Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "A98DD671029147478708C6441CBE81D4"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

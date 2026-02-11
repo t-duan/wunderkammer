@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35547,
+    "uuid": "6647bcfa-1f60-5d6c-8b3a-2022545c605e",
+    "title": "Blick in das Gartenrestaurant der Orangerie",
+    "content": {
+      "title": {
+        "de-DE": "Blick in das Gartenrestaurant der Orangerie",
+        "en-US": "Blick in das Gartenrestaurant der Orangerie"
+      },
+      "period": {
+        "de-DE": [
+          "um 1980"
+        ],
+        "en-US": [
+          "um 1980"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ],
+        "en-US": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064956%2F871347_00251456_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54852"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d87bd901df7c69ead7a17078f4497cfa0685954d",
+      "title": "Blick in das Gartenrestaurant der Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.010Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "9F5E5416B4284E139AA69BDCD95B5466"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

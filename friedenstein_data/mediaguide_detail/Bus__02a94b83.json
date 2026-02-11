@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071056,
+    "uuid": "02a94b83-c215-496b-a5ca-7a5c4445e86f",
+    "title": "Bus",
+    "content": {
+      "key": "bus",
+      "icon": "029d5919-1347-4ef6-82ca-9150c9099d7c",
+      "label": {
+        "ar-AE": "حافلة",
+        "ar-SA": "حافلة",
+        "de-DE": "Bus",
+        "en-GB": "Bus",
+        "en-US": "Bus",
+        "es-ES": "Autobús",
+        "fa-IR": "اتوبوس",
+        "fr-FR": "Bus",
+        "it-IT": "Autobus",
+        "ja-JP": "バス",
+        "nl-NL": "Bus",
+        "zh-CN": "公共汽车",
+        "nl-NL-AD": "Bus",
+        "nl-NL-sl": "Bus"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b91c3207871b81629e2d1d87cd436e1c02cb0a44",
+      "title": "Bus",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:44:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "029d5919-1347-4ef6-82ca-9150c9099d7c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

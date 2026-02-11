@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22261,
+    "uuid": "3df19fad-32f5-48d9-b6c5-2b0ecade410f",
+    "title": "Cas_27 DE Monogrammist IP.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3df19fad-32f5-48d9-b6c5-2b0ecade410f/Cas_27%20DE%20Monogrammist%20IP.mp3",
+      "file_name": "Cas_27 DE Monogrammist IP.mp3",
+      "file_size": 881296,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1ddf53bdb64d75b6ef5e3baa1ce9d9e6f912b22b",
+      "title": "Cas_27 DE Monogrammist IP.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

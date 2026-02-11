@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22277,
+    "uuid": "07c2c61e-474e-4eb4-8df5-eb135129692a",
+    "title": "Cas_9 DE Ankleide und Betkabinett Herzog.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/07c2c61e-474e-4eb4-8df5-eb135129692a/Cas_9%20DE%20Ankleide%20und%20Betkabinett%20Herzog.mp3",
+      "file_name": "Cas_9 DE Ankleide und Betkabinett Herzog.mp3",
+      "file_size": 1546433,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d53bb2c2bab762136d68a23b3663e8394df3b5d4",
+      "title": "Cas_9 DE Ankleide und Betkabinett Herzog.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

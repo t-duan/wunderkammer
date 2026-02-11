@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22341,
+    "uuid": "6bdcbb1d-3404-43c1-ac4d-593eac477c92",
+    "title": "Herzogliches Museum Naturkundemuseum - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/6bdcbb1d-3404-43c1-ac4d-593eac477c92/Herzogliches%20Museum%20Naturkundemuseum%20-%20DE.mp3",
+      "file_name": "Herzogliches Museum Naturkundemuseum - DE.mp3",
+      "file_size": 4620683,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a58217228d04a6935dd14b54825a37ce15809a65",
+      "title": "Herzogliches Museum Naturkundemuseum - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:25:02.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21015,
+    "uuid": "020ab51c-5ee8-4045-9787-e957464dc350",
+    "title": "Cas_14  DE Porzellankabinett.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/020ab51c-5ee8-4045-9787-e957464dc350/Cas_14%20%20DE%20Porzellankabinett.mp3",
+      "file_name": "Cas_14  DE Porzellankabinett.mp3",
+      "file_size": 497879,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "33a43e7e18d21d20b72dc54dedb022a9bd85d69b",
+      "title": "Cas_14  DE Porzellankabinett.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

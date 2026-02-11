@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080466,
+    "uuid": "4e779050-8afc-4250-9a50-7444717bd71a",
+    "title": "17 The Elephant Paperweight",
+    "content": {
+      "image": "4afeb750-4943-4258-bb46-44b9c0b95bee",
+      "title": {
+        "de-DE": "Der Elefant als Briefbeschwerer",
+        "en-US": "The Elephant Paperweight"
+      },
+      "preview": false,
+      "stopnumber": 17,
+      "primary_segment": "a44c8a00-8ded-4f13-8c81-9e47e0e19d55",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9868814b9f5d3d6aefb7a95f8cf80ef61341ba74",
+      "title": "17 The Elephant Paperweight",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:48:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4afeb750-4943-4258-bb46-44b9c0b95bee"
+        ],
+        "audio_segment": [
+          "a44c8a00-8ded-4f13-8c81-9e47e0e19d55"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

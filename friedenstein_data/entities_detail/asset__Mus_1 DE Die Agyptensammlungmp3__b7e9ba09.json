@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22161,
+    "uuid": "b7e9ba09-b704-4c2d-9ee6-561e0f798b2b",
+    "title": "Mus_1 DE Die Agyptensammlung.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/b7e9ba09-b704-4c2d-9ee6-561e0f798b2b/Mus_1%20DE%20Die%20Agyptensammlung.mp3",
+      "file_name": "Mus_1 DE Die Agyptensammlung.mp3",
+      "file_size": 1804020,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "b55da262e78a390564ceb4a1c26e011b3d75f353",
+      "title": "Mus_1 DE Die Agyptensammlung.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T13:19:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

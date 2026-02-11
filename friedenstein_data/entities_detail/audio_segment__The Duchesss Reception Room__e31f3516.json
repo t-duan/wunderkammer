@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080388,
+    "uuid": "e31f3516-244c-4aa1-a314-183fec8b5fb8",
+    "title": "The Duchess’s Reception Room",
+    "content": {
+      "title": {
+        "de-DE": "The Duchess’s Reception Room",
+        "en-US": "The Duchess’s Reception Room"
+      },
+      "audiofile": {
+        "de-DE": "b2113286-2a77-49f4-bd6f-b69a5af175b8",
+        "en-US": "14780a5d-2370-48b6-ab2c-1097d656669e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3e3aaa2b456c93e41b623917394c9edf76c19b7b",
+      "title": "The Duchess’s Reception Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:12:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "14780a5d-2370-48b6-ab2c-1097d656669e",
+          "b2113286-2a77-49f4-bd6f-b69a5af175b8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

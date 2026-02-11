@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080457,
+    "uuid": "03d1f65f-62c0-4add-a707-4a2c51277334",
+    "title": "The Rhinoceros Horn Beaker",
+    "content": {
+      "title": {
+        "de-DE": "The Rhinoceros Horn Beaker",
+        "en-US": "The Rhinoceros Horn Beaker"
+      },
+      "audiofile": {
+        "de-DE": "c32fd6ea-2426-43ff-a977-4bf7c31109b5",
+        "en-US": "1089cf32-91bb-459a-85ac-755f8a8c9480"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "43cdbab082b0b6c899a832a4dae9ad1f7b3736ae",
+      "title": "The Rhinoceros Horn Beaker",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:50:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1089cf32-91bb-459a-85ac-755f8a8c9480",
+          "c32fd6ea-2426-43ff-a977-4bf7c31109b5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

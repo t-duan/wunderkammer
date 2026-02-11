@@ -1,0 +1,159 @@
+[
+  {
+    "id": 2080628,
+    "uuid": "04256b75-00ca-4ec3-be93-31296d35a795",
+    "title": "Altes Theater",
+    "content": {
+      "title": {
+        "de-DE": "Altes Theater",
+        "en-US": "The Old Theater of Gotha"
+      },
+      "audiofile": {
+        "de-DE": "72bc6336-fb83-4f04-a642-d601f4831293",
+        "en-US": "6d730cdd-36e3-4694-a8f7-1ff3de37f4cd"
+      },
+      "timed_images": [
+        {
+          "id": "6ff29d9d-13be-479c-9fd0-2bdbb9c2ff53",
+          "hide_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Theater1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "c24d7658-5335-51f9-af73-da38e774185b"
+        },
+        {
+          "id": "bc884130-e1cf-4cf6-9f21-becf827773e4",
+          "hide_at": {
+            "de-DE": 22,
+            "en-US": 22
+          },
+          "show_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "blockName": "Timed image Theater2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "bef8479f-9523-5bfd-bf07-65485f2ff37d"
+        },
+        {
+          "id": "da0ecbda-d6da-4288-b0e1-f67b4ecfe8f2",
+          "hide_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "show_at": {
+            "de-DE": 22,
+            "en-US": 22
+          },
+          "blockName": "Timed image Theater3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "3484db8b-235d-519d-8832-2c3139e07d6c"
+        },
+        {
+          "id": "c3ae02f0-c416-469c-a186-7af4c10f5f75",
+          "hide_at": {
+            "de-DE": 21,
+            "en-US": 21
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image Theater4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "78daa358-8497-530a-b1e5-cc7e928ea4d6"
+        },
+        {
+          "id": "5dc1a4d6-9ef1-425d-b91a-21300e51057d",
+          "hide_at": {
+            "de-DE": 45,
+            "en-US": 45
+          },
+          "show_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "blockName": "Timed image Theater5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "4c71e681-4514-5a33-9926-e0b63b36fcd8"
+        },
+        {
+          "id": "dd084978-2d86-49a8-b3c3-54d5ab11dfd4",
+          "hide_at": {
+            "de-DE": 53,
+            "en-US": 53
+          },
+          "show_at": {
+            "de-DE": 45,
+            "en-US": 45
+          },
+          "blockName": "Timed image Theater6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "b3cf4e33-5423-5e42-93fb-4209b6e5634d"
+        },
+        {
+          "id": "52a5de9f-d505-4153-a429-6e02fc97bee0",
+          "hide_at": {
+            "de-DE": 34,
+            "en-US": 34
+          },
+          "show_at": {
+            "de-DE": 29,
+            "en-US": 29
+          },
+          "blockName": "Timed image Theater7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "f42157b8-69f8-59fc-8742-68abda3444e1"
+        },
+        {
+          "id": "6e9f8ca5-005a-4e39-bb05-9ed7bf49e2db",
+          "hide_at": {
+            "de-DE": 68,
+            "en-US": 68
+          },
+          "show_at": {
+            "de-DE": 60,
+            "en-US": 60
+          },
+          "blockName": "Timed image Theater8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "60bf5b50-1b81-5b28-b29c-2fd4990538f0"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Stellen Sie sich vor… Ein kalter Januartag im Jahr 1840. Die Türen schwingen auf, Fackeln flackern in der Winterluft. Die Elite Gothas betritt erwartungsvoll das neue Theater – ein prachtvolles Gebäude, entworfen von Karl Friedrich Schinkel. Im Inneren funkelt der Kronleuchter auf den samtroten Sitzen, das Gemurmel verstummt… und dann: Die ersten Töne einer Ouvertüre erfüllen den Raum. Ein neues Zeitalter für die Stadt beginnt.\"\n\n\"Dieses Theater war mehr als ein Ort der Unterhaltung. Hier, zwischen Opernsängern, Balletttänzern und Schauspielensembles, kamen Generationen zusammen. Das Gothaer Landestheater war das kulturelle Herz der Stadt, ein Ort, der die Menschen verband. In den 1920er Jahren, als die Inflation das Land erschütterte, suchten die Menschen hier Trost – ein Abend im Theater bot Ablenkung und Hoffnung.\"\n\n\"Aber der Krieg veränderte alles. Im August 1944 erloschen die Lichter für immer. Das Theater schloss, der Vorhang fiel. Nicht durch eine letzte Vorstellung, sondern durch die Bedrohung des Krieges. Und dann, 1945 – eine Explosion. Munitionswagen standen neben dem Theater… ein Angriff, ein lauter Knall – und innerhalb weniger Minuten stand das Gebäude in Flammen.\"\n\n\"Jahrelang blieb die Ruine stehen. Die Hoffnung auf einen Wiederaufbau blieb, doch 1958 wurde das letzte, verbliebene Gerippe des Theaters abgerissen. Gotha verlor ein Wahrzeichen der Kultur, doch nicht seine Liebe zur Bühne.\"\n\n\"Doch die Theatertradition lebt weiter – kleiner, aber geschichtsträchtig: im Ekhoftheater im Schloss Friedenstein. Dieses kleine Juwel, eines der ältesten Barocktheater der Welt, erinnert uns daran, dass Kultur nicht verschwindet – sie findet nur neue Bühnen.\"\n\n\"Von 1966 bis 1998 stand hier ein Hochhaus. Auf dem Dach prangte die Leuchtschrift-Werbung \"Gotha-Wermut - Ein Genuss\". Gedacht war es eigentlich als Unterkunft für Sportler und Gäste der Rennrodel-Weltmeisterschaften. Diese musste jedoch ausfallen.”\n\n\"Heute stehen Sie auf einem Platz, an dem einst Musik und Applaus erklangen. Schließen Sie die Augen für einen Moment… Können Sie es hören?\"",
+        "en-US": "\"Imagine… A cold January day in 1840. The doors swing open, torches flicker in the winter air. Gotha’s elite steps eagerly into the new theater – a magnificent building designed by Karl Friedrich Schinkel. Inside, the chandelier sparkles over velvet-red seats, the murmurs fade… and then: the first notes of an overture fill the room. A new era for the city begins.\"\n\n\"This theater was more than a place of entertainment. Here, between opera singers, ballet dancers, and acting ensembles, generations came together. The Gotha State Theater was the cultural heart of the city, a place that united people. In the 1920s, as inflation shook the country, people sought solace here – an evening at the theater offered distraction and hope.\"\n\n\"But the war changed everything. In August 1944, the lights went out forever. The theater closed; the curtain fell. Not by a final performance, but by the looming threat of war. And then, in 1945 – an explosion. Munitions wagons stood beside the theater… an attack, a loud blast – and within minutes, the building was engulfed in flames.\"\n\n\"For years, the ruins stood. The hope for reconstruction remained, but in 1958, the last remnants of the theater were demolished. Gotha lost a cultural landmark, but not its love for the stage.\"\n\n\"Yet the theater tradition lives on – smaller but historically rich: in the Ekhof Theatre of the Friedenstein Castle. This small gem, one of the oldest Baroque theaters in the world, reminds us that culture does not disappear – it simply finds new stages.\"\n\n“From 1966 to 1998, an apartment tower stood here. The roof bore the neon sign \"Gotha Vermouth - A Delight”. It was originally intended to house athletes and guests of the World Championships of Luge (rodeln in German), but the event had to be canceled.”\n\n\"Today you stand on a square where music and applause once resounded. Close your eyes for a moment... Can you hear it?\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c472e8226ca08b7ad362345a36f2ce9d914997eb",
+      "title": "Altes Theater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T14:14:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6d730cdd-36e3-4694-a8f7-1ff3de37f4cd",
+          "72bc6336-fb83-4f04-a642-d601f4831293"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

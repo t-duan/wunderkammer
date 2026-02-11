@@ -1,0 +1,36 @@
+[
+  {
+    "id": 2080679,
+    "uuid": "e86beeec-e405-4de6-9ddd-0c1f1f79d867",
+    "title": "Impressum",
+    "content": {
+      "slug": "imprint",
+      "title": {
+        "de-DE": "Impressum",
+        "en-US": "Imprint"
+      },
+      "content": {
+        "de-DE": "# Impressum\n## Anbieter\n\nFriedenstein Stiftung Gotha\nSchlossplatz 1\n99867 Gotha\n\n+49 (0)3621 8234 0  \n[www.friedenstein-stiftung.de](https://www.friedenstein-stiftung.de)  \n[www.friedensteine.de](https://www.friedensteine.de)  \n[service@friedenstein-stiftung.de](mailto:service@friedenstein-stiftung.de)  \n\n## Vertretungsberechtigter\nDie Friedenstein Stiftung Gotha wird vertreten durch ihren Stiftungsdirektor Dr. Tobias Pfeifer-Helke.\n\n## Redaktion\nAnne Kaestner, Referentin für Neue Medien\n\n## Gestaltung und technische Umsetzung\nTapart, Creative Tech Agency\n\n## Rechtshinweise\n\n### Urheberrechte\nDie Fotografien in dieser Anwendung wurden nach bestem Wissen und Gewissen auf Grundlage verfügbarer Informationen und Recherchen verwendet. Sollte dennoch jemand Urheberrechte an diesem Werk besitzen, bitte wir um eine Benachrichtigung, damit wir entsprechende Schritte einleiten können.\n\n### Haftung\nAlle Angaben dieses Internetangebotes wurden sorgfältig geprüft. Wir bemühen uns, dieses Informationsangebot stetig zu erweitern und zu aktualisieren. Eine Garantie für die Vollständigkeit, Richtigkeit und letzte Aktualität kann jedoch nicht übernommen werden. Die Friedenstein Stiftung Gotha stellt diese Informationen ohne jegliche Zusicherung oder Gewährleistung jedweder Art, sei sie ausdrücklich oder stillschweigend, zur Verfügung. Die Friedenstein Stiftung Gotha schließt jegliche Haftung für Schäden, die direkt oder indirekt aus der Benutzung dieser Website entstehen, aus, soweit diese nicht auf Vorsatz oder grober Fahrlässigkeit der Friedenstein Stiftung Gotha beruhen.\n",
+        "en-US": "# Imprint\n## Provider\nFriedenstein Foundation Gotha\nSchlossplatz 1\n99867 Gotha\n\n+49 (0)3621 8234 0  \n[www.friedenstein-stiftung.de](https://www.friedenstein-stiftung.de)  \n[www.friedensteine.de](https://www.friedensteine.de)  \n[service@friedenstein-stiftung.de](mailto:service@friedenstein-stiftung.de)  \n\n## Authorised representative\nThe Friedenstein Foundation Gotha is represented by its Foundation Director Dr Tobias Pfeifer-Helke.\n\n## Editorial office\nAnne Kaestner, New Media Officer\n\n## Design and technical realisation \nTapart, Creative Tech Agency\n\n## Legal information\n\n### Copyright\nThe photographs in this application have been used to the best of our knowledge and belief on the basis of available information and research. However, should anyone hold copyright to this work, please notify us so that we can take appropriate action.\n\n### Liability\nAll information on this website has been carefully checked. We endeavour to constantly expand and update this information. However, we cannot guarantee that it is complete, correct or up to date. The Friedenstein Foundation Gotha provides this information without any warranty or guarantee of any kind, whether express or implied. The Friedenstein Foundation Gotha excludes all liability for damages arising directly or indirectly from the use of this website, unless caused by wilful intent or gross negligence on the part of the Friedenstein Foundation Gotha.\n"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b3bfccc43e93acf6cc99360d20d79eacba90c9ff",
+      "title": "Impressum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-08T12:45:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "mediaguide_page",
+    "status": "published"
+  }
+]

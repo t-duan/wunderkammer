@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079917,
+    "uuid": "eec0e5a7-09c8-40df-bd41-fa049f7124ca",
+    "title": "59 De Keyser: Family Taking a Walk",
+    "content": {
+      "title": {
+        "de-DE": "59 De Keyser: Family Taking a Walk",
+        "en-US": "59 De Keyser: Family Taking a Walk"
+      },
+      "audiofile": {
+        "de-DE": "6866fda5-4d1e-40ad-adf7-03891a645428",
+        "en-US": "805e3a7d-cead-4c22-b228-53f2ad2d6336"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9932d7a07db399fc4ce04bb04e14dcedcddf85df",
+      "title": "59 De Keyser: Family Taking a Walk",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:05:59.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6866fda5-4d1e-40ad-adf7-03891a645428",
+          "805e3a7d-cead-4c22-b228-53f2ad2d6336"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

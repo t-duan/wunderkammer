@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6328,
+    "uuid": "d5b00c5a-03bb-4d89-bc02-90708e712607",
+    "title": "camping.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/d5b00c5a-03bb-4d89-bc02-90708e712607/camping.svg",
+      "file_name": "camping.svg",
+      "file_size": 577,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d9d61925fd596af184b32b0d47c148a0a990d734",
+      "title": "camping.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

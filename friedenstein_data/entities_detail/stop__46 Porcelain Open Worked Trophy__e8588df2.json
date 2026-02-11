@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079992,
+    "uuid": "e8588df2-f57c-45cf-be8d-c0f3ed9158c7",
+    "title": "46 Porcelain: Open Worked Trophy",
+    "content": {
+      "image": "56cc44a4-4f94-41ed-9e02-ef61d3669670",
+      "title": {
+        "de-DE": "Porzellan: Durchbrochener Pokal",
+        "en-US": "Porcelain: Open Worked Trophy"
+      },
+      "preview": false,
+      "stopnumber": 146,
+      "primary_segment": "764460fc-1221-48f1-91e2-c069466a9e3d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "bfebd7a1a86df30fe31f967ee294f3cf758ddd3d",
+      "title": "46 Porcelain: Open Worked Trophy",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:46:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "56cc44a4-4f94-41ed-9e02-ef61d3669670"
+        ],
+        "audio_segment": [
+          "764460fc-1221-48f1-91e2-c069466a9e3d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

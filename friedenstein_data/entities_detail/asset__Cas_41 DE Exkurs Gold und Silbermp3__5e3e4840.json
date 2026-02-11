@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22249,
+    "uuid": "5e3e4840-0aab-4d09-b445-b734b14d772b",
+    "title": "Cas_41 DE Exkurs Gold und Silber.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/5e3e4840-0aab-4d09-b445-b734b14d772b/Cas_41%20DE%20Exkurs%20Gold%20und%20Silber.mp3",
+      "file_name": "Cas_41 DE Exkurs Gold und Silber.mp3",
+      "file_size": 7385687,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "73fbe639c3378fb8819c546d9089afb6f1c81df3",
+      "title": "Cas_41 DE Exkurs Gold und Silber.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

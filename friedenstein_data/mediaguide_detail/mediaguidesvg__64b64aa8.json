@@ -1,0 +1,35 @@
+[
+  {
+    "id": 255429,
+    "uuid": "64b64aa8-a586-4213-b78d-4edc289ab72c",
+    "title": "mediaguide.svg",
+    "content": {
+      "width": 1080,
+      "height": 1080,
+      "source": "https://media.tapart.me/media/mediaguide/64b64aa8-a586-4213-b78d-4edc289ab72c/mediaguide.svg",
+      "file_name": "mediaguide.svg",
+      "file_size": 821,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": null
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "79cfa6a53adb47100990d53efdc6df6ca8aebbc6",
+      "title": "mediaguide.svg",
+      "locales": [],
+      "createdAt": "2025-10-24T12:07:10.666Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

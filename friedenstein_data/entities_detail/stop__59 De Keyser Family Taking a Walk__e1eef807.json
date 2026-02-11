@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079914,
+    "uuid": "e1eef807-95af-4d32-a665-423cf58a7ed5",
+    "title": "59 De Keyser: Family Taking a Walk",
+    "content": {
+      "image": "304a2c86-eac4-4589-a92a-81b512a874e0",
+      "title": {
+        "de-DE": "De Keyser: Familie beim Spaziergang",
+        "en-US": "De Keyser: Family Taking a Walk"
+      },
+      "preview": false,
+      "stopnumber": 159,
+      "primary_segment": "eec0e5a7-09c8-40df-bd41-fa049f7124ca",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c53cd91ff27a8f3daf914cf90598738c12720404",
+      "title": "59 De Keyser: Family Taking a Walk",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:06:16.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "304a2c86-eac4-4589-a92a-81b512a874e0"
+        ],
+        "audio_segment": [
+          "eec0e5a7-09c8-40df-bd41-fa049f7124ca"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

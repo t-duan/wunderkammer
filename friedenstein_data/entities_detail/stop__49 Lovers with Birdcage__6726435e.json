@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079974,
+    "uuid": "6726435e-de8c-4901-aa54-4a57028921ac",
+    "title": "49 Lovers with Birdcage",
+    "content": {
+      "image": "5321f348-8cbb-4f6e-b220-b6947f46f77f",
+      "title": {
+        "de-DE": "Liebespaar mit Vogelkäfig",
+        "en-US": "Lovers with Birdcage"
+      },
+      "preview": false,
+      "stopnumber": 149,
+      "primary_segment": "54f61726-5f8a-44c4-bb15-0bb342e4aee4",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ae342ed48c6e30043c1d265f393522c0a8ea897f",
+      "title": "49 Lovers with Birdcage",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:49:47.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5321f348-8cbb-4f6e-b220-b6947f46f77f"
+        ],
+        "audio_segment": [
+          "54f61726-5f8a-44c4-bb15-0bb342e4aee4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

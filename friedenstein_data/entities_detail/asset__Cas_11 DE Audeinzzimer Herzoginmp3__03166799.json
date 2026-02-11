@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21016,
+    "uuid": "03166799-c4f7-4dae-9976-024eeeb8892a",
+    "title": "Cas_11 DE Audeinzzimer Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/03166799-c4f7-4dae-9976-024eeeb8892a/Cas_11%20DE%20Audeinzzimer%20Herzogin.mp3",
+      "file_name": "Cas_11 DE Audeinzzimer Herzogin.mp3",
+      "file_size": 1834060,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "708331dc4ee2037e903963ee5a46bea2e0016d60",
+      "title": "Cas_11 DE Audeinzzimer Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

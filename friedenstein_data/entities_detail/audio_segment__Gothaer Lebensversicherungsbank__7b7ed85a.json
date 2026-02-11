@@ -1,0 +1,341 @@
+[
+  {
+    "id": 2080616,
+    "uuid": "7b7ed85a-2a05-4068-9d87-1b6231489874",
+    "title": "Gothaer Lebensversicherungsbank",
+    "content": {
+      "title": {
+        "de-DE": "Gothaer Lebensversicherungsbank",
+        "en-US": "Gotha Life Insurance Bank"
+      },
+      "audiofile": {
+        "de-DE": "0ae25321-6a98-4f6d-b152-c18fdd9fc0c4",
+        "en-US": "12a475fb-af2e-44d4-8ec5-a68dcaf8665c"
+      },
+      "timed_images": [
+        {
+          "id": "edf1ddc8-fba4-4c3f-bf75-1a0710ea36dc",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Lebensversicherungsbank1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "8f1ab779-72a6-5599-9cf3-c5039f1599c7"
+        },
+        {
+          "id": "797c4314-73f2-4af9-9c3a-70c2f2f3ab81",
+          "hide_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image Lebensversicherungsbank2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "04b3f4c4-31bf-5de9-acd2-bdd7691d5770"
+        },
+        {
+          "id": "00ec2ae8-407b-461e-8b9e-8acd590c349d",
+          "hide_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "show_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "blockName": "Timed image Lebensversicherungsbank3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1ed49030-54e7-58b8-9e8b-293c1d504636"
+        },
+        {
+          "id": "b903782f-f7d7-42f8-a1ad-056db1bdf479",
+          "hide_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "show_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "blockName": "Timed image Lebensversicherungsbank4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "d8ae37df-f0b8-55fa-ae1f-048fa92003a1"
+        },
+        {
+          "id": "fc3d335d-a916-4f1a-b6ba-8e97413c58de",
+          "hide_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "show_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "blockName": "Timed image Lebensversicherungsbank5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "35f551ac-d673-5761-95f3-b102fbe86568"
+        },
+        {
+          "id": "c0504b6f-f8be-4dc2-a87f-140c7cce25bf",
+          "hide_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "show_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "blockName": "Timed image Lebensversicherungsbank6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "29d82cdc-c62c-5642-83cd-dd7351395cf6"
+        },
+        {
+          "id": "9f822858-ba52-4a0a-ac93-7fd81245310a",
+          "hide_at": {
+            "de-DE": 35,
+            "en-US": 35
+          },
+          "show_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "blockName": "Timed image Lebensversicherungsbank7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "8f1ab779-72a6-5599-9cf3-c5039f1599c7"
+        },
+        {
+          "id": "605167e4-453e-4ed4-9a4d-b94bc8327ca5",
+          "hide_at": {
+            "de-DE": 63,
+            "en-US": 63
+          },
+          "show_at": {
+            "de-DE": 55,
+            "en-US": 55
+          },
+          "blockName": "Timed image Lebensversicherungsbank8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "04b3f4c4-31bf-5de9-acd2-bdd7691d5770"
+        },
+        {
+          "id": "cce84127-8e3a-4da0-b243-7518d5154ea3",
+          "hide_at": {
+            "de-DE": 70,
+            "en-US": 70
+          },
+          "show_at": {
+            "de-DE": 63,
+            "en-US": 63
+          },
+          "blockName": "Timed image Lebensversicherungsbank9",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1ed49030-54e7-58b8-9e8b-293c1d504636"
+        },
+        {
+          "id": "1986eab5-8518-4f7b-a322-e9e27984d72a",
+          "hide_at": {
+            "de-DE": 77,
+            "en-US": 77
+          },
+          "show_at": {
+            "de-DE": 70,
+            "en-US": 70
+          },
+          "blockName": "Timed image Lebensversicherungsbank10",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1cb86ab5-30d9-5aa1-9bac-81bd138ffae5"
+        },
+        {
+          "id": "db772f23-f45f-4394-a1e8-09e927157e29",
+          "hide_at": {
+            "de-DE": 86,
+            "en-US": 86
+          },
+          "show_at": {
+            "de-DE": 77,
+            "en-US": 77
+          },
+          "blockName": "Timed image Lebensversicherungsbank11",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "9ace4a3e-7f3f-5d45-9cd1-bc9d9d4c2a03"
+        },
+        {
+          "id": "3ea10a12-d2cb-4a40-9039-53feea8d617a",
+          "hide_at": {
+            "de-DE": 86,
+            "en-US": 86
+          },
+          "show_at": {
+            "de-DE": 77,
+            "en-US": 77
+          },
+          "blockName": "Timed image Lebensversicherungsbank12",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "d8ae37df-f0b8-55fa-ae1f-048fa92003a1"
+        },
+        {
+          "id": "3a516db7-2a3b-4148-8206-1d5b57b5311b",
+          "hide_at": {
+            "de-DE": 94,
+            "en-US": 94
+          },
+          "show_at": {
+            "de-DE": 86,
+            "en-US": 86
+          },
+          "blockName": "Timed image Lebensversicherungsbank13",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "29d82cdc-c62c-5642-83cd-dd7351395cf6"
+        },
+        {
+          "id": "feebefb7-50fe-47c0-a83c-bf7bed1b8222",
+          "hide_at": {
+            "de-DE": 102,
+            "en-US": 102
+          },
+          "show_at": {
+            "de-DE": 94,
+            "en-US": 94
+          },
+          "blockName": "Timed image Lebensversicherungsbank14",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "d8ae37df-f0b8-55fa-ae1f-048fa92003a1"
+        },
+        {
+          "id": "e6bcbda5-4d3e-41a2-b159-25ee49f59058",
+          "hide_at": {
+            "de-DE": 110,
+            "en-US": 110
+          },
+          "show_at": {
+            "de-DE": 102,
+            "en-US": 102
+          },
+          "blockName": "Timed image Lebensversicherungsbank15",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "8f1ab779-72a6-5599-9cf3-c5039f1599c7"
+        },
+        {
+          "id": "2f646068-d4ee-4ea9-a99d-d478d373b5b1",
+          "hide_at": {
+            "de-DE": 118,
+            "en-US": 118
+          },
+          "show_at": {
+            "de-DE": 110,
+            "en-US": 110
+          },
+          "blockName": "Timed image Lebensversicherungsbank16",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "04b3f4c4-31bf-5de9-acd2-bdd7691d5770"
+        },
+        {
+          "id": "a017a268-d8e1-4365-9869-0fb4d071393f",
+          "hide_at": {
+            "de-DE": 126,
+            "en-US": 126
+          },
+          "show_at": {
+            "de-DE": 118,
+            "en-US": 118
+          },
+          "blockName": "Timed image Lebensversicherungsbank17",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1cb86ab5-30d9-5aa1-9bac-81bd138ffae5"
+        },
+        {
+          "id": "1180621a-1749-4c02-8237-c941d7cec53d",
+          "hide_at": {
+            "de-DE": 133,
+            "en-US": 133
+          },
+          "show_at": {
+            "de-DE": 126,
+            "en-US": 126
+          },
+          "blockName": "Timed image Lebensversicherungsbank18",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1ed49030-54e7-58b8-9e8b-293c1d504636"
+        },
+        {
+          "id": "429a9306-fbcb-4fba-9c65-42a7b8ec5b59",
+          "hide_at": {
+            "de-DE": 140,
+            "en-US": 140
+          },
+          "show_at": {
+            "de-DE": 133,
+            "en-US": 133
+          },
+          "blockName": "Timed image Lebensversicherungsbank19",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "35f551ac-d673-5761-95f3-b102fbe86568"
+        },
+        {
+          "id": "903c5199-0674-4a45-9185-76da3723cd99",
+          "hide_at": {
+            "de-DE": 100,
+            "en-US": 100
+          },
+          "show_at": {
+            "de-DE": 95,
+            "en-US": 95
+          },
+          "blockName": "Timed image Lebensversicherungsbank20",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "d8ae37df-f0b8-55fa-ae1f-048fa92003a1"
+        },
+        {
+          "id": "ecbbf9f9-96e0-4b7a-a84c-5490c059557a",
+          "hide_at": {
+            "de-DE": 150,
+            "en-US": 150
+          },
+          "show_at": {
+            "de-DE": 140,
+            "en-US": 140
+          },
+          "blockName": "Timed image Lebensversicherungsbank21",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "29d82cdc-c62c-5642-83cd-dd7351395cf6"
+        }
+      ],
+      "transcription": {
+        "de-DE": "“Willkommen bei der Gothaer Lebensversicherungsbank – einem Ort, an dem finanzielle Sicherheit und historische Veränderungen aufeinandertrafen. Hier, in diesem eindrucksvollen Gebäude, nahm eine Revolution in der Versicherungswelt ihren Anfang… Eine Revolution, die mit einem Mann begann: Ernst Wilhelm Arnoldi.”\n\n“Im Jahr 1820 gründete Arnoldi die Gothaer Feuerversicherung, gefolgt von der Gothaer Lebensversicherung im Jahr 1829. Eine mutige Entscheidung in einer Zeit, in der Versicherungen nur den Wohlhabenden vorbehalten waren. Doch Arnoldi glaubte an Solidarität: Eine Versicherung von Menschen für Menschen. Seine Idee? Jeder zahlt eine kleine Prämie, und wer sie braucht, erhält finanzielle Unterstützung. Ein Konzept, das die Grundlage für moderne Lebensversicherungen bilden sollte.”\n\n“1894 erhielt die Bank ein neues Zuhause: dieses prächtige Gebäude. Über die Jahre wuchs der Einfluss der Bank, und nach dem Ersten Weltkrieg folgte eine Erweiterung, entworfen von dem berühmten Architekten German Bestelmeyer. Das Innere? Grandios. Reliefs aus Carrara-Marmor schmückten das Treppenhaus und symbolisierten die verschiedenen Lebensphasen – genau jene, die eine Versicherung schützen sollte.”\n\n“Aber die Zeiten änderten sich. Nach dem zweiten Weltkrieg besetzten amerikanische Truppen das Gebäude vorübergehend. Kurz darauf, mit der Ankunft der sowjetischen Besatzung, musste die Versicherung ihre Türen schließen. Die DDR nutzt fortan das Gebäude als Zentrum für frühe Datenverarbeitung. Die einstige Bedeutung der Bank schien in Vergessenheit zu geraten”\n\n“Nach dem Fall der DDR kehrte die Geschichte zurück. Die Gothaer Versicherung erwarb das Gebäude erneut und sanierte es mit Respekt für seine Vergangenheit. Heute beherbergt es das Thüringer Finanzgericht und das Sozialgericht Gotha. Und seit 2020 erinnert eine bronzene Büste von Arnoldi vor dem Eingang an den Mann, der hier einst eine Revolution in Gang setzte.”\n\n“Nehmen Sie sich einen Moment… Betrachten Sie die prächtige Fassade und stellen Sie sich vor, wie dieses Gebäude einst von geschäftigem Treiben erfüllt war. Geschichte findet man nicht nur in Archiven – sie lebt in den Mauern um uns herum.”\n\n“Lassen Sie uns weitergehen. Noch viele Geschichten warten darauf, entdeckt zu werden.”",
+        "en-US": "\"Welcome to the Gotha Life Insurance Bank – a place where financial security and historical change intersect. Here, in this impressive building, a revolution in the world of insurance began… A revolution started by one man: Ernst Wilhelm Arnoldi.\"\n\n\"In 1820, Arnoldi founded the Gotha Fire Insurance, followed by the Gotha Life Insurance in 1829. A bold move in an era when insurance was reserved only for the wealthy. But Arnoldi believed in solidarity: an insurance for the people, by the people. His idea? Everyone pays a small premium, and those in need receive financial support. A concept that would become the foundation of modern life insurance.\"\n\n\"In 1894, the bank received a new home: this magnificent building. Over the years, the bank's influence grew, and after World War I, an expansion was designed by the renowned architect German Bestelmeyer. The interior? Grand. Carrara marble reliefs adorned the staircase, symbolizing the different phases of life – the very stages an insurance policy is meant to protect.\"\n\n\"But times changed. After World War II, American troops temporarily occupied the building. Shortly after, with the arrival of the Soviet occupation, the insurance company was forced to close its doors. The East Germany government repurposed the building as a center for early data processing. The bank’s former significance seemed to fade into history.\"\n\n\"After the fall of East Germany, the Gothaer Insurance Company reacquired the building and restored it with respect for its past. Today, it houses the Thuringian Finance Court and the Social Court of Gotha. And since 2020, a bronze bust of Arnoldi at the entrance reminds visitors of the man who once sparked a revolution here.\"\n\n\"Take a moment… Observe the grand façade and imagine how this building once bustled with activity. History is not just found in archives – it lives in the walls around us.\"\n\n\"Let’s continue. Many more stories are waiting to be discovered.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "799baf47b4d9c36734919bbf42a63d55f3e0c2ec",
+      "title": "Gothaer Lebensversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-16T09:41:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0ae25321-6a98-4f6d-b152-c18fdd9fc0c4",
+          "12a475fb-af2e-44d4-8ec5-a68dcaf8665c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

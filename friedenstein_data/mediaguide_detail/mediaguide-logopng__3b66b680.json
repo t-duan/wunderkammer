@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6003,
+    "uuid": "3b66b680-6824-4cb1-9643-4cbeb0289bdd",
+    "title": "mediaguide-logo.png",
+    "content": {
+      "width": 1080,
+      "height": 1080,
+      "source": "https://media.tapart.me/media/mediaguide/3b66b680-6824-4cb1-9643-4cbeb0289bdd/mediaguide-logo.png",
+      "file_name": "mediaguide-logo.png",
+      "file_size": 24809,
+      "mime_type": {
+        "template": "image/png",
+        "extension": "png"
+      },
+      "content_type": "image/png",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "fe1452367f205d313b870f46fe4fc72fc147c9d9",
+      "title": "mediaguide-logo.png",
+      "locales": [],
+      "createdAt": "2025-09-02T07:40:33.402Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

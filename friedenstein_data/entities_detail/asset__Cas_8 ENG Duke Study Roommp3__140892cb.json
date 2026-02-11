@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22239,
+    "uuid": "140892cb-7197-4e74-9d6d-4285886543b1",
+    "title": "Cas_8 ENG Duke Study Room.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/140892cb-7197-4e74-9d6d-4285886543b1/Cas_8%20ENG%20Duke%20Study%20Room.mp3",
+      "file_name": "Cas_8 ENG Duke Study Room.mp3",
+      "file_size": 1600269,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "bdb35d74bc346014a183ca946bba1304b0847125",
+      "title": "Cas_8 ENG Duke Study Room.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

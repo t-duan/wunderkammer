@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080406,
+    "uuid": "59b7175b-6140-4419-a9fb-1b3f9ca981b1",
+    "title": "The Small Chapel",
+    "content": {
+      "title": {
+        "de-DE": "The Small Chapel",
+        "en-US": "The Small Chapel"
+      },
+      "audiofile": {
+        "de-DE": "5aed92a2-0208-4fed-9223-969f2bd79d40",
+        "en-US": "d6638d8d-4e7d-44c4-8a58-b197e7c5e037"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d618d13fb32b7e86832054a98992e933438dcd2b",
+      "title": "The Small Chapel",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:07:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5aed92a2-0208-4fed-9223-969f2bd79d40",
+          "d6638d8d-4e7d-44c4-8a58-b197e7c5e037"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

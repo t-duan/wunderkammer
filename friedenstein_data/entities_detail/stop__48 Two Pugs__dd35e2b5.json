@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079980,
+    "uuid": "dd35e2b5-3660-4e85-a808-a8f136749a18",
+    "title": "48 Two Pugs",
+    "content": {
+      "image": "e410dbff-eacb-427b-917b-99e3fcc1579e",
+      "title": {
+        "de-DE": "Zwei Mopshunde",
+        "en-US": "Two Pugs"
+      },
+      "preview": false,
+      "stopnumber": 148,
+      "primary_segment": "06acf3ea-ddcd-4c94-8c11-326ba4172ead",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b7dd9f6ccd3d6557404d301d01a86cf16280486a",
+      "title": "48 Two Pugs",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:48:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "e410dbff-eacb-427b-917b-99e3fcc1579e"
+        ],
+        "audio_segment": [
+          "06acf3ea-ddcd-4c94-8c11-326ba4172ead"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

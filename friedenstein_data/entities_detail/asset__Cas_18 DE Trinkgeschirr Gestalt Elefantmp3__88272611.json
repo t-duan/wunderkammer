@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22269,
+    "uuid": "88272611-082c-47f2-b54a-cc6b9e691754",
+    "title": "Cas_18 DE Trinkgeschirr Gestalt Elefant.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/88272611-082c-47f2-b54a-cc6b9e691754/Cas_18%20DE%20Trinkgeschirr%20Gestalt%20Elefant.mp3",
+      "file_name": "Cas_18 DE Trinkgeschirr Gestalt Elefant.mp3",
+      "file_size": 1408699,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ce0528397fe19959753bd393af40067e64f4447b",
+      "title": "Cas_18 DE Trinkgeschirr Gestalt Elefant.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

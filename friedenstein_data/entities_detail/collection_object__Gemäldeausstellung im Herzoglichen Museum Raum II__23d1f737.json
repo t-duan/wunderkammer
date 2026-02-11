@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35616,
+    "uuid": "23d1f737-dde4-52a7-a765-4abf81735a0a",
+    "title": "Gemäldeausstellung im Herzoglichen Museum, Raum II",
+    "content": {
+      "title": {
+        "de-DE": "Gemäldeausstellung im Herzoglichen Museum, Raum II",
+        "en-US": "Gemäldeausstellung im Herzoglichen Museum, Raum II"
+      },
+      "creator": [
+        "Rose Heidl"
+      ],
+      "material": {
+        "de-DE": [
+          "Gelatinetrockenplatte"
+        ],
+        "en-US": [
+          "Gelatinetrockenplatte"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 24.0 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 24.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Negativ <Fotografie>"
+        ],
+        "en-US": [
+          "Negativ <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01073103%2F871347_00274567_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "871347_00274567"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "89efe2e04b17dd150059a4417737552d42657d6f",
+      "title": "Gemäldeausstellung im Herzoglichen Museum, Raum II",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.214Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "59D4D6231CB74E0EAB55866D5DAABA4C"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

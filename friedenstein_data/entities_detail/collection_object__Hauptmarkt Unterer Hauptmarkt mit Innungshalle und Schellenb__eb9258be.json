@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35403,
+    "uuid": "eb9258be-ef76-5e61-abdb-348d499e833b",
+    "title": "Hauptmarkt, Unterer Hauptmarkt mit Innungshalle und Schellenbrunnen",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Unterer Hauptmarkt mit Innungshalle und Schellenbrunnen",
+        "en-US": "Hauptmarkt, Unterer Hauptmarkt mit Innungshalle und Schellenbrunnen"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 7.2 cm",
+          "Breite 8.6 cm"
+        ],
+        "en-US": [
+          "Höhe 7.2 cm",
+          "Breite 8.6 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055350%2F871347_00248185_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "25198"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a3f861f4c496dd741eb14b6c62794d67e4561d09",
+      "title": "Hauptmarkt, Unterer Hauptmarkt mit Innungshalle und Schellenbrunnen",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.429Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "179CA61796E340078EF782C1C2A680E8"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

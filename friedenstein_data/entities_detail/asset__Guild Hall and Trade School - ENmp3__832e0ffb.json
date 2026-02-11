@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22339,
+    "uuid": "832e0ffb-30bb-493a-b96b-8b67a735d6d9",
+    "title": "Guild Hall and Trade School - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/832e0ffb-30bb-493a-b96b-8b67a735d6d9/Guild%20Hall%20and%20Trade%20School%20-%20EN.mp3",
+      "file_name": "Guild Hall and Trade School - EN.mp3",
+      "file_size": 4546955,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "60ac6b118ed0cc94ddf2afda56620c47426bca3b",
+      "title": "Guild Hall and Trade School - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:26:45.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

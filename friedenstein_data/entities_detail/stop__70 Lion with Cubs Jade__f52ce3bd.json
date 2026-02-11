@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079848,
+    "uuid": "f52ce3bd-8970-4da1-8441-fee66da4ee96",
+    "title": "70 Lion with Cubs, Jade",
+    "content": {
+      "image": "68883283-5dc2-4557-95d8-b7b77f285c37",
+      "title": {
+        "de-DE": "Löwe mit Jungem, Jade",
+        "en-US": "Lion with Cubs, Jade"
+      },
+      "preview": false,
+      "stopnumber": 170,
+      "primary_segment": "9be1f39d-cccd-485a-ab62-27ced51dacf3",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "135678eb49a238079fe2c414354518061e809588",
+      "title": "70 Lion with Cubs, Jade",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:31:17.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "68883283-5dc2-4557-95d8-b7b77f285c37"
+        ],
+        "audio_segment": [
+          "9be1f39d-cccd-485a-ab62-27ced51dacf3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

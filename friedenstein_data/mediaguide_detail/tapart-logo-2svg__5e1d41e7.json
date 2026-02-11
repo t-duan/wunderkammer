@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6342,
+    "uuid": "5e1d41e7-4798-4db3-99a1-3f8bc14368e9",
+    "title": "tapart-logo-2.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/5e1d41e7-4798-4db3-99a1-3f8bc14368e9/tapart-logo-2.svg",
+      "file_name": "tapart-logo-2.svg",
+      "file_size": 9717,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "8523c9eb1d0768748195fa098360096688d97f79",
+      "title": "tapart-logo-2.svg",
+      "locales": [],
+      "createdAt": "2023-07-28T14:32:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

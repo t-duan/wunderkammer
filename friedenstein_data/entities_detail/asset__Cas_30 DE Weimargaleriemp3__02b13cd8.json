@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21014,
+    "uuid": "02b13cd8-51c9-4c9e-a3d0-b225bc98641b",
+    "title": "Cas_30 DE Weimargalerie.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/02b13cd8-51c9-4c9e-a3d0-b225bc98641b/Cas_30%20DE%20Weimargalerie.mp3",
+      "file_name": "Cas_30 DE Weimargalerie.mp3",
+      "file_size": 4589274,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d4e65b190c1c20630196251112e4d2db19a5ec8a",
+      "title": "Cas_30 DE Weimargalerie.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gotha POIs – Friedenstein Stadtspaziergang</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  #map { width: 100%; height: 100vh; }
+  .poi-icon {
+    background: #1a5276;
+    color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 13px;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+  }
+  .poi-icon.has-factgrid {
+    background: #b7410e;
+  }
+  .leaflet-popup-content-wrapper {
+    border-radius: 6px;
+  }
+  .leaflet-popup-content {
+    margin: 10px 14px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .leaflet-popup-content h3 {
+    margin: 0 0 4px 0;
+    font-size: 15px;
+  }
+  .leaflet-popup-content .subtitle {
+    color: #666;
+    font-size: 12px;
+    margin-bottom: 6px;
+  }
+  .leaflet-popup-content .factgrid {
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top: 1px solid #eee;
+    font-size: 12px;
+  }
+  .leaflet-popup-content .factgrid a {
+    color: #b7410e;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .leaflet-popup-content .factgrid a:hover {
+    text-decoration: underline;
+  }
+  .legend {
+    background: #fff;
+    padding: 10px 14px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    font-size: 13px;
+    line-height: 1.8;
+  }
+  .legend-dot {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .legend-dot.blue { background: #1a5276; }
+  .legend-dot.red { background: #b7410e; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const pois = [
+  { poi: 1, de: "Bahnhof Gotha", en: "Gotha Train Station", lat: 50.93957, lng: 10.712481, fg: null },
+  { poi: 2, de: "Gothaer Lebensversicherungsbank (Finanzgericht)", en: "Gotha Life Insurance Bank", lat: 50.943089, lng: 10.712222, fg: "Q195046", fgLabel: "Gothaer Feuer (insurance)", fgNote: "partial match" },
+  { poi: 3, de: "Orangerie Gotha", en: "Orangerie", lat: 50.946978, lng: 10.709633, fg: null },
+  { poi: 4, de: "Altes Theater", en: "The Old Theater", lat: 50.949485, lng: 10.708251, fg: "Q172248", fgLabel: "Ekhof Theatre" },
+  { poi: 5, de: "Bauhaus Kaufhaus", en: "Bauhaus Department Store", lat: 50.950244, lng: 10.706284, fg: null },
+  { poi: 6, de: "Neumarkt und Margarethenkirche", en: "Neumarkt and St Margaret's Church", lat: 50.950076, lng: 10.704645, fg: "Q15298", fgLabel: "St. Margarethen, Gotha" },
+  { poi: 7, de: "Innungshalle/Handelsschule", en: "Guild Hall and Trade School", lat: 50.949536, lng: 10.701744, fg: null },
+  { poi: 8, de: "Jüdenstraße und Schwarzes Viertel", en: "Jewish Street and the Black Quarter", lat: 50.948159, lng: 10.701702, fg: null },
+  { poi: 9, de: "Rathaus Gotha", en: "Gotha Town Hall", lat: 50.948834, lng: 10.701768, fg: null },
+  { poi: 10, de: "Wasserkunst Gotha", en: "Gotha Waterworks", lat: 50.947106, lng: 10.703048, fg: null },
+  { poi: 11, de: "Schloss Friedenstein", en: "Friedenstein Castle", lat: 50.946495, lng: 10.704025, fg: "Q23396", fgLabel: "Friedenstein Palace, Gotha" },
+  { poi: 12, de: "Herzogliches Museum", en: "Ducal Museum / Natural History Museum", lat: 50.94371, lng: 10.705621, fg: "Q35994", fgLabel: "Ducal Museum, Gotha" }
+];
+
+const map = L.map('map').setView([50.9465, 10.706], 15);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  maxZoom: 19
+}).addTo(map);
+
+// Draw route line
+const routeCoords = pois.map(p => [p.lat, p.lng]);
+L.polyline(routeCoords, { color: '#1a5276', weight: 2, opacity: 0.4, dashArray: '6 8' }).addTo(map);
+
+// Add markers
+pois.forEach(p => {
+  const hasFg = !!p.fg;
+  const icon = L.divIcon({
+    className: '',
+    html: `<div class="poi-icon ${hasFg ? 'has-factgrid' : ''}">${p.poi}</div>`,
+    iconSize: [28, 28],
+    iconAnchor: [14, 14],
+    popupAnchor: [0, -16]
+  });
+
+  let popupHtml = `<h3>${p.poi}. ${p.de}</h3>`;
+  popupHtml += `<div class="subtitle">${p.en}</div>`;
+  popupHtml += `<div class="subtitle">${p.lat.toFixed(6)}, ${p.lng.toFixed(6)}</div>`;
+
+  if (p.fg) {
+    popupHtml += `<div class="factgrid">FactGrid: <a href="https://database.factgrid.de/wiki/Item:${p.fg}" target="_blank">${p.fg}</a> – ${p.fgLabel}`;
+    if (p.fgNote) popupHtml += ` <em>(${p.fgNote})</em>`;
+    popupHtml += `</div>`;
+  }
+
+  L.marker([p.lat, p.lng], { icon }).addTo(map).bindPopup(popupHtml);
+});
+
+// Legend
+const legend = L.control({ position: 'bottomright' });
+legend.onAdd = function () {
+  const div = L.DomUtil.create('div', 'legend');
+  div.innerHTML = `
+    <strong>Gotha Stadtspaziergang</strong><br>
+    <span class="legend-dot blue"></span> POI<br>
+    <span class="legend-dot red"></span> POI with FactGrid item<br>
+    <span style="color:#888;font-size:11px">--- walking route</span>
+  `;
+  return div;
+};
+legend.addTo(map);
+
+// Fit bounds
+map.fitBounds(routeCoords, { padding: [40, 40] });
+</script>
+</body>
+</html>

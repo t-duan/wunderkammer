@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080310,
+    "uuid": "3f502504-1602-4304-b984-3a31435e5eff",
+    "title": "Welcome",
+    "content": {
+      "title": {
+        "de-DE": "Welcome",
+        "en-US": "Welcome"
+      },
+      "audiofile": {
+        "de-DE": "3c1fc5d0-4dd7-49eb-a9a9-2f33a6b0f47c",
+        "en-US": "a819c130-7002-4907-ae09-8a160d725fd2"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2ad1a20b1b119ab25d9cfd3f854ba023cdc1911c",
+      "title": "Welcome",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:18:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3c1fc5d0-4dd7-49eb-a9a9-2f33a6b0f47c",
+          "a819c130-7002-4907-ae09-8a160d725fd2"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22222,
+    "uuid": "8c0252fc-6911-42fc-8880-b775c2f2d0d8",
+    "title": "Cas_27 ENG Monogrammer IP.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/8c0252fc-6911-42fc-8880-b775c2f2d0d8/Cas_27%20ENG%20Monogrammer%20IP.mp3",
+      "file_name": "Cas_27 ENG Monogrammer IP.mp3",
+      "file_size": 857504,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "984d854e95e371c508d4cb8441cd1c15db320bc9",
+      "title": "Cas_27 ENG Monogrammer IP.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

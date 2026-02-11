@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080523,
+    "uuid": "6f6bde2c-7674-4eae-9e8e-228de385c0f5",
+    "title": "The Duke’s Study Room",
+    "content": {
+      "title": {
+        "de-DE": "The Duke’s Study Room",
+        "en-US": "The Duke’s Study Room"
+      },
+      "audiofile": {
+        "de-DE": "6aa218e2-5650-4f24-af43-c3428b829762",
+        "en-US": "140892cb-7197-4e74-9d6d-4285886543b1"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "49a001bf7668a96cf4ddac359ea9085991db6f2e",
+      "title": "The Duke’s Study Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:57:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "140892cb-7197-4e74-9d6d-4285886543b1",
+          "6aa218e2-5650-4f24-af43-c3428b829762"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

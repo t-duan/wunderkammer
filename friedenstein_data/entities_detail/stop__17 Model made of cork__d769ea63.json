@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080184,
+    "uuid": "d769ea63-cfb5-4259-abb9-8fd6e11f3cd7",
+    "title": "17 Model made of cork",
+    "content": {
+      "image": "41b3bed8-5b81-4463-a19c-0e15a722fcb5",
+      "title": {
+        "de-DE": "Korkmodelle",
+        "en-US": "Model made of cork"
+      },
+      "preview": false,
+      "stopnumber": 117,
+      "primary_segment": "549041c7-fb81-4b20-8cf3-1921f72da8b2",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7602dee4c5eb0971df29f75a14e6aada3780ec08",
+      "title": "17 Model made of cork",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:51:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "41b3bed8-5b81-4463-a19c-0e15a722fcb5"
+        ],
+        "audio_segment": [
+          "549041c7-fb81-4b20-8cf3-1921f72da8b2"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

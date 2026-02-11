@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080178,
+    "uuid": "7f0bc70b-5a13-43fb-9dcb-eedb96f102ae",
+    "title": "18 Antonio Chichi: Cestius-Pyramide",
+    "content": {
+      "image": "3719977e-84de-4494-8812-c26e34b437d1",
+      "title": {
+        "de-DE": "Antonio Chichi: Cestius-Pyramide",
+        "en-US": "Antonio Chichi: Cestius-Pyramide"
+      },
+      "preview": false,
+      "stopnumber": 118,
+      "primary_segment": "f78eee98-4c03-4f62-851c-b82e6a6049d2",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9ce7411081700dca83f888335db8539254bf5c75",
+      "title": "18 Antonio Chichi: Cestius-Pyramide",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:52:59.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3719977e-84de-4494-8812-c26e34b437d1"
+        ],
+        "audio_segment": [
+          "f78eee98-4c03-4f62-851c-b82e6a6049d2"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

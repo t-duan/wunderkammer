@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080130,
+    "uuid": "c5d1b361-2be2-45dc-a837-deefdd993c31",
+    "title": "26 Jean-Antoine Houdon: Portrait of Diderot",
+    "content": {
+      "title": {
+        "de-DE": "26 Jean-Antoine Houdon: Portrait of Diderot",
+        "en-US": "26 Jean-Antoine Houdon: Portrait of Diderot"
+      },
+      "audiofile": {
+        "de-DE": "890bd438-e12e-4c33-bfd2-fdd23bc31d81",
+        "en-US": "a71984f0-8c8b-468c-8c13-ecc74333b3c3"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f87fd3ed6f0ffeff99251032c8b3200adecbfa03",
+      "title": "26 Jean-Antoine Houdon: Portrait of Diderot",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:06:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "890bd438-e12e-4c33-bfd2-fdd23bc31d81",
+          "a71984f0-8c8b-468c-8c13-ecc74333b3c3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

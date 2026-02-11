@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22329,
+    "uuid": "db431ef0-4c39-415a-ab65-632e7538314b",
+    "title": "Schloss Friedenstein - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/db431ef0-4c39-415a-ab65-632e7538314b/Schloss%20Friedenstein%20-%20DE.mp3",
+      "file_name": "Schloss Friedenstein - DE.mp3",
+      "file_size": 6509963,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "97e4b6398903a738dfe805b24816473c64d774a6",
+      "title": "Schloss Friedenstein - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:36:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22207,
+    "uuid": "76a27b8a-d0ae-422f-9d06-8a5a9eaf5f1f",
+    "title": "Cas_43 ENG Ekhof Theatre.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/76a27b8a-d0ae-422f-9d06-8a5a9eaf5f1f/Cas_43%20ENG%20Ekhof%20Theatre.mp3",
+      "file_name": "Cas_43 ENG Ekhof Theatre.mp3",
+      "file_size": 8472858,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "963ed9f99fbf6ed515c362b23d86523c1af0dbbf",
+      "title": "Cas_43 ENG Ekhof Theatre.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

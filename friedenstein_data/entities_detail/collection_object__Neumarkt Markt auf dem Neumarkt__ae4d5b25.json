@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35607,
+    "uuid": "ae4d5b25-438a-5901-baa7-89f9e2817f7d",
+    "title": "Neumarkt, Markt auf dem Neumarkt",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt, Markt auf dem Neumarkt",
+        "en-US": "Neumarkt, Markt auf dem Neumarkt"
+      },
+      "period": {
+        "de-DE": [
+          "Ende 19. Jh."
+        ],
+        "en-US": [
+          "Ende 19. Jh."
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Gelatinetrockenplatte"
+        ],
+        "en-US": [
+          "Gelatinetrockenplatte"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 13.0 cm",
+          "Breite 18.0 cm"
+        ],
+        "en-US": [
+          "Höhe 13.0 cm",
+          "Breite 18.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Negativ <Fotografie>"
+        ],
+        "en-US": [
+          "Negativ <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01068812%2F871347_00056154_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "871347_00056154"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3fb637f055636fd80d57f18fb81213c3c6a9be67",
+      "title": "Neumarkt, Markt auf dem Neumarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.329Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "EE01F6298235499E8F5545CE7592965C"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

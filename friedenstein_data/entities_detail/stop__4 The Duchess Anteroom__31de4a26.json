@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080544,
+    "uuid": "31de4a26-e685-49e2-aed3-a33ad42504d0",
+    "title": "4 The Duchess’ Anteroom",
+    "content": {
+      "image": "d15f7672-e207-4471-aa29-ad959dea2013",
+      "title": {
+        "de-DE": "Vorzimmer der Herzogin",
+        "en-US": "The Duchess’ Anteroom"
+      },
+      "preview": false,
+      "stopnumber": 4,
+      "primary_segment": "f2913cb2-2578-4c5c-aaa4-34078c3ca901",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4865ff59fc5f652e6f3ca1943acf04b5e1d3589c",
+      "title": "4 The Duchess’ Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:47:37.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "d15f7672-e207-4471-aa29-ad959dea2013"
+        ],
+        "audio_segment": [
+          "f2913cb2-2578-4c5c-aaa4-34078c3ca901"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

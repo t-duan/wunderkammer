@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079761,
+    "uuid": "10fd6ae9-646a-4c85-9979-a42c16e6a0b1",
+    "title": "Schloss Friedenstein",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "11510eb0-838e-55cf-9763-d45034c4d1a7",
+        "6abcdd7d-3af3-53a2-8ba3-0153dc8c491a",
+        "32ddb4fc-fe87-54c1-9512-a629c26691be",
+        "5b1af02b-8ebb-537d-8b26-b09e770c9d21",
+        "aafb4ed6-430a-55e6-809b-9e75bf5f1abd",
+        "57a1b6ec-0b24-5dd1-b8bd-2fc89cae9ba1",
+        "75ea5705-1010-5a6e-b1e5-f99b5d0042b9",
+        "20904778-dcf4-564e-8f79-5420f7b671ce"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7978acdaff97451195cedf1ce28a1e7f1fe6d76f",
+      "title": "Schloss Friedenstein",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:38:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

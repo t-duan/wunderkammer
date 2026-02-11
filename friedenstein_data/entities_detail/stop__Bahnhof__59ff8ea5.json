@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080637,
+    "uuid": "59ff8ea5-638d-4b57-adca-a14852565dd6",
+    "title": "Bahnhof",
+    "content": {
+      "image": "e03e345d-3d70-4772-a746-d85d57f50c94",
+      "title": {
+        "de-DE": "Bahnhof",
+        "en-US": "Trainstation"
+      },
+      "preview": false,
+      "primary_segment": "d473df52-74d6-4b53-b887-5c8d06c28ab9",
+      "secondary_segments": [
+        "d7b17d7b-4710-4cb5-9889-0ca440412a5b",
+        "001b5cfe-a78d-4317-987a-d1c3592125eb"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6fbc65aedfb5fb41b9a51247d26d8f9809c89acf",
+      "title": "Bahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T06:25:57.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "e03e345d-3d70-4772-a746-d85d57f50c94"
+        ],
+        "audio_segment": [
+          "d473df52-74d6-4b53-b887-5c8d06c28ab9"
+        ],
+        "comments_segment": [
+          "001b5cfe-a78d-4317-987a-d1c3592125eb"
+        ],
+        "collection_object_gallery_segment": [
+          "d7b17d7b-4710-4cb5-9889-0ca440412a5b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

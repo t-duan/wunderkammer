@@ -1,0 +1,52 @@
+[
+  {
+    "id": 35514,
+    "uuid": "ba61ca1b-a42e-510d-990a-0c9b93276aaf",
+    "title": "Neumarkt mit Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt mit Margarethenkirche",
+        "en-US": "Neumarkt mit Margarethenkirche"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055692%2F871347_00248826_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "44872_doppelt"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4dd0d8bab80734ae0d230bc0119fabe890f0add5",
+      "title": "Neumarkt mit Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.331Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "8CD9E15ED384423BAD97306EED146751"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

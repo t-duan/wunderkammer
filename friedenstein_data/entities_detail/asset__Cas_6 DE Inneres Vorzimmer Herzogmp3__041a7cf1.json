@@ -1,0 +1,38 @@
+[
+  {
+    "id": 21017,
+    "uuid": "041a7cf1-0a66-4079-8274-b9c58a4207b0",
+    "title": "Cas_6 DE Inneres Vorzimmer Herzog.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/041a7cf1-0a66-4079-8274-b9c58a4207b0/Cas_6%20DE%20Inneres%20Vorzimmer%20Herzog.mp3",
+      "file_name": "Cas_6 DE Inneres Vorzimmer Herzog.mp3",
+      "file_size": 1438440,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ab26f226cf7a2a03c42bf239e5eb1abce61a4d1d",
+      "title": "Cas_6 DE Inneres Vorzimmer Herzog.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:05.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

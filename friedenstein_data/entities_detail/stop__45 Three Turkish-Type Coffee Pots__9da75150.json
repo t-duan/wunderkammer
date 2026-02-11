@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079998,
+    "uuid": "9da75150-5df9-40b1-9a0d-3669a76d4642",
+    "title": "45 Three Turkish-Type Coffee Pots",
+    "content": {
+      "image": "ba11e3fe-7a58-42b8-90ef-c448323a0cdc",
+      "title": {
+        "de-DE": "Drei Kaffeekannen in türkischer Form",
+        "en-US": "Three Turkish-Type Coffee Pots"
+      },
+      "preview": false,
+      "stopnumber": 145,
+      "primary_segment": "c270b079-5225-48b0-b21b-3af68f70513f",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f70ef6d9f522f88f58ea9367c41456aa47d2eb82",
+      "title": "45 Three Turkish-Type Coffee Pots",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:43:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "ba11e3fe-7a58-42b8-90ef-c448323a0cdc"
+        ],
+        "audio_segment": [
+          "c270b079-5225-48b0-b21b-3af68f70513f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

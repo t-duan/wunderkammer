@@ -1,0 +1,145 @@
+[
+  {
+    "id": 2080604,
+    "uuid": "396a3ee8-61b0-4713-a845-d3eaed5bcd0d",
+    "title": "Jüdenstraße und Schwarzes Viertel",
+    "content": {
+      "title": {
+        "de-DE": "Jüdenstraße und Schwarzes Viertel",
+        "en-US": "Jewish Street and the Black Quarter"
+      },
+      "audiofile": {
+        "de-DE": "3e36ec94-b08f-444b-8b1d-516b4d173e1d",
+        "en-US": "3ea5763c-e5f7-4921-9f65-ffe278471b99"
+      },
+      "timed_images": [
+        {
+          "id": "1152aa85-953a-46b3-8622-f4d2fe3c3ec4",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Jüdenstraße",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "ac40dbe4-1166-5b2e-a1b6-29360ab4a053"
+        },
+        {
+          "id": "247ef411-3b12-4eb4-926f-dfc6ea34da48",
+          "hide_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image Jüdenstraße2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "384715e2-5895-5327-8125-2f2040d64e42"
+        },
+        {
+          "id": "ec15ef17-714c-404b-aacc-0524f8dabf99",
+          "hide_at": {
+            "de-DE": 33,
+            "en-US": 33
+          },
+          "show_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "blockName": "Timed image Jüdenstraße3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "fc95bbc6-5d11-5435-9948-5298304d4c55"
+        },
+        {
+          "id": "d33e0093-d716-4b39-b95a-5ec1a4a191bb",
+          "hide_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "show_at": {
+            "de-DE": 33,
+            "en-US": 33
+          },
+          "blockName": "Timed image Jüdenstraße4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "38d46881-15a7-5f50-ae82-752b489c749f"
+        },
+        {
+          "id": "242325e0-aa6c-40f9-8fbf-48684d55d00a",
+          "hide_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "show_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "blockName": "Timed image Jüdenstraße5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "20d8d4b7-605a-5acb-b4e4-9517e58c91e2"
+        },
+        {
+          "id": "97759e55-580b-4f4f-892f-8f4a65597d32",
+          "hide_at": {
+            "de-DE": 56,
+            "en-US": 56
+          },
+          "show_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "blockName": "Timed image Jüdenstraße6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "f7add5a9-9076-5211-8382-aec96c7efe11"
+        },
+        {
+          "id": "f1ec6d11-fb6b-46ef-a175-8f48fa20f3c7",
+          "hide_at": {
+            "de-DE": 56,
+            "en-US": 56
+          },
+          "show_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "blockName": "Timed image Jüdenstraße7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1978b585-4b67-5ecf-8d67-9e64b9860967"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Stellen Sie sich vor: schmale Gassen, eng aneinandergedrängte Fachwerkhäuser. Der Geruch von Holzfeuer liegt in der Luft, Marktleute unterhalten sich. Über Jahrhunderte war dies ein lebendiges Viertel, voller Handwerker und Händler. Heute erinnert nur noch wenig an die Vergangenheit der Jüdenstraße und des sogenannten ‚Schwarzen Viertels‘… doch wer genau hinsieht, kann die Geschichte noch immer hören.\"\n\n\"Bereits im 13. Jahrhundert ließ sich hier eine jüdische Gemeinde nieder. Wie in vielen mittelalterlichen Städten lebten Juden mitten in der Stadt – und doch getrennt. Schutz und Ausgrenzung lagen nah beieinander. Dann, im Jahr 1465, wurden sie aus Gotha vertrieben. Ihre Häuser, ihr Bethaus – verschwunden. Erst Jahrhunderte später, im 19. Jahrhundert, durften sich jüdische Familien wieder ansiedeln. Doch der Schatten des 20. Jahrhunderts sollte sie erneut einholen.\"\n\n\"Und dann ist da das ‚Schwarze Viertel‘, die bauliche Erweiterung der Stadt ab dem 14. Jahrhundert. Manche sagen, der Name stammt von den vielen Bränden, die hier wüteten. Andere glauben, er komme von der Dunkelheit der engen Gassen. Sicher ist: Dieses Viertel war einst als ‚Neustadt‘ bekannt – ein Arbeiterviertel, voller Leben, voller Geschichte. Doch Ende der 1970er, Anfang der 1980er Jahre verschwand es. Die alten Häuser wurden abgerissen, ersetzt durch moderne Wohnblocks.\"\n\n\"Heute sind die alten Gassen verschwunden, doch ihre Geschichte bleibt – verborgen in den Steinen, in den Erzählungen der Menschen, die hier einst lebten. Was erinnern wir? Was vergessen wir? Die Stadt atmet ihre Vergangenheit – wenn man ihr nur zuhört.\"",
+        "en-US": "\"Imagine narrow alleyways, tightly packed half-timbered houses. The scent of wood fires lingers in the air, merchants chat amongst themselves. For centuries, this was a vibrant district filled with craftsmen and traders. Today, little remains to remind us of the past of Jewish Street and the so-called ‘Black Quarter’… but for those who look closely, history can still be heard.\"\n\n\"As early as the 13th century, a Jewish community settled here. Like in many medieval cities, Jews lived in the heart of town – yet remained separate. Protection and exclusion went hand in hand. Then, in 1465, they were expelled from Gotha. Their houses, their prayer hall – gone. It would take centuries before Jewish families were allowed to return in the 19th century. But the shadows of the 20th century would catch up with them once again.\"\n\n\"And then there is the ‘Black Quarter,’ the city’s expansion beyond its medieval walls from the 14th century. Some say the name comes from the many fires that ravaged the area. Others believe it refers to the darkness of its narrow streets. What is certain is that this district was once called the ‘New Town’ – a working-class quarter, full of life and history. But by the late 1970s and early 1980s, it disappeared. The old houses were demolished, replaced by modern apartment blocks.\"\n\n\"Today, the old alleyways are gone, but their stories remain – hidden in the stones, in the memories of those who once lived here. What do we remember? What do we forget? The city breathes its past – if we only listen.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ab4710755e48579423faaa80f920025ed4db62d8",
+      "title": "Jüdenstraße und Schwarzes Viertel",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-17T12:29:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3e36ec94-b08f-444b-8b1d-516b4d173e1d",
+          "3ea5763c-e5f7-4921-9f65-ffe278471b99"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

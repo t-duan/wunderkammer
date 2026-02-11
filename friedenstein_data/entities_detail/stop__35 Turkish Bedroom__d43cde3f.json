@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080367,
+    "uuid": "d43cde3f-3ffe-410d-85a8-b7c80485ba87",
+    "title": "35 Turkish Bedroom",
+    "content": {
+      "image": "99634359-b2bf-41a4-b367-e4fae49ed31d",
+      "title": {
+        "de-DE": "Türkisches Schlafzimmer der Herzogin (Napoléonzimmer)",
+        "en-US": "Turkish Bedroom"
+      },
+      "preview": false,
+      "stopnumber": 35,
+      "primary_segment": "2012dbe0-d210-40d0-876b-700288332cc8",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4d214380c85ad685bb7796e4c4999d539d02f0fe",
+      "title": "35 Turkish Bedroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:17:13.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "99634359-b2bf-41a4-b367-e4fae49ed31d"
+        ],
+        "audio_segment": [
+          "2012dbe0-d210-40d0-876b-700288332cc8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080430,
+    "uuid": "faa4cdf2-cade-4955-bb0a-b1b4e764880a",
+    "title": "The Electoral Prince, John Frederick of Saxony’s Boot",
+    "content": {
+      "title": {
+        "de-DE": "The Electoral Prince, John Frederick of Saxony’s Boot",
+        "en-US": "The Electoral Prince, John Frederick of Saxony’s Boot"
+      },
+      "audiofile": {
+        "de-DE": "3b1fe879-33b9-429f-acf9-e2c5081b5c9f",
+        "en-US": "62bd1ca2-608c-4d3e-95ca-1d7e9d83ba68"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "58c511f4e018201cdcea615d4bd328490101b2bb",
+      "title": "The Electoral Prince, John Frederick of Saxony’s Boot",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:00:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3b1fe879-33b9-429f-acf9-e2c5081b5c9f",
+          "62bd1ca2-608c-4d3e-95ca-1d7e9d83ba68"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

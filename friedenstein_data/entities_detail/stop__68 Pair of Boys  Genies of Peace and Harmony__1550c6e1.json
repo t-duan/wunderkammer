@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079860,
+    "uuid": "1550c6e1-33fc-4515-afec-ebc64393d5e1",
+    "title": "68 Pair of Boys – Genies of Peace and Harmony",
+    "content": {
+      "image": "299614e3-be6d-48e2-8501-60d9890e5c34",
+      "title": {
+        "de-DE": "Knabenpaar – Genien der Eintracht",
+        "en-US": "Pair of Boys – Genies of Peace and Harmony"
+      },
+      "preview": false,
+      "stopnumber": 168,
+      "primary_segment": "25441de5-1279-42d5-b54c-3b26f34b6f4b",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "65d1fdfe84e77fbf24edf22a73df57fb5589575e",
+      "title": "68 Pair of Boys – Genies of Peace and Harmony",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:28:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "299614e3-be6d-48e2-8501-60d9890e5c34"
+        ],
+        "audio_segment": [
+          "25441de5-1279-42d5-b54c-3b26f34b6f4b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080040,
+    "uuid": "2a20af2b-3b2d-43c7-8b0f-49b411c1a6bb",
+    "title": "38 Hackert: Idealized Landscape",
+    "content": {
+      "image": "b20d0c8b-6f01-4d66-b827-b4ac15858487",
+      "title": {
+        "de-DE": "Hackert: Ideale Landschaft",
+        "en-US": "Hackert: Idealized Landscape"
+      },
+      "preview": false,
+      "stopnumber": 138,
+      "primary_segment": "340bf8a6-6e19-4976-89de-b40d986c69dc",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1c8ee8b5293e9584afff8eae33fe493fa2b007c7",
+      "title": "38 Hackert: Idealized Landscape",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:30:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b20d0c8b-6f01-4d66-b827-b4ac15858487"
+        ],
+        "audio_segment": [
+          "340bf8a6-6e19-4976-89de-b40d986c69dc"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

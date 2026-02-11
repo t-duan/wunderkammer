@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22259,
+    "uuid": "8da593c8-4b21-4c59-8713-f7ae61d2c83c",
+    "title": "Cas_31 DE Vorzimmer Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/8da593c8-4b21-4c59-8713-f7ae61d2c83c/Cas_31%20DE%20Vorzimmer%20Herzogin.mp3",
+      "file_name": "Cas_31 DE Vorzimmer Herzogin.mp3",
+      "file_size": 2655417,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "4626901f2f2fba8c1686047d34465b83e5cfaa95",
+      "title": "Cas_31 DE Vorzimmer Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:16.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

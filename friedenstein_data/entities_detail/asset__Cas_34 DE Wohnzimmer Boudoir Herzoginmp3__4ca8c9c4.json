@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22256,
+    "uuid": "4ca8c9c4-fa0b-4a25-9424-cad49abe403f",
+    "title": "Cas_34 DE Wohnzimmer Boudoir Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/4ca8c9c4-fa0b-4a25-9424-cad49abe403f/Cas_34%20DE%20Wohnzimmer%20Boudoir%20Herzogin.mp3",
+      "file_name": "Cas_34 DE Wohnzimmer Boudoir Herzogin.mp3",
+      "file_size": 3390205,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "becdc3432d1b3415b3d4309c2c59ab735303c6ef",
+      "title": "Cas_34 DE Wohnzimmer Boudoir Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

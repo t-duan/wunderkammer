@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35370,
+    "uuid": "f863b83c-0c87-5477-8ea2-ee21ed126c37",
+    "title": "Hauptmarkt, Unterer Hauptmarkt mit Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Unterer Hauptmarkt mit Rathaus",
+        "en-US": "Hauptmarkt, Unterer Hauptmarkt mit Rathaus"
+      },
+      "period": {
+        "de-DE": [
+          "1977"
+        ],
+        "en-US": [
+          "1977"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.1 cm",
+          "Breite 16.3 cm"
+        ],
+        "en-US": [
+          "Höhe 9.1 cm",
+          "Breite 16.3 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01036061%2F871347_00248216_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "19874"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "873b7680aefe6779af6af91e6baa6cd0ec3428d3",
+      "title": "Hauptmarkt, Unterer Hauptmarkt mit Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.766Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "79697D11BFCE4072924F3F012E31A1E2"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

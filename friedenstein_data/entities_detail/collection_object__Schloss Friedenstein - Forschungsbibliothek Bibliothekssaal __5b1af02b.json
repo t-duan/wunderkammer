@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35451,
+    "uuid": "5b1af02b-8ebb-537d-8b26-b09e770c9d21",
+    "title": "Schloss Friedenstein - Forschungsbibliothek, Bibliothekssaal im Ostturm",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein - Forschungsbibliothek, Bibliothekssaal im Ostturm",
+        "en-US": "Schloss Friedenstein - Forschungsbibliothek, Bibliothekssaal im Ostturm"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 16.0 cm",
+          "Breite 12.5 cm"
+        ],
+        "en-US": [
+          "Höhe 16.0 cm",
+          "Breite 12.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01038686%2F871347_00250317_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "3565"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "24f543e3c133a7422bfefbca8a6174bb4d030517",
+      "title": "Schloss Friedenstein - Forschungsbibliothek, Bibliothekssaal im Ostturm",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.954Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "A88564A6D44F4BB4951F8B677BC7ABC6"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

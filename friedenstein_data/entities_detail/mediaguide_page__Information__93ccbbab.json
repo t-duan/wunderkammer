@@ -1,0 +1,36 @@
+[
+  {
+    "id": 2080667,
+    "uuid": "93ccbbab-a5ba-418c-9756-a89ce07a1992",
+    "title": "Information",
+    "content": {
+      "slug": "info",
+      "title": {
+        "de-DE": "Information",
+        "en-US": "Information"
+      },
+      "content": {
+        "de-DE": "# Friedenstein-App Einführung\nEntdecken Sie die Geschichte der Stadt Gotha. Der multimediale Stadtführer erzählt die Geschichte(n) markanter Orte und Gebäude. Historischer Fotografien aus der regionalgeschichtlichen Sammlung der Friedenstein Stiftung Gotha führen vor Augen, wie sich die Orte im Laufe der Jahrzehnte verändert haben. Die ältesten Aufnahmen stammen aus dem 19. Jahrhundert, die chronologische Abfolge zeigt die Orte bis in die jüngste Vergangenheit, die DDR und die Nachwendezeit.\n\nSie können die Orte in beliebiger Reihenfolge bei einem Spaziergang durch Gotha entdecken oder an einem Ort Ihrer Wahl in der App stöbern. Über den Kreis in der oberen rechten Ecke der Karte können Sie sich Ihren aktuellen Standort anzeigen lassen. \n\nWählen Sie einen Punkt auf der Karte und erfahren Sie, wie viel Geschichte sich dahinter verbirgt.\n\nÜber die Kommentarfunktion können Sie Ihre eigene(n) Geschichte(n) hinzufügen und auch Fotos teilen.\n\nWir wünschen Ihnen viel Freude mit dieser App und einen schönen Spaziergang durch Gotha.\n\nIhre Friedenstein Stiftung Gotha\n",
+        "en-US": "# Friedenstein App Introduction\nDiscover the history of the city of Gotha. The multimedia city guide tells the story(s) of prominent places and buildings. Historical photographs from the regional history collection of the Friedenstein Foundation Gotha show how the places have changed over the decades. The oldest photographs date from the 19th century, the chronological sequence shows the places up to the recent past, the GDR and the post-reunification period.\n\nYou can discover the locations in any order on a walk through Gotha or browse through the app at a location of your choice. You can display your current location using the circle in the top right-hand corner of the map. \n\nSelect a point on the map and find out how much history is hidden behind it.\n\nYou can use the comment function to add your own story or stories and share photos.\n\nWe hope you enjoy using this app and wish you a pleasant walk through Gotha.\n\nYour Friedenstein Foundation Gotha\n"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b688dedc4809c6dc0f8ff3ad7de8fc6a6d1df180",
+      "title": "Information",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-10T14:41:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "mediaguide_page",
+    "status": "published"
+  }
+]

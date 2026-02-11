@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22162,
+    "uuid": "5eb2abe4-21fa-4d49-b2db-ca76e16b98af",
+    "title": "Mus_42 ENG.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/5eb2abe4-21fa-4d49-b2db-ca76e16b98af/Mus_42%20ENG.mp3",
+      "file_name": "Mus_42 ENG.mp3",
+      "file_size": 1868602,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "c7acb31bc6493729dda7b9391b5fb9b6adab37b7",
+      "title": "Mus_42 ENG.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T13:19:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

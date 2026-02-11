@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079839,
+    "uuid": "ce0267c6-38cf-43d6-bd77-66043137b53e",
+    "title": "72 Teapot with Small Dormice Between Vine Branches",
+    "content": {
+      "title": {
+        "de-DE": "72 Teapot with Small Dormice Between Vine Branches",
+        "en-US": "72 Teapot with Small Dormice Between Vine Branches"
+      },
+      "audiofile": {
+        "de-DE": "4cb2ddc4-4dbb-4f52-b3d8-04d7832f9df2",
+        "en-US": "bc30f823-4c1c-466c-b701-78f79e4b78f2"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "54d1eaa011629e535e18ecc77b0f3ccc0a69b86e",
+      "title": "72 Teapot with Small Dormice Between Vine Branches",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:33:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4cb2ddc4-4dbb-4f52-b3d8-04d7832f9df2",
+          "bc30f823-4c1c-466c-b701-78f79e4b78f2"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6340,
+    "uuid": "e23ceba7-c902-4b20-b5f5-9a70659270fa",
+    "title": "rsh-background.png",
+    "content": {
+      "width": 1473,
+      "height": 1440,
+      "source": "https://media.tapart.me/media/mediaguide/e23ceba7-c902-4b20-b5f5-9a70659270fa/rsh-background.png",
+      "file_name": "rsh-background.png",
+      "file_size": 3313173,
+      "mime_type": {
+        "template": "image/png",
+        "extension": "png"
+      },
+      "content_type": "image/png",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "3a8445a9f84a2966497346543da9bf4ecb0e2e80",
+      "title": "rsh-background.png",
+      "locales": [],
+      "createdAt": "2024-09-20T14:24:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

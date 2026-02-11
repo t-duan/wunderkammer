@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080451,
+    "uuid": "6324b8fc-93fd-4b69-983c-3645829f2943",
+    "title": "The Decorative Amber Casket",
+    "content": {
+      "title": {
+        "de-DE": "The Decorative Amber Casket",
+        "en-US": "The Decorative Amber Casket"
+      },
+      "audiofile": {
+        "de-DE": "e785ff54-4eef-4713-93f6-cd34839c567f",
+        "en-US": "2c664e60-a668-4f19-a353-fc1f584da65f"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "274c0e5e591a60ca24dcd862ab021c6ee35de59f",
+      "title": "The Decorative Amber Casket",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:51:40.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2c664e60-a668-4f19-a353-fc1f584da65f",
+          "e785ff54-4eef-4713-93f6-cd34839c567f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080241,
+    "uuid": "ad742543-e9b6-415b-96ef-1d2ca64f3d21",
+    "title": "11 Bell-shaped crater",
+    "content": {
+      "image": "0c5d4caf-79b1-4d6b-88ff-bbd76560ae69",
+      "title": {
+        "de-DE": "Glockenkrater",
+        "en-US": "Bell-shaped crater"
+      },
+      "preview": false,
+      "stopnumber": 111,
+      "primary_segment": "951d750e-1bce-458d-b894-7cc20fbd54dc",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "eb82fa6336a511755e79af440cde8eb70852a686",
+      "title": "11 Bell-shaped crater",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:42:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0c5d4caf-79b1-4d6b-88ff-bbd76560ae69"
+        ],
+        "audio_segment": [
+          "951d750e-1bce-458d-b894-7cc20fbd54dc"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

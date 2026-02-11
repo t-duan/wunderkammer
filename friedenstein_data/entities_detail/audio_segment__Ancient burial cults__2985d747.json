@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080256,
+    "uuid": "2985d747-7ba5-400c-9e8a-bc0f44ea7cc3",
+    "title": "Ancient burial cults",
+    "content": {
+      "title": {
+        "de-DE": "Ancient burial cults",
+        "en-US": "Ancient burial cults"
+      },
+      "audiofile": {
+        "de-DE": "1946b984-9201-4877-a243-180f91905fcd",
+        "en-US": "2640a660-5fd2-4e61-9d6a-982d11e02d87"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "918803fd197e2efae367842bb3131311e738d671",
+      "title": "Ancient burial cults",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:38:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1946b984-9201-4877-a243-180f91905fcd",
+          "2640a660-5fd2-4e61-9d6a-982d11e02d87"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

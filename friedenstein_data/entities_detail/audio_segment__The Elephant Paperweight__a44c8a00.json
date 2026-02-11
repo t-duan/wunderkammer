@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080469,
+    "uuid": "a44c8a00-8ded-4f13-8c81-9e47e0e19d55",
+    "title": "The Elephant Paperweight",
+    "content": {
+      "title": {
+        "de-DE": "The Elephant Paperweight",
+        "en-US": "The Elephant Paperweight"
+      },
+      "audiofile": {
+        "de-DE": "a669f054-743b-4e1f-82a7-0ca3e2c07c9d",
+        "en-US": "0340f455-0fb2-4101-9806-1713530834e4"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "48caf6164931337dd0d0dc7ae36c9015553cc061",
+      "title": "The Elephant Paperweight",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:47:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0340f455-0fb2-4101-9806-1713530834e4",
+          "a669f054-743b-4e1f-82a7-0ca3e2c07c9d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

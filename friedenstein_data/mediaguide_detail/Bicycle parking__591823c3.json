@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071116,
+    "uuid": "591823c3-e2e6-4c87-98c9-27f35af8719c",
+    "title": "Bicycle parking",
+    "content": {
+      "key": "parking_bicycle",
+      "icon": "c77ed25c-8005-40be-8429-b342fc1f6149",
+      "label": {
+        "ar-AE": "مواقف الدراجات",
+        "ar-SA": "مواقف الدراجات",
+        "de-DE": "Fahrradabstellplatz",
+        "en-GB": "Bicycle parking",
+        "en-US": "Bicycle parking",
+        "es-ES": "Aparcamiento de bicicletas",
+        "fa-IR": "پارکینگ دوچرخه",
+        "fr-FR": "Stationnement vélos",
+        "it-IT": "Parcheggio biciclette",
+        "ja-JP": "駐輪場",
+        "nl-NL": "Fietsenstalling",
+        "zh-CN": "自行车停放处",
+        "nl-NL-AD": "Fietsenstalling",
+        "nl-NL-sl": "Fietsenstalling"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "039f1ab6944eb504ca3e6d27e31e4d4222142c19",
+      "title": "Bicycle parking",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:43:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c77ed25c-8005-40be-8429-b342fc1f6149"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

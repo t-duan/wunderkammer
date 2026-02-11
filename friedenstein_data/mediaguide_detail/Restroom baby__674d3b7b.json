@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070681,
+    "uuid": "674d3b7b-bf0a-405e-acd3-930228dde945",
+    "title": "Restroom baby",
+    "content": {
+      "key": "restroom_baby",
+      "icon": "388238c9-07af-47a6-bec6-f226c2c67479",
+      "label": {
+        "ar-AE": " غرفة تغيير الحفاضات",
+        "ar-SA": " غرفة تغيير الحفاضات",
+        "de-DE": "Wickelraum",
+        "en-GB": "Diaper changing room",
+        "en-US": "Diaper changing room",
+        "es-ES": "Sala de cambio de pañales",
+        "fa-IR": "اتاق تعویض پوشک",
+        "fr-FR": "Salle à langer",
+        "it-IT": "Stanza per il cambio del pannolino",
+        "ja-JP": "おむつ交換室",
+        "nl-NL": "Verschoonruimte",
+        "zh-CN": "婴儿换尿布室",
+        "nl-NL-AD": "Verschoonruimte",
+        "nl-NL-sl": "Verschoonruimte"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3098f7fe0a445b51440c7d318781b0c6465d5529",
+      "title": "Restroom baby",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:53:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "388238c9-07af-47a6-bec6-f226c2c67479"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

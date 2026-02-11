@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22225,
+    "uuid": "ed130a4b-db96-4288-a0ff-cc0e65f857cf",
+    "title": "Cas_23 ENG Nautilus Goblet.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/ed130a4b-db96-4288-a0ff-cc0e65f857cf/Cas_23%20ENG%20Nautilus%20Goblet.mp3",
+      "file_name": "Cas_23 ENG Nautilus Goblet.mp3",
+      "file_size": 1210881,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "f10926dea017b4528dcdf7b3a676c090ea70b8f1",
+      "title": "Cas_23 ENG Nautilus Goblet.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

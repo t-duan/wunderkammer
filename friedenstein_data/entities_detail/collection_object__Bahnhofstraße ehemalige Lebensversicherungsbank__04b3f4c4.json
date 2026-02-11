@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35454,
+    "uuid": "04b3f4c4-31bf-5de9-acd2-bdd7691d5770",
+    "title": "Bahnhofstraße, ehemalige Lebensversicherungsbank",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, ehemalige Lebensversicherungsbank",
+        "en-US": "Bahnhofstraße, ehemalige Lebensversicherungsbank"
+      },
+      "period": {
+        "de-DE": [
+          "1940er Jahre - 1950er Jahre"
+        ],
+        "en-US": [
+          "1940er Jahre - 1950er Jahre"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Barytpapier"
+        ],
+        "en-US": [
+          "Barytpapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031901%2F871347_00221892_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "3823"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d366c2c73c7147424a189c500da8e8fa732343b0",
+      "title": "Bahnhofstraße, ehemalige Lebensversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.924Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "9D2A081AEA4A4578A1566EFC93152873"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

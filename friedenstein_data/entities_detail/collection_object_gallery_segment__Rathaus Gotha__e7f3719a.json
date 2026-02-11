@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2079764,
+    "uuid": "e7f3719a-bd9a-4b03-9ada-9c179feeb5af",
+    "title": "Rathaus Gotha",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "47d1fcd0-f94b-52e7-977f-628ac39fd700",
+        "4d354341-575f-558b-b98a-581a24e2ecab",
+        "24ecc0b0-6e53-5735-ac93-3a31d6944484",
+        "71bd5b5d-2cb0-5552-8ab6-101663bb20c9",
+        "f863b83c-0c87-5477-8ea2-ee21ed126c37",
+        "cedb0239-e7d3-5e3b-bec5-d5752e1236f2",
+        "1f4ee423-8759-5116-acba-bd6840bfd0a6",
+        "1784e7a9-1d2a-52ea-9a30-2f1b1d47dec5",
+        "7a010667-89c2-517f-949e-32bb4a02493e"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c19e8779c8280b902a1bbce67ccbbfeee4cc9540",
+      "title": "Rathaus Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:38:02.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079833,
+    "uuid": "bb3444b5-1032-4452-a407-18a25a47bfef",
+    "title": "73 Flower Shaped Bowl, Celadon",
+    "content": {
+      "title": {
+        "de-DE": "73 Flower Shaped Bowl, Celadon",
+        "en-US": "73 Flower Shaped Bowl, Celadon"
+      },
+      "audiofile": {
+        "de-DE": "699ec5c7-fc23-4bb6-90e7-b5a9b53734ce",
+        "en-US": "605fa9db-b2af-439b-9c93-f369a7fc582c"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e14d2300dcdea3bca9af9e1194dbc1e21e7b54f0",
+      "title": "73 Flower Shaped Bowl, Celadon",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:35:45.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "605fa9db-b2af-439b-9c93-f369a7fc582c",
+          "699ec5c7-fc23-4bb6-90e7-b5a9b53734ce"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

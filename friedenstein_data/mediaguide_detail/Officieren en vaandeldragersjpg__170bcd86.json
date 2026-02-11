@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6013,
+    "uuid": "170bcd86-7952-47a3-9de9-f23f298d082d",
+    "title": "Officieren en vaandeldragers.jpg",
+    "content": {
+      "width": 3460,
+      "height": 1960,
+      "source": "https://media.tapart.me/media/mediaguide/170bcd86-7952-47a3-9de9-f23f298d082d/Officieren%20en%20vaandeldragers.jpg",
+      "file_name": "Officieren en vaandeldragers.jpg",
+      "file_size": 1623824,
+      "mime_type": {
+        "template": "image/jpeg",
+        "extension": "jpg"
+      },
+      "content_type": "image/jpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1ea78a6101f04114ecaa2a3e371ca8023d66ffa0",
+      "title": "Officieren en vaandeldragers.jpg",
+      "locales": [],
+      "createdAt": "2023-07-28T14:35:56.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

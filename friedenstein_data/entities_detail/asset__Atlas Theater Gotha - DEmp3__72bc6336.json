@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22347,
+    "uuid": "72bc6336-fb83-4f04-a642-d601f4831293",
+    "title": "Atlas Theater Gotha - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/72bc6336-fb83-4f04-a642-d601f4831293/Atlas%20Theater%20Gotha%20-%20DE.mp3",
+      "file_name": "Atlas Theater Gotha - DE.mp3",
+      "file_size": 6664331,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ef37fa7a70d980f80d6fd56ee770b64db656f199",
+      "title": "Atlas Theater Gotha - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:17:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

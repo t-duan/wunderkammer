@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35367,
+    "uuid": "1d0e4eb7-cf7f-5a13-a79f-5ece5e9dc7d1",
+    "title": "Bahnhofstraße, Bahnhofsvorplatz",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Bahnhofsvorplatz",
+        "en-US": "Bahnhofstraße, Bahnhofsvorplatz"
+      },
+      "period": {
+        "de-DE": [
+          "1974"
+        ],
+        "en-US": [
+          "1974"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.0 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00969027%2F871347_00221844_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "16513"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c7439711d3d189c04014fe35462f8d072f7f4087",
+      "title": "Bahnhofstraße, Bahnhofsvorplatz",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.792Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "9D6D5C8A8540414AB4C871E7F0CD31F7"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

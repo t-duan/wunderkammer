@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079815,
+    "uuid": "b344b50a-9f72-41e3-b3a7-396481d55bbe",
+    "title": "76 Shelves",
+    "content": {
+      "title": {
+        "de-DE": "76 Shelves",
+        "en-US": "76 Shelves"
+      },
+      "audiofile": {
+        "de-DE": "d688ad6c-84ef-4f48-91b3-32829f89ff90",
+        "en-US": "3b3dbcb0-707c-4582-a167-0280c5806fd9"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e4d130b8961c51036d0f4e10c0e8324e127baff6",
+      "title": "76 Shelves",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:40:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3b3dbcb0-707c-4582-a167-0280c5806fd9",
+          "d688ad6c-84ef-4f48-91b3-32829f89ff90"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

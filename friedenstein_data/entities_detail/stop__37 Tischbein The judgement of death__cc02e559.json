@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080046,
+    "uuid": "cc02e559-d2d1-416a-9726-39f76ec70cae",
+    "title": "37 Tischbein: The judgement of death",
+    "content": {
+      "image": "fcf2d669-f489-4554-95fe-43deeec5495a",
+      "title": {
+        "de-DE": "Tischbein: Das Todesurteil",
+        "en-US": "Tischbein: The judgement of death"
+      },
+      "preview": false,
+      "stopnumber": 137,
+      "primary_segment": "a8e5311a-94fa-4a35-a070-a039116e140e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "29b619ce85b7b180e70636ad91e6da8528d8fd5a",
+      "title": "37 Tischbein: The judgement of death",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:29:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "fcf2d669-f489-4554-95fe-43deeec5495a"
+        ],
+        "audio_segment": [
+          "a8e5311a-94fa-4a35-a070-a039116e140e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

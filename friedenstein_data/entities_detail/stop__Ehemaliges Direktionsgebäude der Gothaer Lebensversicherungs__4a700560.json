@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080664,
+    "uuid": "4a700560-3428-4f0a-bd36-910dff64f6c4",
+    "title": "Ehemaliges Direktionsgebäude der Gothaer Lebensversicherungsbank",
+    "content": {
+      "image": "2075650a-7666-40df-bdc6-39a756272f65",
+      "title": {
+        "de-DE": "Ehemaliges Direktionsgebäude der Gothaer Lebensversicherungsbank",
+        "en-US": "Former management building of the Gothaer Lebensversicherungsbank"
+      },
+      "preview": false,
+      "primary_segment": "7b7ed85a-2a05-4068-9d87-1b6231489874",
+      "secondary_segments": [
+        "1099f3b3-558f-406f-bed2-55348c56a46a",
+        "2c8d43fb-10b7-4499-b491-447f6123e9f5"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e086b808a9a0e575731ef84880a58988a0bb30ba",
+      "title": "Ehemaliges Direktionsgebäude der Gothaer Lebensversicherungsbank",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T07:12:57.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2075650a-7666-40df-bdc6-39a756272f65"
+        ],
+        "audio_segment": [
+          "7b7ed85a-2a05-4068-9d87-1b6231489874"
+        ],
+        "comments_segment": [
+          "2c8d43fb-10b7-4499-b491-447f6123e9f5"
+        ],
+        "collection_object_gallery_segment": [
+          "1099f3b3-558f-406f-bed2-55348c56a46a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

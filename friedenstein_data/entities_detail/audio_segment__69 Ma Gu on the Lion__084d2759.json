@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079857,
+    "uuid": "084d2759-83ee-4733-a381-c8540bf74973",
+    "title": "69 Ma Gu on the Lion",
+    "content": {
+      "title": {
+        "de-DE": "69 Ma Gu on the Lion",
+        "en-US": "69 Ma Gu on the Lion"
+      },
+      "audiofile": {
+        "de-DE": "8be88aa0-5425-499d-9312-d9b005dd4052",
+        "en-US": "5dae0538-1000-4fa9-8b1a-3f6851ff4199"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "900178489c0e6785b4055332cc57b769b0824295",
+      "title": "69 Ma Gu on the Lion",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:29:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5dae0538-1000-4fa9-8b1a-3f6851ff4199",
+          "8be88aa0-5425-499d-9312-d9b005dd4052"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

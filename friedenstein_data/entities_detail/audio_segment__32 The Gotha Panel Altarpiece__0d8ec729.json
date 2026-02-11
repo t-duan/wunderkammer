@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080079,
+    "uuid": "0d8ec729-4b8b-4d3b-92d2-fb4fe42f3d73",
+    "title": "32 The Gotha Panel Altarpiece",
+    "content": {
+      "title": {
+        "de-DE": "32 The Gotha Panel Altarpiece",
+        "en-US": "32 The Gotha Panel Altarpiece"
+      },
+      "audiofile": {
+        "de-DE": "dec180c9-3e2b-414a-a3a0-6e204be5d3d5",
+        "en-US": "c049202e-30e8-4cba-b936-22048f853794"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b3224014530ea245e4de83fde637a4971eca33ef",
+      "title": "32 The Gotha Panel Altarpiece",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:18:57.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c049202e-30e8-4cba-b936-22048f853794",
+          "dec180c9-3e2b-414a-a3a0-6e204be5d3d5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

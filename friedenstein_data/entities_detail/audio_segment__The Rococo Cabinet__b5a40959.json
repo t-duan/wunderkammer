@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080499,
+    "uuid": "b5a40959-d49a-4c51-aafd-0c1a6209cfd6",
+    "title": "The Rococo Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "The Rococo Cabinet",
+        "en-US": "The Rococo Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "0dfeab5c-a384-452b-a449-7875dba3e274",
+        "en-US": "c357b2fd-44f8-4813-906b-d0427f67af95"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d618a48392ac930b2875b843f0cf0f0ff2a28e8b",
+      "title": "The Rococo Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:10:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0dfeab5c-a384-452b-a449-7875dba3e274",
+          "c357b2fd-44f8-4813-906b-d0427f67af95"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

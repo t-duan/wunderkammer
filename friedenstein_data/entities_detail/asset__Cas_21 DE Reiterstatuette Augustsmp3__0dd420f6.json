@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22266,
+    "uuid": "0dd420f6-0b93-4025-afaa-843439080c2c",
+    "title": "Cas_21 DE Reiterstatuette Augusts.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/0dd420f6-0b93-4025-afaa-843439080c2c/Cas_21%20DE%20Reiterstatuette%20Augusts.mp3",
+      "file_name": "Cas_21 DE Reiterstatuette Augusts.mp3",
+      "file_size": 695689,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "b4835e872cccf139d8e7889953b0c9021858480b",
+      "title": "Cas_21 DE Reiterstatuette Augusts.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6302,
+    "uuid": "6006012e-98a2-47aa-8e13-b11dcfe359ab",
+    "title": "synagogue.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/6006012e-98a2-47aa-8e13-b11dcfe359ab/synagogue.svg",
+      "file_name": "synagogue.svg",
+      "file_size": 2295,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1fa9a7c63ec2921f646416fbad8d78ab9c6acc13",
+      "title": "synagogue.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22275,
+    "uuid": "0dfeab5c-a384-452b-a449-7875dba3e274",
+    "title": "Cas_12 DE Retirade Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/0dfeab5c-a384-452b-a449-7875dba3e274/Cas_12%20DE%20Retirade%20Herzogin.mp3",
+      "file_name": "Cas_12 DE Retirade Herzogin.mp3",
+      "file_size": 677535,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "d10946021c39669c92ad46d7bbf5a6181db809fd",
+      "title": "Cas_12 DE Retirade Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

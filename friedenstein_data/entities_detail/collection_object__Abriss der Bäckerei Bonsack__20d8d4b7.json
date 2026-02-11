@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35391,
+    "uuid": "20d8d4b7-605a-5acb-b4e4-9517e58c91e2",
+    "title": "Abriss der Bäckerei Bonsack",
+    "content": {
+      "title": {
+        "de-DE": "Abriss der Bäckerei Bonsack",
+        "en-US": "Abriss der Bäckerei Bonsack"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.0 cm",
+          "Breite 9.0 cm"
+        ],
+        "en-US": [
+          "Höhe 12.0 cm",
+          "Breite 9.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01044659%2F871347_00222727_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "24393"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "106e184e99d8742223864d449a8becf15cb2eb7a",
+      "title": "Abriss der Bäckerei Bonsack",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.545Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "176A69FBFBE1438386D08D5494DBACA5"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

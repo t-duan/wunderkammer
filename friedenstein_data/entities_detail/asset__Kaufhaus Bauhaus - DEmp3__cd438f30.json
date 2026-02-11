@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22345,
+    "uuid": "cd438f30-8402-4de9-bb15-3639d6abf905",
+    "title": "Kaufhaus Bauhaus - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/cd438f30-8402-4de9-bb15-3639d6abf905/Kaufhaus%20Bauhaus%20-%20DE.mp3",
+      "file_name": "Kaufhaus Bauhaus - DE.mp3",
+      "file_size": 4716683,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "fb45db06215c345f247876cb0172a91e2734e84a",
+      "title": "Kaufhaus Bauhaus - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:20:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079899,
+    "uuid": "0ccef37e-48a1-461b-8476-08e3dc44c6b5",
+    "title": "62 Rogier, School: Philipp III",
+    "content": {
+      "title": {
+        "de-DE": "62 Rogier, School: Philipp III",
+        "en-US": "62 Rogier, School: Philipp III"
+      },
+      "audiofile": {
+        "de-DE": "0dc2c578-eb84-4e1a-a0a9-e65330a573fd",
+        "en-US": "7168706b-4633-4275-baad-767f3d124d66"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c3a59b34e4ce0078ef73c221b20909913ef5eca4",
+      "title": "62 Rogier, School: Philipp III",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:10:13.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0dc2c578-eb84-4e1a-a0a9-e65330a573fd",
+          "7168706b-4633-4275-baad-767f3d124d66"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

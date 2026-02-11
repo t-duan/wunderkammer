@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35565,
+    "uuid": "edc90e0c-ff3d-56c4-ad13-f66001f2dc3f",
+    "title": "Blick auf die Lessing-Buchhandlung, Kaufhaus \"Magnet\" und den Kirchturm der Margarethen Kirche",
+    "content": {
+      "title": {
+        "de-DE": "Blick auf die Lessing-Buchhandlung, Kaufhaus \"Magnet\" und den Kirchturm der Margarethen Kirche",
+        "en-US": "Blick auf die Lessing-Buchhandlung, Kaufhaus \"Magnet\" und den Kirchturm der Margarethen Kirche"
+      },
+      "period": {
+        "de-DE": [
+          "16.04.1981"
+        ],
+        "en-US": [
+          "16.04.1981"
+        ]
+      },
+      "creator": [
+        "Ernst Prause"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.5 cm",
+          "Breite 17.0 cm"
+        ],
+        "en-US": [
+          "Höhe 11.5 cm",
+          "Breite 17.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970444%2F871347_00247812_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55584"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "dc4e5af3a5a3e78e3aa6fab88bb6f99a5607d5e2",
+      "title": "Blick auf die Lessing-Buchhandlung, Kaufhaus \"Magnet\" und den Kirchturm der Margarethen Kirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.782Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "0799522B41BA42D3A6C9268334020C6D"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

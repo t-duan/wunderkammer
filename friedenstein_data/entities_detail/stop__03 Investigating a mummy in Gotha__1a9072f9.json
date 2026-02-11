@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080289,
+    "uuid": "1a9072f9-2671-4096-bd99-8fecaf1252bf",
+    "title": "03 Investigating a mummy in Gotha",
+    "content": {
+      "image": "d636677e-77bf-4af0-b6c9-f27640ce20c9",
+      "title": {
+        "de-DE": "Eine Mumienuntersuchung in Gotha",
+        "en-US": "Investigating a mummy in Gotha"
+      },
+      "preview": false,
+      "stopnumber": 103,
+      "primary_segment": "b37ac7cc-8568-4179-8903-bc4205c3dc42",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0937d56bef76a7d25ea614198505abc943ec614a",
+      "title": "03 Investigating a mummy in Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:30:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "d636677e-77bf-4af0-b6c9-f27640ce20c9"
+        ],
+        "audio_segment": [
+          "b37ac7cc-8568-4179-8903-bc4205c3dc42"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

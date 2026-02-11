@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080343,
+    "uuid": "b3e8ecb8-6763-4ecd-bdb6-0e26e0bc8916",
+    "title": "39 The Duke’s Yellow Room",
+    "content": {
+      "image": "46145630-4151-4182-a540-b71882cab441",
+      "title": {
+        "de-DE": "Gelbes Zimmer des Herzogs (Laubenzimmer)",
+        "en-US": "The Duke’s Yellow Room"
+      },
+      "preview": false,
+      "stopnumber": 39,
+      "primary_segment": "89df70e8-5442-4664-80fe-a29910ab95fa",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9b06039c3d665e728ae8ab209cb1dc474668b597",
+      "title": "39 The Duke’s Yellow Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:21:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "46145630-4151-4182-a540-b71882cab441"
+        ],
+        "audio_segment": [
+          "89df70e8-5442-4664-80fe-a29910ab95fa"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

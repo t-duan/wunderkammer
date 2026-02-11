@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22209,
+    "uuid": "2123aee2-ee62-4302-8d88-bf895c32c78e",
+    "title": "Cas_41 ENG Gold and Silver.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/2123aee2-ee62-4302-8d88-bf895c32c78e/Cas_41%20ENG%20Gold%20and%20Silver.mp3",
+      "file_name": "Cas_41 ENG Gold and Silver.mp3",
+      "file_size": 8041162,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "9a7f9911a39a8082bf0ee80988a92917b5d3adea",
+      "title": "Cas_41 ENG Gold and Silver.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

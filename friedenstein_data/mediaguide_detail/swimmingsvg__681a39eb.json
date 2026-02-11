@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6304,
+    "uuid": "681a39eb-f2ca-4394-af6d-754064598439",
+    "title": "swimming.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/681a39eb-f2ca-4394-af6d-754064598439/swimming.svg",
+      "file_name": "swimming.svg",
+      "file_size": 4719,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "fe10479e03e96d1d9cda6e2bb70d3084c89e3925",
+      "title": "swimming.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35598,
+    "uuid": "9ace4a3e-7f3f-5d45-9cd1-bc9d9d4c2a03",
+    "title": "Bahnhofstraße, Gothaer Feuerversicherungsbank A.G.",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Gothaer Feuerversicherungsbank A.G.",
+        "en-US": "Bahnhofstraße, Gothaer Feuerversicherungsbank A.G."
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ],
+        "en-US": [
+          "Höhe 10.5 cm",
+          "Breite 14.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01031888%2F871347_00221877_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "738"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6359562ea4f49903a81ac7dd38fd71c8e5c8abb9",
+      "title": "Bahnhofstraße, Gothaer Feuerversicherungsbank A.G.",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.425Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "DC3DDB22743C4521B7E7B42A9D72324C"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

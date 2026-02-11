@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35523,
+    "uuid": "a372c4e5-9acc-5af2-a6d1-035836e7019f",
+    "title": "Hauptmarkt, Bilder von der Rekonstruktion der Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt, Bilder von der Rekonstruktion der Wasserkunst",
+        "en-US": "Hauptmarkt, Bilder von der Rekonstruktion der Wasserkunst"
+      },
+      "period": {
+        "de-DE": [
+          "1995 - 1996"
+        ],
+        "en-US": [
+          "1995 - 1996"
+        ]
+      },
+      "creator": [
+        " Stadtbauamt Gotha"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 12.5 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 12.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01037915%2F871347_00248707_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "45346"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "12f8d3df7a983a752f5bf02d1a4438c31e486c21",
+      "title": "Hauptmarkt, Bilder von der Rekonstruktion der Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.246Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "866D1530EA84497192472666B08C7154"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

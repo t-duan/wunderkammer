@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35406,
+    "uuid": "6281b4ff-2107-5c82-80d9-d7f9ea88bfe5",
+    "title": "Bepflanzung der Grünanlagen auf dem Orangeriegelände",
+    "content": {
+      "title": {
+        "de-DE": "Bepflanzung der Grünanlagen auf dem Orangeriegelände",
+        "en-US": "Bepflanzung der Grünanlagen auf dem Orangeriegelände"
+      },
+      "period": {
+        "de-DE": [
+          "1982"
+        ],
+        "en-US": [
+          "1982"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.0 cm",
+          "Breite 18.0 cm"
+        ],
+        "en-US": [
+          "Höhe 12.0 cm",
+          "Breite 18.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01041547%2F871347_00252298_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "26241"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e0fd5a4be94e2e0ae56983263170e51b4b11514e",
+      "title": "Bepflanzung der Grünanlagen auf dem Orangeriegelände",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.397Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "936D088A480A4BE4A38DA892F4450776"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

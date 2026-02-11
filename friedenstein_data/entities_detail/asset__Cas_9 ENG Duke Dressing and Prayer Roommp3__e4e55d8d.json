@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22237,
+    "uuid": "e4e55d8d-c09f-4905-95c8-fd05fe17c2d5",
+    "title": "Cas_9 ENG Duke Dressing and Prayer Room.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/e4e55d8d-c09f-4905-95c8-fd05fe17c2d5/Cas_9%20ENG%20Duke%20Dressing%20and%20Prayer%20Room.mp3",
+      "file_name": "Cas_9 ENG Duke Dressing and Prayer Room.mp3",
+      "file_size": 1765605,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "fae0e4958959d15e2c0fbf93bc6e0503999f77ce",
+      "title": "Cas_9 ENG Duke Dressing and Prayer Room.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

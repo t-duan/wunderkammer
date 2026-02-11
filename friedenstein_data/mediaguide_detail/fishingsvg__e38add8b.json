@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6325,
+    "uuid": "e38add8b-da0b-408d-bd06-005cec0e4e7c",
+    "title": "fishing.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/e38add8b-da0b-408d-bd06-005cec0e4e7c/fishing.svg",
+      "file_name": "fishing.svg",
+      "file_size": 1585,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "0e2bea9020135f7d2a13e044aa7c7aa72ecaa24d",
+      "title": "fishing.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

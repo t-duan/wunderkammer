@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080115,
+    "uuid": "1810bf5a-6396-449f-9ab4-1c4432369193",
+    "title": "28 Conrat Meit: Adam and Eve",
+    "content": {
+      "image": "a6c9c001-5c07-4182-a55d-6c496ca152aa",
+      "title": {
+        "de-DE": "Conrat Meit: Adam und Eva",
+        "en-US": "Conrat Meit: Adam and Eve"
+      },
+      "preview": false,
+      "stopnumber": 128,
+      "primary_segment": "196f866e-d98e-4ebc-b756-d57614faa284",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "695cacdbeedfada41cc67a78fb5af3f9ded96add",
+      "title": "28 Conrat Meit: Adam and Eve",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:08:53.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "a6c9c001-5c07-4182-a55d-6c496ca152aa"
+        ],
+        "audio_segment": [
+          "196f866e-d98e-4ebc-b756-d57614faa284"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

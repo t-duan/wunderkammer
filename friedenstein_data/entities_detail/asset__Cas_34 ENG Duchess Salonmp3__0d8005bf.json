@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22216,
+    "uuid": "0d8005bf-81cc-4d30-bf09-93615bb993b8",
+    "title": "Cas_34 ENG Duchess Salon.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/0d8005bf-81cc-4d30-bf09-93615bb993b8/Cas_34%20ENG%20Duchess%20Salon.mp3",
+      "file_name": "Cas_34 ENG Duchess Salon.mp3",
+      "file_size": 3646550,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "6f83fd93a965fd1ce74f2cfa09f4fa0aadc11476",
+      "title": "Cas_34 ENG Duchess Salon.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

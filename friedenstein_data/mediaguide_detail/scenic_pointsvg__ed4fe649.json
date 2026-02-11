@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6308,
+    "uuid": "ed4fe649-98f5-41f9-9efc-4aa6e7972967",
+    "title": "scenic_point.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/ed4fe649-98f5-41f9-9efc-4aa6e7972967/scenic_point.svg",
+      "file_name": "scenic_point.svg",
+      "file_size": 2362,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "bf55d4d58999e874786399226bb434e55942a658",
+      "title": "scenic_point.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

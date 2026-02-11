@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35550,
+    "uuid": "bef8479f-9523-5bfd-bf07-65485f2ff37d",
+    "title": "Ekhof-Platz - Baugrube und letzte Fundamentreste des ehemaligen Hochhauses",
+    "content": {
+      "title": {
+        "de-DE": "Ekhof-Platz - Baugrube und letzte Fundamentreste des ehemaligen Hochhauses",
+        "en-US": "Ekhof-Platz - Baugrube und letzte Fundamentreste des ehemaligen Hochhauses"
+      },
+      "period": {
+        "de-DE": [
+          "20.03.1999"
+        ],
+        "en-US": [
+          "20.03.1999"
+        ]
+      },
+      "creator": [
+        "Georg Sommer"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01035825%2F871347_00247936_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54996"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a1f06086f0b8ef91899ef384e5768eec8fa302a4",
+      "title": "Ekhof-Platz - Baugrube und letzte Fundamentreste des ehemaligen Hochhauses",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.979Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "FA4BE4C088C044439B8C63832787AF76"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

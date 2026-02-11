@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079995,
+    "uuid": "764460fc-1221-48f1-91e2-c069466a9e3d",
+    "title": "46 Porcelain: Open Worked Trophy",
+    "content": {
+      "title": {
+        "de-DE": "46 Porcelain: Open Worked Trophy",
+        "en-US": "46 Porcelain: Open Worked Trophy"
+      },
+      "audiofile": {
+        "de-DE": "13361a2c-fe2c-4363-9b73-a5e419754b95",
+        "en-US": "759791e6-a1b1-470d-aa6f-4679354d0c2e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "09bc2c65f7d58c87e7d8bc7cdad668686c9983c8",
+      "title": "46 Porcelain: Open Worked Trophy",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:45:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "13361a2c-fe2c-4363-9b73-a5e419754b95",
+          "759791e6-a1b1-470d-aa6f-4679354d0c2e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

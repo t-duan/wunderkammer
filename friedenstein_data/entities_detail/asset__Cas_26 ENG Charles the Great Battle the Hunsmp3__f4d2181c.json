@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22223,
+    "uuid": "f4d2181c-7037-430a-b1ba-bdc44d8709ab",
+    "title": "Cas_26 ENG Charles the Great Battle the Huns.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/f4d2181c-7037-430a-b1ba-bdc44d8709ab/Cas_26%20ENG%20Charles%20the%20Great%20Battle%20the%20Huns.mp3",
+      "file_name": "Cas_26 ENG Charles the Great Battle the Huns.mp3",
+      "file_size": 1300722,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "fcfb7ca0408c725831f7fc2e88292c48ef2674d5",
+      "title": "Cas_26 ENG Charles the Great Battle the Huns.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

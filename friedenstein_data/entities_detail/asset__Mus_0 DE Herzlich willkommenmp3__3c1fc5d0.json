@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22164,
+    "uuid": "3c1fc5d0-4dd7-49eb-a9a9-2f33a6b0f47c",
+    "title": "Mus_0 DE Herzlich willkommen!.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3c1fc5d0-4dd7-49eb-a9a9-2f33a6b0f47c/Mus_0%20DE%20Herzlich%20willkommen!.mp3",
+      "file_name": "Mus_0 DE Herzlich willkommen!.mp3",
+      "file_size": 2049713,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "921f0c0450e1eea83645e07dae52720e1c37127d",
+      "title": "Mus_0 DE Herzlich willkommen!.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T13:19:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079866,
+    "uuid": "fc96151e-e560-4ee5-bfaf-1de8cfe32bae",
+    "title": "67 Art from China",
+    "content": {
+      "image": "b4a3f927-e252-4497-b3a6-a4d732901ebb",
+      "title": {
+        "de-DE": "Kunst aus China",
+        "en-US": "Art from China"
+      },
+      "preview": false,
+      "stopnumber": 167,
+      "primary_segment": "17108160-a33c-479e-a584-decc639da773",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "cbbadde7f72e221822dd661938250f15fef09351",
+      "title": "67 Art from China",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:26:02.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b4a3f927-e252-4497-b3a6-a4d732901ebb"
+        ],
+        "audio_segment": [
+          "17108160-a33c-479e-a584-decc639da773"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

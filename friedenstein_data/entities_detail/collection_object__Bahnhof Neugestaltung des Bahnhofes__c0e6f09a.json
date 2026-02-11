@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35586,
+    "uuid": "c0e6f09a-1cf1-5955-88a2-544614ae6b14",
+    "title": "Bahnhof, Neugestaltung des Bahnhofes",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhof, Neugestaltung des Bahnhofes",
+        "en-US": "Bahnhof, Neugestaltung des Bahnhofes"
+      },
+      "period": {
+        "de-DE": [
+          "2007"
+        ],
+        "en-US": [
+          "2007"
+        ]
+      },
+      "creator": [
+        "Lutz Ebhardt"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00969684%2F871347_00223731_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "58069"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2c774d86fe300f8ec0a070615a162136c5e82767",
+      "title": "Bahnhof, Neugestaltung des Bahnhofes",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.558Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "F11ED744ECF8451A8D201C4A60D2C986"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

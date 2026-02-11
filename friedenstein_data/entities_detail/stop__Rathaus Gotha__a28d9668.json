@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080652,
+    "uuid": "a28d9668-bc96-41f9-8522-406977c7658e",
+    "title": "Rathaus Gotha",
+    "content": {
+      "image": "9c74ef16-2655-4933-ba5a-1a4ddd62ccd1",
+      "title": {
+        "de-DE": "Rathaus Gotha",
+        "en-US": "Gotha Town Hall"
+      },
+      "preview": false,
+      "primary_segment": "fe5190ad-fd71-423c-a375-67a5b2448f9d",
+      "secondary_segments": [
+        "e7f3719a-bd9a-4b03-9ada-9c179feeb5af",
+        "205fda63-490c-4701-9ea7-e9d2bfb5446a"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b92c2dd71cac7ed525110feb7d07588be59453af",
+      "title": "Rathaus Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T08:10:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "9c74ef16-2655-4933-ba5a-1a4ddd62ccd1"
+        ],
+        "audio_segment": [
+          "fe5190ad-fd71-423c-a375-67a5b2448f9d"
+        ],
+        "comments_segment": [
+          "205fda63-490c-4701-9ea7-e9d2bfb5446a"
+        ],
+        "collection_object_gallery_segment": [
+          "e7f3719a-bd9a-4b03-9ada-9c179feeb5af"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

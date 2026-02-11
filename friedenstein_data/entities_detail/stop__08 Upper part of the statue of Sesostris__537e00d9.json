@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080259,
+    "uuid": "537e00d9-7b1a-4c20-84c5-be8d8ae4fea3",
+    "title": "08 Upper part of the statue of Sesostris",
+    "content": {
+      "image": "44ec5baa-889f-48e7-bb7e-2dc17a56be08",
+      "title": {
+        "de-DE": "Oberteil der Sesostris-Statue",
+        "en-US": "Upper part of the statue of Sesostris"
+      },
+      "preview": false,
+      "stopnumber": 108,
+      "primary_segment": "2464edb8-4295-46d6-946e-8eb331f27b5d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ded87e5dbda265288ba92eae295d50eca52d81dc",
+      "title": "08 Upper part of the statue of Sesostris",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:37:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "44ec5baa-889f-48e7-bb7e-2dc17a56be08"
+        ],
+        "audio_segment": [
+          "2464edb8-4295-46d6-946e-8eb331f27b5d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

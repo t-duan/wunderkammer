@@ -1,0 +1,44 @@
+[
+  {
+    "id": 21965,
+    "uuid": "1d0aa40e-a6b2-4972-bba5-4c0c48c5815e",
+    "title": "DE Kofinanziert von der Europäischen Union_POS (002).jpg",
+    "content": {
+      "width": 4247,
+      "height": 891,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/1d0aa40e-a6b2-4972-bba5-4c0c48c5815e/DE%20Kofinanziert%20von%20der%20Europ%C3%A4ischen%20Union_POS%20(002).jpg",
+      "variants": {
+        "iiif-tiles": {
+          "source": "https://media.tapart.me/media/friedenstein-stiftung/1d0aa40e-a6b2-4972-bba5-4c0c48c5815e/variants/iiif-tiles/iiif/tiles/info.json",
+          "status": "ready"
+        }
+      },
+      "file_name": "DE Kofinanziert von der Europäischen Union_POS (002).jpg",
+      "file_size": 1107508,
+      "mime_type": {
+        "template": "image/jpeg",
+        "extension": "jpg"
+      },
+      "content_type": "image/jpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e168d906344ec73b331ff6622bcc24ed27e3ad62",
+      "title": "DE Kofinanziert von der Europäischen Union_POS (002).jpg",
+      "locales": [],
+      "createdAt": "2025-07-16T12:54:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

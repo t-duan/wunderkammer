@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080061,
+    "uuid": "a9ae2194-0903-48bd-887b-e98733bb0744",
+    "title": "35 The Gotha lovers",
+    "content": {
+      "title": {
+        "de-DE": "35 The Gotha lovers",
+        "en-US": "35 The Gotha lovers"
+      },
+      "audiofile": {
+        "de-DE": "572590f9-c84b-4d1f-8aef-78c750570f18",
+        "en-US": "170d1837-c2d3-4805-b94f-8e61bba86ea2"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a502b92123bfc6ca1f2aceedf490030b6cd11da8",
+      "title": "35 The Gotha lovers",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:24:45.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "170d1837-c2d3-4805-b94f-8e61bba86ea2",
+          "572590f9-c84b-4d1f-8aef-78c750570f18"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

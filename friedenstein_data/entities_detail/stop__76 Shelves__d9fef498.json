@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079812,
+    "uuid": "d9fef498-3b26-4017-b54e-5700c20e9568",
+    "title": "76 Shelves",
+    "content": {
+      "image": "68729d98-f89f-4dc0-9ed8-b1c0c7f79769",
+      "title": {
+        "de-DE": "Regal",
+        "en-US": "Shelves"
+      },
+      "preview": false,
+      "stopnumber": 176,
+      "primary_segment": "b344b50a-9f72-41e3-b3a7-396481d55bbe",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "895d32bbdb946adedf32bc7e93b8e1c5a3199537",
+      "title": "76 Shelves",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:41:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "68729d98-f89f-4dc0-9ed8-b1c0c7f79769"
+        ],
+        "audio_segment": [
+          "b344b50a-9f72-41e3-b3a7-396481d55bbe"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

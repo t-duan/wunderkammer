@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6009,
+    "uuid": "119c00e1-e769-4970-b386-3995ea979cfa",
+    "title": "hindu_temple.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/119c00e1-e769-4970-b386-3995ea979cfa/hindu_temple.svg",
+      "file_name": "hindu_temple.svg",
+      "file_size": 1059,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "7e517d99801a4b60368571960a49da2d424bf8e8",
+      "title": "hindu_temple.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

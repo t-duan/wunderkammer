@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35349,
+    "uuid": "60bf5b50-1b81-5b28-b29c-2fd4990538f0",
+    "title": "Ekhof-Platz, Hochhaus",
+    "content": {
+      "title": {
+        "de-DE": "Ekhof-Platz, Hochhaus",
+        "en-US": "Ekhof-Platz, Hochhaus"
+      },
+      "period": {
+        "de-DE": [
+          "1970"
+        ],
+        "en-US": [
+          "1970"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970476%2F871347_00247887_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "16316"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ef41828612e88a9448c371e9a6c951312c348ac8",
+      "title": "Ekhof-Platz, Hochhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.959Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "6C3A86D06A0147ADB8F8A62BEE1DDB9C"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

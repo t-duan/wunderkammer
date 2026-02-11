@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35448,
+    "uuid": "32ddb4fc-fe87-54c1-9512-a629c26691be",
+    "title": "Schloss Friedenstein - Blick in den Schlosshof",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein - Blick in den Schlosshof",
+        "en-US": "Schloss Friedenstein - Blick in den Schlosshof"
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.0 cm",
+          "Breite 13.0 cm"
+        ],
+        "en-US": [
+          "Höhe 8.0 cm",
+          "Breite 13.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01063681%2F871347_00250107_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "3422"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2b7ee79bc3d22b5d3a56c97d2c035009c8ea1f62",
+      "title": "Schloss Friedenstein - Blick in den Schlosshof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.982Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "9E4BDA02FF014ECF82021D2DD7C8115B"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

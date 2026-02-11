@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22342,
+    "uuid": "0ae25321-6a98-4f6d-b152-c18fdd9fc0c4",
+    "title": "Gothaer Lebensversicherungsbank - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/0ae25321-6a98-4f6d-b152-c18fdd9fc0c4/Gothaer%20Lebensversicherungsbank%20-%20DE.mp3",
+      "file_name": "Gothaer Lebensversicherungsbank - DE.mp3",
+      "file_size": 5939339,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "167e48a87e8c0488fb3bf0ee4899f42907f07196",
+      "title": "Gothaer Lebensversicherungsbank - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:23:45.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

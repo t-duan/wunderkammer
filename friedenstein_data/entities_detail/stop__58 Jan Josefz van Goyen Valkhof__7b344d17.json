@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079920,
+    "uuid": "7b344d17-3db1-4071-bd50-91a88554d402",
+    "title": "58 Jan Josefz. van Goyen: Valkhof",
+    "content": {
+      "image": "cf897a0d-2135-4ec0-95a0-b10f3793e7ba",
+      "title": {
+        "de-DE": "Jan Josefz. van Goyen: Valkhof",
+        "en-US": "Jan Josefz. van Goyen: Valkhof"
+      },
+      "preview": false,
+      "stopnumber": 158,
+      "primary_segment": "8e44aed8-650d-48fc-96c5-3e9279a0c99d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3e99085bb8ea48c7969ca9bd3b3cfe3d2e4f24ba",
+      "title": "58 Jan Josefz. van Goyen: Valkhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:04:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "cf897a0d-2135-4ec0-95a0-b10f3793e7ba"
+        ],
+        "audio_segment": [
+          "8e44aed8-650d-48fc-96c5-3e9279a0c99d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071071,
+    "uuid": "1f4e6420-3ad4-4223-b707-02495ab05b0d",
+    "title": "Buddhist temple",
+    "content": {
+      "key": "buddhist_temple",
+      "icon": "8c1ae494-ff9a-453b-ab7a-f05b512eb16c",
+      "label": {
+        "ar-AE": "معبد بوذي",
+        "ar-SA": "معبد بوذي",
+        "de-DE": "Buddhistischer Tempel",
+        "en-GB": "Buddhist temple",
+        "en-US": "Buddhist temple",
+        "es-ES": "Templo budista",
+        "fa-IR": "معبد بودایی",
+        "fr-FR": "Temple bouddhiste",
+        "it-IT": "Tempio buddista",
+        "ja-JP": "仏教寺院",
+        "nl-NL": "Boeddhistische tempel",
+        "zh-CN": "佛寺",
+        "nl-NL-AD": "Boeddhistische tempel",
+        "nl-NL-sl": "Boeddhistische tempel"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2444fa86f9ad31b74691838ba21bcb0b0a162b11",
+      "title": "Buddhist temple",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:44:16.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8c1ae494-ff9a-453b-ab7a-f05b512eb16c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

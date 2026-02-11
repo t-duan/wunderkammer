@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35577,
+    "uuid": "1f4ee423-8759-5116-acba-bd6840bfd0a6",
+    "title": "Gotha Hauptmarkt",
+    "content": {
+      "title": {
+        "de-DE": "Gotha Hauptmarkt",
+        "en-US": "Gotha Hauptmarkt"
+      },
+      "period": {
+        "de-DE": [
+          "1970"
+        ],
+        "en-US": [
+          "1970"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01055473%2F871347_00248382_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "56724"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d3858444682b36eb905e7c30e0aae119889f5778",
+      "title": "Gotha Hauptmarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.659Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "2D77998AD7554140907C313B96E13BBD"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

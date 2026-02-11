@@ -1,0 +1,65 @@
+[
+  {
+    "id": 35610,
+    "uuid": "2d85e108-9708-519a-abe7-7cb11bca3970",
+    "title": "Gothaer Tafelaltar im Herzoglichen Museum Gotha",
+    "content": {
+      "title": {
+        "de-DE": "Gothaer Tafelaltar im Herzoglichen Museum Gotha",
+        "en-US": "Gothaer Tafelaltar im Herzoglichen Museum Gotha"
+      },
+      "creator": [
+        "Rose Heidl"
+      ],
+      "material": {
+        "de-DE": [
+          "Gelatinetrockenplatte"
+        ],
+        "en-US": [
+          "Gelatinetrockenplatte"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.0 cm",
+          "Breite 24.0 cm"
+        ],
+        "en-US": [
+          "Höhe 18.0 cm",
+          "Breite 24.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Negativ <Fotografie>"
+        ],
+        "en-US": [
+          "Negativ <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01073018%2F871347_00274420_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "871347_00274420"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "571b1ce3f658068a5535edf956087642dd6a92d1",
+      "title": "Gothaer Tafelaltar im Herzoglichen Museum Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.280Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "F4A92737E185498AA9D67D914D831B2F"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

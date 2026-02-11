@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080589,
+    "uuid": "94d0a0b9-dc78-4bb0-98f5-7bb7ff4bdffc",
+    "title": "Innungshalle/Handelsschule",
+    "content": {
+      "type": "audio",
+      "content": "aae79fcd-47f4-4820-876d-6c7f0fa9c7a7",
+      "geo_location": {
+        "lat": 50.949536,
+        "lng": 10.701744
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "773077a07d388b52a8b7172f44d65958a43fb411",
+      "title": "Innungshalle/Handelsschule",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:37:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "aae79fcd-47f4-4820-876d-6c7f0fa9c7a7"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

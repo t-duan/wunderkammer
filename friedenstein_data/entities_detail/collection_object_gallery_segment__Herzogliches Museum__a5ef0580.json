@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2079779,
+    "uuid": "a5ef0580-eb9e-47e9-9a39-5b53c1f8f62b",
+    "title": "Herzogliches Museum",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "23d1f737-dde4-52a7-a765-4abf81735a0a",
+        "4e74da78-fdd9-5504-b567-82b9eef13442",
+        "73fd49df-ab2b-5257-98b1-6ae6a2c36ea7",
+        "2d85e108-9708-519a-abe7-7cb11bca3970",
+        "e1798e63-fc2a-5c36-a309-bc34acb3788c",
+        "235e3cc8-2735-5941-8f6f-0dbce160fdd2"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "61df11ebf375ef96ffb100826d067031916fb14f",
+      "title": "Herzogliches Museum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:36:50.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

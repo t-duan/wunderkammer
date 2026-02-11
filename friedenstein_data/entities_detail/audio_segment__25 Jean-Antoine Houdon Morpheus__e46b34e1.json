@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080139,
+    "uuid": "e46b34e1-254c-4b09-8b41-6063378b0c1d",
+    "title": "25 Jean-Antoine Houdon: Morpheus",
+    "content": {
+      "title": {
+        "de-DE": "25 Jean-Antoine Houdon: Morpheus",
+        "en-US": "25 Jean-Antoine Houdon: Morpheus"
+      },
+      "audiofile": {
+        "de-DE": "286ab809-d5d2-43ae-859a-2031eaf9191b",
+        "en-US": "52475dad-7332-4831-a14e-f8908ae7d3ac"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6dd23ed6c528f3d3d1994f88dd98e2fe90043f63",
+      "title": "25 Jean-Antoine Houdon: Morpheus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:04:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "286ab809-d5d2-43ae-859a-2031eaf9191b",
+          "52475dad-7332-4831-a14e-f8908ae7d3ac"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

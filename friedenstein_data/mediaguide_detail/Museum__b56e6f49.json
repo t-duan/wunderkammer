@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070801,
+    "uuid": "b56e6f49-f108-4db3-80b8-624a3101955e",
+    "title": "Museum",
+    "content": {
+      "key": "museum",
+      "icon": "19437199-9d28-41ad-962b-24dc00789eae",
+      "label": {
+        "ar-AE": "المتحف",
+        "ar-SA": "المتحف",
+        "de-DE": "Museum",
+        "en-GB": "Museum",
+        "en-US": "Museum",
+        "es-ES": "Museo",
+        "fa-IR": "موزه",
+        "fr-FR": "Musée",
+        "it-IT": "Museo",
+        "ja-JP": "博物館",
+        "nl-NL": "Museum",
+        "zh-CN": "博物馆",
+        "nl-NL-AD": "Museum",
+        "nl-NL-sl": "Museum"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0cdced6df5ccf3bc0b8e878b8d7c1e96faa59a9b",
+      "title": "Museum",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:49:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "19437199-9d28-41ad-962b-24dc00789eae"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

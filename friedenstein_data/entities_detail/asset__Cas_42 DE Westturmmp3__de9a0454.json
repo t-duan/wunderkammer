@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22248,
+    "uuid": "de9a0454-dc08-4fbf-b53d-fb64b90622f0",
+    "title": "Cas_42 DE Westturm.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/de9a0454-dc08-4fbf-b53d-fb64b90622f0/Cas_42%20DE%20Westturm.mp3",
+      "file_name": "Cas_42 DE Westturm.mp3",
+      "file_size": 1888043,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "4c7300bc1fbdd404cdf6f5573fa01f7aa4601c6b",
+      "title": "Cas_42 DE Westturm.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

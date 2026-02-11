@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080532,
+    "uuid": "05731b6f-9a21-4e63-9504-99e559160105",
+    "title": "5 The Black Gallery",
+    "content": {
+      "image": "c566d3e1-49fc-47fe-8946-87703dbdcfb2",
+      "title": {
+        "de-DE": "Schwarze Galerie",
+        "en-US": "The Black Gallery"
+      },
+      "preview": false,
+      "stopnumber": 5,
+      "primary_segment": "968e1cbe-c28e-4fba-9cf5-1cea25a0670b",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "aeb39d0adff3e731ecc5bf6d7f70e4f4edd0ce23",
+      "title": "5 The Black Gallery",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:50:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c566d3e1-49fc-47fe-8946-87703dbdcfb2"
+        ],
+        "audio_segment": [
+          "968e1cbe-c28e-4fba-9cf5-1cea25a0670b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

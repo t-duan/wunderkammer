@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079830,
+    "uuid": "e8626e1a-2f07-4527-af57-896e4e612d13",
+    "title": "73 Flower Shaped Bowl, Celadon",
+    "content": {
+      "image": "8289fb60-72a0-4b64-83c8-8d3d55df57b5",
+      "title": {
+        "de-DE": "Schale in Blütenform, Seladon",
+        "en-US": "Flower Shaped Bowl, Celadon"
+      },
+      "preview": false,
+      "stopnumber": 173,
+      "primary_segment": "bb3444b5-1032-4452-a407-18a25a47bfef",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d204a04418f0f4a03b4916a61804fcbb639b705e",
+      "title": "73 Flower Shaped Bowl, Celadon",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:36:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8289fb60-72a0-4b64-83c8-8d3d55df57b5"
+        ],
+        "audio_segment": [
+          "bb3444b5-1032-4452-a407-18a25a47bfef"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

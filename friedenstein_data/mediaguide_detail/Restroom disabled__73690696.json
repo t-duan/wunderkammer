@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070666,
+    "uuid": "73690696-cd55-4d19-ad95-4c15c378d1e7",
+    "title": "Restroom disabled",
+    "content": {
+      "key": "restroom_disabled",
+      "icon": "8e015a03-48ac-462e-bc4c-c04a954b6e09",
+      "label": {
+        "ar-AE": "مرحاض للمعاقين",
+        "ar-SA": "مرحاض للمعاقين",
+        "de-DE": "Behindertentoilette",
+        "en-GB": "Accessible toilets",
+        "en-US": "Accessible toilets",
+        "es-ES": "Baño para discapacitados",
+        "fa-IR": "توالت معلولین",
+        "fr-FR": "Toilettes pour handicapés",
+        "it-IT": "WC per disabili",
+        "ja-JP": "身障者用トイレ",
+        "nl-NL": "Invalidentoilet",
+        "zh-CN": "残疾人厕所",
+        "nl-NL-AD": "Invalidentoilet",
+        "nl-NL-sl": "Invalidentoilet"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b62dcf4a67eb8e870a1c354fbbc9156b0e1143d0",
+      "title": "Restroom disabled",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:53:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8e015a03-48ac-462e-bc4c-c04a954b6e09"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

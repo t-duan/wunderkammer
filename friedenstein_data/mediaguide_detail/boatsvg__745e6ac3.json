@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6331,
+    "uuid": "745e6ac3-8f0a-4733-b246-959aef268caf",
+    "title": "boat.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/745e6ac3-8f0a-4733-b246-959aef268caf/boat.svg",
+      "file_name": "boat.svg",
+      "file_size": 3225,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "13a86675c2630246b35731441aba266d4a99c21f",
+      "title": "boat.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

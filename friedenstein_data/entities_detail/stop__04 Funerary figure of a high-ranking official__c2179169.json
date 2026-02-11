@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080283,
+    "uuid": "c2179169-7fd1-4be8-82ee-382538c4146a",
+    "title": "04 Funerary figure of a high-ranking official",
+    "content": {
+      "image": "a87e214b-3ef1-4ed0-818f-29e78150901f",
+      "title": {
+        "de-DE": "Grabfigur eines hohen Beamten",
+        "en-US": "Funerary figure of a high-ranking official"
+      },
+      "preview": false,
+      "stopnumber": 104,
+      "primary_segment": "5f5957f8-4453-4166-ab9e-d6dbbbe13c57",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "cdc889f63f0fc8280f1df39d8774e89ac56d772f",
+      "title": "04 Funerary figure of a high-ranking official",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:32:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "a87e214b-3ef1-4ed0-818f-29e78150901f"
+        ],
+        "audio_segment": [
+          "5f5957f8-4453-4166-ab9e-d6dbbbe13c57"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35493,
+    "uuid": "393a8059-8eeb-5fed-ac0a-f0c2389489c3",
+    "title": "Schlossberg - Wasserkunst",
+    "content": {
+      "title": {
+        "de-DE": "Schlossberg - Wasserkunst",
+        "en-US": "Schlossberg - Wasserkunst"
+      },
+      "period": {
+        "de-DE": [
+          "22.08.1992"
+        ],
+        "en-US": [
+          "22.08.1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01033854%2F871347_00224416_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42328"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3624ccbae7d9d1dd02365bbe2e88d123222fd14a",
+      "title": "Schlossberg - Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.558Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "4A1B2143A81244CB935D4E66CC41AE28"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

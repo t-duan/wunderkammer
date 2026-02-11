@@ -1,0 +1,130 @@
+[
+  {
+    "id": 2080316,
+    "uuid": "a6fae3f7-865b-4958-a1e0-c8a560855f9b",
+    "title": "Castle Museum",
+    "content": {
+      "image": "ce1c26d7-50f4-4ee0-9830-7bf1724b34fc",
+      "stops": [
+        "f14dbfa5-6658-48c2-a6d9-463b883904f0",
+        "32338a38-5e27-4c16-90d5-e57cd5fce883",
+        "a76c1961-1473-4a17-bbf7-221fde70dfef",
+        "31de4a26-e685-49e2-aed3-a33ad42504d0",
+        "05731b6f-9a21-4e63-9504-99e559160105",
+        "a8f868f7-4353-4b62-913d-58385e6a28fd",
+        "e411ae38-221f-45bc-9bd1-69ebe53ecb8d",
+        "cf53159a-9821-4fff-aedf-9b962db22b57",
+        "ccbfffd0-1b6e-4b25-9fb2-5ed2601ab7f8",
+        "694b0365-4e8d-49ec-9952-a3fd7dab7ce4",
+        "ac37f9f7-596b-4bba-878c-db80f3132369",
+        "acb8d511-f1a2-4cc0-befb-288217a022ce",
+        "0ddf0947-78b1-47c9-9d41-dd21f905c32b",
+        "1eda4754-2f1e-4229-95b9-ac13c223dd25",
+        "3d16487b-9240-4c23-91e0-aee2da66802b",
+        "134f4beb-ac1e-4b4f-8001-c79845eb5980",
+        "4e779050-8afc-4250-9a50-7444717bd71a",
+        "ac6a08b0-5617-4c54-94ab-e6f6d7a10e42",
+        "36d40edb-c30b-4c59-9e5e-cd08dd1c551a",
+        "a12bccdf-1243-455f-b235-47beae5f0f10",
+        "d3ccdcb6-f694-4d2b-bcb3-648733a51e3d",
+        "37180d60-a85e-4c06-9a6a-e04339a9e29b",
+        "a49a0d1b-82bd-4704-b154-b63f97246caf",
+        "a99cb6c9-b935-4c4e-b9aa-4f7993c32bc2",
+        "ae6f026f-3e9d-4525-b4f7-c3c2baa37087",
+        "2e5941b3-5ffe-4f80-88b8-eb44692df902",
+        "e1b126fa-bf25-4be3-b2d6-f086561a1fcc",
+        "be307bdc-8db1-48d7-a1f9-a583a4312010",
+        "b78a5e24-e22b-4d1d-8102-e2e63f0458f5",
+        "bde4cca7-b92f-4ced-a62a-490682fbf992",
+        "1298c75d-8874-4315-8232-2cb2e3db2b36",
+        "3456616f-e875-4ee0-a0bb-41beb92f2b68",
+        "a303a658-66ba-4397-8037-7c3f819bb9ce",
+        "d43cde3f-3ffe-410d-85a8-b7c80485ba87",
+        "3f32e787-5d50-4069-9045-b9c3dcd7ba0b",
+        "a936b6e9-247d-42ac-9f9d-079498bd5edd",
+        "af826b67-ade3-4e98-9bd9-5cf6690bad17",
+        "b3e8ecb8-6763-4ecd-bdb6-0e26e0bc8916",
+        "3f06c301-8ffb-4ef9-a1ea-9186d3aab557",
+        "d2128378-f1f0-41c4-b8b1-78cfe1637d09",
+        "34d2dccd-e52d-4ab4-a516-805195a4f816",
+        "d831ba16-05f6-4285-ba95-e3b6fc8d5c7c"
+      ],
+      "title": {
+        "de-DE": "Historische Räume und Kunstkammer",
+        "en-US": "Castle Museum"
+      },
+      "preview": false,
+      "description": {
+        "de-DE": "Das Schlossmuseum Gotha im Friedenstein, das seit 1643 besteht, präsentiert in 38 prachtvollen Räumen des Barock, Rokoko und Klassizismus das „Barocke Universum von Gotha“. Die historischen Appartements der Herzöge sind weitgehend original erhalten und zeigen eine Sammlungstradition von über 350 Jahren. Im Mittelpunkt steht die von Herzog Ernst I. gegründete Kunstkammer mit Meisterwerken wie einem vergoldeten Silberelefanten von Dinglinger und einem Originalhut Napoleons I. Ein weiteres Highlight ist das neue Münzkabinett mit einer der größten numismatischen Sammlungen Deutschlands, wo 568 Gold- und Silbermünzen unter einem gläsernen Bogen eindrucksvoll inszeniert sind.",
+        "en-US": "Gotha’s Castle Museum, part of Friedenstein Castle since 1643, showcases the “Baroque Universe of Gotha” through 38 historic rooms in baroque, rococo, and classical styles. Its collections span over 350 years, with highlights including the original Art Chamber founded by Duke Ernst I, featuring treasures such as a gold-plated silver elephant by Dinglinger and Napoleon I’s hat. The museum also houses one of Germany’s largest numismatic collections, where 568 gold and silver coins are dramatically displayed in a glass arch from antiquity to the modern era."
+      },
+      "duration_in_minutes": 120
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1e4a892fe6c409fbf99f2a013c7d81827cca52d3",
+      "title": "Castle Museum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:26:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "05731b6f-9a21-4e63-9504-99e559160105",
+          "0ddf0947-78b1-47c9-9d41-dd21f905c32b",
+          "1298c75d-8874-4315-8232-2cb2e3db2b36",
+          "134f4beb-ac1e-4b4f-8001-c79845eb5980",
+          "1eda4754-2f1e-4229-95b9-ac13c223dd25",
+          "2e5941b3-5ffe-4f80-88b8-eb44692df902",
+          "31de4a26-e685-49e2-aed3-a33ad42504d0",
+          "32338a38-5e27-4c16-90d5-e57cd5fce883",
+          "3456616f-e875-4ee0-a0bb-41beb92f2b68",
+          "34d2dccd-e52d-4ab4-a516-805195a4f816",
+          "36d40edb-c30b-4c59-9e5e-cd08dd1c551a",
+          "37180d60-a85e-4c06-9a6a-e04339a9e29b",
+          "3d16487b-9240-4c23-91e0-aee2da66802b",
+          "3f06c301-8ffb-4ef9-a1ea-9186d3aab557",
+          "3f32e787-5d50-4069-9045-b9c3dcd7ba0b",
+          "4e779050-8afc-4250-9a50-7444717bd71a",
+          "694b0365-4e8d-49ec-9952-a3fd7dab7ce4",
+          "a12bccdf-1243-455f-b235-47beae5f0f10",
+          "a303a658-66ba-4397-8037-7c3f819bb9ce",
+          "a49a0d1b-82bd-4704-b154-b63f97246caf",
+          "a76c1961-1473-4a17-bbf7-221fde70dfef",
+          "a8f868f7-4353-4b62-913d-58385e6a28fd",
+          "a936b6e9-247d-42ac-9f9d-079498bd5edd",
+          "a99cb6c9-b935-4c4e-b9aa-4f7993c32bc2",
+          "ac37f9f7-596b-4bba-878c-db80f3132369",
+          "ac6a08b0-5617-4c54-94ab-e6f6d7a10e42",
+          "acb8d511-f1a2-4cc0-befb-288217a022ce",
+          "ae6f026f-3e9d-4525-b4f7-c3c2baa37087",
+          "af826b67-ade3-4e98-9bd9-5cf6690bad17",
+          "b3e8ecb8-6763-4ecd-bdb6-0e26e0bc8916",
+          "b78a5e24-e22b-4d1d-8102-e2e63f0458f5",
+          "bde4cca7-b92f-4ced-a62a-490682fbf992",
+          "be307bdc-8db1-48d7-a1f9-a583a4312010",
+          "ccbfffd0-1b6e-4b25-9fb2-5ed2601ab7f8",
+          "cf53159a-9821-4fff-aedf-9b962db22b57",
+          "d2128378-f1f0-41c4-b8b1-78cfe1637d09",
+          "d3ccdcb6-f694-4d2b-bcb3-648733a51e3d",
+          "d43cde3f-3ffe-410d-85a8-b7c80485ba87",
+          "d831ba16-05f6-4285-ba95-e3b6fc8d5c7c",
+          "e1b126fa-bf25-4be3-b2d6-f086561a1fcc",
+          "e411ae38-221f-45bc-9bd1-69ebe53ecb8d",
+          "f14dbfa5-6658-48c2-a6d9-463b883904f0"
+        ],
+        "asset": [
+          "ce1c26d7-50f4-4ee0-9830-7bf1724b34fc"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "tour",
+    "status": "published"
+  }
+]

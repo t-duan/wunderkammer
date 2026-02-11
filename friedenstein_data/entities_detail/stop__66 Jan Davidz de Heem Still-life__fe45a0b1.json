@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079872,
+    "uuid": "fe45a0b1-b093-48fe-a4b6-bf62776d2d84",
+    "title": "66 Jan Davidz. de Heem: Still-life",
+    "content": {
+      "image": "825fec1c-5918-442b-96f0-cd596769747d",
+      "title": {
+        "de-DE": "Jan Davidz. de Heem: Stillleben",
+        "en-US": "Jan Davidz. de Heem: Still-life"
+      },
+      "preview": false,
+      "stopnumber": 166,
+      "primary_segment": "09a6c0f8-cd06-4171-a851-cdefd5bff09b",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2e18c5e60b1f8aecf25dcfca18abdc9e67eaecb6",
+      "title": "66 Jan Davidz. de Heem: Still-life",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:14:59.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "825fec1c-5918-442b-96f0-cd596769747d"
+        ],
+        "audio_segment": [
+          "09a6c0f8-cd06-4171-a851-cdefd5bff09b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": 2080619,
+    "uuid": "d473df52-74d6-4b53-b887-5c8d06c28ab9",
+    "title": "Bahnhof",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhof",
+        "en-US": "Train station"
+      },
+      "audiofile": {
+        "de-DE": "05eaedad-573f-4509-835e-311ee4529bd1",
+        "en-US": "018292b2-cbf4-43af-a9b8-663c82b46be3"
+      },
+      "timed_images": [
+        {
+          "id": "b42d4521-d217-4b19-98b6-85d88a4f6b57",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 8
+          },
+          "show_at": {
+            "de-DE": 7,
+            "en-US": 4
+          },
+          "blockName": "Timed image Bahnhof1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "9afc14af-7553-5aa4-8871-6d25251ecd98"
+        },
+        {
+          "id": "29d649e0-c499-444b-908f-06bd6e096f63",
+          "hide_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image Bahnhof2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "53f85c2a-5a58-5c2d-91a7-1db9406dc2a2"
+        },
+        {
+          "id": "2fff0382-dde3-496a-8d52-15b52886fe60",
+          "hide_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "show_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "blockName": "Timed image Bahnhof3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "a05267ea-2e1e-5916-a3d8-f37bc1e4cce4"
+        },
+        {
+          "id": "51ede72b-2b05-4fd9-93fd-77ad8e81d0c9",
+          "hide_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "show_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "blockName": "Timed image Bahnhof4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1d0e4eb7-cf7f-5a13-a79f-5ece5e9dc7d1"
+        },
+        {
+          "id": "529bfbca-32e1-4c55-9460-65b69f64ba25",
+          "hide_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "show_at": {
+            "de-DE": 40,
+            "en-US": 40
+          },
+          "blockName": "Timed image Bahnhof4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "be990836-681b-5a71-897d-78222016bf3e"
+        },
+        {
+          "id": "071ef36a-d621-48f9-ad7b-a943a952a245",
+          "hide_at": {
+            "de-DE": 56,
+            "en-US": 56
+          },
+          "show_at": {
+            "de-DE": 48,
+            "en-US": 48
+          },
+          "blockName": "Timed image Bahnhof5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "2ceed002-63bc-53ad-bc38-48951eabec74"
+        },
+        {
+          "id": "0d6ee30d-2558-4ee3-b23c-879618cea1f2",
+          "hide_at": {
+            "de-DE": 64,
+            "en-US": 64
+          },
+          "show_at": {
+            "de-DE": 56,
+            "en-US": 56
+          },
+          "blockName": "Timed image Bahnhof6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "a362ccf7-a745-58ca-aa2a-5065b8d5df92"
+        },
+        {
+          "id": "cce2f370-acaa-4be8-9a4f-93695318f63f",
+          "hide_at": {
+            "de-DE": 72,
+            "en-US": 72
+          },
+          "show_at": {
+            "de-DE": 64,
+            "en-US": 64
+          },
+          "blockName": "Timed image Bahnhof7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "aa701caa-ff4d-5fb3-840e-5f350f9e625c"
+        },
+        {
+          "id": "551a098f-fcfa-426a-a7f2-9ee4db92e4f2",
+          "hide_at": {
+            "de-DE": 80,
+            "en-US": 80
+          },
+          "show_at": {
+            "de-DE": 72,
+            "en-US": 72
+          },
+          "blockName": "Timed image Bahnhof8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "7d418825-0d96-5fe2-8fec-68ed84dbb949"
+        },
+        {
+          "id": "79acb3b1-bc0b-47a7-a590-2fd9b42dca6e",
+          "hide_at": {
+            "de-DE": 100,
+            "en-US": 100
+          },
+          "show_at": {
+            "de-DE": 90,
+            "en-US": 90
+          },
+          "blockName": "Timed image Bahnhof9",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "c0e6f09a-1cf1-5955-88a2-544614ae6b14"
+        }
+      ],
+      "transcription": {
+        "de-DE": "“Stehen Sie hier… und blicken Sie auf das alte Bahnhofsgebäude vor Ihnen. Dieses Gebäude, einst ein Symbol des Fortschritts und der Verbindung, trägt nun die Spuren der Zeit und des Verfalls. Doch diese Mauern erzählen eine Geschichte, die im Jahr 1847 beginnt…”\n\n“Es ist 1847. Gotha, damals die Hauptstadt von Sachsen-Gotha, wird an die Eisenbahnlinie zwischen dem preußischen Halle und dem hessischen Bebra angeschlossen. Das Empfangsgebäude, das Sie hier sehen, wurde 1848 im klassizistischen Stil erbaut – mit einer beeindruckenden Architektur, die damals Bewunderung hervorrief. Heute ist es das älteste erhaltene Bahnhofsgebäude Thüringens, ein Relikt aus einer Zeit, in der das Reisen noch ein Abenteuer war.”\n\n“Der Bahnhof wuchs mit der Stadt. 1869 wurde er erweitert, und 1898 kamen Überdachungen der Bahnsteige und eine moderne Unterführung hinzu. Das Gebäude wurde zu einem Tor zur Welt – ein Ort der Ankunft und des Abschieds, der Freude und der Trauer. Doch das sollte sich im 20. Jahrhundert ändern…”\n\n“Am 10. Mai 1942, genau an diesem Ort, wurden sechzehn jüdische Bürger Gothas, darunter zwei Kinder, in das Ghetto Bełżyce im besetzten Polen deportiert. Hier begann ihre Reise ins Ungewisse… Eine Gedenktafel am Eingang erinnert an sie. Halten Sie einen Moment inne… und spüren Sie das Gewicht dieser Geschichte.”\n\n“Am 6. Februar 1945 trafen Bomben das Bahnhofsgebäude schwer. Der Westflügel und ein Teil des Mitteltraktes wurden zerstört. Was Sie heute sehen, ist nur ein Fragment dessen, was einmal war – der östliche Teil, der als einziger verschont blieb. Die einstige Pracht ist verschwunden… ersetzt durch die Narben des Krieges und den Zahn der Zeit.”\n\n“Die Schäden wurden nie vollständig behoben. Alle Wiederaufbaupläne blieben auf dem Papier. So verfiel der Bahnhof nach und nach. Einst ein Symbol des Fortschritts, ist er heute nur noch ein Schatten seiner ehemaligen Größe… Eine stumme Erinnerung an das, was verloren ging.”\n\n“Doch hier endet die Geschichte nicht. Am 10. Mai 1942, genau an diesem Ort, wurden sechzehn jüdische Bürger Gothas, darunter zwei Kinder, in das Ghetto Bełżyce im besetzten Polen deportiert. Hier begann ihre Reise ins Ungewisse… Eine Gedenktafel am Eingang erinnert an sie. Halten Sie einen Moment inne… und spüren Sie das Gewicht dieser Geschichte.”\n\n“Nach dem Krieg blieb das Gebäude stehen, vernachlässigt und unvollständig. In der DDR-Zeit wurde es genutzt, doch die einstige Pracht kehrte nie zurück. Nur ein neuer Anstrich bedeckte die Narben, aber das Gebäude selbst blieb dem Verfall überlassen.”\n\n“Heute befindet sich das Gebäude im Besitz der Baugesellschaft Gotha mbH. Es gibt Pläne für eine neue Nutzung, aber was die Zukunft bringt… bleibt ungewiss. Während Sie hier stehen, vor diesen Mauern voller Erinnerungen, bedenken Sie: Dies ist nicht nur ein Bahnhof. Es ist ein Ort, an dem sich Zeit und Geschichte kreuzen. Ein Ort der Ankunft… und des Abschieds.”",
+        "en-US": "\"Stand here… and look at the old train station building before you. This structure, once a symbol of progress and connection, now bears the marks of time and decay. But these walls tell a story that begins in the year 1847…\"\n\n\"It is 1847. Gotha, then the capital of Saxony-Gotha, is connected to the railway line between Prussian Halle and Hessian Bebra. The reception building you see here was built in 1848 in the neoclassical style – with an impressive architecture that was admired at the time. Today, it is the oldest preserved train station building in Thuringia, a relic from a time when travel was still an adventure.\"\n\n\"The station grew with the city. After just 22 years, it was expanded, and in 1898, platform canopies and a modern underpass were added. The building became a gateway to the world – a place of arrival and departure, of joy and sorrow. But that would change in the 20th century…\"\n\n\"On May 10, 1942, right here, sixteen Jewish citizens of Gotha, including two children, were deported to the Bełżyce Ghetto in occupied Poland. Here began their journey into the unknown… A memorial plaque at the entrance commemorates them. Pause for a moment… and feel the weight of this history.\"\n\n\"On February 6, 1945, bombs severely damaged the station building. The west wing and part of the central section were destroyed. What you see today is only a fragment of what once was – the eastern part, the only one left intact. The former grandeur is gone… replaced by the scars of war and the passage of time.\"\n\n\"The damage was never fully repaired. All reconstruction plans remained on paper. Over time, the station fell into disrepair. Once a symbol of progress, today it is merely a shadow of its former glory… A silent reminder of what has been lost.\"\n\n\"After the war, the building remained standing, neglected and incomplete. When this was part of the East German State, it was used, but its former splendor never returned. Only a new coat of paint covered the scars, but the building itself was left to decay.\"\n\n\"Today, the building is owned by the Gotha Construction Company. There are plans for new use, but what the future holds… remains uncertain. As you stand here, in front of these walls full of memories, remember: This is not just a train station. It is a place where time and history intersect. A place of arrival… and of farewell.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3310a134d628d1cabb058da7cc4df05be4949208",
+      "title": "Bahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T15:25:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "018292b2-cbf4-43af-a9b8-663c82b46be3",
+          "05eaedad-573f-4509-835e-311ee4529bd1"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

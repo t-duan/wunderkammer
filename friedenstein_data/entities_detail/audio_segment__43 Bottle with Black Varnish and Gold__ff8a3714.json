@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080013,
+    "uuid": "ff8a3714-e69b-48fd-8471-4815f22ebdac",
+    "title": "43 Bottle with Black Varnish and Gold",
+    "content": {
+      "title": {
+        "de-DE": "43 Bottle with Black Varnish and Gold",
+        "en-US": "43 Bottle with Black Varnish and Gold"
+      },
+      "audiofile": {
+        "de-DE": "c04b11d0-e877-4167-9898-1dbc018d462f",
+        "en-US": "2425ee36-7dd6-4306-9d9b-763894af7a08"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e7aba95544bb12f10b8aa970cf208df43f8098c4",
+      "title": "43 Bottle with Black Varnish and Gold",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:41:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2425ee36-7dd6-4306-9d9b-763894af7a08",
+          "c04b11d0-e877-4167-9898-1dbc018d462f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

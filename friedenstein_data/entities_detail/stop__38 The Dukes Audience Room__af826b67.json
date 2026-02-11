@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080349,
+    "uuid": "af826b67-ade3-4e98-9bd9-5cf6690bad17",
+    "title": "38 The Duke’s Audience Room",
+    "content": {
+      "image": "24613e31-e476-438f-9f00-fc1d5a58ed48",
+      "title": {
+        "de-DE": "Audienzzimmer des Herzogs (Fliederzimmer)",
+        "en-US": "The Duke’s Audience Room"
+      },
+      "preview": false,
+      "stopnumber": 38,
+      "primary_segment": "363cb14a-52b0-4dd2-8a03-4479038fb4f8",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d569bd3b6f20f54c5e82e11d6f16c4c1200f3eaf",
+      "title": "38 The Duke’s Audience Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:20:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "24613e31-e476-438f-9f00-fc1d5a58ed48"
+        ],
+        "audio_segment": [
+          "363cb14a-52b0-4dd2-8a03-4479038fb4f8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

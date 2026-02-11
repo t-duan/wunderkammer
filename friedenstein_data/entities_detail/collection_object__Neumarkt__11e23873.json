@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35436,
+    "uuid": "11e23873-99d0-5c22-bb09-a20ddcf6441c",
+    "title": "Neumarkt",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt",
+        "en-US": "Neumarkt"
+      },
+      "period": {
+        "de-DE": [
+          "1906"
+        ],
+        "en-US": [
+          "1906"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "PE-Papier"
+        ],
+        "en-US": [
+          "PE-Papier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 11.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01037967%2F871347_00248811_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "28950"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "fd9900a8714ca89f9b6a85bbb2287088eb681ef7",
+      "title": "Neumarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.097Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "667781E88CEF44FFA5276B65828192B2"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

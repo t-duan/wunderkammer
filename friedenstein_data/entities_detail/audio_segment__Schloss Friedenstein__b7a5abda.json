@@ -1,0 +1,159 @@
+[
+  {
+    "id": 2080631,
+    "uuid": "b7a5abda-8693-44e8-b3de-c0f62c93eda7",
+    "title": "Schloss Friedenstein",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein",
+        "en-US": "Friedenstein Castle"
+      },
+      "audiofile": {
+        "de-DE": "db431ef0-4c39-415a-ab65-632e7538314b",
+        "en-US": "6bba575b-ee37-4e36-a9d2-aea540693e41"
+      },
+      "timed_images": [
+        {
+          "id": "0d7683d5-73a8-450e-819b-570a7d7b07e4",
+          "hide_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "show_at": {
+            "de-DE": 7,
+            "en-US": 7
+          },
+          "blockName": "Timed image Schloss 1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "32ddb4fc-fe87-54c1-9512-a629c26691be"
+        },
+        {
+          "id": "be4d499d-720e-4841-a7db-675824e9b307",
+          "hide_at": {
+            "de-DE": 22,
+            "en-US": 22
+          },
+          "show_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "blockName": "Timed image Schloss 2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "aafb4ed6-430a-55e6-809b-9e75bf5f1abd"
+        },
+        {
+          "id": "570a633a-af5a-4d38-9f50-5ee238206c83",
+          "hide_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "show_at": {
+            "de-DE": 22,
+            "en-US": 22
+          },
+          "blockName": "Timed image Schloss 3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "11510eb0-838e-55cf-9763-d45034c4d1a7"
+        },
+        {
+          "id": "e8f9c3d2-4f13-41f1-973f-c9ea51f6b658",
+          "hide_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "show_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "blockName": "Timed image Schloss 4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "57a1b6ec-0b24-5dd1-b8bd-2fc89cae9ba1"
+        },
+        {
+          "id": "159813ed-ce5e-4dd9-8153-da86a6b972f1",
+          "hide_at": {
+            "de-DE": 45,
+            "en-US": 45
+          },
+          "show_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "blockName": "Timed image Schloss 5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "5b1af02b-8ebb-537d-8b26-b09e770c9d21"
+        },
+        {
+          "id": "67a08d06-e94b-423c-8f63-c9dcdeecbb4e",
+          "hide_at": {
+            "de-DE": 53,
+            "en-US": 53
+          },
+          "show_at": {
+            "de-DE": 45,
+            "en-US": 45
+          },
+          "blockName": "Timed image Schloss 6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "6abcdd7d-3af3-53a2-8ba3-0153dc8c491a"
+        },
+        {
+          "id": "37ff0a7e-8dd1-4153-8d61-e0c1043b5b3e",
+          "hide_at": {
+            "de-DE": 44,
+            "en-US": 44
+          },
+          "show_at": {
+            "de-DE": 39,
+            "en-US": 39
+          },
+          "blockName": "Timed image orangerie 7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "086f7c70-1d55-5194-892e-7c1124e94aab"
+        },
+        {
+          "id": "16d29238-a69c-4e56-aa67-43376fc834c9",
+          "hide_at": {
+            "de-DE": 68,
+            "en-US": 68
+          },
+          "show_at": {
+            "de-DE": 60,
+            "en-US": 60
+          },
+          "blockName": "Timed image Schloss 8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "20904778-dcf4-564e-8f79-5420f7b671ce"
+        }
+      ],
+      "transcription": {
+        "de-DE": "\"Hoch über der Stadt, umgeben von einem weitläufigen Park, thront Schloss Friedenstein über Gotha – ein Symbol der Beständigkeit, erbaut in einer Zeit des Chaos. Aber stellen Sie sich vor: Es ist die Mitte des 17. Jahrhunderts, und Europa ist von den Schrecken des Dreißigjährigen Krieges gezeichnet...\"\n\n\"Mitten in diesem Chaos beginnt Herzog Ernst I. von Sachsen-Gotha-Altenburg mit dem Bau seiner neuen Residenz. Sein Ziel? Eine friedliche und sichere Zuflucht, eine Festung, die niemals den Schrecken des Krieges erliegen sollte. Deshalb gab er ihr den Namen ‘Friedenstein’. Noch vor dem Ende des Krieges, wurden die Fundamente gelegt. Wo einst die Ruinen der Burg Grimmenstein standen, erhebt sich nun eine imposante Vierflügelanlage mit massiven Mauern, weiten Gängen und prunkvollen Innenräumen.\"\n\n\"Doch Friedenstein ist mehr als ein Schloss. Innerhalb dieser Mauern befinden sich nicht nur die herzoglichen Gemächer, sondern auch eine Schlosskirche, ein Theater, Verwaltungsräume, ein Archiv und sogar militärische Garnisonsquartiere. Ein in sich geschlossenes Machtzentrum, geschützt durch seine mächtigen barocken Fassaden.\"\n\n“Neben der Größe fallen sofort die beiden ungleichen Türme ins Auge. Das einfache, spitz zulaufende Dach des Westturms stammt aus der Bauzeit. Das Kuppeldach mit Haube des Ostturms ist eine modernere Variante, die er 1684 nach einem Brand erhält. Von weiteren Zerstörungen bleibt Schloss Friedenstein verschont.”\n\n\"Während andere Schlösser durch Kriege, Brände oder politische Umbrüche zerstört oder verändert wurden, blieb Friedenstein nahezu unangetastet. Die barocke Pracht des 17. und 18. Jahrhunderts ist hier noch immer greifbar. Selbst das berühmte Ekhoftheater, eines der älteste Barocktheater Europas, ist noch heute in Betrieb – eine lebendige Verbindung zu den glanzvollen Inszenierungen vergangener Jahrhunderte.\"\n\n\"Während der DDR-Zeit beherbergte der Friedenstein Museen, Archive und naturwissenschaftliche Sammlungen. Das Schloss war nun für die Bevölkerung geöffnet. Einst ein Zentrum herzoglicher Herrschaft, wurde es nun zu einem Kulturdenkmal im sozialistischen Staat.\"\n\n\"Während Sie hier stehen und über die Stadt blicken, wird Ihnen vielleicht bewusst: Dieses Schloss hat Gotha durch alle Stürme der Zeit geführt. Und es steht noch immer – fest und unerschütterlich. Ein Symbol der Beständigkeit in einer sich wandelnden Welt.\"",
+        "en-US": "\"High above the city, surrounded by a vast park, Friedenstein Castle stands as a symbol of resilience, built during an era of chaos. But imagine… It is the mid-17th century, and Europe is scarred by the horrors of the Thirty Years’ War…\"\n\n\"Amidst this turmoil, Duke Ernst I of Saxe-Gotha-Altenburg begins the construction of his new residence. His vision? A peaceful and secure refuge, a fortress that would never succumb to the horrors of war. He named it ‘Friedenstein’—‘Stone of Peace.’ Even before the war ended, the foundations were laid. Where the ruins of Grimmenstein Castle once stood, a grand four-wing complex arose, with massive walls, spacious corridors, and lavish interiors.\"\n\n\"But Friedenstein is more than just a castle. Within these walls are not only the ducal chambers but also a chapel, a theater, administrative offices, archives, and even military barracks. A self-sustaining center of power, protected by its imposing Baroque facade.\"\n\n\"One feature immediately stands out—the two unequal towers. The simpler, pointed roof of the western tower dates back to the original construction. The domed roof of the eastern tower, however, is a later addition from 1684 after a fire. Unlike many castles that suffered destruction over time, Friedenstein remained remarkably untouched.\"\n\n\"While other palaces were altered by wars, fires, or political upheavals, Friedenstein’s Baroque splendor from the 17th and 18th centuries remains largely intact. Even the famous Ekhoftheater, one of the oldest Baroque theaters in the world, is still in operation—a living link to the grand performances of centuries past.\"\n\n\"During the Eastern German Era, Friedenstein housed museums, archives, and scientific collections. Once a seat of ducal power, it became a cultural landmark in the socialist state.\"\n\n\"As you stand here, looking over the city, remember—this castle has withstood centuries of change. And yet, it still stands, unwavering. A true symbol of stability in an ever-changing world.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "82d7677ad74bbbce05f5d78cca942bf3497f1a94",
+      "title": "Schloss Friedenstein",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T12:41:53.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6bba575b-ee37-4e36-a9d2-aea540693e41",
+          "db431ef0-4c39-415a-ab65-632e7538314b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

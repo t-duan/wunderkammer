@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6299,
+    "uuid": "df1193db-9668-4c32-a56f-af31a6f37e8f",
+    "title": "zoo.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/df1193db-9668-4c32-a56f-af31a6f37e8f/zoo.svg",
+      "file_name": "zoo.svg",
+      "file_size": 3317,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "8b0b46ad6e2fc093efd951530f15a7f5a7595a27",
+      "title": "zoo.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

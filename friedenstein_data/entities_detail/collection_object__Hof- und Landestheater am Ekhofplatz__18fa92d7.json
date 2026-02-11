@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35442,
+    "uuid": "18fa92d7-b9ff-5e27-a4bd-5c6c2da877a8",
+    "title": "Hof- und Landestheater am Ekhofplatz",
+    "content": {
+      "title": {
+        "de-DE": "Hof- und Landestheater am Ekhofplatz",
+        "en-US": "Hof- und Landestheater am Ekhofplatz"
+      },
+      "period": {
+        "de-DE": [
+          "1939"
+        ],
+        "en-US": [
+          "1939"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01073352%2F871347_00276053_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "2944"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5af7e664e8937459eeaa832ed27d1a469c0d90e4",
+      "title": "Hof- und Landestheater am Ekhofplatz",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.042Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "631AB13EF11A4EB48028A45E0EAD8C91"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

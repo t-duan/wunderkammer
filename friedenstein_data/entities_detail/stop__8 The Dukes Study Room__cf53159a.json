@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080520,
+    "uuid": "cf53159a-9821-4fff-aedf-9b962db22b57",
+    "title": "8 The Duke’s Study Room",
+    "content": {
+      "image": "6fc2d881-70cc-472f-87b3-4e5d9584d956",
+      "title": {
+        "de-DE": "Arbeitskabinett des Herzogs",
+        "en-US": "The Duke’s Study Room"
+      },
+      "preview": false,
+      "stopnumber": 8,
+      "primary_segment": "6f6bde2c-7674-4eae-9e8e-228de385c0f5",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "846bb4900c6a61114536c82d2fa0067c8a8a5506",
+      "title": "8 The Duke’s Study Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:58:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6fc2d881-70cc-472f-87b3-4e5d9584d956"
+        ],
+        "audio_segment": [
+          "6f6bde2c-7674-4eae-9e8e-228de385c0f5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

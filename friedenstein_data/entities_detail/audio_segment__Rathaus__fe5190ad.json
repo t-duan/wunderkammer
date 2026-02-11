@@ -1,0 +1,145 @@
+[
+  {
+    "id": 2080625,
+    "uuid": "fe5190ad-fd71-423c-a375-67a5b2448f9d",
+    "title": "Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Rathaus",
+        "en-US": "Gotha Town Hall"
+      },
+      "audiofile": {
+        "de-DE": "c9a6ef0a-5ad8-4aa3-b122-9e637219d960",
+        "en-US": "5a0cff75-736e-453e-a981-528d4bb6028c"
+      },
+      "timed_images": [
+        {
+          "id": "2220c807-7733-4387-a68e-e743c494db36",
+          "hide_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "show_at": {
+            "de-DE": 4,
+            "en-US": 4
+          },
+          "blockName": "Timed image Rathaus1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "24ecc0b0-6e53-5735-ac93-3a31d6944484"
+        },
+        {
+          "id": "8bc26e6f-723e-4152-bbb7-18c89d3d8739",
+          "hide_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Rathaus2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "4d354341-575f-558b-b98a-581a24e2ecab"
+        },
+        {
+          "id": "b2f39da8-5c55-4f46-9e6e-ca0cf32e012b",
+          "hide_at": {
+            "de-DE": 23,
+            "en-US": 23
+          },
+          "show_at": {
+            "de-DE": 15,
+            "en-US": 15
+          },
+          "blockName": "Timed image Rathaus3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "47d1fcd0-f94b-52e7-977f-628ac39fd700"
+        },
+        {
+          "id": "8477abc0-33bd-4fe2-865b-a08a508f2935",
+          "hide_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "show_at": {
+            "de-DE": 23,
+            "en-US": 23
+          },
+          "blockName": "Timed image Rathaus4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "1784e7a9-1d2a-52ea-9a30-2f1b1d47dec5"
+        },
+        {
+          "id": "1dc21475-e9e4-44bb-b68c-2f7c35ef1ef9",
+          "hide_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "show_at": {
+            "de-DE": 30,
+            "en-US": 30
+          },
+          "blockName": "Timed image Rathaus5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "7a010667-89c2-517f-949e-32bb4a02493e"
+        },
+        {
+          "id": "b30d53a5-d304-480c-926b-44d73725ec80",
+          "hide_at": {
+            "de-DE": 29,
+            "en-US": 29
+          },
+          "show_at": {
+            "de-DE": 25,
+            "en-US": 25
+          },
+          "blockName": "Timed image Rathaus6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "71bd5b5d-2cb0-5552-8ab6-101663bb20c9"
+        },
+        {
+          "id": "3b6ea8f8-4c5b-4d26-9346-b161feb2e3e6",
+          "hide_at": {
+            "de-DE": 46,
+            "en-US": 46
+          },
+          "show_at": {
+            "de-DE": 38,
+            "en-US": 38
+          },
+          "blockName": "Timed image Rathaus7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "cedb0239-e7d3-5e3b-bec5-d5752e1236f2"
+        }
+      ],
+      "transcription": {
+        "de-DE": "**Erzähler (nachdenklich, einladend):**\n\n\"Sie stehen auf dem Markt von Gotha, umgeben von jahrhundertealten Gebäuden. Vor Ihnen erhebt sich das imposante Rathaus – ein stiller Zeuge von über vier Jahrhunderten Stadtverwaltung, Handel und Wandel.\"\n\n\"Doch bevor dieses eindrucksvolle Bauwerk hier entstand, war dieser Platz bereits ein Zentrum geschäftigen Treibens. Bis 1553 stand hier ein Kaufhaus, in dem Tuchhändler ihre Waren verkauften. Seine Grundmauern – die ersten Schichten der Geschichte – liegen noch heute verborgen in den Kellern des Rathauses.\"\n\n\"Im Jahr 1569 wurde das heutige Gebäude auf Befehl von Herzog Johann Friedrich II. fertiggestellt – ein massiver Steinbau mit einem 37 Meter hohen Turm, der wie ein Wächter über die Stadt ragte. Die Fassaden wurden mit kunstvollen Renaissance-Ornamenten verziert: Tiere, Fabelwesen und Symbole, die die Macht und den Ehrgeiz Gothas widerspiegelten.\"\n\n\"Doch das Rathaus diente nicht nur der Stadtverwaltung. Hier befand sich auch die Ratswaage, an der Waren gewogen und besteuert wurden. In den oberen Stockwerken arbeiteten die Tuchmacher. Und in den Gewölbekellern unter Ihren Füßen… wurde Bier gelagert und ausgeschenkt. Denn wie in vielen deutschen Städten gehörten Handel und Geselligkeit eng zusammen.\"\n\n\"1640 veränderte sich alles. Herzog Ernst I., der erste des Hauses Sachsen-Gotha-Altenburg, nutzte das Rathaus als Wohnsitz, bis Schloss Friedenstein fertiggestellt war. Nach dem verheerenden Stadtbrand von 1665 wurde das zerstörte Kaufhaus schließlich zum neuen Rathaus umgebaut. Der herzogliche Baumeister Andreas Rudloff leitete die Umbauarbeiten.\"\n\n\"Die Neorenaissance-Umgestaltung von 1897 verlieh dem Gebäude sein heutiges Erscheinungsbild. Und trotz der Wirren des Zweiten Weltkriegs blieb das Rathaus weitgehend unbeschädigt.\"\n\n\"Heute ist das Rathaus weiterhin das Herz der Stadtverwaltung. Der Turm, der 1997 restauriert wurde, bietet einen beeindruckenden Blick über Gotha.\"",
+        "en-US": "**Narrator (thoughtful, inviting):**\n\n\"You are standing in the market square of Gotha, surrounded by centuries-old buildings. Before you rises the imposing town hall – a silent witness to over four hundred years of city administration, commerce, and transformation.\"\n\n\"But before this grand building was constructed, this square was already a center of activity. Until 1553, a trading house stood here, where cloth merchants sold their goods. Its foundations – the first layers of history – still lie hidden beneath the town hall’s cellars.\"\n\n\"In 1569, the present building was completed by order of Duke Johann Friedrich II – a massive stone structure with a 37-meter-high tower that stood as a guardian over the city. The facades were adorned with intricate Renaissance ornamentation: animals, mythical creatures, and symbols that reflected Gotha’s power and ambition.\"\n\n\"But the town hall was more than just an administrative center. Here, merchants weighed and taxed their goods. The upper floors housed the workshops of clothmakers. And beneath your feet, in the vaulted cellars… beer was stored and served. As in many German cities, trade and social life were deeply intertwined.\"\n\n\"In 1640, everything changed. Duke Ernst I, the founder of the House of Saxe-Gotha-Altenburg, used the town hall as his residence until Friedenstein Castle was completed. After the devastating city fire of 1665, the ruined trading house was repurposed into the new town hall. The duke’s master builder, Andreas Rudloff, oversaw the renovations.\"\n\n\"The Neo-Renaissance renovations of 1897 gave the building its current appearance. And despite the turmoil of World War II, the town hall remained largely unscathed.\"\n\n\"Today, the town hall remains the heart of city administration. The tower, restored in 1997, offers a stunning view over Gotha.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d0157e91f632e073bbc117d687dc747608317cb7",
+      "title": "Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T14:56:47.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5a0cff75-736e-453e-a981-528d4bb6028c",
+          "c9a6ef0a-5ad8-4aa3-b122-9e637219d960"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

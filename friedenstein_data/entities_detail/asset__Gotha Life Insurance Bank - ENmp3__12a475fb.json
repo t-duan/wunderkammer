@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22343,
+    "uuid": "12a475fb-af2e-44d4-8ec5-a68dcaf8665c",
+    "title": "Gotha Life Insurance Bank - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/12a475fb-af2e-44d4-8ec5-a68dcaf8665c/Gotha%20Life%20Insurance%20Bank%20-%20EN.mp3",
+      "file_name": "Gotha Life Insurance Bank - EN.mp3",
+      "file_size": 5205899,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "33af9ef3ae30380ceb6012db279e71580ef7c6c3",
+      "title": "Gotha Life Insurance Bank - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:23:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

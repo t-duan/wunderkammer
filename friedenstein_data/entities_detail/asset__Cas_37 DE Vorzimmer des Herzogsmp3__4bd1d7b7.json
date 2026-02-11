@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22253,
+    "uuid": "4bd1d7b7-dcad-4e26-b30f-79440c876e59",
+    "title": "Cas_37 DE Vorzimmer des Herzogs.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/4bd1d7b7-dcad-4e26-b30f-79440c876e59/Cas_37%20DE%20Vorzimmer%20des%20Herzogs.mp3",
+      "file_name": "Cas_37 DE Vorzimmer des Herzogs.mp3",
+      "file_size": 2047529,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "0cda303e27bd5d4707ed99cbd58843aec6e24a7c",
+      "title": "Cas_37 DE Vorzimmer des Herzogs.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

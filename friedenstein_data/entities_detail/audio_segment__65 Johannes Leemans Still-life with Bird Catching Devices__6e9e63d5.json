@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079881,
+    "uuid": "6e9e63d5-f1c8-462f-94c4-d09fe42c049f",
+    "title": "65 Johannes Leemans: Still-life with Bird Catching Devices",
+    "content": {
+      "title": {
+        "de-DE": "65 Johannes Leemans: Still-life with Bird Catching Devices",
+        "en-US": "65 Johannes Leemans: Still-life with Bird Catching Devices"
+      },
+      "audiofile": {
+        "de-DE": "d2ec04d2-af2e-490d-b077-36c32832e71f",
+        "en-US": "8cfa1733-3ee9-419a-a095-12d718814854"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6b0d555a961a2fd5884496c78434708c2b242f41",
+      "title": "65 Johannes Leemans: Still-life with Bird Catching Devices",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:13:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8cfa1733-3ee9-419a-a095-12d718814854",
+          "d2ec04d2-af2e-490d-b077-36c32832e71f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22217,
+    "uuid": "67a97bf4-d858-43cc-8139-3bd0670abb24",
+    "title": "Cas_33 ENG Eccentric Duke.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/67a97bf4-d858-43cc-8139-3bd0670abb24/Cas_33%20ENG%20Eccentric%20Duke.mp3",
+      "file_name": "Cas_33 ENG Eccentric Duke.mp3",
+      "file_size": 8345097,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "698a28320eecb237b13cbd3c9c0c7911e7f8dc9d",
+      "title": "Cas_33 ENG Eccentric Duke.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070501,
+    "uuid": "dcfdbcc2-d253-4309-a0bc-371cdb7e2d01",
+    "title": "Zoo",
+    "content": {
+      "key": "zoo",
+      "icon": "df1193db-9668-4c32-a56f-af31a6f37e8f",
+      "label": {
+        "ar-AE": "حديقة الحيوان",
+        "ar-SA": "حديقة الحيوان",
+        "de-DE": "Zoo",
+        "en-GB": "Zoo",
+        "en-US": "Zoo",
+        "es-ES": "Zoo",
+        "fa-IR": "باغ وحش",
+        "fr-FR": "Zoo",
+        "it-IT": "Zoo",
+        "ja-JP": "動物園",
+        "nl-NL": "Dierentuin",
+        "zh-CN": "动物园",
+        "nl-NL-AD": "Dierentuin",
+        "nl-NL-sl": "Dierentuin"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c87583fdeae073f1c5b60817a1fcb8625fcccd41",
+      "title": "Zoo",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:56:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "df1193db-9668-4c32-a56f-af31a6f37e8f"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

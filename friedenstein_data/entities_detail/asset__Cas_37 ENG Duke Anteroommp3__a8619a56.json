@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22213,
+    "uuid": "a8619a56-a5e4-4fe6-b51b-6bc96b680684",
+    "title": "Cas_37 ENG Duke Anteroom.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/a8619a56-a5e4-4fe6-b51b-6bc96b680684/Cas_37%20ENG%20Duke%20Anteroom.mp3",
+      "file_name": "Cas_37 ENG Duke Anteroom.mp3",
+      "file_size": 2479224,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "20a5ac1bcbc1ab9c8113f4921e566644db9e4430",
+      "title": "Cas_37 ENG Duke Anteroom.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:35.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

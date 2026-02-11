@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22333,
+    "uuid": "8d7b6aca-4b3c-4bf5-aec5-892140173ac4",
+    "title": "Orangerie Gotha - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/8d7b6aca-4b3c-4bf5-aec5-892140173ac4/Orangerie%20Gotha%20-%20DE.mp3",
+      "file_name": "Orangerie Gotha - DE.mp3",
+      "file_size": 5643659,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "6366158b7c9c632dbbf35c841d2a32836a682955",
+      "title": "Orangerie Gotha - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:32:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

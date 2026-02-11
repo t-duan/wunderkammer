@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2080640,
+    "uuid": "82dc4ebc-3c0a-4766-9832-c2609e0be420",
+    "title": "Herzogliches Museum",
+    "content": {
+      "title": {
+        "de-DE": "Herzogliches Museum",
+        "en-US": "Ducal Museum"
+      },
+      "audiofile": {
+        "de-DE": "6bdcbb1d-3404-43c1-ac4d-593eac477c92",
+        "en-US": "4d3f8246-dcb5-44fd-82bf-eeb51bd6e2c8"
+      },
+      "transcription": {
+        "de-DE": "\"Es ist das Jahr 1879. In Gotha öffnet einer der ersten eigens errichteten Museumsbauten Deutschlands seine Türen. Ein Gebäude von beeindruckender Pracht und Ambition. In den modernen Oberlichtsälen, mit ihrer innovativen Beleuchtung, strahlen Gemälde alter Meister, exquisite japanische Lackarbeiten und jahrtausendealte ägyptische Artefakte. Dies war das Prunkstück der herzoglichen Sammlung.\"\n\n\"Mit der Eröffnung des Herzoglichen Museums zeigte sich Gotha als eine fortschrittliche Stadt. Der Architekt Franz Neumann entwarf das Gebäude im Stil des französischen Klassizismus und inspiriert von den Werken Gottfried Sempers. Ein würdiger Tempel für die Kunst. Im Zentrum des Museums steht die imposante Bronzestatue von Ernst II. von Sachsen-Coburg und Gotha, dem Herzog, der dieses Museum ins Leben rief.\"\n\n\"Die Sammlung wuchs. Kunst, Naturgeschichte, Archäologie – alles fand hier seinen Platz. Gegen Ende des 19. Jahrhunderts besuchten jährlich tausende Menschen dieses Museum, darunter viele internationale Gäste. Doch die Geschichte nahm eine dramatische Wendung...\"\n\n\"In den Wirren nach dem Zweiten Weltkrieg verlor Gotha fast seinen gesamten Kunstschatz. Die Sowjetunion transportierte große Teile der Sammlung als Kriegsbeute ab. Das Museum verlor seine ursprüngliche Funktion und wurde 1954 als Biologisches Zentralmuseum, später als Naturkundemuseum, wiedereröffnet.\"\n\n\"Nach einer umfassenden Restaurierung kehrten 2013 viele Kunstwerke an ihren ursprünglichen Ausstellungsort zurück. Heute beherbergt das Herzogliche Museum wieder jene Sammlungen, die einst hier präsentiert wurden.“",
+        "en-US": "\"It is the year 1879. One of Germany’s first purpose-built museums opens its doors in Gotha—a magnificent building of grandeur and ambition. Inside, masterpieces gleam under the natural light of modern skylights, while exquisite Japanese lacquerware and ancient Egyptian artifacts tell stories of distant worlds. This was the jewel of the ducal collection.\"\n\n\"The opening of the Ducal Museum signaled Gotha’s cultural progress. Architect Franz Neumann designed the building in the style of French classicism, inspired by the works of Gottfried Semper. A fitting temple for the arts. At its heart stands the impressive bronze statue of Duke Ernst II of Saxe-Coburg and Gotha—the man who brought this museum to life.\"\n\n\"The collection grew—art, natural history, archaeology—each piece finding its place here. By the late 19th century, thousands visited this museum annually, including many from abroad. But history would soon take a dramatic turn…\"\n\n\"After World War II, Gotha lost nearly all its treasures. The Soviet Union seized large parts of the collection as war reparations. The museum lost its original function and was repurposed as the Biological Central Museum in 1954, later becoming the Museum of Natural History.\"\n\n\"Following extensive restoration, many artworks returned home in 2013. Today, the Ducal Museum once again houses the collections it was meant to preserve.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3c8517a5d3644f5de0a1d4309ecadb03335a9656",
+      "title": "Herzogliches Museum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-14T08:26:00.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4d3f8246-dcb5-44fd-82bf-eeb51bd6e2c8",
+          "6bdcbb1d-3404-43c1-ac4d-593eac477c92"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

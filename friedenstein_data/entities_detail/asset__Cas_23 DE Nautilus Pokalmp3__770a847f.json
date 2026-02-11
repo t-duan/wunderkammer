@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22265,
+    "uuid": "770a847f-0f8c-4417-870d-e8de62eec7d9",
+    "title": "Cas_23 DE Nautilus Pokal.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/770a847f-0f8c-4417-870d-e8de62eec7d9/Cas_23%20DE%20Nautilus%20Pokal.mp3",
+      "file_name": "Cas_23 DE Nautilus Pokal.mp3",
+      "file_size": 1216832,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e014e139b0a1be91c2282d20f956b79f81624892",
+      "title": "Cas_23 DE Nautilus Pokal.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:13.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

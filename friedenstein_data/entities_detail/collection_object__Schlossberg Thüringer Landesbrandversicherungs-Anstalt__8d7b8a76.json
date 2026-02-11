@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35532,
+    "uuid": "8d7b8a76-3488-5bc6-9537-b58633289f4a",
+    "title": "Schlossberg, Thüringer Landesbrandversicherungs-Anstalt",
+    "content": {
+      "title": {
+        "de-DE": "Schlossberg, Thüringer Landesbrandversicherungs-Anstalt",
+        "en-US": "Schlossberg, Thüringer Landesbrandversicherungs-Anstalt"
+      },
+      "period": {
+        "de-DE": [
+          "um 1910"
+        ],
+        "en-US": [
+          "um 1910"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ],
+        "en-US": [
+          "Höhe 9.0 cm",
+          "Breite 14.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01061917%2F871347_00249521_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "54501"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8efcf9ee1f6147c9258c83c0c41c3232b27c2018",
+      "title": "Schlossberg, Thüringer Landesbrandversicherungs-Anstalt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.157Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "B9ED47EBD61541C4AB9591300BAA5ECE"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

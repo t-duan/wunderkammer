@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6333,
+    "uuid": "f3b9252a-805b-441b-8af5-a1dc321f3d8a",
+    "title": "botanical_garden.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/f3b9252a-805b-441b-8af5-a1dc321f3d8a/botanical_garden.svg",
+      "file_name": "botanical_garden.svg",
+      "file_size": 2130,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "416ddc3a2be38eeadbb216d1b222445d1a1a5b79",
+      "title": "botanical_garden.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079845,
+    "uuid": "c7e7654f-3eb2-4c06-8217-7182b37dee7e",
+    "title": "71 Porcelain Bowl with Poet Li Taibo",
+    "content": {
+      "title": {
+        "de-DE": "71 Porcelain Bowl with Poet Li Taibo",
+        "en-US": "71 Porcelain Bowl with Poet Li Taibo"
+      },
+      "audiofile": {
+        "de-DE": "8910ed53-b71e-4d5c-acf0-0e222fd6aa8e",
+        "en-US": "1989e688-af23-4e29-b020-f956cb121867"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "75375ac34de1df76c63b2506f10e01cfc2ada050",
+      "title": "71 Porcelain Bowl with Poet Li Taibo",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:32:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1989e688-af23-4e29-b020-f956cb121867",
+          "8910ed53-b71e-4d5c-acf0-0e222fd6aa8e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

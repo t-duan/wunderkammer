@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079950,
+    "uuid": "25db03ea-c13d-4c13-a131-10bbb68b61b5",
+    "title": "53 Plate with Mars and Venus",
+    "content": {
+      "image": "2f0ca6f7-114e-47fd-93b3-6c39c91bb671",
+      "title": {
+        "de-DE": "Teller mit Mars und Venus",
+        "en-US": "Plate with Mars and Venus"
+      },
+      "preview": false,
+      "stopnumber": 153,
+      "primary_segment": "9e222b25-6ac2-4ee9-8ca6-1f05814812d4",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1e9b7222609be06007ec5a34556e9c37592b1986",
+      "title": "53 Plate with Mars and Venus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:57:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2f0ca6f7-114e-47fd-93b3-6c39c91bb671"
+        ],
+        "audio_segment": [
+          "9e222b25-6ac2-4ee9-8ca6-1f05814812d4"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

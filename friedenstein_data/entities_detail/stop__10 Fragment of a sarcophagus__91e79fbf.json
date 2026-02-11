@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080247,
+    "uuid": "91e79fbf-6946-4b2c-ab8d-131b226e605c",
+    "title": "10 Fragment of a sarcophagus",
+    "content": {
+      "image": "c0aa7f37-af86-4ac4-ade5-b74de4286743",
+      "title": {
+        "de-DE": "Fragment eines Sarkophags",
+        "en-US": "Fragment of a sarcophagus"
+      },
+      "preview": false,
+      "stopnumber": 110,
+      "primary_segment": "b5b7153c-7140-401e-9f09-fccf4f9b853c",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d88e5e35c628c9c4c3008ba20e7b75912bfd31ac",
+      "title": "10 Fragment of a sarcophagus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:40:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c0aa7f37-af86-4ac4-ade5-b74de4286743"
+        ],
+        "audio_segment": [
+          "b5b7153c-7140-401e-9f09-fccf4f9b853c"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

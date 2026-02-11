@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079983,
+    "uuid": "06acf3ea-ddcd-4c94-8c11-326ba4172ead",
+    "title": "48 Two Pugs",
+    "content": {
+      "title": {
+        "de-DE": "48 Two Pugs",
+        "en-US": "48 Two Pugs"
+      },
+      "audiofile": {
+        "de-DE": "151fa823-b767-49c3-bd6b-bb06e3c280d1",
+        "en-US": "e4e1f9ea-f1f2-4cef-b4a6-a6662446ecc5"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "eb5ec2b39d8163d7c3d57d5af8984390048c1f06",
+      "title": "48 Two Pugs",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:48:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "151fa823-b767-49c3-bd6b-bb06e3c280d1",
+          "e4e1f9ea-f1f2-4cef-b4a6-a6662446ecc5"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080502,
+    "uuid": "ac37f9f7-596b-4bba-878c-db80f3132369",
+    "title": "11 The Large Rococo Hall",
+    "content": {
+      "image": "b99abdb0-8201-44e6-936c-f014ab8ad940",
+      "title": {
+        "de-DE": "Audienzzimmer der Herzogin",
+        "en-US": "The Large Rococo Hall / The Duchess’s Audience Room"
+      },
+      "preview": false,
+      "stopnumber": 11,
+      "primary_segment": "775019a7-7e4c-4a35-9e21-c0dcb418af9e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ff21d756f6276b3111a1612bd3b5b4c2d1f5feb7",
+      "title": "11 The Large Rococo Hall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:09:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "b99abdb0-8201-44e6-936c-f014ab8ad940"
+        ],
+        "audio_segment": [
+          "775019a7-7e4c-4a35-9e21-c0dcb418af9e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

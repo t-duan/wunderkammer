@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079965,
+    "uuid": "7133579e-d176-4c75-8fd8-9f9b730eff8d",
+    "title": "51 Cabinet Ensemble David Roentgen",
+    "content": {
+      "title": {
+        "de-DE": "51 Cabinet Ensemble David Roentgen",
+        "en-US": "51 Cabinet Ensemble David Roentgen"
+      },
+      "audiofile": {
+        "de-DE": "9fc9d58d-573a-4257-95ef-f2e129609d35",
+        "en-US": "c327a1de-08df-4020-91f3-a5464eb5eb44"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "102382a4f3d013b10207ec69b8a9c3100a3999b7",
+      "title": "51 Cabinet Ensemble David Roentgen",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:53:24.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "9fc9d58d-573a-4257-95ef-f2e129609d35",
+          "c327a1de-08df-4020-91f3-a5464eb5eb44"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

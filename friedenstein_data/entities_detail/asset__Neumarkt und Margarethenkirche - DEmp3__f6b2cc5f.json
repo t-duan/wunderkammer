@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22334,
+    "uuid": "f6b2cc5f-1aba-4f7c-926a-8c7877183715",
+    "title": "Neumarkt und Margarethenkirche - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/f6b2cc5f-1aba-4f7c-926a-8c7877183715/Neumarkt%20und%20Margarethenkirche%20-%20DE.mp3",
+      "file_name": "Neumarkt und Margarethenkirche - DE.mp3",
+      "file_size": 4622987,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "2ddd4c81d98fcd1372220a09659fb8c72decb0e4",
+      "title": "Neumarkt und Margarethenkirche - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:29:55.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

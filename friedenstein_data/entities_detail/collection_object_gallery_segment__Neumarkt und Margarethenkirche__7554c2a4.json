@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2079770,
+    "uuid": "7554c2a4-7328-4e8c-8394-47ef71448a19",
+    "title": "Neumarkt und Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "ae4d5b25-438a-5901-baa7-89f9e2817f7d",
+        "f55f67ef-c2f4-53f1-bc6c-17d99cd1d565",
+        "6cbc0cbc-4aac-5523-950f-9ecf7a24bc82",
+        "11e23873-99d0-5c22-bb09-a20ddcf6441c",
+        "54b78ac3-b7a6-514b-804d-49ab02dbfbcc",
+        "d63012f1-3a8d-5e73-baef-b3bffa1211c7",
+        "a873773b-6119-506b-adab-e2f62b34f984",
+        "f561a980-a837-51cb-b0e5-f556830edf2d",
+        "0ee4f96b-70d2-58a0-b5d0-51dfe63cb4c0",
+        "ba61ca1b-a42e-510d-990a-0c9b93276aaf"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d7b97702362447d63e067910d8145ff7ccd6ff08",
+      "title": "Neumarkt und Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:37:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

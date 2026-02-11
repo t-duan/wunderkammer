@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080121,
+    "uuid": "dba23e73-750f-4b8a-bd1f-343e62a667e4",
+    "title": "27 Jean-Antoine Houdon: Diana",
+    "content": {
+      "image": "1f5f551a-56fd-4134-b08d-2f758fe58a83",
+      "title": {
+        "de-DE": "Jean-Antoine Houdon: Diana",
+        "en-US": "Jean-Antoine Houdon: Diana"
+      },
+      "preview": false,
+      "stopnumber": 127,
+      "primary_segment": "c3443f00-f7ae-4a5f-967e-a32ada2e8bfa",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0cf93451969ba97ae4c145020dfa8f7d5f997f95",
+      "title": "27 Jean-Antoine Houdon: Diana",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:07:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1f5f551a-56fd-4134-b08d-2f758fe58a83"
+        ],
+        "audio_segment": [
+          "c3443f00-f7ae-4a5f-967e-a32ada2e8bfa"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

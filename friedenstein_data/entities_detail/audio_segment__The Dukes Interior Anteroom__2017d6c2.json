@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080538,
+    "uuid": "2017d6c2-122f-4d76-a0d7-a1272d644373",
+    "title": "The Duke’s Interior Anteroom",
+    "content": {
+      "title": {
+        "de-DE": "The Duke’s Interior Anteroom",
+        "en-US": "The Duke’s Interior Anteroom"
+      },
+      "audiofile": {
+        "de-DE": "041a7cf1-0a66-4079-8274-b9c58a4207b0",
+        "en-US": "7cd3e7e4-9f83-4789-b301-d72e64bdd09a"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "88267748433ee9c941269df22f10de38c25c1acf",
+      "title": "The Duke’s Interior Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:50:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "041a7cf1-0a66-4079-8274-b9c58a4207b0",
+          "7cd3e7e4-9f83-4789-b301-d72e64bdd09a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

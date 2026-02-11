@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080214,
+    "uuid": "4539ad1c-776f-4ed5-bb9c-7df9b1a944d4",
+    "title": "Ancient sculpture",
+    "content": {
+      "title": {
+        "de-DE": "Ancient sculpture",
+        "en-US": "Ancient sculpture"
+      },
+      "audiofile": {
+        "de-DE": "b4d84365-5532-47da-b4a9-bd98c870c070",
+        "en-US": "3906de5a-00a0-45c9-9c7b-1125030b4f9a"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "cf3143204ddd2c3265b2a6b0b6bc9d296ed9df0b",
+      "title": "Ancient sculpture",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T15:02:49.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3906de5a-00a0-45c9-9c7b-1125030b4f9a",
+          "b4d84365-5532-47da-b4a9-bd98c870c070"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

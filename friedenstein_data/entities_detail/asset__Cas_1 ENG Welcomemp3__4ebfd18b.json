@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22246,
+    "uuid": "4ebfd18b-1974-4b25-8d46-10bf339c5f63",
+    "title": "Cas_1 ENG Welcome.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/4ebfd18b-1974-4b25-8d46-10bf339c5f63/Cas_1%20ENG%20Welcome.mp3",
+      "file_name": "Cas_1 ENG Welcome.mp3",
+      "file_size": 1276603,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "25c913fa9d30a79e4a95f922fb8ba7cf5c1525fb",
+      "title": "Cas_1 ENG Welcome.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

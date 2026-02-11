@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6323,
+    "uuid": "ba074696-67cb-4098-a8bb-39b04bacf590",
+    "title": "flower_garden.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/ba074696-67cb-4098-a8bb-39b04bacf590/flower_garden.svg",
+      "file_name": "flower_garden.svg",
+      "file_size": 3924,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "0ea442178c1fd268e7b6d5cdcf3263c48c42b4c1",
+      "title": "flower_garden.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

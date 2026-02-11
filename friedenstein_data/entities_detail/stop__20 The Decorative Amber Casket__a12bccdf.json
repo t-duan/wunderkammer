@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080448,
+    "uuid": "a12bccdf-1243-455f-b235-47beae5f0f10",
+    "title": "20 The Decorative Amber Casket",
+    "content": {
+      "image": "1c2759ff-41d6-4ffd-97d6-4ebfaa8b50bf",
+      "title": {
+        "de-DE": "Der Prunkkasten aus Bernstein",
+        "en-US": "The Decorative Amber Casket"
+      },
+      "preview": false,
+      "stopnumber": 20,
+      "primary_segment": "6324b8fc-93fd-4b69-983c-3645829f2943",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f967903fd9adc251fccb9ed69ca012992a02607d",
+      "title": "20 The Decorative Amber Casket",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:54:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1c2759ff-41d6-4ffd-97d6-4ebfaa8b50bf"
+        ],
+        "audio_segment": [
+          "6324b8fc-93fd-4b69-983c-3645829f2943"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

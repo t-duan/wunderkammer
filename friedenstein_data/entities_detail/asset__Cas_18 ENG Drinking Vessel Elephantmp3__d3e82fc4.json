@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22230,
+    "uuid": "d3e82fc4-33b5-476d-9c30-29efb9c8d831",
+    "title": "Cas_18 ENG Drinking Vessel Elephant.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/d3e82fc4-33b5-476d-9c30-29efb9c8d831/Cas_18%20ENG%20Drinking%20Vessel%20Elephant.mp3",
+      "file_name": "Cas_18 ENG Drinking Vessel Elephant.mp3",
+      "file_size": 1456584,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a2034d276bdafb5de824069991cd1f90ba98d0d1",
+      "title": "Cas_18 ENG Drinking Vessel Elephant.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079818,
+    "uuid": "94056785-5b92-4ae9-b7f2-25fad35ae4d3",
+    "title": "75 Container for Incense",
+    "content": {
+      "image": "1aac0aec-73cd-43ce-a21d-c0bac442ddc4",
+      "title": {
+        "de-DE": "Dose für Räucherwerk",
+        "en-US": "Container for Incense"
+      },
+      "preview": false,
+      "stopnumber": 175,
+      "primary_segment": "dd1ac4dc-f3b8-447a-b8e7-7f456764e981",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "75142c7d82ba790c42299a47d4706945ef361a40",
+      "title": "75 Container for Incense",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:39:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1aac0aec-73cd-43ce-a21d-c0bac442ddc4"
+        ],
+        "audio_segment": [
+          "dd1ac4dc-f3b8-447a-b8e7-7f456764e981"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

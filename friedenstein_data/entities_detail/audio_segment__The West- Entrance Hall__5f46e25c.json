@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080475,
+    "uuid": "5f46e25c-517b-4e41-850e-8a119a8fea99",
+    "title": "The West- Entrance Hall",
+    "content": {
+      "title": {
+        "de-DE": "The West- Entrance Hall",
+        "en-US": "The West- Entrance Hall"
+      },
+      "audiofile": {
+        "de-DE": "acb24f92-3e6f-473d-8da6-257849460235",
+        "en-US": "002aa0e8-ddff-4dc2-860c-72e395e4d0c3"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3e2dda51e10b93856b3a848f84b41814c8869f75",
+      "title": "The West- Entrance Hall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:20:04.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "002aa0e8-ddff-4dc2-860c-72e395e4d0c3",
+          "acb24f92-3e6f-473d-8da6-257849460235"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

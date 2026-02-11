@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080127,
+    "uuid": "902ebf7b-6129-4edc-b124-84bb8ab87700",
+    "title": "26 Jean-Antoine Houdon: Portrait of Diderot",
+    "content": {
+      "image": "5e1c9780-4082-44d7-a0ea-eed724a83bf5",
+      "title": {
+        "de-DE": "Jean-Antoine Houdon: Portrait Diderots",
+        "en-US": "Jean-Antoine Houdon: Portrait of Diderot"
+      },
+      "preview": false,
+      "stopnumber": 126,
+      "primary_segment": "c5d1b361-2be2-45dc-a837-deefdd993c31",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "152098f9e25cb2857ea595a73f98aa9991e474db",
+      "title": "26 Jean-Antoine Houdon: Portrait of Diderot",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:06:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5e1c9780-4082-44d7-a0ea-eed724a83bf5"
+        ],
+        "audio_segment": [
+          "c5d1b361-2be2-45dc-a837-deefdd993c31"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080193,
+    "uuid": "d15f3242-bdca-4962-9837-c924bcfaaa46",
+    "title": "Jüdenstraße und Schwarzes Viertel",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e6af3630373241d897e980d2737b19b8df2582d5",
+      "title": "Jüdenstraße und Schwarzes Viertel",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:33:57.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

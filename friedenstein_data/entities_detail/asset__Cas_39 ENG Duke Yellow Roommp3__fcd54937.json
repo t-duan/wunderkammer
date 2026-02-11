@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22211,
+    "uuid": "fcd54937-39f0-40e6-b5ef-9999045af502",
+    "title": "Cas_39 ENG Duke Yellow Room.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/fcd54937-39f0-40e6-b5ef-9999045af502/Cas_39%20ENG%20Duke%20Yellow%20Room.mp3",
+      "file_name": "Cas_39 ENG Duke Yellow Room.mp3",
+      "file_size": 3198998,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "e64b7be24f31edf6d758b33655c8377298704b62",
+      "title": "Cas_39 ENG Duke Yellow Room.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

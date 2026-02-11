@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080478,
+    "uuid": "3d16487b-9240-4c23-91e0-aee2da66802b",
+    "title": "15 The Banqueting Hall",
+    "content": {
+      "image": "ce1c26d7-50f4-4ee0-9830-7bf1724b34fc",
+      "title": {
+        "de-DE": "Festsaal",
+        "en-US": "The Banqueting Hall"
+      },
+      "preview": false,
+      "stopnumber": 15,
+      "primary_segment": "04504db3-d258-4a72-846d-70f706d6b6c8",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1b72123b3f93ba5a99cd95073b49bb5eb971ddcc",
+      "title": "15 The Banqueting Hall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:17:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "ce1c26d7-50f4-4ee0-9830-7bf1724b34fc"
+        ],
+        "audio_segment": [
+          "04504db3-d258-4a72-846d-70f706d6b6c8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

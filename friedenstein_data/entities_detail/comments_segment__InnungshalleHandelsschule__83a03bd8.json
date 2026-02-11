@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080196,
+    "uuid": "83a03bd8-b2b3-4fc7-a710-55ac54482f75",
+    "title": "Innungshalle/Handelsschule",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3d3dd0f3b975406c2e33ef7b7e4b0a3d78b9c382",
+      "title": "Innungshalle/Handelsschule",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:32:49.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079821,
+    "uuid": "dd1ac4dc-f3b8-447a-b8e7-7f456764e981",
+    "title": "75 Container for Incense",
+    "content": {
+      "title": {
+        "de-DE": "75 Container for Incense",
+        "en-US": "75 Container for Incense"
+      },
+      "audiofile": {
+        "de-DE": "30dbbf71-2ba0-48ac-baad-c8e662e9af9f",
+        "en-US": "a63ef37a-2862-4d0a-a6fe-5b3d21d2371e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "76e0f0d08ef304adc824cfc3432482cfedc1809c",
+      "title": "75 Container for Incense",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:39:02.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "30dbbf71-2ba0-48ac-baad-c8e662e9af9f",
+          "a63ef37a-2862-4d0a-a6fe-5b3d21d2371e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

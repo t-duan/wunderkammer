@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22326,
+    "uuid": "519240f4-d21e-413a-adee-5579e57208cf",
+    "title": "Wasserkunst Gotha - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/519240f4-d21e-413a-adee-5579e57208cf/Wasserkunst%20Gotha%20-%20DE.mp3",
+      "file_name": "Wasserkunst Gotha - DE.mp3",
+      "file_size": 4224395,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "64008f468361e523c9e3ddd5c51dc2c02ed74782",
+      "title": "Wasserkunst Gotha - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:40:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

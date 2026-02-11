@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080373,
+    "uuid": "a303a658-66ba-4397-8037-7c3f819bb9ce",
+    "title": "34 The Duchess’ Salon",
+    "content": {
+      "image": "2d981e31-885e-4232-9595-c6d31b6280cd",
+      "title": {
+        "de-DE": "Wohnzimmer und Boudoir der Herzogin (Pompejanisches Zimmer)",
+        "en-US": "The Duchess’ Salon"
+      },
+      "preview": false,
+      "stopnumber": 34,
+      "primary_segment": "0dd38056-32d5-4171-a8f7-13f257280957",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5677dc897ab148182f91e5dc084021d57d4eec49",
+      "title": "34 The Duchess’ Salon",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:15:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2d981e31-885e-4232-9595-c6d31b6280cd"
+        ],
+        "audio_segment": [
+          "0dd38056-32d5-4171-a8f7-13f257280957"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080361,
+    "uuid": "3f32e787-5d50-4069-9045-b9c3dcd7ba0b",
+    "title": "36 Duchess’s Cabinet",
+    "content": {
+      "image": "3b21029f-aa20-4994-be57-dee2d01ce374",
+      "title": {
+        "de-DE": "Kabinett der Herzogin (Blaues Zimmer)",
+        "en-US": "Duchess’s Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 36,
+      "primary_segment": "23051442-6815-461a-a51a-734ee60be2d0",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6acf65f096d8cd10a51295e66fde1c185b4728ec",
+      "title": "36 Duchess’s Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:18:16.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "3b21029f-aa20-4994-be57-dee2d01ce374"
+        ],
+        "audio_segment": [
+          "23051442-6815-461a-a51a-734ee60be2d0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

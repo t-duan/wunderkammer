@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35475,
+    "uuid": "a873773b-6119-506b-adab-e2f62b34f984",
+    "title": "Neumarkt - Häuser der Nordseite",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt - Häuser der Nordseite",
+        "en-US": "Neumarkt - Häuser der Nordseite"
+      },
+      "period": {
+        "de-DE": [
+          "August 1992"
+        ],
+        "en-US": [
+          "August 1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040258%2F871347_00251083_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "41762"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "25e4f0bb44e3b5815c8c491a8bc05713611f1cc1",
+      "title": "Neumarkt - Häuser der Nordseite",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.730Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "462E40EEA8D34A48AD9F9214A155C69E"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

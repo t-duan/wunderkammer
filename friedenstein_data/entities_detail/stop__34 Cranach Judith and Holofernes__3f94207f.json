@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080064,
+    "uuid": "3f94207f-099e-435e-98c2-8b598b7a9dce",
+    "title": "34 Cranach: Judith and Holofernes",
+    "content": {
+      "image": "9aaa38c8-0e61-4296-a2c7-dcb8530db94d",
+      "title": {
+        "de-DE": "Cranach: Judith und Holofernes",
+        "en-US": "Cranach: Judith and Holofernes"
+      },
+      "preview": false,
+      "stopnumber": 134,
+      "primary_segment": "3460b32d-1062-4592-b8bb-0e2ff855e18d",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "12fc247ed2f47ecd05d2686d2837bedbfb673fd3",
+      "title": "34 Cranach: Judith and Holofernes",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:23:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "9aaa38c8-0e61-4296-a2c7-dcb8530db94d"
+        ],
+        "audio_segment": [
+          "3460b32d-1062-4592-b8bb-0e2ff855e18d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35388,
+    "uuid": "38d46881-15a7-5f50-ae82-752b489c749f",
+    "title": "Jüdenstraße, Haus Nr. 3 - Barbier, Friseur, Perückenmachermeister Friedrich Franke",
+    "content": {
+      "title": {
+        "de-DE": "Jüdenstraße, Haus Nr. 3 - Barbier, Friseur, Perückenmachermeister Friedrich Franke",
+        "en-US": "Jüdenstraße, Haus Nr. 3 - Barbier, Friseur, Perückenmachermeister Friedrich Franke"
+      },
+      "period": {
+        "de-DE": [
+          "vor 1914"
+        ],
+        "en-US": [
+          "vor 1914"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Barytpapier"
+        ],
+        "en-US": [
+          "Barytpapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 8.1 cm",
+          "Breite 11.2 cm"
+        ],
+        "en-US": [
+          "Höhe 8.1 cm",
+          "Breite 11.2 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01044658%2F871347_00222725_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "24390"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "5ed9d8020cbbb46afd69ff71665e2aa423c73479",
+      "title": "Jüdenstraße, Haus Nr. 3 - Barbier, Friseur, Perückenmachermeister Friedrich Franke",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.572Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "9278543179FE409D9688E84A89F2AF72"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

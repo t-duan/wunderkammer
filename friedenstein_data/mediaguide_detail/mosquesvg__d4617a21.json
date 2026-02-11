@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6318,
+    "uuid": "d4617a21-99db-40c3-b960-437a6e98669c",
+    "title": "mosque.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/d4617a21-99db-40c3-b960-437a6e98669c/mosque.svg",
+      "file_name": "mosque.svg",
+      "file_size": 2836,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "f5f4ff19f3e4494dc7d766d1b73409b12bb90b87",
+      "title": "mosque.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

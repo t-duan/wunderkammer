@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6307,
+    "uuid": "82c2877b-31d2-4cf8-a560-0f5b514b7ec8",
+    "title": "sail.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/82c2877b-31d2-4cf8-a560-0f5b514b7ec8/sail.svg",
+      "file_name": "sail.svg",
+      "file_size": 3662,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "95b031f69c23076ede2ecb94aaf837ce72103cdb",
+      "title": "sail.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

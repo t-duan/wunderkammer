@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080391,
+    "uuid": "bde4cca7-b92f-4ced-a62a-490682fbf992",
+    "title": "31 New Apartments",
+    "content": {
+      "image": "1a411d6c-0958-4320-91cb-f8f21955f2a1",
+      "title": {
+        "de-DE": "Vorzimmer der Herzogin (Marmorzimmer)",
+        "en-US": "New Apartments"
+      },
+      "preview": false,
+      "stopnumber": 31,
+      "primary_segment": "b37c3d95-d6dc-4b63-8dc0-986c0321feb3",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "242f78f5bcaef7bce1fea160e340fabdccd44fce",
+      "title": "31 New Apartments",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:11:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1a411d6c-0958-4320-91cb-f8f21955f2a1"
+        ],
+        "audio_segment": [
+          "b37c3d95-d6dc-4b63-8dc0-986c0321feb3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

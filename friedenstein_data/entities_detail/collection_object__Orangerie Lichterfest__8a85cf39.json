@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35364,
+    "uuid": "8a85cf39-873a-53f0-bf9e-425a35b12b00",
+    "title": "Orangerie, Lichterfest",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie, Lichterfest",
+        "en-US": "Orangerie, Lichterfest"
+      },
+      "period": {
+        "de-DE": [
+          "1973"
+        ],
+        "en-US": [
+          "1973"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 17.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 17.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040484%2F871347_00251444_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "16447"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "405d6e4348f53c65a4111797f8d998b4de3fcb9b",
+      "title": "Orangerie, Lichterfest",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.820Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "45D5995DA83C45759E974FC6ABD1A7B2"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

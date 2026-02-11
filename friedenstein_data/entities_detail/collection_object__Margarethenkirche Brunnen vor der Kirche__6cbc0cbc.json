@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35415,
+    "uuid": "6cbc0cbc-4aac-5523-950f-9ecf7a24bc82",
+    "title": "Margarethenkirche, Brunnen vor der Kirche",
+    "content": {
+      "title": {
+        "de-DE": "Margarethenkirche, Brunnen vor der Kirche",
+        "en-US": "Margarethenkirche, Brunnen vor der Kirche"
+      },
+      "material": {
+        "de-DE": [
+          "Barytpapier"
+        ],
+        "en-US": [
+          "Barytpapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 14.5 cm",
+          "Breite 10.5 cm"
+        ],
+        "en-US": [
+          "Höhe 14.5 cm",
+          "Breite 10.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Ansichtspostkarte"
+        ],
+        "en-US": [
+          "Ansichtspostkarte"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01046316%2F871347_00224708_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "26784"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9bd79f94e7a24c4588bd166ba0553832b0227f90",
+      "title": "Margarethenkirche, Brunnen vor der Kirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.310Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "68053453D44A427AAC7637FACF40F6D1"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

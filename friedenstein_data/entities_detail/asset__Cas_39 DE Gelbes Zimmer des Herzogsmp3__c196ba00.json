@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22250,
+    "uuid": "c196ba00-5958-4247-bdca-5b196a08ab1d",
+    "title": "Cas_39 DE Gelbes Zimmer des Herzogs.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/c196ba00-5958-4247-bdca-5b196a08ab1d/Cas_39%20DE%20Gelbes%20Zimmer%20des%20Herzogs.mp3",
+      "file_name": "Cas_39 DE Gelbes Zimmer des Herzogs.mp3",
+      "file_size": 2847463,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "1a5648e35d7066f8b319a6a24b67b713d2da7a68",
+      "title": "Cas_39 DE Gelbes Zimmer des Herzogs.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

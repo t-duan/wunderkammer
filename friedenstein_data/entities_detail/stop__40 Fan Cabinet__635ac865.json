@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080028,
+    "uuid": "635ac865-fbdc-4db8-8216-d7f7bc89b404",
+    "title": "40 Fan Cabinet",
+    "content": {
+      "image": "79a7bac9-eaa4-4f6c-9c03-b21a3323749f",
+      "title": {
+        "de-DE": "Fächerkabinett",
+        "en-US": "Fan Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 140,
+      "primary_segment": "ddfb2e73-f94a-4eef-aef7-186aaee102a7",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f36d84b593a189cc692759deb810a2cde9fa59b8",
+      "title": "40 Fan Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:33:40.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "79a7bac9-eaa4-4f6c-9c03-b21a3323749f"
+        ],
+        "audio_segment": [
+          "ddfb2e73-f94a-4eef-aef7-186aaee102a7"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

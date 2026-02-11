@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070741,
+    "uuid": "9dfddc5e-3f62-41a8-adb2-ce679539da69",
+    "title": "Playground",
+    "content": {
+      "key": "playground",
+      "icon": "66d0a3c1-2200-4073-8999-4ae222607cf9",
+      "label": {
+        "ar-AE": "ملعب",
+        "ar-SA": "ملعب",
+        "de-DE": "Spielplatz",
+        "en-GB": "Playground",
+        "en-US": "Playground",
+        "es-ES": "Patio de juegos",
+        "fa-IR": "زمین بازی",
+        "fr-FR": "Aire de jeux",
+        "it-IT": "Parco giochi",
+        "ja-JP": "遊び場",
+        "nl-NL": "Speeltuin",
+        "zh-CN": "操场",
+        "nl-NL-AD": "Speeltuin",
+        "nl-NL-sl": "Speeltuin"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6a3b9276da2290ae5a289ae6e01c20cf9550e702",
+      "title": "Playground",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:50:45.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "66d0a3c1-2200-4073-8999-4ae222607cf9"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35481,
+    "uuid": "20904778-dcf4-564e-8f79-5420f7b671ce",
+    "title": "Schloss Friedenstein - Ehrenmal für die Opfer des Faschismus im Rosengarten",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein - Ehrenmal für die Opfer des Faschismus im Rosengarten",
+        "en-US": "Schloss Friedenstein - Ehrenmal für die Opfer des Faschismus im Rosengarten"
+      },
+      "period": {
+        "de-DE": [
+          "August 1992"
+        ],
+        "en-US": [
+          "August 1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040451%2F871347_00251310_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "41927"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1a178215954c37fb9ceb3bcfcb1048c3b253e460",
+      "title": "Schloss Friedenstein - Ehrenmal für die Opfer des Faschismus im Rosengarten",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.673Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "642A1F14CDD74499989D420AE697D5E3"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

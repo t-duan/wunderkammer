@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080592,
+    "uuid": "28b3d832-44ea-4cd8-8e07-10b06b72a99a",
+    "title": "Herzogliches Museum",
+    "content": {
+      "type": "audio",
+      "content": "1ef499aa-54ec-4a22-8621-6312a95b8cce",
+      "geo_location": {
+        "lat": 50.94371,
+        "lng": 10.705621
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "edb709a9866a40a241dd47488020b70c27bf92a5",
+      "title": "Herzogliches Museum",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:37:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "1ef499aa-54ec-4a22-8621-6312a95b8cce"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

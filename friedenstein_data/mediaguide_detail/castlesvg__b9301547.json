@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6330,
+    "uuid": "b9301547-214e-493e-8c45-1f6c3b1205c8",
+    "title": "castle.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/b9301547-214e-493e-8c45-1f6c3b1205c8/castle.svg",
+      "file_name": "castle.svg",
+      "file_size": 1349,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "5b9eb6b48f9228cada7865ad7353b4cd211ee6a6",
+      "title": "castle.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:31.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

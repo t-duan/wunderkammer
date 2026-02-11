@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080205,
+    "uuid": "001b5cfe-a78d-4317-987a-d1c3592125eb",
+    "title": "Bahnhof",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "de95ae1392649a6bb8470f780c87b703ae2053b6",
+      "title": "Bahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:23:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

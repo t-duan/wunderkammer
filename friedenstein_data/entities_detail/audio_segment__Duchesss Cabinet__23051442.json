@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080364,
+    "uuid": "23051442-6815-461a-a51a-734ee60be2d0",
+    "title": "Duchess’s Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "Duchess’s Cabinet",
+        "en-US": "Duchess’s Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "d435fd73-0260-47a5-919c-47797e4fa764",
+        "en-US": "2277fe4b-adce-422a-a033-9cab4b29eeb2"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "137c1d49590e8ea055bbd590e74359283e72a8cd",
+      "title": "Duchess’s Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:18:02.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2277fe4b-adce-422a-a033-9cab4b29eeb2",
+          "d435fd73-0260-47a5-919c-47797e4fa764"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080145,
+    "uuid": "24cf7cf6-e053-45c3-8311-522290d1f50d",
+    "title": "24 Jean-Antoine Houdon: Anatomical Study",
+    "content": {
+      "title": {
+        "de-DE": "24 Jean-Antoine Houdon: Anatomical Study",
+        "en-US": "24 Jean-Antoine Houdon: Anatomical Study"
+      },
+      "audiofile": {
+        "de-DE": "520f6877-7354-4235-ad8e-807258eaf3c8",
+        "en-US": "f4d7a173-c96a-4c16-b670-ff9a1ca2ec36"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "96e553f77fdd8a10f7623c85e82f4f5df2cbfeb3",
+      "title": "24 Jean-Antoine Houdon: Anatomical Study",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:03:25.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "520f6877-7354-4235-ad8e-807258eaf3c8",
+          "f4d7a173-c96a-4c16-b670-ff9a1ca2ec36"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

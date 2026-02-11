@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080394,
+    "uuid": "b37c3d95-d6dc-4b63-8dc0-986c0321feb3",
+    "title": "New Apartments",
+    "content": {
+      "title": {
+        "de-DE": "New Apartments",
+        "en-US": "New Apartments"
+      },
+      "audiofile": {
+        "de-DE": "8da593c8-4b21-4c59-8713-f7ae61d2c83c",
+        "en-US": "eb64110a-265f-4ecf-9ba9-938ec1072f0d"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "daeeee889b11a6c56d421d3213c1ebea865dcdfb",
+      "title": "New Apartments",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:11:29.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8da593c8-4b21-4c59-8713-f7ae61d2c83c",
+          "eb64110a-265f-4ecf-9ba9-938ec1072f0d"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

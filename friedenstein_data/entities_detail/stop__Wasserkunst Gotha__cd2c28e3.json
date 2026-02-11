@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080646,
+    "uuid": "cd2c28e3-56be-42a5-ab79-0ee80069b29e",
+    "title": "Wasserkunst Gotha",
+    "content": {
+      "image": "4538913a-cab6-44f8-88cf-2e0cbca77239",
+      "title": {
+        "de-DE": "Wasserkunst Gotha",
+        "en-US": "Water Art Gotha"
+      },
+      "preview": false,
+      "primary_segment": "057ecbc3-b5e3-4b7a-800f-bc1be6753bb7",
+      "secondary_segments": [
+        "cb0fc33c-72d1-445e-a4b3-a0c4b76ab51a",
+        "91a55936-b9db-4e19-be04-335855f91853"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b4f650cd5dd89f2d7032f5e4929e382e29b4e32b",
+      "title": "Wasserkunst Gotha",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T08:54:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4538913a-cab6-44f8-88cf-2e0cbca77239"
+        ],
+        "audio_segment": [
+          "057ecbc3-b5e3-4b7a-800f-bc1be6753bb7"
+        ],
+        "comments_segment": [
+          "91a55936-b9db-4e19-be04-335855f91853"
+        ],
+        "collection_object_gallery_segment": [
+          "cb0fc33c-72d1-445e-a4b3-a0c4b76ab51a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

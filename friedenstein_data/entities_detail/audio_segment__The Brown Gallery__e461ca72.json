@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080553,
+    "uuid": "e461ca72-f2a8-40b8-abe4-d18691b51133",
+    "title": "The Brown Gallery",
+    "content": {
+      "title": {
+        "de-DE": "The Brown Gallery",
+        "en-US": "The Brown Gallery"
+      },
+      "audiofile": {
+        "de-DE": "219d7128-515e-4104-b5e0-217af06f415c",
+        "en-US": "8ae172e5-99f0-41d9-87fa-a14c85cd2ddd"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a064f037c44179847984e343c02c27561b9d05ee",
+      "title": "The Brown Gallery",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:45:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "219d7128-515e-4104-b5e0-217af06f415c",
+          "8ae172e5-99f0-41d9-87fa-a14c85cd2ddd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6319,
+    "uuid": "94a5cd5a-0c9d-40fb-820a-5b2d2bf21851",
+    "title": "monument.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/94a5cd5a-0c9d-40fb-820a-5b2d2bf21851/monument.svg",
+      "file_name": "monument.svg",
+      "file_size": 615,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "79e6696fe89795ac9b6f8b7f23d9b66e4058dfed",
+      "title": "monument.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

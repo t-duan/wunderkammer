@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080268,
+    "uuid": "d4d09d86-ea38-48fc-a9a6-21a30d311fbb",
+    "title": "Cat mummy",
+    "content": {
+      "title": {
+        "de-DE": "Cat mummy",
+        "en-US": "Cat mummy"
+      },
+      "audiofile": {
+        "de-DE": "afd016f0-bdbb-47d6-8264-06fe3247ef10",
+        "en-US": "777ff25c-3435-43f6-925b-b404bb439543"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7721f3ffba27aff5fbb93e2c533a984351883735",
+      "title": "Cat mummy",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:36:13.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "777ff25c-3435-43f6-925b-b404bb439543",
+          "afd016f0-bdbb-47d6-8264-06fe3247ef10"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

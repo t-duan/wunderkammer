@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35472,
+    "uuid": "51af328f-5fe1-5b15-90ac-ce75169dbdff",
+    "title": "Erfurter Straße - Haus Nr. 5/7 - Kaufhaus Joh",
+    "content": {
+      "title": {
+        "de-DE": "Erfurter Straße - Haus Nr. 5/7 - Kaufhaus Joh",
+        "en-US": "Erfurter Straße - Haus Nr. 5/7 - Kaufhaus Joh"
+      },
+      "period": {
+        "de-DE": [
+          "23.08.1992"
+        ],
+        "en-US": [
+          "23.08.1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ],
+        "en-US": [
+          "Höhe 12.5 cm",
+          "Breite 18.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970607%2F871347_00250721_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "41750"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "38fe25b065bc126034a08585a2417db90790a07f",
+      "title": "Erfurter Straße - Haus Nr. 5/7 - Kaufhaus Joh",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.757Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "64B53615271640BA8B9B0DFBB957E6EA"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

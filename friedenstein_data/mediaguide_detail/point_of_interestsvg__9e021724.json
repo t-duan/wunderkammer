@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6313,
+    "uuid": "9e021724-ea89-4696-b3cc-2da479b46a04",
+    "title": "point_of_interest.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/9e021724-ea89-4696-b3cc-2da479b46a04/point_of_interest.svg",
+      "file_name": "point_of_interest.svg",
+      "file_size": 1246,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "4e5da148de8ffd5e0d2936a41d39ef84886f8eff",
+      "title": "point_of_interest.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

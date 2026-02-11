@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22235,
+    "uuid": "c357b2fd-44f8-4813-906b-d0427f67af95",
+    "title": "Cas_12 ENG Rococo Cabinet.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/c357b2fd-44f8-4813-906b-d0427f67af95/Cas_12%20ENG%20Rococo%20Cabinet.mp3",
+      "file_name": "Cas_12 ENG Rococo Cabinet.mp3",
+      "file_size": 677531,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "44b5fe8eaf56b2393cb4b6f500126a2ae6be9aab",
+      "title": "Cas_12 ENG Rococo Cabinet.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:24.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

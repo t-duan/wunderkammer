@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079926,
+    "uuid": "6fa31e04-4925-43cf-9c6b-aeb49431ad76",
+    "title": "57 Wtewael: Holy Family",
+    "content": {
+      "image": "2a36908d-e69b-4b08-8a3b-f699f9eff3ee",
+      "title": {
+        "de-DE": "Wtewael: Heilige Familie",
+        "en-US": "Wtewael: Holy Family"
+      },
+      "preview": false,
+      "stopnumber": 157,
+      "primary_segment": "5ae479db-f531-4724-9b6b-0a26a740df11",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "2e4b17aedc69ec8fb14da324d777cde3abc9c7ce",
+      "title": "57 Wtewael: Holy Family",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:03:11.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2a36908d-e69b-4b08-8a3b-f699f9eff3ee"
+        ],
+        "audio_segment": [
+          "5ae479db-f531-4724-9b6b-0a26a740df11"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

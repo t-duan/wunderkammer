@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35376,
+    "uuid": "87a63858-ca89-5822-83d8-68f099f3d2b9",
+    "title": "Orangerie, Der neue Springbrunnen in der Orangerie",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie, Der neue Springbrunnen in der Orangerie",
+        "en-US": "Orangerie, Der neue Springbrunnen in der Orangerie"
+      },
+      "period": {
+        "de-DE": [
+          "September 1969"
+        ],
+        "en-US": [
+          "September 1969"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 13.0 cm",
+          "Breite 7.5 cm"
+        ],
+        "en-US": [
+          "Höhe 13.0 cm",
+          "Breite 7.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064817%2F871347_00251419_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "20648"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8bf7446d6f0a914a9ed5c1df1dfb52acbc275fc8",
+      "title": "Orangerie, Der neue Springbrunnen in der Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.696Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "D6E177EC850E4E82817DB7A8B3321EA5"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

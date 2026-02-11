@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080010,
+    "uuid": "d1a032bd-e868-49a7-a562-82f6d6a97679",
+    "title": "43 Bottle with Black Varnish and Gold",
+    "content": {
+      "image": "51dae934-7e67-4aaa-9cdb-1bcd9f7fe364",
+      "title": {
+        "de-DE": "Flasche mit Schwarzlack und Gold",
+        "en-US": "Bottle with Black Varnish and Gold"
+      },
+      "preview": false,
+      "stopnumber": 143,
+      "primary_segment": "ff8a3714-e69b-48fd-8471-4815f22ebdac",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "198921bfb7deeab56b5dc48a3e1c753a0185333e",
+      "title": "43 Bottle with Black Varnish and Gold",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:41:22.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "51dae934-7e67-4aaa-9cdb-1bcd9f7fe364"
+        ],
+        "audio_segment": [
+          "ff8a3714-e69b-48fd-8471-4815f22ebdac"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

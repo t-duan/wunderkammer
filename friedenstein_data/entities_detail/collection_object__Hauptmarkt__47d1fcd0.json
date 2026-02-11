@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35469,
+    "uuid": "47d1fcd0-f94b-52e7-977f-628ac39fd700",
+    "title": "Hauptmarkt",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt",
+        "en-US": "Hauptmarkt"
+      },
+      "period": {
+        "de-DE": [
+          "um 1885"
+        ],
+        "en-US": [
+          "um 1885"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 9.5 cm",
+          "Breite 13.5 cm"
+        ],
+        "en-US": [
+          "Höhe 9.5 cm",
+          "Breite 13.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064057%2F871347_00250794_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "414"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "afbf4868e119d92e07415ab92d40b3f84a9510b1",
+      "title": "Hauptmarkt",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.786Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "9E84783E821D4D559CC0F9071C8A40C2"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

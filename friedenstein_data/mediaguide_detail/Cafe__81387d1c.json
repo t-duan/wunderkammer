@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2071041,
+    "uuid": "81387d1c-9002-47d4-a74d-84c2056248fb",
+    "title": "Cafe",
+    "content": {
+      "key": "cafe",
+      "icon": "c1d9af91-310a-41b7-b9cd-037d6b834c20",
+      "label": {
+        "ar-AE": "مقهى",
+        "ar-SA": "مقهى",
+        "de-DE": "Cafe",
+        "en-GB": "Cafe",
+        "en-US": "Cafe",
+        "es-ES": "Cafetería",
+        "fa-IR": "کافه",
+        "fr-FR": "Café",
+        "it-IT": "Caffè",
+        "ja-JP": "カフェ",
+        "nl-NL": "Café",
+        "zh-CN": "咖啡店",
+        "nl-NL-AD": "Café",
+        "nl-NL-sl": "Café"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "93737da39182bcd9b58db1c10f833caf41635b96",
+      "title": "Cafe",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:44:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c1d9af91-310a-41b7-b9cd-037d6b834c20"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

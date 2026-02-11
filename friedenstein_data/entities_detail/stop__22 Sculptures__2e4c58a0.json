@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080154,
+    "uuid": "2e4c58a0-ae09-4f42-8bec-1c41f502a2db",
+    "title": "22 Sculptures",
+    "content": {
+      "image": "78ca8985-1f24-452d-aff6-8fb7e03f2cee",
+      "title": {
+        "de-DE": "Skulpturen",
+        "en-US": "Sculptures"
+      },
+      "preview": false,
+      "stopnumber": 122,
+      "primary_segment": "fc23c5e4-e22e-41dc-807c-def2ebacd839",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8bcdf9f627cb01d812b328482704a3cea9a01d14",
+      "title": "22 Sculptures",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:00:27.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "78ca8985-1f24-452d-aff6-8fb7e03f2cee"
+        ],
+        "audio_segment": [
+          "fc23c5e4-e22e-41dc-807c-def2ebacd839"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

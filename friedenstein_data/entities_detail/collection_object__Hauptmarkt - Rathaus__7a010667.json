@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35496,
+    "uuid": "7a010667-89c2-517f-949e-32bb4a02493e",
+    "title": "Hauptmarkt - Rathaus",
+    "content": {
+      "title": {
+        "de-DE": "Hauptmarkt - Rathaus",
+        "en-US": "Hauptmarkt - Rathaus"
+      },
+      "period": {
+        "de-DE": [
+          "August 1992"
+        ],
+        "en-US": [
+          "August 1992"
+        ]
+      },
+      "creator": [
+        "Karin Sturm"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 18.5 cm",
+          "Breite 12.5 cm"
+        ],
+        "en-US": [
+          "Höhe 18.5 cm",
+          "Breite 12.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01040147%2F871347_00250967_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "42329"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a35cbcf4d287fa8597c4461676a06c145d6498e9",
+      "title": "Hauptmarkt - Rathaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.530Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "624F2EC5759248A4AE071CB5B1037A9A"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

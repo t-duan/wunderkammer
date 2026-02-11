@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080355,
+    "uuid": "a936b6e9-247d-42ac-9f9d-079498bd5edd",
+    "title": "37 Duke’s Anteroom",
+    "content": {
+      "image": "a1acaea3-7a00-41e8-a7c1-29f7aa11a0b0",
+      "title": {
+        "de-DE": "Vorzimmer des Herzogs (Musikzimmer)",
+        "en-US": "Duke’s Anteroom"
+      },
+      "preview": false,
+      "stopnumber": 37,
+      "primary_segment": "8891f90b-cd45-446f-88da-b995e72090de",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "57a0319b630eaea6556a92ea2611371449f61421",
+      "title": "37 Duke’s Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:19:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "a1acaea3-7a00-41e8-a7c1-29f7aa11a0b0"
+        ],
+        "audio_segment": [
+          "8891f90b-cd45-446f-88da-b995e72090de"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

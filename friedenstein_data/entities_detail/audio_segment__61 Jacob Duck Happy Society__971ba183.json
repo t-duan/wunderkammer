@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079905,
+    "uuid": "971ba183-1b77-4d2f-ad61-a229998ee7b4",
+    "title": "61 Jacob Duck: Happy Society",
+    "content": {
+      "title": {
+        "de-DE": "61 Jacob Duck: Happy Society",
+        "en-US": "61 Jacob Duck: Happy Society"
+      },
+      "audiofile": {
+        "de-DE": "df4d9c76-fb43-4bed-8bbc-1dfff391bd8e",
+        "en-US": "7a06ce3d-017c-4b0d-8404-8809381d4bc6"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c14c8593f5d5d7158c8a7d143f405b78e0319376",
+      "title": "61 Jacob Duck: Happy Society",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:08:42.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "7a06ce3d-017c-4b0d-8404-8809381d4bc6",
+          "df4d9c76-fb43-4bed-8bbc-1dfff391bd8e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

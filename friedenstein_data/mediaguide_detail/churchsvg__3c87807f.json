@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6324,
+    "uuid": "3c87807f-807d-4b91-ba36-f9e4231c6e83",
+    "title": "church.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/3c87807f-807d-4b91-ba36-f9e4231c6e83/church.svg",
+      "file_name": "church.svg",
+      "file_size": 1368,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "682a341efd89bc8412604ff84809ba0f33280e29",
+      "title": "church.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:32.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

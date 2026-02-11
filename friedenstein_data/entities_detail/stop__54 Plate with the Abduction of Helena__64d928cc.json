@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079944,
+    "uuid": "64d928cc-db36-4e45-96e0-376a9c9601d5",
+    "title": "54 Plate with the Abduction of Helena",
+    "content": {
+      "image": "dffa5801-899f-44ea-9c55-2d8698d95cc7",
+      "title": {
+        "de-DE": "Teller mit dem Raub der Helena",
+        "en-US": "Plate with the Abduction of Helena"
+      },
+      "preview": false,
+      "stopnumber": 154,
+      "primary_segment": "7970b941-66b0-4b25-8c96-736ec8ab8924",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7fc91afb1382c669200684391d713430b05cd3f7",
+      "title": "54 Plate with the Abduction of Helena",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:58:46.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "dffa5801-899f-44ea-9c55-2d8698d95cc7"
+        ],
+        "audio_segment": [
+          "7970b941-66b0-4b25-8c96-736ec8ab8924"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

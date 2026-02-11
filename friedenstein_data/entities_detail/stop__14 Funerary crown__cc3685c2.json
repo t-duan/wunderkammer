@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080223,
+    "uuid": "cc3685c2-96db-405e-83db-f46288128733",
+    "title": "14 Funerary crown",
+    "content": {
+      "image": "5c64d3c3-67f6-4bf0-b722-1081c6a309a0",
+      "title": {
+        "de-DE": "Grabkranz",
+        "en-US": "Funerary crown"
+      },
+      "preview": false,
+      "stopnumber": 114,
+      "primary_segment": "c7b01d22-4b2e-4464-98d4-2822d35f4a10",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "268ac4d73b18d0d1251a42c78228b3e93beaebaf",
+      "title": "14 Funerary crown",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:59:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5c64d3c3-67f6-4bf0-b722-1081c6a309a0"
+        ],
+        "audio_segment": [
+          "c7b01d22-4b2e-4464-98d4-2822d35f4a10"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

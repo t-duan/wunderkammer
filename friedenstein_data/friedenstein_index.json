@@ -1,0 +1,4192 @@
+{
+  "stops": [
+    {
+      "uuid": "59ff8ea5-638d-4b57-adca-a14852565dd6",
+      "stopnumber": null,
+      "title_de": "Bahnhof",
+      "title_en": "Trainstation",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e03e345d-3d70-4772-a746-d85d57f50c94/871347_00221862_001_am.jpg",
+        "filename": "871347_00221862_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 2507073,
+        "width": 2968,
+        "height": 1789
+      },
+      "audio_segment_uuid": "d473df52-74d6-4b53-b887-5c8d06c28ab9",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/05eaedad-573f-4509-835e-311ee4529bd1/Bahnhof%20Gotha%20-%20DE.mp3",
+        "filename": "Bahnhof Gotha - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 7143563,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/018292b2-cbf4-43af-a9b8-663c82b46be3/Train%20Station%20-%20EN.mp3",
+        "filename": "Train Station - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 6551435,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1ef499aa-54ec-4a22-8621-6312a95b8cce",
+      "stopnumber": null,
+      "title_de": "Herzogliches Museum",
+      "title_en": "Ducal Museum",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/61937d13-6425-4dec-b864-d8dfb4cf2527/871347_00248940_001_am.png",
+        "filename": "871347_00248940_001_am.png",
+        "mime_type": "image/png",
+        "file_size": 8884843,
+        "width": 2425,
+        "height": 1565
+      },
+      "audio_segment_uuid": "82dc4ebc-3c0a-4766-9832-c2609e0be420",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6bdcbb1d-3404-43c1-ac4d-593eac477c92/Herzogliches%20Museum%20Naturkundemuseum%20-%20DE.mp3",
+        "filename": "Herzogliches Museum Naturkundemuseum - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4620683,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4d3f8246-dcb5-44fd-82bf-eeb51bd6e2c8/Ducal%20Museum%20Museum%20of%20Natural%20History%20-%20EN.mp3",
+        "filename": "Ducal Museum Museum of Natural History - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3805067,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "cd2c28e3-56be-42a5-ab79-0ee80069b29e",
+      "stopnumber": null,
+      "title_de": "Wasserkunst Gotha",
+      "title_en": "Water Art Gotha",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4538913a-cab6-44f8-88cf-2e0cbca77239/871347_00248530_001_am.png",
+        "filename": "871347_00248530_001_am.png",
+        "mime_type": "image/png",
+        "file_size": 6292846,
+        "width": 2421,
+        "height": 1479
+      },
+      "audio_segment_uuid": "057ecbc3-b5e3-4b7a-800f-bc1be6753bb7",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/519240f4-d21e-413a-adee-5579e57208cf/Wasserkunst%20Gotha%20-%20DE.mp3",
+        "filename": "Wasserkunst Gotha - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4224395,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f4099850-0291-4f10-9226-4409139b7b24/Gotha%20Waterworks%20-%20EN.mp3",
+        "filename": "Gotha Waterworks - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3814283,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "4e78c58d-7fa7-4c7b-a248-8521fb12e957",
+      "stopnumber": null,
+      "title_de": "Jüdenstraße und Schwarzes Viertel",
+      "title_en": "Jewish Street and the Black Quarter",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/aa7dc7dd-345e-4596-874d-67e0acb756d9/871347_00222723_001_am.jpg",
+        "filename": "871347_00222723_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 3139162,
+        "width": 2910,
+        "height": 1837
+      },
+      "audio_segment_uuid": "396a3ee8-61b0-4713-a845-d3eaed5bcd0d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3e36ec94-b08f-444b-8b1d-516b4d173e1d/Ju%CC%88denstrasse%20und%20Schwarze%20Viertel%20-%20DE.mp3",
+        "filename": "Jüdenstrasse und Schwarze Viertel - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5025419,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3ea5763c-e5f7-4921-9f65-ffe278471b99/Jewish%20Street%20and%20The%20Black%20Quarter%20-%20EN.mp3",
+        "filename": "Jewish Street and The Black Quarter - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4255883,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a28d9668-bc96-41f9-8522-406977c7658e",
+      "stopnumber": null,
+      "title_de": "Rathaus Gotha",
+      "title_en": "Gotha Town Hall",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9c74ef16-2655-4933-ba5a-1a4ddd62ccd1/871347_00248552_001_am.jpg",
+        "filename": "871347_00248552_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 2150869,
+        "width": 2282,
+        "height": 1662
+      },
+      "audio_segment_uuid": "fe5190ad-fd71-423c-a375-67a5b2448f9d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c9a6ef0a-5ad8-4aa3-b122-9e637219d960/Rathaus%20Gotha%20-%20DE.mp3",
+        "filename": "Rathaus Gotha - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5579915,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5a0cff75-736e-453e-a981-528d4bb6028c/Gotha%20Town%20Hall%20-%20EN.mp3",
+        "filename": "Gotha Town Hall - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4678283,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "aae79fcd-47f4-4820-876d-6c7f0fa9c7a7",
+      "stopnumber": null,
+      "title_de": "Innungshalle/Handelsschule",
+      "title_en": "Guild Hall and Trade School",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/63e481ac-2eff-43be-826b-aa0e5cb72581/871347_00248185_001_am.png",
+        "filename": "871347_00248185_001_am.png",
+        "mime_type": "image/png",
+        "file_size": 16001666,
+        "width": 3075,
+        "height": 2571
+      },
+      "audio_segment_uuid": "8c16b78c-75c9-473e-a2af-e31c59e43491",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e3c4ee03-bffc-49ac-b639-5db384827f98/Innungshalle%20Handelsschule%20-%20DE.mp3",
+        "filename": "Innungshalle Handelsschule - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4970891,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/832e0ffb-30bb-493a-b96b-8b67a735d6d9/Guild%20Hall%20and%20Trade%20School%20-%20EN.mp3",
+        "filename": "Guild Hall and Trade School - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4546955,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "900649a7-5ce5-4178-8312-ef41a08c8b8b",
+      "stopnumber": null,
+      "title_de": "Neumarkt und Margarethenkirche",
+      "title_en": "Neumarkt and St Margaret's Church",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/bb84e117-ee38-408a-8c33-24822258a867/871347_00056154_001_posit.jpg",
+        "filename": "871347_00056154_001_posit.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 2690334,
+        "width": 2666,
+        "height": 1913
+      },
+      "audio_segment_uuid": "39172b7c-1243-4001-9586-641089fe8f60",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f6b2cc5f-1aba-4f7c-926a-8c7877183715/Neumarkt%20und%20Margarethenkirche%20-%20DE.mp3",
+        "filename": "Neumarkt und Margarethenkirche - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4622987,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/174422cd-1345-41b6-8467-b2abbc57ec0d/Neumarkt%20and%20St%20Margaret's%20Church%20-%20EN.mp3",
+        "filename": "Neumarkt and St Margaret's Church - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3914123,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e2880366-f720-40c3-806d-dd1fead8011d",
+      "stopnumber": null,
+      "title_de": "Bauhaus Kaufhaus",
+      "title_en": "Bauhaus Department Store",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/df222811-5bc5-4a7b-9f9f-eba27363ea83/871347_00250721_001_am.jpg",
+        "filename": "871347_00250721_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 6750851,
+        "width": 3361,
+        "height": 2361
+      },
+      "audio_segment_uuid": "90dbcec4-638d-4454-94e1-8ad944690ff6",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/cd438f30-8402-4de9-bb15-3639d6abf905/Kaufhaus%20Bauhaus%20-%20DE.mp3",
+        "filename": "Kaufhaus Bauhaus - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4716683,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e74b7448-942b-4a31-add7-d0793d4681e1/Bauhaus%20Department%20Store%20-%20EN.mp3",
+        "filename": "Bauhaus Department Store - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3935627,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "4a700560-3428-4f0a-bd36-910dff64f6c4",
+      "stopnumber": null,
+      "title_de": "Ehemaliges Direktionsgebäude der Gothaer Lebensversicherungsbank",
+      "title_en": "Former management building of the Gothaer Lebensversicherungsbank",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2075650a-7666-40df-bdc6-39a756272f65/871347_00248017_001_am.jpg",
+        "filename": "871347_00248017_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 4794594,
+        "width": 4373,
+        "height": 2792
+      },
+      "audio_segment_uuid": "7b7ed85a-2a05-4068-9d87-1b6231489874",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0ae25321-6a98-4f6d-b152-c18fdd9fc0c4/Gothaer%20Lebensversicherungsbank%20-%20DE.mp3",
+        "filename": "Gothaer Lebensversicherungsbank - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5939339,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/12a475fb-af2e-44d4-8ec5-a68dcaf8665c/Gotha%20Life%20Insurance%20Bank%20-%20EN.mp3",
+        "filename": "Gotha Life Insurance Bank - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5205899,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "83833416-53f3-44c0-ae0b-3cc073d99108",
+      "stopnumber": null,
+      "title_de": "Altes Theater",
+      "title_en": "The Old Theater",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b4721a13-5d39-460a-a572-b453bc0b0101/871347_00276060_001_am.jpg",
+        "filename": "871347_00276060_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 3616035,
+        "width": 3183,
+        "height": 2118
+      },
+      "audio_segment_uuid": "04256b75-00ca-4ec3-be93-31296d35a795",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/72bc6336-fb83-4f04-a642-d601f4831293/Atlas%20Theater%20Gotha%20-%20DE.mp3",
+        "filename": "Atlas Theater Gotha - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 6664331,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6d730cdd-36e3-4694-a8f7-1ff3de37f4cd/The%20Old%20Theater%20of%20Gotha%20-%20EN.mp3",
+        "filename": "The Old Theater of Gotha - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5074571,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "22c77d1c-8c4d-46bd-b111-002b9ceb6983",
+      "stopnumber": null,
+      "title_de": "Orangerie Gotha – Ein zeitloser Zufluchtsort",
+      "title_en": "Orangerie",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/43c25971-c8e0-4116-876d-da1d309fac19/871347_00251448_001_am.jpg",
+        "filename": "871347_00251448_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 1266876,
+        "width": 3129,
+        "height": 1708
+      },
+      "audio_segment_uuid": "5c24828b-63b8-4843-a8f4-bd0af30ddd25",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8d7b6aca-4b3c-4bf5-aec5-892140173ac4/Orangerie%20Gotha%20-%20DE.mp3",
+        "filename": "Orangerie Gotha - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5643659,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4c3691d1-a1f4-4700-a4c5-912e5b938693/Gotha%20Orangerie%20-%20EN.mp3",
+        "filename": "Gotha Orangerie - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5069963,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "7a9f3b44-be52-4db5-8c69-42134756bb7c",
+      "stopnumber": null,
+      "title_de": "Schloss Friedenstein",
+      "title_en": "Friedenstein Castle",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7497a47f-6897-41fb-a303-7f60b026e632/871347_00250347_001_am.jpg",
+        "filename": "871347_00250347_001_am.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 2243509,
+        "width": 2894,
+        "height": 1824
+      },
+      "audio_segment_uuid": "b7a5abda-8693-44e8-b3de-c0f62c93eda7",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/db431ef0-4c39-415a-ab65-632e7538314b/Schloss%20Friedenstein%20-%20DE.mp3",
+        "filename": "Schloss Friedenstein - DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 6509963,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6bba575b-ee37-4e36-a9d2-aea540693e41/Friedenstein%20Castle%20-%20EN.mp3",
+        "filename": "Friedenstein Castle - EN.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5581451,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "f14dbfa5-6658-48c2-a6d9-463b883904f0",
+      "stopnumber": 1,
+      "title_de": "Herzlich willkommen",
+      "title_en": "Welcome",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e9b46c5b-985f-41d0-a2ec-a9e492b8eedb/Cas_1.jpg",
+        "filename": "Cas_1.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 682066,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "32df8c4b-ed25-416b-832c-fd3ab2e44f06",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/574bf5f4-47b5-4c4a-8e8c-23a87f1c04ca/Cas_1%20DE%20Wilkommen.mp3",
+        "filename": "Cas_1 DE Wilkommen.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1150781,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4ebfd18b-1974-4b25-8d46-10bf339c5f63/Cas_1%20ENG%20Welcome.mp3",
+        "filename": "Cas_1 ENG Welcome.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1276603,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "32338a38-5e27-4c16-90d5-e57cd5fce883",
+      "stopnumber": 2,
+      "title_de": "Gardesaal",
+      "title_en": "The East Anteroom",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/80c8d0c3-131b-46d0-be99-6a30c7c28f73/Cas_2.jpg",
+        "filename": "Cas_2.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 126858,
+        "width": 639,
+        "height": 425
+      },
+      "audio_segment_uuid": "a3a33cf7-20ce-4f10-8962-b99043da336e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2491791a-4d0a-44aa-93d7-bf0f49b28047/Cas_2%20DE%20Gardesaal.mp3",
+        "filename": "Cas_2 DE Gardesaal.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1711679,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/436c10be-ae86-4f76-8d79-cab2cf631ad4/Cas_2%20ENG%20The%20East%20Anteroom.mp3",
+        "filename": "Cas_2 ENG The East Anteroom.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2178352,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a76c1961-1473-4a17-bbf7-221fde70dfef",
+      "stopnumber": 3,
+      "title_de": "Braune Galerie",
+      "title_en": "The Brown Gallery",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f77059dc-a53e-4221-bc5c-6a6e4daa7f1e/Cas_3.jpg",
+        "filename": "Cas_3.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 141516,
+        "width": 640,
+        "height": 568
+      },
+      "audio_segment_uuid": "e461ca72-f2a8-40b8-abe4-d18691b51133",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/219d7128-515e-4104-b5e0-217af06f415c/Cas_3%20DE%20Braune%20Galerie.mp3",
+        "filename": "Cas_3 DE Braune Galerie.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3038179,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8ae172e5-99f0-41d9-87fa-a14c85cd2ddd/Cas_3%20ENG%20Brown%20Gallery.mp3",
+        "filename": "Cas_3 ENG Brown Gallery.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3235678,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "31de4a26-e685-49e2-aed3-a33ad42504d0",
+      "stopnumber": 4,
+      "title_de": "Vorzimmer der Herzogin",
+      "title_en": "The Duchess’ Anteroom",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d15f7672-e207-4471-aa29-ad959dea2013/Cas_4.jpg",
+        "filename": "Cas_4.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 115902,
+        "width": 639,
+        "height": 424
+      },
+      "audio_segment_uuid": "f2913cb2-2578-4c5c-aaa4-34078c3ca901",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f564eb08-6340-485a-8587-86f8d1d6c7f7/Cas_4%20DE%20Vorzimmer%20Herzogin.mp3",
+        "filename": "Cas_4 DE Vorzimmer Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1192739,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8487855b-8882-4c44-90e9-a9952f908849/Cas_4%20ENG%20Duchess%20Anteroom.mp3",
+        "filename": "Cas_4 ENG Duchess Anteroom.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3662428,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "05731b6f-9a21-4e63-9504-99e559160105",
+      "stopnumber": 5,
+      "title_de": "Schwarze Galerie",
+      "title_en": "The Black Gallery",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c566d3e1-49fc-47fe-8946-87703dbdcfb2/Cas_5.jpg",
+        "filename": "Cas_5.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 122241,
+        "width": 640,
+        "height": 422
+      },
+      "audio_segment_uuid": "968e1cbe-c28e-4fba-9cf5-1cea25a0670b",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/cd2f3695-cd9c-40bf-a2cb-fd7f35c46079/Cas_5%20DE%20Schwarze%20Galerie.mp3",
+        "filename": "Cas_5 DE Schwarze Galerie.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2343949,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6a9f721c-726c-4a92-8786-f51f3d8f54c9/Cas_5%20ENG%20Black%20Gallery.mp3",
+        "filename": "Cas_5 ENG Black Gallery.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2603109,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a8f868f7-4353-4b62-913d-58385e6a28fd",
+      "stopnumber": 6,
+      "title_de": "Inneres Vorzimmer des Herzogs",
+      "title_en": "The Duke’s Interior Anteroom",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8a983e32-f0b2-4664-9a0b-a745215fd233/Cas_6.jpg",
+        "filename": "Cas_6.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 156475,
+        "width": 639,
+        "height": 443
+      },
+      "audio_segment_uuid": "2017d6c2-122f-4d76-a0d7-a1272d644373",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/041a7cf1-0a66-4079-8274-b9c58a4207b0/Cas_6%20DE%20Inneres%20Vorzimmer%20Herzog.mp3",
+        "filename": "Cas_6 DE Inneres Vorzimmer Herzog.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1438440,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7cd3e7e4-9f83-4789-b301-d72e64bdd09a/Cas_6%20ENG%20Duke%20Interior%20Anteroom.mp3",
+        "filename": "Cas_6 ENG Duke Interior Anteroom.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1546421,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e411ae38-221f-45bc-9bd1-69ebe53ecb8d",
+      "stopnumber": 7,
+      "title_de": "Audienzzimmer des Herzogs",
+      "title_en": "The Duke’s Audience Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/073f585e-29e9-4131-b656-0be0d32f8af1/Cas_7.jpg",
+        "filename": "Cas_7.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 542946,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c826f607-724e-413a-aa96-288d83277f7c",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d22b4a19-0bd4-44fd-aa8e-9504fbefdd2b/Cas_7%20DE%20Audienzzimmer%20HErzog.mp3",
+        "filename": "Cas_7 DE Audienzzimmer HErzog.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2384960,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1e7ec950-272a-4a0d-8636-6e94d78ec6eb/Cas_7%20ENG%20Duke%20Audience%20Room.mp3",
+        "filename": "Cas_7 ENG Duke Audience Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 7050860,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "cf53159a-9821-4fff-aedf-9b962db22b57",
+      "stopnumber": 8,
+      "title_de": "Arbeitskabinett des Herzogs",
+      "title_en": "The Duke’s Study Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6fc2d881-70cc-472f-87b3-4e5d9584d956/Cas_8.jpg",
+        "filename": "Cas_8.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 141416,
+        "width": 639,
+        "height": 466
+      },
+      "audio_segment_uuid": "6f6bde2c-7674-4eae-9e8e-228de385c0f5",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6aa218e2-5650-4f24-af43-c3428b829762/Cas_8%20DE%20Arbeitskabinett%20Herzog.mp3",
+        "filename": "Cas_8 DE Arbeitskabinett Herzog.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1414664,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/140892cb-7197-4e74-9d6d-4285886543b1/Cas_8%20ENG%20Duke%20Study%20Room.mp3",
+        "filename": "Cas_8 ENG Duke Study Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1600269,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ccbfffd0-1b6e-4b25-9fb2-5ed2601ab7f8",
+      "stopnumber": 9,
+      "title_de": "Ankleide- und Betkabinett des Herzogs",
+      "title_en": "The Duke’s Dressing Room and Prayer Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b01fd996-4fea-4f33-9c5e-3496c491aa1c/Cas_9.jpg",
+        "filename": "Cas_9.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 180460,
+        "width": 640,
+        "height": 450
+      },
+      "audio_segment_uuid": "240104cd-165d-415f-972f-c78a2dae0bf7",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/07c2c61e-474e-4eb4-8df5-eb135129692a/Cas_9%20DE%20Ankleide%20und%20Betkabinett%20Herzog.mp3",
+        "filename": "Cas_9 DE Ankleide und Betkabinett Herzog.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1546433,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e4e55d8d-c09f-4905-95c8-fd05fe17c2d5/Cas_9%20ENG%20Duke%20Dressing%20and%20Prayer%20Room.mp3",
+        "filename": "Cas_9 ENG Duke Dressing and Prayer Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1765605,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "694b0365-4e8d-49ec-9952-a3fd7dab7ce4",
+      "stopnumber": 10,
+      "title_de": "Schlafzimmer des Herzogspaares",
+      "title_en": "The Duke’s Bedroom",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/25305891-44ab-4b95-8d52-390e3a461888/Cas_10.jpg",
+        "filename": "Cas_10.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 156471,
+        "width": 637,
+        "height": 496
+      },
+      "audio_segment_uuid": "2eaabff8-2acb-42ca-9f26-4f45d1e4e15e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7562cc00-421f-4547-84ae-c11abf8e26a4/Cas_10%20DE%20Schlafzimmer%20Herzogspaares.mp3",
+        "filename": "Cas_10 DE Schlafzimmer Herzogspaares.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1258784,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a9405e0f-e1d5-4b17-af41-13ebd1d320d8/Cas_10%20ENG%20Duke%20Bedroom.mp3",
+        "filename": "Cas_10 ENG Duke Bedroom.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1318563,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ac37f9f7-596b-4bba-878c-db80f3132369",
+      "stopnumber": 11,
+      "title_de": "Audienzzimmer der Herzogin",
+      "title_en": "The Large Rococo Hall / The Duchess’s Audience Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b99abdb0-8201-44e6-936c-f014ab8ad940/Cas_11.jpg",
+        "filename": "Cas_11.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 155143,
+        "width": 639,
+        "height": 399
+      },
+      "audio_segment_uuid": "775019a7-7e4c-4a35-9e21-c0dcb418af9e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/03166799-c4f7-4dae-9976-024eeeb8892a/Cas_11%20DE%20Audeinzzimer%20Herzogin.mp3",
+        "filename": "Cas_11 DE Audeinzzimer Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1834060,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/76743fd2-648d-4105-aec7-1262ef8c76db/Cas_11%20ENG%20Rococo%20Hall%20%26%20Duchess%20Audience%20Room.mp3",
+        "filename": "Cas_11 ENG Rococo Hall & Duchess Audience Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1965829,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "acb8d511-f1a2-4cc0-befb-288217a022ce",
+      "stopnumber": 12,
+      "title_de": "Retirade der Herzogin",
+      "title_en": "The Rococo Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0c701f2e-26cd-4a91-922e-99f629047b91/Cas_12.jpg",
+        "filename": "Cas_12.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 148366,
+        "width": 639,
+        "height": 517
+      },
+      "audio_segment_uuid": "b5a40959-d49a-4c51-aafd-0c1a6209cfd6",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0dfeab5c-a384-452b-a449-7875dba3e274/Cas_12%20DE%20Retirade%20Herzogin.mp3",
+        "filename": "Cas_12 DE Retirade Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 677535,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c357b2fd-44f8-4813-906b-d0427f67af95/Cas_12%20ENG%20Rococo%20Cabinet.mp3",
+        "filename": "Cas_12 ENG Rococo Cabinet.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 677531,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "0ddf0947-78b1-47c9-9d41-dd21f905c32b",
+      "stopnumber": 13,
+      "title_de": "Kabinett der Herzogin",
+      "title_en": "The Duchess’ Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2c92446a-0a16-42a5-9332-217be9718e31/Cas_13.jpg",
+        "filename": "Cas_13.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 137663,
+        "width": 639,
+        "height": 443
+      },
+      "audio_segment_uuid": "58820a09-6958-4d65-857b-8bd4af1bc7c3",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/361ee07a-40cb-45b1-a523-26384518be4e/Cas_13%20DE%20Kabinett%20Herzogin.mp3",
+        "filename": "Cas_13 DE Kabinett Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 402099,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4856b3ee-559f-406d-af3c-b274175aa4ec/Cas_13%20ENG%20Duchess%20Cabinet.mp3",
+        "filename": "Cas_13 ENG Duchess Cabinet.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 419936,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1eda4754-2f1e-4229-95b9-ac13c223dd25",
+      "stopnumber": 14,
+      "title_de": "Porzellankabinett",
+      "title_en": "The Porcelain Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f2798a6b-262c-4fe9-8b14-d929872bcb97/Cas_14.jpg",
+        "filename": "Cas_14.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 153066,
+        "width": 639,
+        "height": 420
+      },
+      "audio_segment_uuid": "0fe16508-9c76-4653-9044-f98d555ced4b",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/020ab51c-5ee8-4045-9787-e957464dc350/Cas_14%20%20DE%20Porzellankabinett.mp3",
+        "filename": "Cas_14  DE Porzellankabinett.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 497879,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3122b4f1-a96b-47e8-bc16-b8db81dd387a/Cas_14%20ENG%20Porcelain%20Cabinet.mp3",
+        "filename": "Cas_14 ENG Porcelain Cabinet.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 461880,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "3d16487b-9240-4c23-91e0-aee2da66802b",
+      "stopnumber": 15,
+      "title_de": "Festsaal",
+      "title_en": "The Banqueting Hall",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ce1c26d7-50f4-4ee0-9830-7bf1724b34fc/Cas_15.jpg",
+        "filename": "Cas_15.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 145082,
+        "width": 639,
+        "height": 426
+      },
+      "audio_segment_uuid": "04504db3-d258-4a72-846d-70f706d6b6c8",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/530403f0-8b20-4940-8b19-9c5a201a0ead/Cas_15%20DE%20Festsaal.mp3",
+        "filename": "Cas_15 DE Festsaal.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2409043,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3a61a11b-8d81-4f99-90c8-61077e5187a0/Cas_15%20ENG%20Banqueting%20Hall.mp3",
+        "filename": "Cas_15 ENG Banqueting Hall.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2618749,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "134f4beb-ac1e-4b4f-8001-c79845eb5980",
+      "stopnumber": 16,
+      "title_de": "Westvorsaal / Kunstkammer",
+      "title_en": "The West- Entrance Hall",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e2486c66-2534-4b31-bbdb-0fc49bea9b04/Cas_16.jpg",
+        "filename": "Cas_16.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 130844,
+        "width": 640,
+        "height": 474
+      },
+      "audio_segment_uuid": "5f46e25c-517b-4e41-850e-8a119a8fea99",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/acb24f92-3e6f-473d-8da6-257849460235/Cas_16%20DE%20Westvorsaal%20Kunstkammer.mp3",
+        "filename": "Cas_16 DE Westvorsaal Kunstkammer.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2127345,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/002aa0e8-ddff-4dc2-860c-72e395e4d0c3/Cas_16%20ENG%20West%20Entrance%20Hall.mp3",
+        "filename": "Cas_16 ENG West Entrance Hall.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2259427,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "4e779050-8afc-4250-9a50-7444717bd71a",
+      "stopnumber": 17,
+      "title_de": "Der Elefant als Briefbeschwerer",
+      "title_en": "The Elephant Paperweight",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4afeb750-4943-4258-bb46-44b9c0b95bee/Cas_17.jpg",
+        "filename": "Cas_17.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 86294,
+        "width": 639,
+        "height": 459
+      },
+      "audio_segment_uuid": "a44c8a00-8ded-4f13-8c81-9e47e0e19d55",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a669f054-743b-4e1f-82a7-0ca3e2c07c9d/Cas_17%20DE%20Elefant%20Briefbeschwerer.mp3",
+        "filename": "Cas_17 DE Elefant Briefbeschwerer.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 821515,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0340f455-0fb2-4101-9806-1713530834e4/Cas_17%20ENG%20Elephant%20Paperweight.mp3",
+        "filename": "Cas_17 ENG Elephant Paperweight.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 815564,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ac6a08b0-5617-4c54-94ab-e6f6d7a10e42",
+      "stopnumber": 18,
+      "title_de": "Das Trinkgeschirr in Gestalt eines Elefanten",
+      "title_en": "The Drinking Vessel in the Design of an Elephant",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2f7c8e81-deea-428c-a42e-b2bb732513d2/Cas_18.jpg",
+        "filename": "Cas_18.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 248708,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "7a9546fc-1899-4571-af9f-ff286287fb08",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/88272611-082c-47f2-b54a-cc6b9e691754/Cas_18%20DE%20Trinkgeschirr%20Gestalt%20Elefant.mp3",
+        "filename": "Cas_18 DE Trinkgeschirr Gestalt Elefant.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1408699,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d3e82fc4-33b5-476d-9c30-29efb9c8d831/Cas_18%20ENG%20Drinking%20Vessel%20Elephant.mp3",
+        "filename": "Cas_18 ENG Drinking Vessel Elephant.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1456584,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "36d40edb-c30b-4c59-9e5e-cd08dd1c551a",
+      "stopnumber": 19,
+      "title_de": "Der Rhinozeroshorn-Becher",
+      "title_en": "The Rhinoceros Horn Beaker",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/fc920d68-928c-4cba-b9bd-c6c4d284145b/Cas_19.jpg",
+        "filename": "Cas_19.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 165709,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "03d1f65f-62c0-4add-a707-4a2c51277334",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c32fd6ea-2426-43ff-a977-4bf7c31109b5/Cas_19%20DE%20Rhinozeroshorn%20Becher.mp3",
+        "filename": "Cas_19 DE Rhinozeroshorn Becher.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1630301,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1089cf32-91bb-459a-85ac-755f8a8c9480/Cas_19%20ENG%20Rhinoceros%20Horn%20Beaker.mp3",
+        "filename": "Cas_19 ENG Rhinoceros Horn Beaker.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1750176,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a12bccdf-1243-455f-b235-47beae5f0f10",
+      "stopnumber": 20,
+      "title_de": "Der Prunkkasten aus Bernstein",
+      "title_en": "The Decorative Amber Casket",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1c2759ff-41d6-4ffd-97d6-4ebfaa8b50bf/Cas_20.jpg",
+        "filename": "Cas_20.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 258888,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "6324b8fc-93fd-4b69-983c-3645829f2943",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e785ff54-4eef-4713-93f6-cd34839c567f/Cas_20%20DE%20Prunkkasten%20aus%20Bernstein.mp3",
+        "filename": "Cas_20 DE Prunkkasten aus Bernstein.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1102914,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2c664e60-a668-4f19-a353-fc1f584da65f/Cas_20%20ENG%20Decorative%20Amber%20Casket.mp3",
+        "filename": "Cas_20 ENG Decorative Amber Casket.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1109170,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d3ccdcb6-f694-4d2b-bcb3-648733a51e3d",
+      "stopnumber": 21,
+      "title_de": "Reiterstatuette Augusts des Starken",
+      "title_en": "Small Equestrian Statuette of August the Strong",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/46171838-7ca2-45ff-a54a-e274d498239a/Cas_21.jpg",
+        "filename": "Cas_21.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 218530,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "a580dfd1-3086-4893-8052-51946ded429a",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0dd420f6-0b93-4025-afaa-843439080c2c/Cas_21%20DE%20Reiterstatuette%20Augusts.mp3",
+        "filename": "Cas_21 DE Reiterstatuette Augusts.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 695689,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b1574ba1-1b24-4994-ac4c-69eb41b3d644/Cas_21%20ENG%20Equestrian%20Statuette%20of%20August.mp3",
+        "filename": "Cas_21 ENG Equestrian Statuette of August.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 743574,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "37180d60-a85e-4c06-9a6a-e04339a9e29b",
+      "stopnumber": 22,
+      "title_de": "Doppelseitige Schale mit schlafender Venus",
+      "title_en": "Double-Sided Bowl with Sleeping Venus",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/75986eeb-4ccf-4732-80e2-ee819b516dd5/Cas_22.jpg",
+        "filename": "Cas_22.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 275995,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "3bd6404f-4b11-49a2-b096-3749300383c0",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5425da44-df76-409b-bb75-9af3a44c20dc/Cas_22%20DE%20Doppelwandschale%20Venus.mp3",
+        "filename": "Cas_22 DE Doppelwandschale Venus.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1294773,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f66f28e5-1962-447b-9c7e-0a7eb67df089/Cas_22%20ENG%20Double%20Sided%20Bowl%20Sleeping%20Venus.mp3",
+        "filename": "Cas_22 ENG Double Sided Bowl Sleeping Venus.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1360499,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a49a0d1b-82bd-4704-b154-b63f97246caf",
+      "stopnumber": 23,
+      "title_de": " Der Nautilus-Pokal",
+      "title_en": "The Nautilus Goblet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3ec602e5-4c3a-4244-8652-12d58a199a59/Cas_23.jpg",
+        "filename": "Cas_23.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 198048,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "20bd1da2-cc58-43fc-a556-d37457b70c66",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/770a847f-0f8c-4417-870d-e8de62eec7d9/Cas_23%20DE%20Nautilus%20Pokal.mp3",
+        "filename": "Cas_23 DE Nautilus Pokal.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1216832,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ed130a4b-db96-4288-a0ff-cc0e65f857cf/Cas_23%20ENG%20Nautilus%20Goblet.mp3",
+        "filename": "Cas_23 ENG Nautilus Goblet.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1210881,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a99cb6c9-b935-4c4e-b9aa-4f7993c32bc2",
+      "stopnumber": 24,
+      "title_de": "Stiefel des Kurfürsten Johann Friedrich v. Sachsen",
+      "title_en": "The Electoral Prince, John Frederick of Saxony’s Boot",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c6397090-4f19-441d-a4a9-e71f26d6bab4/Cas_24.jpg",
+        "filename": "Cas_24.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 83041,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "faa4cdf2-cade-4955-bb0a-b1b4e764880a",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3b1fe879-33b9-429f-acf9-e2c5081b5c9f/Cas_24%20DE%20Stiefel%20Johann%20Friedrich.mp3",
+        "filename": "Cas_24 DE Stiefel Johann Friedrich.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1654079,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/62bd1ca2-608c-4d3e-95ca-1d7e9d83ba68/Cas_24%20ENG%20John%20Frederick%20Boot.mp3",
+        "filename": "Cas_24 ENG John Frederick Boot.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1768007,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ae6f026f-3e9d-4525-b4f7-c3c2baa37087",
+      "stopnumber": 25,
+      "title_de": "Wachsporträts eines Gothaer Fürstenpaares",
+      "title_en": "Wax Portraits of Gotha Royal Couples",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c8831066-2417-4486-a2bf-8486a5e9b1bf/Cas_25.jpg",
+        "filename": "Cas_25.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 171915,
+        "width": 497,
+        "height": 640
+      },
+      "audio_segment_uuid": "ecb06451-63ba-45b7-b4b6-8fc8654a56fd",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1d3ce379-767e-454c-b147-a9a70c32d58d/Cas_25%20DE%20Wachsportrats%20Gothaer%20Fustenpaares.mp3",
+        "filename": "Cas_25 DE Wachsportrats Gothaer Fustenpaares.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1660038,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/06ea0845-3e0f-45bb-a67f-562cc1bd021d/Cas_25%20ENG%20Wax%20portraits%20Gotha%20Royal%20Couples.mp3",
+        "filename": "Cas_25 ENG Wax portraits Gotha Royal Couples.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1701976,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "2e5941b3-5ffe-4f80-88b8-eb44692df902",
+      "stopnumber": 26,
+      "title_de": "Schlacht Karls d. G. gegen die Hunnen vor Regensburg",
+      "title_en": "Charles the Great’s Battle Against the Huns",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b97fc8a1-13ac-4fb4-85bf-ef68123ba64d/Cas_26.jpg",
+        "filename": "Cas_26.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 180354,
+        "width": 640,
+        "height": 543
+      },
+      "audio_segment_uuid": "c2227e07-cb3e-4ce0-af26-f752f6a41720",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a302d212-a385-4b34-af55-c33665e6d0f8/Cas_26%20DE%20Schlacht%20Karls%20d%20G%20Hunnen.mp3",
+        "filename": "Cas_26 DE Schlacht Karls d G Hunnen.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1186794,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f4d2181c-7037-430a-b1ba-bdc44d8709ab/Cas_26%20ENG%20Charles%20the%20Great%20Battle%20the%20Huns.mp3",
+        "filename": "Cas_26 ENG Charles the Great Battle the Huns.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1300722,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e1b126fa-bf25-4be3-b2d6-f086561a1fcc",
+      "stopnumber": 27,
+      "title_de": "Monogrammist IP: Der Sündenfall",
+      "title_en": "Monogrammer IP: The Fall",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6f7d6020-1c67-45d8-9edb-40b8bbcceef4/Cas_27.jpg",
+        "filename": "Cas_27.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 189623,
+        "width": 464,
+        "height": 640
+      },
+      "audio_segment_uuid": "9b6749c6-9c81-45a7-a759-2524e01fdc62",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3df19fad-32f5-48d9-b6c5-2b0ecade410f/Cas_27%20DE%20Monogrammist%20IP.mp3",
+        "filename": "Cas_27 DE Monogrammist IP.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 881296,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8c0252fc-6911-42fc-8880-b775c2f2d0d8/Cas_27%20ENG%20Monogrammer%20IP.mp3",
+        "filename": "Cas_27 ENG Monogrammer IP.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 857504,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "be307bdc-8db1-48d7-a1f9-a583a4312010",
+      "stopnumber": 28,
+      "title_de": "Die kleine Kapelle",
+      "title_en": "The Small Chapel",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/095fd50f-8672-4891-ac75-95a8a9948bbb/Cas_28.jpg",
+        "filename": "Cas_28.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 135403,
+        "width": 640,
+        "height": 488
+      },
+      "audio_segment_uuid": "59b7175b-6140-4419-a9fb-1b3f9ca981b1",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5aed92a2-0208-4fed-9223-969f2bd79d40/Cas_28%20DE%20Die%20kleine%20Kapelle.mp3",
+        "filename": "Cas_28 DE Die kleine Kapelle.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 491932,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d6638d8d-4e7d-44c4-8a58-b197e7c5e037/Cas_28%20ENG%20Small%20Chapel.mp3",
+        "filename": "Cas_28 ENG Small Chapel.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 355765,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "b78a5e24-e22b-4d1d-8102-e2e63f0458f5",
+      "stopnumber": 30,
+      "title_de": "Weimargalerie",
+      "title_en": "Weimar-Gallery with Ancestral Portraits",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/cc38e0e0-35a5-4c72-9ed9-e5e984d64bb5/Cas_30.jpeg",
+        "filename": "Cas_30.jpeg",
+        "mime_type": "image/jpeg",
+        "file_size": 110457,
+        "width": 425,
+        "height": 637
+      },
+      "audio_segment_uuid": "89e81651-6fc9-4ac0-978e-a9a68289aecd",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/02b13cd8-51c9-4c9e-a3d0-b225bc98641b/Cas_30%20DE%20Weimargalerie.mp3",
+        "filename": "Cas_30 DE Weimargalerie.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4589274,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a4c8747a-4858-4ac9-ae76-780f0a24bf8c/Cas_30%20ENG%20Weimar%20Gallery.mp3",
+        "filename": "Cas_30 ENG Weimar Gallery.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 355765,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "bde4cca7-b92f-4ced-a62a-490682fbf992",
+      "stopnumber": 31,
+      "title_de": "Vorzimmer der Herzogin (Marmorzimmer)",
+      "title_en": "New Apartments",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1a411d6c-0958-4320-91cb-f8f21955f2a1/Cas_31.jpg",
+        "filename": "Cas_31.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 148418,
+        "width": 639,
+        "height": 570
+      },
+      "audio_segment_uuid": "b37c3d95-d6dc-4b63-8dc0-986c0321feb3",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8da593c8-4b21-4c59-8713-f7ae61d2c83c/Cas_31%20DE%20Vorzimmer%20Herzogin.mp3",
+        "filename": "Cas_31 DE Vorzimmer Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2655417,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/eb64110a-265f-4ecf-9ba9-938ec1072f0d/Cas_31%20ENG%20New%20Apartments.mp3",
+        "filename": "Cas_31 ENG New Apartments.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2783172,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1298c75d-8874-4315-8232-2cb2e3db2b36",
+      "stopnumber": 32,
+      "title_de": "Audienzzimmer der Herzogin",
+      "title_en": "The Duchess’s Reception Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a39381dc-08f5-49e0-97b0-2df7c669dbff/Cas_32.jpeg",
+        "filename": "Cas_32.jpeg",
+        "mime_type": "image/jpeg",
+        "file_size": 112501,
+        "width": 640,
+        "height": 425
+      },
+      "audio_segment_uuid": "e31f3516-244c-4aa1-a314-183fec8b5fb8",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b2113286-2a77-49f4-bd6f-b69a5af175b8/Cas_32%20DE%20Audienzzimmer%20Herzogin.mp3",
+        "filename": "Cas_32 DE Audienzzimmer Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2655417,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/14780a5d-2370-48b6-ab2c-1097d656669e/Cas_32%20ENG%20Duchess%20Reception%20Room.mp3",
+        "filename": "Cas_32 ENG Duchess Reception Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3054543,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "3456616f-e875-4ee0-a0bb-41beb92f2b68",
+      "stopnumber": 33,
+      "title_de": "Exkurs: Der exzentrische Herzog",
+      "title_en": "The Eccentric Duke",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c755878c-fa76-4557-a94d-5b3d7d941025/Cas_33.jpg",
+        "filename": "Cas_33.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 81817,
+        "width": 487,
+        "height": 639
+      },
+      "audio_segment_uuid": "52a4e62d-f40a-4ce0-ae40-d66ac0345e8d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e58273b3-83c4-4d19-93e0-867ff1f39e55/Cas_33%20DE%20Exkurs%20exzentrische%20Herzog.mp3",
+        "filename": "Cas_33 DE Exkurs exzentrische Herzog.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 7673757,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/67a97bf4-d858-43cc-8139-3bd0670abb24/Cas_33%20ENG%20Eccentric%20Duke.mp3",
+        "filename": "Cas_33 ENG Eccentric Duke.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 8345097,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a303a658-66ba-4397-8037-7c3f819bb9ce",
+      "stopnumber": 34,
+      "title_de": "Wohnzimmer und Boudoir der Herzogin (Pompejanisches Zimmer)",
+      "title_en": "The Duchess’ Salon",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2d981e31-885e-4232-9595-c6d31b6280cd/Cas_34.jpeg",
+        "filename": "Cas_34.jpeg",
+        "mime_type": "image/jpeg",
+        "file_size": 143290,
+        "width": 640,
+        "height": 456
+      },
+      "audio_segment_uuid": "0dd38056-32d5-4171-a8f7-13f257280957",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4ca8c9c4-fa0b-4a25-9424-cad49abe403f/Cas_34%20DE%20Wohnzimmer%20Boudoir%20Herzogin.mp3",
+        "filename": "Cas_34 DE Wohnzimmer Boudoir Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3390205,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0d8005bf-81cc-4d30-bf09-93615bb993b8/Cas_34%20ENG%20Duchess%20Salon.mp3",
+        "filename": "Cas_34 ENG Duchess Salon.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3646550,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d43cde3f-3ffe-410d-85a8-b7c80485ba87",
+      "stopnumber": 35,
+      "title_de": "Türkisches Schlafzimmer der Herzogin (Napoléonzimmer)",
+      "title_en": "Turkish Bedroom",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/99634359-b2bf-41a4-b367-e4fae49ed31d/Cas_35.jpg",
+        "filename": "Cas_35.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 139379,
+        "width": 640,
+        "height": 425
+      },
+      "audio_segment_uuid": "2012dbe0-d210-40d0-876b-700288332cc8",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/cb4763a4-91dd-4b0b-ae18-dc82e0c20a63/Cas_35%20DE%20Turkisches%20Schlafzimmer%20Herzogin.mp3",
+        "filename": "Cas_35 DE Turkisches Schlafzimmer Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4924942,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/814a5f0a-7f46-419e-9956-b365c27deb1d/Cas_35%20ENG%20Turkish%20Bedroom.mp3",
+        "filename": "Cas_35 ENG Turkish Bedroom.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 5724037,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "3f32e787-5d50-4069-9045-b9c3dcd7ba0b",
+      "stopnumber": 36,
+      "title_de": "Kabinett der Herzogin (Blaues Zimmer)",
+      "title_en": "Duchess’s Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3b21029f-aa20-4994-be57-dee2d01ce374/Cas_36.jpg",
+        "filename": "Cas_36.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 120225,
+        "width": 640,
+        "height": 427
+      },
+      "audio_segment_uuid": "23051442-6815-461a-a51a-734ee60be2d0",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d435fd73-0260-47a5-919c-47797e4fa764/Cas_36%20DE%20Kabinett%20Herzogin.mp3",
+        "filename": "Cas_36 DE Kabinett Herzogin.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2447493,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2277fe4b-adce-422a-a033-9cab4b29eeb2/Cas_36%20ENG%20Duchess%20Cabinet.mp3",
+        "filename": "Cas_36 ENG Duchess Cabinet.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2479223,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "a936b6e9-247d-42ac-9f9d-079498bd5edd",
+      "stopnumber": 37,
+      "title_de": "Vorzimmer des Herzogs (Musikzimmer)",
+      "title_en": "Duke’s Anteroom",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a1acaea3-7a00-41e8-a7c1-29f7aa11a0b0/Cas_37.jpg",
+        "filename": "Cas_37.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 104892,
+        "width": 427,
+        "height": 640
+      },
+      "audio_segment_uuid": "8891f90b-cd45-446f-88da-b995e72090de",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4bd1d7b7-dcad-4e26-b30f-79440c876e59/Cas_37%20DE%20Vorzimmer%20des%20Herzogs.mp3",
+        "filename": "Cas_37 DE Vorzimmer des Herzogs.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2047529,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a8619a56-a5e4-4fe6-b51b-6bc96b680684/Cas_37%20ENG%20Duke%20Anteroom.mp3",
+        "filename": "Cas_37 ENG Duke Anteroom.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2479224,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "af826b67-ade3-4e98-9bd9-5cf6690bad17",
+      "stopnumber": 38,
+      "title_de": "Audienzzimmer des Herzogs (Fliederzimmer)",
+      "title_en": "The Duke’s Audience Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/24613e31-e476-438f-9f00-fc1d5a58ed48/Cas_38.jpg",
+        "filename": "Cas_38.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 162072,
+        "width": 467,
+        "height": 638
+      },
+      "audio_segment_uuid": "363cb14a-52b0-4dd2-8a03-4479038fb4f8",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0ad1371e-849e-47cd-91ec-c87734b68b5f/Cas_38%20DE%20Audienzzimmer%20des%20Herzogs.mp3",
+        "filename": "Cas_38 DE Audienzzimmer des Herzogs.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4045688,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/07be5890-0d06-4c5b-b353-3cee60383685/Cas_38%20ENG%20Duke%20Audience%20Room.mp3",
+        "filename": "Cas_38 ENG Duke Audience Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 4748758,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "b3e8ecb8-6763-4ecd-bdb6-0e26e0bc8916",
+      "stopnumber": 39,
+      "title_de": "Gelbes Zimmer des Herzogs (Laubenzimmer)",
+      "title_en": "The Duke’s Yellow Room",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/46145630-4151-4182-a540-b71882cab441/Cas_39.jpg",
+        "filename": "Cas_39.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 143775,
+        "width": 640,
+        "height": 424
+      },
+      "audio_segment_uuid": "89df70e8-5442-4664-80fe-a29910ab95fa",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c196ba00-5958-4247-bdca-5b196a08ab1d/Cas_39%20DE%20Gelbes%20Zimmer%20des%20Herzogs.mp3",
+        "filename": "Cas_39 DE Gelbes Zimmer des Herzogs.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2847463,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/fcd54937-39f0-40e6-b5ef-9999045af502/Cas_39%20ENG%20Duke%20Yellow%20Room.mp3",
+        "filename": "Cas_39 ENG Duke Yellow Room.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3198998,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "3f06c301-8ffb-4ef9-a1ea-9186d3aab557",
+      "stopnumber": 40,
+      "title_de": "Neues Münzkabinett",
+      "title_en": "New Coin Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3355d54a-16b2-4150-a7fb-ac0b511fcf1f/Cas_40.jpg",
+        "filename": "Cas_40.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 87044,
+        "width": 640,
+        "height": 433
+      },
+      "audio_segment_uuid": "55181dc9-72fb-427a-9260-6e898a2c9f25",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/739c0921-69ee-4a9c-b399-42967fd1c716/Cas_40%20DE%20Neues%20Munzkabinett.mp3",
+        "filename": "Cas_40 DE Neues Munzkabinett.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3070414,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/39272e63-b1b4-46dc-84a9-af9761800d0b/Cas_40%20ENG%20New%20Coin%20Cabinet.mp3",
+        "filename": "Cas_40 ENG New Coin Cabinet.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 3054549,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d2128378-f1f0-41c4-b8b1-78cfe1637d09",
+      "stopnumber": 41,
+      "title_de": "Exkurs: Gold und Silber",
+      "title_en": "Gold and Silver",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1cee301d-0899-4e49-bd72-e46d23cad58b/Cas_41.jpg",
+        "filename": "Cas_41.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 156308,
+        "width": 640,
+        "height": 501
+      },
+      "audio_segment_uuid": "83b4e4f8-52b6-486e-840b-96647430101a",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5e3e4840-0aab-4d09-b445-b734b14d772b/Cas_41%20DE%20Exkurs%20Gold%20und%20Silber.mp3",
+        "filename": "Cas_41 DE Exkurs Gold und Silber.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 7385687,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2123aee2-ee62-4302-8d88-bf895c32c78e/Cas_41%20ENG%20Gold%20and%20Silver.mp3",
+        "filename": "Cas_41 ENG Gold and Silver.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 8041162,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "34d2dccd-e52d-4ab4-a516-805195a4f816",
+      "stopnumber": 42,
+      "title_de": "Westturm",
+      "title_en": "West Tower",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/852daa67-0472-451c-928c-3c76fb1e0cb0/Cas_42.jpg",
+        "filename": "Cas_42.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 78622,
+        "width": 640,
+        "height": 416
+      },
+      "audio_segment_uuid": "24ae7b1c-0736-4290-9433-4e7f3cf554f1",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/de9a0454-dc08-4fbf-b53d-fb64b90622f0/Cas_42%20DE%20Westturm.mp3",
+        "filename": "Cas_42 DE Westturm.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1888043,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": null
+    },
+    {
+      "uuid": "d831ba16-05f6-4285-ba95-e3b6fc8d5c7c",
+      "stopnumber": 43,
+      "title_de": "Ekhof-Theater",
+      "title_en": "Ekhof Theatre",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/67aeb5c4-2333-4782-9128-a98f3ed60fde/Cas_43.jpeg",
+        "filename": "Cas_43.jpeg",
+        "mime_type": "image/jpeg",
+        "file_size": 108319,
+        "width": 422,
+        "height": 638
+      },
+      "audio_segment_uuid": "c0751c60-bc3c-42f3-a82b-3fca3519dfe4",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8dc5e70d-9f11-4d6f-87ca-032ef3d7ffe9/Cas_43%20DE%20Ekhof%20Theater.mp3",
+        "filename": "Cas_43 DE Ekhof Theater.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 7257933,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/76a27b8a-d0ae-422f-9d06-8a5a9eaf5f1f/Cas_43%20ENG%20Ekhof%20Theatre.mp3",
+        "filename": "Cas_43 ENG Ekhof Theatre.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 8472858,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "8287aabb-80ce-43cb-a1c4-8b39e1a88ff8",
+      "stopnumber": 100,
+      "title_de": "Herzlich willkommen!",
+      "title_en": "Welcome!",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3f73029c-a09e-49a2-88b6-7340e458bba6/Mus_0.jpg",
+        "filename": "Mus_0.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 410565,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "3f502504-1602-4304-b984-3a31435e5eff",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3c1fc5d0-4dd7-49eb-a9a9-2f33a6b0f47c/Mus_0%20DE%20Herzlich%20willkommen!.mp3",
+        "filename": "Mus_0 DE Herzlich willkommen!.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2049713,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a819c130-7002-4907-ae09-8a160d725fd2/Mus_0%20ENG.mp3",
+        "filename": "Mus_0 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2103284,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "0083cee2-3bee-4ca1-84da-53d85bc95ffc",
+      "stopnumber": 101,
+      "title_de": "Die Ägyptensammlung",
+      "title_en": "The collection of Egyptian antiquities",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6dca117d-aa7b-4ec9-82bd-c408b521e3c5/Mus_1.jpg",
+        "filename": "Mus_1.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 165775,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "778032ea-c47c-4cdd-8b7c-2e13256ab080",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b7e9ba09-b704-4c2d-9ee6-561e0f798b2b/Mus_1%20DE%20Die%20Agyptensammlung.mp3",
+        "filename": "Mus_1 DE Die Agyptensammlung.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1804020,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/75bb73d2-7648-49a4-8adb-2278afc2ea47/Mus_1%20ENG.mp3",
+        "filename": "Mus_1 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2030415,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "c95f91c3-f449-4151-acc9-14bf8d706e67",
+      "stopnumber": 102,
+      "title_de": "Die Mumie der Tjen-Tjen",
+      "title_en": "The mummy of Tian Tian",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2aab83b9-441e-4c47-9896-372b986d8dae/Mus_2.jpg",
+        "filename": "Mus_2.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 170101,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "d6f53a7d-9222-4265-ac2d-d3d98fd8e69f",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/37db6928-3512-4044-9104-3d4e629d69eb/Mus_2%20DE.mp3",
+        "filename": "Mus_2 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1684119,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a439deab-9221-4c8e-8d79-2750a2d7283f/Mus_2%20ENG.mp3",
+        "filename": "Mus_2 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1646647,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1a9072f9-2671-4096-bd99-8fecaf1252bf",
+      "stopnumber": 103,
+      "title_de": "Eine Mumienuntersuchung in Gotha",
+      "title_en": "Investigating a mummy in Gotha",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d636677e-77bf-4af0-b6c9-f27640ce20c9/Mus_3.jpg",
+        "filename": "Mus_3.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 166092,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "b37ac7cc-8568-4179-8903-bc4205c3dc42",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/69df4fe1-73bf-4b30-beef-f64c209ad3cf/Mus_3%20DE.mp3",
+        "filename": "Mus_3 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1168947,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/bfe88e94-9bbd-4568-82cc-7bd7a8b7d2db/Mus_3%20ENG.mp3",
+        "filename": "Mus_3 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1113937,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "c2179169-7fd1-4be8-82ee-382538c4146a",
+      "stopnumber": 104,
+      "title_de": "Grabfigur eines hohen Beamten",
+      "title_en": "Funerary figure of a high-ranking official",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a87e214b-3ef1-4ed0-818f-29e78150901f/Mus_4.jpg",
+        "filename": "Mus_4.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 263662,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "5f5957f8-4453-4166-ab9e-d6dbbbe13c57",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/badc8b93-1200-46ca-bc36-ae7b38f983da/Mus_4%20DE.mp3",
+        "filename": "Mus_4 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1444369,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/227f09dd-0c1a-40b0-8a05-231a3cc5e6b9/Mus_4%20ENG.mp3",
+        "filename": "Mus_4 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1436351,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "7510ec0d-7a3b-49c4-85c7-fcf4dbe6ab58",
+      "stopnumber": 105,
+      "title_de": "Statue eines hockenden Beamten",
+      "title_en": "Statue of a squatting official",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/34d0236d-c2cc-4748-ad17-1c49026228b1/Mus_5.jpg",
+        "filename": "Mus_5.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 167216,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c6c4de4e-191e-4c7d-93c1-4bb8eec7074e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7e769874-3aef-4044-b4a9-4a5d007ee19e/Mus_5%20DE.mp3",
+        "filename": "Mus_5 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1336691,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b8c966e2-4a70-4548-b3f6-d3b35dbe1020/Mus_5%20ENG.mp3",
+        "filename": "Mus_5 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1389686,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "acd97d09-db5e-4fc3-9730-9c03a3119439",
+      "stopnumber": 106,
+      "title_de": "Osirisstatuette",
+      "title_en": "Statuette of Osiris",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f113439e-1726-48b2-9ed9-c4d14fae3da4/Mus_6.jpg",
+        "filename": "Mus_6.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 217654,
+        "width": 918,
+        "height": 918
+      },
+      "audio_segment_uuid": "319baae7-0453-4903-ae0d-869725feb803",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/22dc4e1b-1124-40bb-8dcd-99935e2d14f8/Mus_6%20DE.mp3",
+        "filename": "Mus_6 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1258772,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3995fea2-a90b-4231-a71b-c3272a8b4dce/Mus_6%20ENG.mp3",
+        "filename": "Mus_6 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1350856,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "efadef55-7259-4972-9c7d-6b83174408b8",
+      "stopnumber": 107,
+      "title_de": "Katzenmumie",
+      "title_en": "Cat mummy",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/120213a1-d9b6-434d-9bbc-e33b88e21345/Mus_7.jpg",
+        "filename": "Mus_7.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 141458,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "d4d09d86-ea38-48fc-a9a6-21a30d311fbb",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/afd016f0-bdbb-47d6-8264-06fe3247ef10/Mus_7%20DE.mp3",
+        "filename": "Mus_7 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1564252,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/777ff25c-3435-43f6-925b-b404bb439543/Mus_7%20ENG.mp3",
+        "filename": "Mus_7 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1563050,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "537e00d9-7b1a-4c20-84c5-be8d8ae4fea3",
+      "stopnumber": 108,
+      "title_de": "Oberteil der Sesostris-Statue",
+      "title_en": "Upper part of the statue of Sesostris",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/44ec5baa-889f-48e7-bb7e-2dc17a56be08/Mus_8.jpg",
+        "filename": "Mus_8.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 92375,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "2464edb8-4295-46d6-946e-8eb331f27b5d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2849b745-cda6-4496-8c45-96fbb6b34f19/Mus_8%20DE.mp3",
+        "filename": "Mus_8 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1636252,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/52d6f12b-3c21-4958-a06a-c4b5c15af14e/Mus_8%20ENG.mp3",
+        "filename": "Mus_8 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1594099,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "4677e48e-0478-4327-ae17-2da41daad01b",
+      "stopnumber": 109,
+      "title_de": "Antiker Begräbniskult",
+      "title_en": "Ancient burial cults",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0629d747-13b4-42fb-849c-29b26e2e8882/Mus_9.jpg",
+        "filename": "Mus_9.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 41074,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "2985d747-7ba5-400c-9e8a-bc0f44ea7cc3",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1946b984-9201-4877-a243-180f91905fcd/Mus_9%20DE.mp3",
+        "filename": "Mus_9 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1564258,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2640a660-5fd2-4e61-9d6a-982d11e02d87/Mus_9%20ENG.mp3",
+        "filename": "Mus_9 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1627237,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "91e79fbf-6946-4b2c-ab8d-131b226e605c",
+      "stopnumber": 110,
+      "title_de": "Fragment eines Sarkophags",
+      "title_en": "Fragment of a sarcophagus",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c0aa7f37-af86-4ac4-ade5-b74de4286743/Mus_10.jpg",
+        "filename": "Mus_10.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 65700,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "b5b7153c-7140-401e-9f09-fccf4f9b853c",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/79925f36-66c2-4a3f-9852-921bf259b0b0/Mus_10%20DE.mp3",
+        "filename": "Mus_10 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1450649,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/332517d7-4e4c-4e8e-bb90-2e845d3270d6/Mus_10%20ENG.mp3",
+        "filename": "Mus_10 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1384044,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ad742543-e9b6-415b-96ef-1d2ca64f3d21",
+      "stopnumber": 111,
+      "title_de": "Glockenkrater",
+      "title_en": "Bell-shaped crater",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0c5d4caf-79b1-4d6b-88ff-bbd76560ae69/Mus_11.jpg",
+        "filename": "Mus_11.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 69666,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "951d750e-1bce-458d-b894-7cc20fbd54dc",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4b020602-cd98-4a71-90e5-de56a82c053d/Mus_11%20DE.mp3",
+        "filename": "Mus_11 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1510420,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f3da3a71-e6b4-4aaf-b85e-0504f61663e4/Mus_11%20ENG.mp3",
+        "filename": "Mus_11 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1503598,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "5f2152af-aae7-4bc2-8110-016c3d142985",
+      "stopnumber": 112,
+      "title_de": "Olpe",
+      "title_en": "Olpe",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/64974edc-89f9-444f-a663-287a607f14bc/Mus_12.jpg",
+        "filename": "Mus_12.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 49500,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "e0ed790e-127e-4d7b-a273-9b43078c7e0a",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/92556cf3-4b97-4cd5-89cf-ee71176fde3f/Mus_12%20DE.mp3",
+        "filename": "Mus_12 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1210861,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1c36dc49-51be-4b92-b1e4-5ff7e66024f2/Mus_12%20ENG.mp3",
+        "filename": "Mus_12 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1258804,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ebb5649f-9617-4045-80d4-4f46fdbdfc2d",
+      "stopnumber": 113,
+      "title_de": "Hydria",
+      "title_en": "Hydria",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/75c668a6-a481-4f73-8231-ecd4603ef881/Mus_13.jpg",
+        "filename": "Mus_13.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 57071,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "8e331d52-ea84-4561-93d4-db30f4e75348",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d3389fc6-82c8-4a32-8682-aa0f952b779c/Mus_13%20DE.mp3",
+        "filename": "Mus_13 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1534194,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ff876286-4709-4dad-a6e2-7d638429f752/Mus_13%20ENG.mp3",
+        "filename": "Mus_13 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1560540,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "cc3685c2-96db-405e-83db-f46288128733",
+      "stopnumber": 114,
+      "title_de": "Grabkranz",
+      "title_en": "Funerary crown",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5c64d3c3-67f6-4bf0-b722-1081c6a309a0/Mus_14.jpg",
+        "filename": "Mus_14.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 79839,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c7b01d22-4b2e-4464-98d4-2822d35f4a10",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2bfacc73-246d-490d-a017-2926420dbd6e/Mus_14%20DE.mp3",
+        "filename": "Mus_14 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1276601,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/da3beea8-0d9f-4908-a2e6-311d2cf367dd/Mus_14%20ENG.mp3",
+        "filename": "Mus_14 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1290750,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "60e46d85-ce0f-423f-afde-b3eae8b1ef15",
+      "stopnumber": 115,
+      "title_de": "Hydria",
+      "title_en": "Hydria",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ef99832b-e139-4ca9-a16c-9de5caf9ccee/Mus_15.jpg",
+        "filename": "Mus_15.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 87140,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "160c2629-60ec-4e3a-bd87-98fa8d620701",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a99a5c26-b783-4cf0-8520-655fd875806c/Mus_15%20DE.mp3",
+        "filename": "Mus_15 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1690068,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/99e4b6ec-4c99-4a23-bde9-39eb603c0f28/Mus_15%20ENG.mp3",
+        "filename": "Mus_15 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1828781,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ef6c16fb-350f-4630-a2f9-76a305aeac01",
+      "stopnumber": 116,
+      "title_de": "Antike Skulptur",
+      "title_en": "Ancient sculpture",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/652802a8-d5ba-4d38-aafc-66d4d4aeb5a8/Mus_16.jpg",
+        "filename": "Mus_16.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 35830,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "4539ad1c-776f-4ed5-bb9c-7df9b1a944d4",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b4d84365-5532-47da-b4a9-bd98c870c070/Mus_16%20DE.mp3",
+        "filename": "Mus_16 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1648144,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3906de5a-00a0-45c9-9c7b-1125030b4f9a/Mus_16%20ENG.mp3",
+        "filename": "Mus_16 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1636308,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d769ea63-cfb5-4259-abb9-8fd6e11f3cd7",
+      "stopnumber": 117,
+      "title_de": "Korkmodelle",
+      "title_en": "Model made of cork",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/41b3bed8-5b81-4463-a19c-0e15a722fcb5/Mus_17.jpg",
+        "filename": "Mus_17.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 79127,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "549041c7-fb81-4b20-8cf3-1921f72da8b2",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9470435e-6266-4eb6-8643-4bc57bd88be7/Mus_17%20DE.mp3",
+        "filename": "Mus_17 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1582406,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8d8ac9b5-9745-4cd5-9766-2bfc57030c39/Mus_17%20ENG.mp3",
+        "filename": "Mus_17 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1515179,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "7f0bc70b-5a13-43fb-9dcb-eedb96f102ae",
+      "stopnumber": 118,
+      "title_de": "Antonio Chichi: Cestius-Pyramide",
+      "title_en": "Antonio Chichi: Cestius-Pyramide",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3719977e-84de-4494-8812-c26e34b437d1/Mus_18.jpg",
+        "filename": "Mus_18.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 76459,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "f78eee98-4c03-4f62-851c-b82e6a6049d2",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a900ab8d-5a5f-488c-858d-341fe95d27c1/Mus_18%20DE.mp3",
+        "filename": "Mus_18 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1186784,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/84430d3e-7685-45c0-a469-66be9008f526/Mus_18%20ENG.mp3",
+        "filename": "Mus_18 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1168726,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "fce617f2-611d-4110-b97e-dd7953a767f1",
+      "stopnumber": 119,
+      "title_de": "Carl May: Poseidontempel",
+      "title_en": "Carl May: Temple of Poseidon",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1cb6e048-4d13-4a92-a631-b17d26eabb00/Mus_19.jpg",
+        "filename": "Mus_19.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 87522,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "f44eaebe-c47a-4f9f-9773-ce8c540eb005",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a900ab8d-5a5f-488c-858d-341fe95d27c1/Mus_18%20DE.mp3",
+        "filename": "Mus_18 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1186784,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/84430d3e-7685-45c0-a469-66be9008f526/Mus_18%20ENG.mp3",
+        "filename": "Mus_18 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1168726,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d473b5bc-5c15-4051-ae84-13025f1d904e",
+      "stopnumber": 120,
+      "title_de": "Friedrich-Wilhelm Doell: Relief",
+      "title_en": "Friedrich-Wilhelm Doell: Relief carving",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8226880a-c92f-4f75-8ed6-639bdce9bea9/Mus_20.jpg",
+        "filename": "Mus_20.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 79784,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "443af22e-d3de-440e-a105-2c7723422e94",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8b1bf592-3b34-4cd3-a840-045e11bc0832/Mus_20%20DE.mp3",
+        "filename": "Mus_20 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1444363,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2f133962-696c-46c2-8089-92378481188b/Mus_20%20ENG.mp3",
+        "filename": "Mus_20 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1429457,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "bad06582-60ac-492b-aad0-83652312816b",
+      "stopnumber": 121,
+      "title_de": "Antonio Chichi: Konstantinsbogen",
+      "title_en": "Antonio Chichi: Arch of Constantine",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/292cbc1c-d19d-426a-a4f3-c30794a599c0/Mus_21.jpg",
+        "filename": "Mus_21.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 82606,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "0ea75acb-268d-4d23-8cb1-2f6b3c3eae4e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ae6385c8-dd96-406c-b3f8-359b1cad69a0/Mus_21%20DE.mp3",
+        "filename": "Mus_21 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1863801,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7ee69e4d-98ae-4f24-88ae-df1b01eae473/Mus_21%20ENG.mp3",
+        "filename": "Mus_21 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1822577,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "2e4c58a0-ae09-4f42-8bec-1c41f502a2db",
+      "stopnumber": 122,
+      "title_de": "Skulpturen",
+      "title_en": "Sculptures",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/78ca8985-1f24-452d-aff6-8fb7e03f2cee/Mus_22.jpg",
+        "filename": "Mus_22.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 37830,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "fc23c5e4-e22e-41dc-807c-def2ebacd839",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/84a430d4-e2c3-454b-86ce-51b3cd257720/Mus_22%20DE.mp3",
+        "filename": "Mus_22 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1456578,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5833d3ff-f950-4d18-816c-df5330040334/Mus_22%20ENG.mp3",
+        "filename": "Mus_22 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1443486,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "251b52d3-055a-41a9-9918-c3a784fdb054",
+      "stopnumber": 123,
+      "title_de": "Portrait der Agrippina",
+      "title_en": "Portrait of Agrippina",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/185372d2-b1f0-42fa-aaed-22df1181aaa7/Mus_23.jpg",
+        "filename": "Mus_23.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 50368,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "23843db7-7361-4003-9581-dc589a6150a0",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d81b4a4f-cc07-44a3-8964-edeb5842211a/Mus_23%20DE.mp3",
+        "filename": "Mus_23 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1630309,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/08c0698f-ce47-4f10-860d-adcc57e4a37f/Mus_23%20ENG.mp3",
+        "filename": "Mus_23 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1512994,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "c1122b81-bb5d-4a9f-a823-51c591a53946",
+      "stopnumber": 124,
+      "title_de": "Jean-Antoine Houdon: Muskelmann",
+      "title_en": "Jean-Antoine Houdon: Anatomical Study",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b96f4707-b578-41fb-a014-c77c1c6c3df2/Mus_24.jpg",
+        "filename": "Mus_24.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 38656,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "24cf7cf6-e053-45c3-8311-522290d1f50d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/520f6877-7354-4235-ad8e-807258eaf3c8/Mus_24%20DE.mp3",
+        "filename": "Mus_24 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1162984,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f4d7a173-c96a-4c16-b670-ff9a1ca2ec36/Mus_24%20ENG.mp3",
+        "filename": "Mus_24 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1118957,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "c15a1d6c-6c80-405a-aa46-89b3e564bc89",
+      "stopnumber": 125,
+      "title_de": "Jean-Antoine Houdon: Morpheus",
+      "title_en": "Jean-Antoine Houdon: Morpheus",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/24f9b296-0326-4c5e-b79b-776a08d5d484/Mus_25.jpg",
+        "filename": "Mus_25.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 53979,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "e46b34e1-254c-4b09-8b41-6063378b0c1d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/286ab809-d5d2-43ae-859a-2031eaf9191b/Mus_25%20DE.mp3",
+        "filename": "Mus_25 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1756115,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/52475dad-7332-4831-a14e-f8908ae7d3ac/Mus_25%20ENG.mp3",
+        "filename": "Mus_25 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1881096,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "902ebf7b-6129-4edc-b124-84bb8ab87700",
+      "stopnumber": 126,
+      "title_de": "Jean-Antoine Houdon: Portrait Diderots",
+      "title_en": "Jean-Antoine Houdon: Portrait of Diderot",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5e1c9780-4082-44d7-a0ea-eed724a83bf5/Mus_26.jpg",
+        "filename": "Mus_26.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 49423,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c5d1b361-2be2-45dc-a837-deefdd993c31",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/890bd438-e12e-4c33-bfd2-fdd23bc31d81/Mus_26%20DE.mp3",
+        "filename": "Mus_26 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1300718,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a71984f0-8c8b-468c-8c13-ecc74333b3c3/Mus_26%20ENG.mp3",
+        "filename": "Mus_26 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1309580,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "dba23e73-750f-4b8a-bd1f-343e62a667e4",
+      "stopnumber": 127,
+      "title_de": "Jean-Antoine Houdon: Diana",
+      "title_en": "Jean-Antoine Houdon: Diana",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1f5f551a-56fd-4134-b08d-2f758fe58a83/Mus_27.jpg",
+        "filename": "Mus_27.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 40760,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c3443f00-f7ae-4a5f-967e-a32ada2e8bfa",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/27087f2c-f9c0-4486-b586-c9f9f07ff3f5/Mus_27%20DE.mp3",
+        "filename": "Mus_27 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1714167,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5dfd38a8-274e-48db-9f23-663ccfcda738/Mus_27%20ENG.mp3",
+        "filename": "Mus_27 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1672945,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1810bf5a-6396-449f-9ab4-1c4432369193",
+      "stopnumber": 128,
+      "title_de": "Conrat Meit: Adam und Eva",
+      "title_en": "Conrat Meit: Adam and Eve",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a6c9c001-5c07-4182-a55d-6c496ca152aa/Mus_28.jpg",
+        "filename": "Mus_28.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 57580,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "196f866e-d98e-4ebc-b756-d57614faa284",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3a2a2a29-462c-4026-a729-10adaf11d104/Mus_28%20DE.mp3",
+        "filename": "Mus_28 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1600241,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f7713842-7752-457d-987f-4dec54bcb6d2/Mus_28%20ENG.mp3",
+        "filename": "Mus_28 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1620359,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "35410029-417f-4087-9b1a-fdd9b5bfb691",
+      "stopnumber": 129,
+      "title_de": "Adriaen de Vries: Farnese bull",
+      "title_en": "Adriaen de Vries: Farnese bull",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7e540713-005a-422a-8aea-c395b5c83d0c/Mus_29.jpg",
+        "filename": "Mus_29.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 61035,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "633df84b-721f-49cf-8a8c-96729732f728",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/73916cc8-98e0-4cd5-b6e9-93cdafd78204/Mus_29%20DE.mp3",
+        "filename": "Mus_29 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2151454,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e04ec108-f867-40c0-8021-2b5bf1875b3e/Mus_29%20ENG.mp3",
+        "filename": "Mus_29 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2275789,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "b036d006-8fda-4468-a783-78f54067b7d5",
+      "stopnumber": 130,
+      "title_de": "Kuppelsaal und Bronzestatue Ernsts II",
+      "title_en": "Cupola Room and Bronze Statue of Ernest II",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/34126467-ec21-47ca-8dfe-820d76c9ce75/Mus_30.jpg",
+        "filename": "Mus_30.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 86147,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "87916421-6189-4e7a-a279-19d025facdc5",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e515364e-7479-4ab2-b786-934acba21477/Mus_30%20DE.mp3",
+        "filename": "Mus_30 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1090994,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/803e9dfd-15d6-4895-be66-89ac0f4d3e46/Mus_30%20ENG.mp3",
+        "filename": "Mus_30 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1100502,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d0d64697-10fd-488b-beb3-346d2061d022",
+      "stopnumber": 131,
+      "title_de": "Die Gemäldesammlung",
+      "title_en": "The Picture Collection",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/661adb1c-0210-47ba-a0c2-c6278dacb7f5/Mus_31.jpg",
+        "filename": "Mus_31.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 76435,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "fa9681c3-b05b-426e-aaa6-e76ece04b383",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b92d32ce-55bc-4a6a-bb58-cb0d132afcaa/Mus_31%20DE.mp3",
+        "filename": "Mus_31 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2049725,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/90096b3b-1483-4989-904e-d712d1087eab/Mus_31%20ENG.mp3",
+        "filename": "Mus_31 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2128667,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "429e1e25-ca80-4780-919d-3ee5ad8d1ba0",
+      "stopnumber": 132,
+      "title_de": "Der Gothaer Tafelaltar",
+      "title_en": "The Gotha Panel Altarpiece",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/54243444-836e-4b6d-b838-36dbef60da33/Mus_32.jpg",
+        "filename": "Mus_32.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 114227,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "0d8ec729-4b8b-4d3b-92d2-fb4fe42f3d73",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/dec180c9-3e2b-414a-a3a0-6e204be5d3d5/Mus_32%20DE.mp3",
+        "filename": "Mus_32 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1606192,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c049202e-30e8-4cba-b936-22048f853794/Mus_32%20ENG.mp3",
+        "filename": "Mus_32 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1604713,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "8fe33b94-736e-4f43-844c-6a787ef7c86f",
+      "stopnumber": 133,
+      "title_de": "Cranach: Verdammnis und Erlösung",
+      "title_en": "Cranach: Damnation and Salvation",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/83f0eb8b-40f6-45e3-994a-c34b345ad323/Mus_33.jpg",
+        "filename": "Mus_33.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 126127,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "56449b53-86f4-4087-9c99-9b7a86fbc531",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7bf9d3f6-5f44-4e33-9998-e554a13db42e/Mus_33%20DE.mp3",
+        "filename": "Mus_33 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1881945,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/66a0eee1-3825-4c4c-8955-3dd8fbfe981a/Mus_33%20ENG.mp3",
+        "filename": "Mus_33 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2110531,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "3f94207f-099e-435e-98c2-8b598b7a9dce",
+      "stopnumber": 134,
+      "title_de": "Cranach: Judith und Holofernes",
+      "title_en": "Cranach: Judith and Holofernes",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9aaa38c8-0e61-4296-a2c7-dcb8530db94d/Mus_34.jpg",
+        "filename": "Mus_34.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 118739,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "3460b32d-1062-4592-b8bb-0e2ff855e18d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7a646220-bd9a-49f9-ba01-5934bc152a29/Mus_34%20DE.mp3",
+        "filename": "Mus_34 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1845964,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1f07bece-fd0c-4601-b833-39d127fce540/Mus_34%20ENG.mp3",
+        "filename": "Mus_34 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2026956,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "6878cf4b-7136-4cde-8aa7-5260e721c245",
+      "stopnumber": 135,
+      "title_de": "Das Gothaer Liebespaar",
+      "title_en": "The Gotha lovers",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1db9ad18-1bf7-4f4b-b2e3-0394a3853173/Mus_35.jpg",
+        "filename": "Mus_35.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 118795,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "a9ae2194-0903-48bd-887b-e98733bb0744",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/572590f9-c84b-4d1f-8aef-78c750570f18/Mus_35%20DE.mp3",
+        "filename": "Mus_35 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1923887,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/170d1837-c2d3-4805-b94f-8e61bba86ea2/Mus_35%20ENG.mp3",
+        "filename": "Mus_35 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 2159642,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "baf8bbc9-c888-4841-9c35-4388fcb007ca",
+      "stopnumber": 136,
+      "title_de": "Barth. Bruyn: Portrait eines Paares",
+      "title_en": "Barth. Bruyn: Portrait of a couple",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1438b1fc-fda9-49f0-b20e-6e7a90a5c6e0/Mus_36.jpg",
+        "filename": "Mus_36.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 93945,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "b62016db-fafe-4d80-bb49-08d2ad2424a3",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4f6efbb0-0fbe-4171-84b0-8fc73147e094/Mus_36%20DE.mp3",
+        "filename": "Mus_36 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1468468,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b4837134-743e-4cf0-9e51-0c2aa97126fd/Mus_36%20ENG.mp3",
+        "filename": "Mus_36 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1557478,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "cc02e559-d2d1-416a-9726-39f76ec70cae",
+      "stopnumber": 137,
+      "title_de": "Tischbein: Das Todesurteil",
+      "title_en": "Tischbein: The judgement of death",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/fcf2d669-f489-4554-95fe-43deeec5495a/Mus_37.jpg",
+        "filename": "Mus_37.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 62980,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "a8e5311a-94fa-4a35-a070-a039116e140e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/32eaa8cb-f237-43e6-acbb-916ac9177c68/Mus_37%20DE.mp3",
+        "filename": "Mus_37 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1732020,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/64578ae1-1bf1-41db-b74a-49e22125813a/Mus_37%20ENG.mp3",
+        "filename": "Mus_37 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1762479,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "2a20af2b-3b2d-43c7-8b0f-49b411c1a6bb",
+      "stopnumber": 138,
+      "title_de": "Hackert: Ideale Landschaft",
+      "title_en": "Hackert: Idealized Landscape",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b20d0c8b-6f01-4d66-b827-b4ac15858487/Mus_38.jpg",
+        "filename": "Mus_38.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 55016,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "340bf8a6-6e19-4976-89de-b40d986c69dc",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b7eee181-3a09-4c76-b05c-337276d1a54c/Mus_38%20DE.mp3",
+        "filename": "Mus_38 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1336713,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/27b968d3-3596-4131-9bb1-f7e83bd77ce5/Mus_38%20ENG.mp3",
+        "filename": "Mus_38 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1462910,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "4abc5ae7-c8b7-4675-92d2-5335c42b9534",
+      "stopnumber": 139,
+      "title_de": "C. D. Friedrich: Kreuz im Gebirge",
+      "title_en": "C. D. Friedrich: Cross in the Mountains",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/00c585e5-69ed-47b5-a659-a392ed8adb80/Mus_39.jpg",
+        "filename": "Mus_39.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 69899,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "1d2fbb93-9c39-4971-9eed-739f123a28ec",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b219c9a0-2107-4433-bb61-e7daadd90a6c/Mus_39%20DE.mp3",
+        "filename": "Mus_39 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1528261,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/63373aba-e743-4aa3-96f7-c954e7311636/Mus_39%20ENG.mp3",
+        "filename": "Mus_39 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1596906,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "635ac865-fbdc-4db8-8216-d7f7bc89b404",
+      "stopnumber": 140,
+      "title_de": "Fächerkabinett",
+      "title_en": "Fan Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/79a7bac9-eaa4-4f6c-9c03-b21a3323749f/Mus_40.jpg",
+        "filename": "Mus_40.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 105226,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "ddfb2e73-f94a-4eef-aef7-186aaee102a7",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ab349ea4-af66-4ebd-9d53-c10c12b274cc/Mus_40%20DE.mp3",
+        "filename": "Mus_40 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1660038,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/30442cdf-42f6-42f8-92d6-244b515e0bce/Mus_40%20ENG.mp3",
+        "filename": "Mus_40 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1720180,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1f7c1531-c467-415b-80f7-85d43a5185b7",
+      "stopnumber": 141,
+      "title_de": "Böttgersteinzeug",
+      "title_en": "Böttger Stoneware",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0b164232-0676-4cda-a03e-6355b0faa7d6/Mus_41.jpg",
+        "filename": "Mus_41.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 60002,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "e45cceb4-6671-48f1-9e6b-fc11866bc5de",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/bf44ee1f-153a-484e-be07-20d2bf3da9c3/Mus_41%20DE.mp3",
+        "filename": "Mus_41 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1720138,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8e048dcf-9f27-4023-8f48-1612345a3d59/Mus_41%20ENG.mp3",
+        "filename": "Mus_41 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1788426,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "5749bd63-ee90-4d51-a1df-ba4b4b40e407",
+      "stopnumber": 142,
+      "title_de": "Komödienfiguren",
+      "title_en": "Six Figurines from the Commedia dell’arte",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8e5fa211-2fdf-4cef-ac59-af868470b876/Mus_42.jpg",
+        "filename": "Mus_42.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 50911,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "8fc5fbce-ef0b-424a-b4ee-8a8229bb0ddf",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/f9aa9310-e585-4d63-877c-5a332643acc1/Mus_42%20DE.mp3",
+        "filename": "Mus_42 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1773972,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5eb2abe4-21fa-4d49-b2db-ca76e16b98af/Mus_42%20ENG.mp3",
+        "filename": "Mus_42 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1868602,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d1a032bd-e868-49a7-a562-82f6d6a97679",
+      "stopnumber": 143,
+      "title_de": "Flasche mit Schwarzlack und Gold",
+      "title_en": "Bottle with Black Varnish and Gold",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/51dae934-7e67-4aaa-9cdb-1bcd9f7fe364/Mus_43.jpg",
+        "filename": "Mus_43.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 58482,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "ff8a3714-e69b-48fd-8471-4815f22ebdac",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c04b11d0-e877-4167-9898-1dbc018d462f/Mus_43%20DE.mp3",
+        "filename": "Mus_43 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1330746,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2425ee36-7dd6-4306-9d9b-763894af7a08/Mus_43%20ENG.mp3",
+        "filename": "Mus_43 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1250100,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "12cd4c56-83c5-49ff-8a04-6ac5ec7e45fb",
+      "stopnumber": 144,
+      "title_de": "Kaffeekanne mit Email & Granatbesatz",
+      "title_en": "Coffee Pot with Enamel & Garnet Trimming",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1ef41cbb-3bf4-49d4-9596-121630e3eb17/Mus_44.jpg",
+        "filename": "Mus_44.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 64348,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "430a5646-0cbd-486e-bb95-6a2c0303abfd",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/94f22290-ceae-44b5-96e7-e8386235afed/Mus_44%20DE.mp3",
+        "filename": "Mus_44 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 743566,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/031617c7-4d65-42ea-8a1c-7c0691f3b53c/Mus_44%20ENG.mp3",
+        "filename": "Mus_44 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 728032,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "9da75150-5df9-40b1-9a0d-3669a76d4642",
+      "stopnumber": 145,
+      "title_de": "Drei Kaffeekannen in türkischer Form",
+      "title_en": "Three Turkish-Type Coffee Pots",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ba11e3fe-7a58-42b8-90ef-c448323a0cdc/Mus_45.jpg",
+        "filename": "Mus_45.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 73771,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c270b079-5225-48b0-b21b-3af68f70513f",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/deba6a2d-dd9a-4fd8-a4f7-67dd6f180d3e/Mus_45%20DE.mp3",
+        "filename": "Mus_45 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 743566,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/756787c5-e15e-4aee-810a-9635b33d9626/Mus_45%20ENG.mp3",
+        "filename": "Mus_45 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1178415,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e8588df2-f57c-45cf-be8d-c0f3ed9158c7",
+      "stopnumber": 146,
+      "title_de": "Porzellan: Durchbrochener Pokal",
+      "title_en": "Porcelain: Open Worked Trophy",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/56cc44a4-4f94-41ed-9e02-ef61d3669670/Mus_46.jpg",
+        "filename": "Mus_46.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 42986,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "764460fc-1221-48f1-91e2-c069466a9e3d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/13361a2c-fe2c-4363-9b73-a5e419754b95/Mus_46%20DE.mp3",
+        "filename": "Mus_46 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1534192,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/759791e6-a1b1-470d-aa6f-4679354d0c2e/Mus_46%20ENG.mp3",
+        "filename": "Mus_46 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1480143,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e80bb191-078e-4de3-b123-c451637129c0",
+      "stopnumber": 147,
+      "title_de": "Affenmutter mit zwei Jungen als Kanne",
+      "title_en": "Mother Monkey with Two Young Monkeys",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8ad7938e-5434-4535-bdbb-3fbd50a1cf38/Mus_47.jpg",
+        "filename": "Mus_47.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 57618,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "6c7fc904-2806-479c-a0f9-e4123bd717e2",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a22dbca8-30e8-475b-bd27-dc3f17c5dce5/Mus_47%20DE.mp3",
+        "filename": "Mus_47 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1366749,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ef257f1d-8081-4bef-81d9-cb88f5458e83/Mus_47%20ENG.mp3",
+        "filename": "Mus_47 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1354020,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "dd35e2b5-3660-4e85-a808-a8f136749a18",
+      "stopnumber": 148,
+      "title_de": "Zwei Mopshunde",
+      "title_en": "Two Pugs",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e410dbff-eacb-427b-917b-99e3fcc1579e/Mus_48.jpg",
+        "filename": "Mus_48.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 49979,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "06acf3ea-ddcd-4c94-8c11-326ba4172ead",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/151fa823-b767-49c3-bd6b-bb06e3c280d1/Mus_48%20DE.mp3",
+        "filename": "Mus_48 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1276611,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e4e1f9ea-f1f2-4cef-b4a6-a6662446ecc5/Mus_48%20ENG.mp3",
+        "filename": "Mus_48 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1168042,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "6726435e-de8c-4901-aa54-4a57028921ac",
+      "stopnumber": 149,
+      "title_de": "Liebespaar mit Vogelkäfig",
+      "title_en": "Lovers with Birdcage",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5321f348-8cbb-4f6e-b220-b6947f46f77f/Mus_49.jpg",
+        "filename": "Mus_49.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 57556,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "54f61726-5f8a-44c4-bb15-0bb342e4aee4",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4d312b9e-691f-48d3-aef8-deaf6e476405/Mus_49%20DE.mp3",
+        "filename": "Mus_49 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1480366,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7d9e4db1-fe13-46e1-a12a-5b71d3cf94bd/Mus_49%20ENG.mp3",
+        "filename": "Mus_49 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1490143,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "85779dfc-7e4e-4adf-9e09-d6bfc9895bdc",
+      "stopnumber": 150,
+      "title_de": "Allegorien der Jahreszeiten",
+      "title_en": "Allegories of the seasons",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6e00b2db-0d23-4368-a844-e705dd37ce8d/Mus_50.jpg",
+        "filename": "Mus_50.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 59332,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "bf4080a6-a457-4783-a3c7-636accc2e01e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9fe86916-a27d-422b-b4eb-dde740fc868b/Mus_50%20DE.mp3",
+        "filename": "Mus_50 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1186798,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/449b4679-2762-49a8-9a3e-e7cec75f9d40/Mus_50%20ENG.mp3",
+        "filename": "Mus_50 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1179970,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "6668238f-1a12-4de4-95e1-4488611cd23e",
+      "stopnumber": 151,
+      "title_de": "Kommodenensemble von David Roentgen",
+      "title_en": "Cabinet Ensemble David Roentgen",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c171a502-533e-4032-8bdb-6f08c317d1ee/Mus_51.jpg",
+        "filename": "Mus_51.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 84573,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "7133579e-d176-4c75-8fd8-9f9b730eff8d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9fc9d58d-573a-4257-95ef-f2e129609d35/Mus_51%20DE.mp3",
+        "filename": "Mus_51 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1516373,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c327a1de-08df-4020-91f3-a5464eb5eb44/Mus_51%20ENG.mp3",
+        "filename": "Mus_51 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1411915,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "eca27de9-3bf6-46bc-a6be-f8672d9f96f0",
+      "stopnumber": 152,
+      "title_de": "Majolika",
+      "title_en": "Majolica",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b5a30f2b-7c9b-4d21-9f1a-05b533279925/Mus_52.jpg",
+        "filename": "Mus_52.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 488797,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "68f64dd3-2add-45cd-b579-59619df3a8e9",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/62726379-326a-401a-9a3f-7cbf5f1a0f84/Mus_52%20DE.mp3",
+        "filename": "Mus_52 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1222763,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/86b2edec-3a94-4b0a-b034-02ee8a6d76b5/Mus_52%20ENG.mp3",
+        "filename": "Mus_52 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1159278,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "25db03ea-c13d-4c13-a131-10bbb68b61b5",
+      "stopnumber": 153,
+      "title_de": "Teller mit Mars und Venus",
+      "title_en": "Plate with Mars and Venus",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2f0ca6f7-114e-47fd-93b3-6c39c91bb671/Mus_53.jpg",
+        "filename": "Mus_53.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 511557,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "9e222b25-6ac2-4ee9-8ca6-1f05814812d4",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/fa4b1e0b-98ed-48a2-a74e-1be89e3cff96/Mus_53%20DE.mp3",
+        "filename": "Mus_53 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1157029,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/dd923c3e-2d72-4823-9a92-c396201e16cb/Mus_53%20ENG.mp3",
+        "filename": "Mus_53 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1140845,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "64d928cc-db36-4e45-96e0-376a9c9601d5",
+      "stopnumber": 154,
+      "title_de": "Teller mit dem Raub der Helena",
+      "title_en": "Plate with the Abduction of Helena",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/dffa5801-899f-44ea-9c55-2d8698d95cc7/Mus_54.jpg",
+        "filename": "Mus_54.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 532308,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "7970b941-66b0-4b25-8c96-736ec8ab8924",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/14082640-2daa-485a-b3bf-0abe97d28906/Mus_54%20DE.mp3",
+        "filename": "Mus_54 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1348599,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ef562da3-88ba-45f7-86d7-6fafc8b23230/Mus_54%20ENG.mp3",
+        "filename": "Mus_54 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1345565,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "4b68318a-02c4-438b-b0a0-f00ac00d2ab4",
+      "stopnumber": 155,
+      "title_de": "Benedetto da Maiano: Alter Mann",
+      "title_en": "Benedetto da Maiano: Old Man",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/afd618b7-8585-4643-8744-8133d148a211/Mus_55.jpg",
+        "filename": "Mus_55.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 273961,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "855ff2dc-1004-4ae7-8fc5-6b6f3fdc8763",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c65f840d-3a2e-4748-9bf1-c44d35382e7f/Mus_55%20DE.mp3",
+        "filename": "Mus_55 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1294757,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6560c73a-1dd2-4bff-b64d-4fe159779755/Mus_55%20ENG.mp3",
+        "filename": "Mus_55 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1324251,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "5a1382ab-0830-4934-ae6a-da4e0f5697ae",
+      "stopnumber": 156,
+      "title_de": "Niederländische Malerei",
+      "title_en": "Dutch Painting",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/dab6ea3c-7ba3-4c3f-bba8-618966ce49cf/Mus_56.jpg",
+        "filename": "Mus_56.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 298319,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "6d63d04e-413f-4df4-8d09-41649a133e0b",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/098d9be2-d25f-4b38-a376-82690e3e2404/Mus_56%20DE.mp3",
+        "filename": "Mus_56 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1522326,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7f550e73-c83d-4a19-a455-3eb8bbd92d7f/Mus_56%20ENG.mp3",
+        "filename": "Mus_56 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1519553,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "6fa31e04-4925-43cf-9c6b-aeb49431ad76",
+      "stopnumber": 157,
+      "title_de": "Wtewael: Heilige Familie",
+      "title_en": "Wtewael: Holy Family",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2a36908d-e69b-4b08-8a3b-f699f9eff3ee/Mus_57.jpg",
+        "filename": "Mus_57.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 451991,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "5ae479db-f531-4724-9b6b-0a26a740df11",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/2b61a7a3-5db2-49b5-a64d-315ed10f4007/Mus_57%20DE.mp3",
+        "filename": "Mus_57 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1899796,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4d923c84-f2ff-40bf-babe-64478bcc24cd/Mus_57%20ENG.mp3",
+        "filename": "Mus_57 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1883269,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "7b344d17-3db1-4071-bd50-91a88554d402",
+      "stopnumber": 158,
+      "title_de": "Jan Josefz. van Goyen: Valkhof",
+      "title_en": "Jan Josefz. van Goyen: Valkhof",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/cf897a0d-2135-4ec0-95a0-b10f3793e7ba/Mus_58.jpg",
+        "filename": "Mus_58.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 275120,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "8e44aed8-650d-48fc-96c5-3e9279a0c99d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ebc7abdb-62a2-451e-9434-097355961c67/Mus_58%20DE.mp3",
+        "filename": "Mus_58 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1324799,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6e458cb1-493d-4fc7-a6c1-00cbefc85845/Mus_58%20ENG.mp3",
+        "filename": "Mus_58 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1410956,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e1eef807-95af-4d32-a665-423cf58a7ed5",
+      "stopnumber": 159,
+      "title_de": "De Keyser: Familie beim Spaziergang",
+      "title_en": "De Keyser: Family Taking a Walk",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/304a2c86-eac4-4589-a92a-81b512a874e0/Mus_59.jpg",
+        "filename": "Mus_59.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 363848,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "eec0e5a7-09c8-40df-bd41-fa049f7124ca",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6866fda5-4d1e-40ad-adf7-03891a645428/Mus_59%20DE.mp3",
+        "filename": "Mus_59 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1834050,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/805e3a7d-cead-4c22-b228-53f2ad2d6336/Mus_59%20ENG.mp3",
+        "filename": "Mus_59 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1906453,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "428638e1-1eb5-438f-a7ff-2fd17aece9c7",
+      "stopnumber": 160,
+      "title_de": "Rembrandt, Werkstatt/Umreis: Brustbild",
+      "title_en": "Rembrandt, Workshop/Circle: Bust Portrait",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/ad445df6-8395-42d5-b7c1-a67e881890a8/Mus_60.jpg",
+        "filename": "Mus_60.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 259356,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "4dd4d878-7155-4a7c-8a9b-91c0398b2ffd",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c2f1d1d2-f296-48c4-bb26-57f5302fc19e/Mus_60%20DE.mp3",
+        "filename": "Mus_60 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1384606,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/334fcae3-e09e-4527-9798-ac95acea06a8/Mus_60%20ENG.mp3",
+        "filename": "Mus_60 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1436939,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "6258c79f-590d-44b3-858d-29bf70832ee6",
+      "stopnumber": 161,
+      "title_de": "Jacob Duck: Fröhliche Gesellschaft",
+      "title_en": "Jacob Duck: Happy Society",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/570eb87c-5828-482b-8b3f-51ad9207f78a/Mus_61.jpg",
+        "filename": "Mus_61.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 330815,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "971ba183-1b77-4d2f-ad61-a229998ee7b4",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/df4d9c76-fb43-4bed-8bbc-1dfff391bd8e/Mus_61%20DE.mp3",
+        "filename": "Mus_61 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1234665,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7a06ce3d-017c-4b0d-8404-8809381d4bc6/Mus_61%20ENG.mp3",
+        "filename": "Mus_61 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1263539,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "b6ad2eda-f93a-4daa-a88f-6788ca03bd9c",
+      "stopnumber": 162,
+      "title_de": "Rogier, Schule: Philipp III",
+      "title_en": "Rogier, School: Philipp III",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/84ebaf0d-3f07-4eaf-af64-cf1b2bb74104/Mus_62.jpg",
+        "filename": "Mus_62.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 929758,
+        "width": 1083,
+        "height": 1083
+      },
+      "audio_segment_uuid": "0ccef37e-48a1-461b-8476-08e3dc44c6b5",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0dc2c578-eb84-4e1a-a0a9-e65330a573fd/Mus_62%20DE.mp3",
+        "filename": "Mus_62 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1534204,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7168706b-4633-4275-baad-767f3d124d66/Mus_62%20ENG.mp3",
+        "filename": "Mus_62 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1432577,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "3e5abacb-4092-4a49-8c67-46cf88bfb6e5",
+      "stopnumber": 163,
+      "title_de": "Peter Paul Rubens: St. Basilius",
+      "title_en": "Peter Paul Rubens: St. Basilius",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/709cc1b5-0207-4131-bc86-68e7bb04bd28/Mus_63.jpg",
+        "filename": "Mus_63.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 333490,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "f70551ca-67d5-47b3-bd5e-ba012cb5657a",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/57dea501-048b-430e-bc97-dbc7882d074a/Mus_63%20DE.mp3",
+        "filename": "Mus_63 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1983672,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9d87e8dd-33d9-4574-8634-2565f4fc3376/Mus_63%20ENG.mp3",
+        "filename": "Mus_63 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1973762,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d2ba6f5c-0328-4bec-a671-a301f38bd629",
+      "stopnumber": 164,
+      "title_de": "Cornelis de Vos: Portrait",
+      "title_en": "Cornelis de Vos: Portrait",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0dd3c5e7-826c-48e8-b6ac-168e3b3f002d/Mus_64.jpg",
+        "filename": "Mus_64.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 368140,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "73178f30-1b8b-4095-852c-31508fbf2b54",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c3214bc6-63c4-476e-a67a-456184d044db/Mus_64%20DE.mp3",
+        "filename": "Mus_64 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1462535,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4bb8b8f2-3ea8-473a-bf94-abad365a9c2f/Mus_64%20ENG.mp3",
+        "filename": "Mus_64 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1569968,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "09b7023e-998e-46ac-a3e5-e6a88aeea3b3",
+      "stopnumber": 165,
+      "title_de": "Johannes Leemans: Vogelfangstillleben",
+      "title_en": "Johannes Leemans: Still-life with Bird Catching Devices",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4705ae61-112b-4c30-9590-26fb3f86b30a/Mus_65.jpg",
+        "filename": "Mus_65.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 364907,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "6e9e63d5-f1c8-462f-94c4-d09fe42c049f",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d2ec04d2-af2e-490d-b077-36c32832e71f/Mus_65%20DE.mp3",
+        "filename": "Mus_65 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1420581,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8cfa1733-3ee9-419a-a095-12d718814854/Mus_65%20ENG.mp3",
+        "filename": "Mus_65 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1466106,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "fe45a0b1-b093-48fe-a4b6-bf62776d2d84",
+      "stopnumber": 166,
+      "title_de": "Jan Davidz. de Heem: Stillleben",
+      "title_en": "Jan Davidz. de Heem: Still-life",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/825fec1c-5918-442b-96f0-cd596769747d/Mus_66.jpg",
+        "filename": "Mus_66.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 303775,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "09a6c0f8-cd06-4171-a851-cdefd5bff09b",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4fef7749-059e-4f89-b034-d4d29b00ce65/Mus_66%20DE.mp3",
+        "filename": "Mus_66 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1708228,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e83e117f-b397-4d3f-b9cb-9fe4baa02bb3/Mus_66%20ENG.mp3",
+        "filename": "Mus_66 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1765292,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "fc96151e-e560-4ee5-bfaf-1de8cfe32bae",
+      "stopnumber": 167,
+      "title_de": "Kunst aus China",
+      "title_en": "Art from China",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/b4a3f927-e252-4497-b3a6-a4d732901ebb/Mus_67.jpg",
+        "filename": "Mus_67.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 278528,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "17108160-a33c-479e-a584-decc639da773",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6b23c4bb-a5a2-4324-ae0b-e64f54ac0f4a/Mus_67%20DE.mp3",
+        "filename": "Mus_67 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1546411,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/fb9e79af-0ac0-49c8-95d8-fe310a5b568e/Mus_67%20ENG.mp3",
+        "filename": "Mus_67 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1648822,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "1550c6e1-33fc-4515-afec-ebc64393d5e1",
+      "stopnumber": 168,
+      "title_de": "Knabenpaar – Genien der Eintracht",
+      "title_en": "Pair of Boys – Genies of Peace and Harmony",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/299614e3-be6d-48e2-8501-60d9890e5c34/Mus_68.jpg",
+        "filename": "Mus_68.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 328318,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "25441de5-1279-42d5-b54c-3b26f34b6f4b",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/361b71d7-ba2d-4621-bcb2-7f01764092fd/Mus_68%20DE.mp3",
+        "filename": "Mus_68 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1540462,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5f9f0cfe-a304-4546-bb6a-5ca9aeb40a9e/Mus_68%20ENG.mp3",
+        "filename": "Mus_68 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1537420,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ab9dd809-38b7-4a91-bd34-7658e5862e94",
+      "stopnumber": 169,
+      "title_de": "Magu auf dem Löwen",
+      "title_en": "Ma Gu on the Lion",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d56608f2-3e42-41f0-a9a2-dfeb92d61a19/Mus_69.jpg",
+        "filename": "Mus_69.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 243493,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "084d2759-83ee-4733-a381-c8540bf74973",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8be88aa0-5425-499d-9312-d9b005dd4052/Mus_69%20DE.mp3",
+        "filename": "Mus_69 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1186760,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5dae0538-1000-4fa9-8b1a-3f6851ff4199/Mus_69%20ENG.mp3",
+        "filename": "Mus_69 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1165243,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "f52ce3bd-8970-4da1-8441-fee66da4ee96",
+      "stopnumber": 170,
+      "title_de": "Löwe mit Jungem, Jade",
+      "title_en": "Lion with Cubs, Jade",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/68883283-5dc2-4557-95d8-b7b77f285c37/Mus_70.jpg",
+        "filename": "Mus_70.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 234309,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "9be1f39d-cccd-485a-ab62-27ced51dacf3",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/011f8863-349d-48a6-be9e-94a00c64b69e/Mus_70%20DE.mp3",
+        "filename": "Mus_70 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1402419,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/fa983913-e01c-42fc-ae2f-896f8dff4010/Mus_70%20ENG.mp3",
+        "filename": "Mus_70 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1390603,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "b79d51cb-4d90-4e74-baaf-2dce61c54c62",
+      "stopnumber": 171,
+      "title_de": "Porzellankumme mit Dichter Li Taibo",
+      "title_en": "Porcelain Bowl with Poet Li Taibo",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/9cf6bf3c-f674-4b6c-a296-526831bb292b/Mus_71.jpg",
+        "filename": "Mus_71.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 229739,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c7e7654f-3eb2-4c06-8217-7182b37dee7e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8910ed53-b71e-4d5c-acf0-0e222fd6aa8e/Mus_71%20DE.mp3",
+        "filename": "Mus_71 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1480374,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1989e688-af23-4e29-b020-f956cb121867/Mus_71%20ENG.mp3",
+        "filename": "Mus_71 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1312385,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d549cac0-9f51-487a-8d2a-f7f52d4800aa",
+      "stopnumber": 172,
+      "title_de": "Teekanne mit Bilchen in Weinranken",
+      "title_en": "Teapot with Small Dormice Between Vine Branches",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d8f52680-8209-46a7-a837-3b0c627b1213/Mus_72.jpg",
+        "filename": "Mus_72.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 268072,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "ce0267c6-38cf-43d6-bd77-66043137b53e",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4cb2ddc4-4dbb-4f52-b3d8-04d7832f9df2/Mus_72%20DE.mp3",
+        "filename": "Mus_72 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1564246,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/bc30f823-4c1c-466c-b701-78f79e4b78f2/Mus_72%20ENG.mp3",
+        "filename": "Mus_72 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1439178,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "e8626e1a-2f07-4527-af57-896e4e612d13",
+      "stopnumber": 173,
+      "title_de": "Schale in Blütenform, Seladon",
+      "title_en": "Flower Shaped Bowl, Celadon",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/8289fb60-72a0-4b64-83c8-8d3d55df57b5/Mus_73.jpg",
+        "filename": "Mus_73.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 194839,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "bb3444b5-1032-4452-a407-18a25a47bfef",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/699ec5c7-fc23-4bb6-90e7-b5a9b53734ce/Mus_73%20DE.mp3",
+        "filename": "Mus_73 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1528263,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/605fa9db-b2af-439b-9c93-f369a7fc582c/Mus_73%20ENG.mp3",
+        "filename": "Mus_73 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1462474,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "32b0c032-ecf4-4241-bd07-c7ffaae119bf",
+      "stopnumber": 174,
+      "title_de": "Lackkunst Japans – Namban-Kabinett",
+      "title_en": "Japanese Lacquerware – Namban-Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/0ecae537-259b-4e62-8109-c65eac140ecf/Mus_74.jpg",
+        "filename": "Mus_74.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 379725,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "042937d0-5449-4ea3-8ce6-9897d183011d",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/969732e2-62f3-47fe-9740-10a64ab493ea/Mus_74%20DE.mp3",
+        "filename": "Mus_74 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1935779,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/4e65ba49-03c4-4e14-a7fb-73e5f2b2c20f/Mus_74%20ENG.mp3",
+        "filename": "Mus_74 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1777507,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "94056785-5b92-4ae9-b7f2-25fad35ae4d3",
+      "stopnumber": 175,
+      "title_de": "Dose für Räucherwerk",
+      "title_en": "Container for Incense",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/1aac0aec-73cd-43ce-a21d-c0bac442ddc4/Mus_75.jpg",
+        "filename": "Mus_75.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 219629,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "dd1ac4dc-f3b8-447a-b8e7-7f456764e981",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/30dbbf71-2ba0-48ac-baad-c8e662e9af9f/Mus_75%20DE.mp3",
+        "filename": "Mus_75 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1360475,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a63ef37a-2862-4d0a-a6fe-5b3d21d2371e/Mus_75%20ENG.mp3",
+        "filename": "Mus_75 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1303910,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "d9fef498-3b26-4017-b54e-5700c20e9568",
+      "stopnumber": 176,
+      "title_de": "Regal",
+      "title_en": "Shelves",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/68729d98-f89f-4dc0-9ed8-b1c0c7f79769/Mus_76.jpg",
+        "filename": "Mus_76.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 345154,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "b344b50a-9f72-41e3-b3a7-396481d55bbe",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/d688ad6c-84ef-4f48-91b3-32829f89ff90/Mus_76%20DE.mp3",
+        "filename": "Mus_76 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1090984,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/3b3dbcb0-707c-4582-a167-0280c5806fd9/Mus_76%20ENG.mp3",
+        "filename": "Mus_76 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1061933,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "c3a2d4b5-9a1a-4338-b644-420451a0fcb9",
+      "stopnumber": 177,
+      "title_de": "Duftspielkasten",
+      "title_en": "Fragance Game Box",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6f28d1ec-1311-479e-93df-bdd66eff0f34/Mus_77.jpg",
+        "filename": "Mus_77.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 218314,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "83881eae-7586-44f3-8c8f-770652817389",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/6222fab6-15a3-4890-8c6c-bb098451dab8/Mus_77%20DE.mp3",
+        "filename": "Mus_77 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1204936,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/64b72b64-0c2c-4bb1-be3c-6119c5cb0047/Mus_77%20ENG.mp3",
+        "filename": "Mus_77 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1229410,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "22d800e6-199e-4a79-bce4-ca5ae71c4b76",
+      "stopnumber": 178,
+      "title_de": "Kabinettschrank",
+      "title_en": "Cabinet",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/25200b7e-9b4a-4755-85d4-bdc8d841f492/Mus_78.jpg",
+        "filename": "Mus_78.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 289928,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "2fce66ac-feb1-47bb-8a27-d3886e1a2cde",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/e77a18ff-35da-4957-97bc-385d28a11db7/Mus_78%20DE.mp3",
+        "filename": "Mus_78 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1055009,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/c6d4c39c-6701-4057-bb66-46c3c2c945fa/Mus_78%20ENG.mp3",
+        "filename": "Mus_78 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1054734,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "108af39c-1b66-44db-8f19-215a8002f1d4",
+      "stopnumber": 179,
+      "title_de": "Jizo Bosatsu – Auf Wiedersehen!",
+      "title_en": "Jizo Bosatsu – Good bye!",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/047031a6-da1a-44ce-882f-3e8387088b4c/Mus_79.jpg",
+        "filename": "Mus_79.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 201914,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "c86dd5fc-1772-49a1-b789-8e15076aafb0",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/530c4337-c1e6-486e-ac4e-d1a461d332db/Mus_79%20DE.mp3",
+        "filename": "Mus_79 DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1498522,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/5e0bf1e4-08fb-40c3-bbec-c28cbda814b6/Mus_79%20ENG.mp3",
+        "filename": "Mus_79 ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1559645,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "uuid": "ee05fb0c-d193-48ef-b305-5fe5210ce06d",
+      "stopnumber": 230,
+      "title_de": "Herzog Ernst II",
+      "title_en": "Duke Ernest II",
+      "image": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/a13b9e5c-3a95-48b1-8997-83005386cfb0/Mus_30a.jpg",
+        "filename": "Mus_30a.jpg",
+        "mime_type": "image/jpeg",
+        "file_size": 39763,
+        "width": 640,
+        "height": 640
+      },
+      "audio_segment_uuid": "01619759-6f00-4b17-b1a3-c54544eef1eb",
+      "audio_de": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/7532f061-eb67-416a-8e3f-88ce2f99b368/Mus_30a%20DE.mp3",
+        "filename": "Mus_30a DE.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1785852,
+        "width": 0,
+        "height": 0
+      },
+      "audio_en": {
+        "url": "https://media.tapart.me/media/friedenstein-stiftung/72137dce-a1be-4fc3-b258-1775dd4b6f25/Mus_30a%20ENG.mp3",
+        "filename": "Mus_30a ENG.mp3",
+        "mime_type": "audio/mpeg",
+        "file_size": 1884513,
+        "width": 0,
+        "height": 0
+      }
+    }
+  ],
+  "galleries": [],
+  "info_pages": [],
+  "stats": {
+    "total_entities": 829,
+    "stops": 135,
+    "audio_segments": 135,
+    "assets": 415,
+    "galleries": 0,
+    "info_pages": 0
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080535,
+    "uuid": "a8f868f7-4353-4b62-913d-58385e6a28fd",
+    "title": "6 Inneres Vorzimmer des Herzogs",
+    "content": {
+      "image": "8a983e32-f0b2-4664-9a0b-a745215fd233",
+      "title": {
+        "de-DE": "Inneres Vorzimmer des Herzogs",
+        "en-US": "The Duke’s Interior Anteroom"
+      },
+      "preview": false,
+      "stopnumber": 6,
+      "primary_segment": "2017d6c2-122f-4d76-a0d7-a1272d644373",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "821e34e453dc4bc7b79fc8000a93d1147ed1810c",
+      "title": "6 Inneres Vorzimmer des Herzogs",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:50:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8a983e32-f0b2-4664-9a0b-a745215fd233"
+        ],
+        "audio_segment": [
+          "2017d6c2-122f-4d76-a0d7-a1272d644373"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

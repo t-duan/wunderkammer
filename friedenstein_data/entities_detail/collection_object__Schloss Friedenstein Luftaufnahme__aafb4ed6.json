@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35592,
+    "uuid": "aafb4ed6-430a-55e6-809b-9e75bf5f1abd",
+    "title": "Schloss Friedenstein, Luftaufnahme",
+    "content": {
+      "title": {
+        "de-DE": "Schloss Friedenstein, Luftaufnahme",
+        "en-US": "Schloss Friedenstein, Luftaufnahme"
+      },
+      "period": {
+        "de-DE": [
+          "um 1917"
+        ],
+        "en-US": [
+          "um 1917"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01038520%2F871347_00250151_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "6823"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "83b041898927ef0ed9dd8e7d5f8b2033455a2fb2",
+      "title": "Schloss Friedenstein, Luftaufnahme",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.483Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "70BD1107F7774EC7BC75706FB6624793"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

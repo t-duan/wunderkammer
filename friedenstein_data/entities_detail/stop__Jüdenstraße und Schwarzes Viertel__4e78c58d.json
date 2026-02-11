@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080649,
+    "uuid": "4e78c58d-7fa7-4c7b-a248-8521fb12e957",
+    "title": "Jüdenstraße und Schwarzes Viertel",
+    "content": {
+      "image": "aa7dc7dd-345e-4596-874d-67e0acb756d9",
+      "title": {
+        "de-DE": "Jüdenstraße und Schwarzes Viertel",
+        "en-US": "Jewish Street and the Black Quarter"
+      },
+      "preview": false,
+      "primary_segment": "396a3ee8-61b0-4713-a845-d3eaed5bcd0d",
+      "secondary_segments": [
+        "8c26d753-4ff0-4905-aa37-8bc47bd86a90",
+        "d15f3242-bdca-4962-9837-c924bcfaaa46"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "45117a1dc266ba3e4292a18983d7f8b5470383ee",
+      "title": "Jüdenstraße und Schwarzes Viertel",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-11T08:40:18.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "aa7dc7dd-345e-4596-874d-67e0acb756d9"
+        ],
+        "audio_segment": [
+          "396a3ee8-61b0-4713-a845-d3eaed5bcd0d"
+        ],
+        "comments_segment": [
+          "d15f3242-bdca-4962-9837-c924bcfaaa46"
+        ],
+        "collection_object_gallery_segment": [
+          "8c26d753-4ff0-4905-aa37-8bc47bd86a90"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080085,
+    "uuid": "fa9681c3-b05b-426e-aaa6-e76ece04b383",
+    "title": "31 The Picture Collection",
+    "content": {
+      "title": {
+        "de-DE": "31 The Picture Collection",
+        "en-US": "31 The Picture Collection"
+      },
+      "audiofile": {
+        "de-DE": "b92d32ce-55bc-4a6a-bb58-cb0d132afcaa",
+        "en-US": "90096b3b-1483-4989-904e-d712d1087eab"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "3e11a7388d448ce610d075238ffedbf4b6ae85dc",
+      "title": "31 The Picture Collection",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:17:54.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "90096b3b-1483-4989-904e-d712d1087eab",
+          "b92d32ce-55bc-4a6a-bb58-cb0d132afcaa"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

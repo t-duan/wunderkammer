@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35553,
+    "uuid": "aa701caa-ff4d-5fb3-840e-5f350f9e625c",
+    "title": "Bahnhofstraße, Blick auf das Bahnhofsgebäude und den Bahnhofsvorplatz",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhofstraße, Blick auf das Bahnhofsgebäude und den Bahnhofsvorplatz",
+        "en-US": "Bahnhofstraße, Blick auf das Bahnhofsgebäude und den Bahnhofsvorplatz"
+      },
+      "period": {
+        "de-DE": [
+          "Dezember 1993"
+        ],
+        "en-US": [
+          "Dezember 1993"
+        ]
+      },
+      "creator": [
+        "Georg Sommer"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00969580%2F871347_00222323_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55332"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a4b96597cd47d9a69366165658834ab075c5c54d",
+      "title": "Bahnhofstraße, Blick auf das Bahnhofsgebäude und den Bahnhofsvorplatz",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.912Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "1815CAF56FB943B0B221133084FBB3C6"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

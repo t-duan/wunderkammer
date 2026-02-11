@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22210,
+    "uuid": "39272e63-b1b4-46dc-84a9-af9761800d0b",
+    "title": "Cas_40 ENG New Coin Cabinet.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/39272e63-b1b4-46dc-84a9-af9761800d0b/Cas_40%20ENG%20New%20Coin%20Cabinet.mp3",
+      "file_name": "Cas_40 ENG New Coin Cabinet.mp3",
+      "file_size": 3054549,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "7d00430249c6e4a0bfd6957639435ebc29579868",
+      "title": "Cas_40 ENG New Coin Cabinet.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:37.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

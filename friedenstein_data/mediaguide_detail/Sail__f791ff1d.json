@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070636,
+    "uuid": "f791ff1d-6b8c-457b-a497-b2379975ea2d",
+    "title": "Sail",
+    "content": {
+      "key": "sail",
+      "icon": "82c2877b-31d2-4cf8-a560-0f5b514b7ec8",
+      "label": {
+        "ar-AE": "الإبحار",
+        "ar-SA": "الإبحار",
+        "de-DE": "Segeln",
+        "en-GB": "Sailing",
+        "en-US": "Sailing",
+        "es-ES": "Navegación",
+        "fa-IR": "قایقرانی",
+        "fr-FR": "Voile",
+        "it-IT": "Navigazione",
+        "ja-JP": "セーリング",
+        "nl-NL": "Zeilen",
+        "zh-CN": "帆船运动",
+        "nl-NL-AD": "Zeilen",
+        "nl-NL-sl": "Zeilen"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a8b697b685c2767a5549fe73d498d54c802ae211",
+      "title": "Sail",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:53:58.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "82c2877b-31d2-4cf8-a560-0f5b514b7ec8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

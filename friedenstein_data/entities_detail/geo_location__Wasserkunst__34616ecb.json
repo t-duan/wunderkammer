@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2080568,
+    "uuid": "34616ecb-d2e5-45d2-a9cd-f041e38223c2",
+    "title": "Wasserkunst",
+    "content": {
+      "type": "audio",
+      "content": "cd2c28e3-56be-42a5-ab79-0ee80069b29e",
+      "geo_location": {
+        "lat": 50.947106,
+        "lng": 10.703048
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8d01ab9555c3f2d0d5ceded215775f0e4c9b957d",
+      "title": "Wasserkunst",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-22T08:40:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "stop": [
+          "cd2c28e3-56be-42a5-ab79-0ee80069b29e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "geo_location",
+    "status": "published"
+  }
+]

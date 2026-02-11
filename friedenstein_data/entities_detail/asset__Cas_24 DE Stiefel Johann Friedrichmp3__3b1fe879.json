@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22264,
+    "uuid": "3b1fe879-33b9-429f-acf9-e2c5081b5c9f",
+    "title": "Cas_24 DE Stiefel Johann Friedrich.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/3b1fe879-33b9-429f-acf9-e2c5081b5c9f/Cas_24%20DE%20Stiefel%20Johann%20Friedrich.mp3",
+      "file_name": "Cas_24 DE Stiefel Johann Friedrich.mp3",
+      "file_size": 1654079,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "2ee3f079a22f8656d74543f599ca2d40557e0030",
+      "title": "Cas_24 DE Stiefel Johann Friedrich.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:13.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

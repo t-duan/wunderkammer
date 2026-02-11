@@ -1,0 +1,4 @@
+.venv/
+friedenstein_data/media/
+__pycache__/
+*.pyc

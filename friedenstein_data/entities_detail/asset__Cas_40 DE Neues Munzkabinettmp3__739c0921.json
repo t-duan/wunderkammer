@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22251,
+    "uuid": "739c0921-69ee-4a9c-b399-42967fd1c716",
+    "title": "Cas_40 DE Neues Munzkabinett.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/739c0921-69ee-4a9c-b399-42967fd1c716/Cas_40%20DE%20Neues%20Munzkabinett.mp3",
+      "file_name": "Cas_40 DE Neues Munzkabinett.mp3",
+      "file_size": 3070414,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "7628f7239267f923c83c8529338335132c8a4f92",
+      "title": "Cas_40 DE Neues Munzkabinett.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2080673,
+    "uuid": "22c77d1c-8c4d-46bd-b111-002b9ceb6983",
+    "title": "Orangerie",
+    "content": {
+      "image": "43c25971-c8e0-4116-876d-da1d309fac19",
+      "title": {
+        "de-DE": "Orangerie Gotha – Ein zeitloser Zufluchtsort",
+        "en-US": "Orangerie"
+      },
+      "preview": false,
+      "primary_segment": "5c24828b-63b8-4843-a8f4-bd0af30ddd25",
+      "secondary_segments": [
+        "385e8c46-1153-4f9d-b258-16b7cdaef145",
+        "49cda003-8b35-47e1-9b84-e0ca70e5bfee"
+      ],
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": true
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d48a7a6a0a98dc6f35d2b5cff92b8a54e422ab0f",
+      "title": "Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-10T09:40:44.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "43c25971-c8e0-4116-876d-da1d309fac19"
+        ],
+        "audio_segment": [
+          "5c24828b-63b8-4843-a8f4-bd0af30ddd25"
+        ],
+        "comments_segment": [
+          "49cda003-8b35-47e1-9b84-e0ca70e5bfee"
+        ],
+        "collection_object_gallery_segment": [
+          "385e8c46-1153-4f9d-b258-16b7cdaef145"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22241,
+    "uuid": "7cd3e7e4-9f83-4789-b301-d72e64bdd09a",
+    "title": "Cas_6 ENG Duke Interior Anteroom.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/7cd3e7e4-9f83-4789-b301-d72e64bdd09a/Cas_6%20ENG%20Duke%20Interior%20Anteroom.mp3",
+      "file_name": "Cas_6 ENG Duke Interior Anteroom.mp3",
+      "file_size": 1546421,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "c7098d0357118dea0088e23c0eadd6f0d2f1724d",
+      "title": "Cas_6 ENG Duke Interior Anteroom.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

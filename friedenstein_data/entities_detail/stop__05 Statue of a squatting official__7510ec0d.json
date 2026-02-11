@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080277,
+    "uuid": "7510ec0d-7a3b-49c4-85c7-fcf4dbe6ab58",
+    "title": "05 Statue of a squatting official",
+    "content": {
+      "image": "34d0236d-c2cc-4748-ad17-1c49026228b1",
+      "title": {
+        "de-DE": "Statue eines hockenden Beamten",
+        "en-US": "Statue of a squatting official"
+      },
+      "preview": false,
+      "stopnumber": 105,
+      "primary_segment": "c6c4de4e-191e-4c7d-93c1-4bb8eec7074e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "50d8f5eebf015a0a681d7da5108c8267d3d77d76",
+      "title": "05 Statue of a squatting official",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:33:48.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "34d0236d-c2cc-4748-ad17-1c49026228b1"
+        ],
+        "audio_segment": [
+          "c6c4de4e-191e-4c7d-93c1-4bb8eec7074e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

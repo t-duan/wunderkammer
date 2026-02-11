@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22212,
+    "uuid": "07be5890-0d06-4c5b-b353-3cee60383685",
+    "title": "Cas_38 ENG Duke Audience Room.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/07be5890-0d06-4c5b-b353-3cee60383685/Cas_38%20ENG%20Duke%20Audience%20Room.mp3",
+      "file_name": "Cas_38 ENG Duke Audience Room.mp3",
+      "file_size": 4748758,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "5a2ec3fcda63509ff41646d8604e27d953a5b248",
+      "title": "Cas_38 ENG Duke Audience Room.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:36.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

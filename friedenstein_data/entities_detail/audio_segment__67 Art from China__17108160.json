@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079869,
+    "uuid": "17108160-a33c-479e-a584-decc639da773",
+    "title": "67 Art from China",
+    "content": {
+      "title": {
+        "de-DE": "67 Art from China",
+        "en-US": "67 Art from China"
+      },
+      "audiofile": {
+        "de-DE": "6b23c4bb-a5a2-4324-ae0b-e64f54ac0f4a",
+        "en-US": "fb9e79af-0ac0-49c8-95d8-fe310a5b568e"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "32fe3ffb891cc1a0006c9f98651170f10da46e55",
+      "title": "67 Art from China",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:25:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6b23c4bb-a5a2-4324-ae0b-e64f54ac0f4a",
+          "fb9e79af-0ac0-49c8-95d8-fe310a5b568e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

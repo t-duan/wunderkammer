@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080271,
+    "uuid": "acd97d09-db5e-4fc3-9730-9c03a3119439",
+    "title": "06 Statuette of Osiris",
+    "content": {
+      "image": "f113439e-1726-48b2-9ed9-c4d14fae3da4",
+      "title": {
+        "de-DE": "Osirisstatuette",
+        "en-US": "Statuette of Osiris"
+      },
+      "preview": false,
+      "stopnumber": 106,
+      "primary_segment": "319baae7-0453-4903-ae0d-869725feb803",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b4c9331560b1c9d190a9ef875b4ce86eaf2488bb",
+      "title": "06 Statuette of Osiris",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:35:06.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "f113439e-1726-48b2-9ed9-c4d14fae3da4"
+        ],
+        "audio_segment": [
+          "319baae7-0453-4903-ae0d-869725feb803"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

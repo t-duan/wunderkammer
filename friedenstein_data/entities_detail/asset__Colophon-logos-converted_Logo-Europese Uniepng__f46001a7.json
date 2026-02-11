@@ -1,0 +1,44 @@
+[
+  {
+    "id": 22352,
+    "uuid": "f46001a7-3db4-4321-b790-97f8bd5513fe",
+    "title": "Colophon-logos-converted_Logo-Europese Unie.png",
+    "content": {
+      "width": 1459,
+      "height": 409,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/f46001a7-3db4-4321-b790-97f8bd5513fe/Colophon-logos-converted_Logo-Europese%20Unie.png",
+      "variants": {
+        "iiif-tiles": {
+          "source": "https://media.tapart.me/media/friedenstein-stiftung/f46001a7-3db4-4321-b790-97f8bd5513fe/variants/iiif-tiles/iiif/tiles/info.json",
+          "status": "ready"
+        }
+      },
+      "file_name": "Colophon-logos-converted_Logo-Europese Unie.png",
+      "file_size": 22940,
+      "mime_type": {
+        "template": "image/png",
+        "extension": "png"
+      },
+      "content_type": "image/png",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "5187828aca45fa93cfcd40b9c628eccfb95cbbad",
+      "title": "Colophon-logos-converted_Logo-Europese Unie.png",
+      "locales": [],
+      "createdAt": "2025-04-08T11:36:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

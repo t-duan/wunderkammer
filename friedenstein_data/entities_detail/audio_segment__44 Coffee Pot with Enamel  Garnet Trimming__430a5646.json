@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080007,
+    "uuid": "430a5646-0cbd-486e-bb95-6a2c0303abfd",
+    "title": "44 Coffee Pot with Enamel & Garnet Trimming",
+    "content": {
+      "title": {
+        "de-DE": "44 Coffee Pot with Enamel & Garnet Trimming",
+        "en-US": "44 Coffee Pot with Enamel & Garnet Trimming"
+      },
+      "audiofile": {
+        "de-DE": "94f22290-ceae-44b5-96e7-e8386235afed",
+        "en-US": "031617c7-4d65-42ea-8a1c-7c0691f3b53c"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e1658d9cebe1a633633b0639951d3d74fbb11c9d",
+      "title": "44 Coffee Pot with Enamel & Garnet Trimming",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:42:26.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "031617c7-4d65-42ea-8a1c-7c0691f3b53c",
+          "94f22290-ceae-44b5-96e7-e8386235afed"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

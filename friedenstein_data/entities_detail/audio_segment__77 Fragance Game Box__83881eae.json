@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079809,
+    "uuid": "83881eae-7586-44f3-8c8f-770652817389",
+    "title": "77 Fragance Game Box",
+    "content": {
+      "title": {
+        "de-DE": "77 Fragance Game Box",
+        "en-US": "77 Fragance Game Box"
+      },
+      "audiofile": {
+        "de-DE": "6222fab6-15a3-4890-8c6c-bb098451dab8",
+        "en-US": "64b72b64-0c2c-4bb1-be3c-6119c5cb0047"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f4dc05010e2ec00d4459c1969e5958828f4e3433",
+      "title": "77 Fragance Game Box",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:43:20.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "6222fab6-15a3-4890-8c6c-bb098451dab8",
+          "64b72b64-0c2c-4bb1-be3c-6119c5cb0047"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

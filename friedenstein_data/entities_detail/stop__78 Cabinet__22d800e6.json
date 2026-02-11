@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079800,
+    "uuid": "22d800e6-199e-4a79-bce4-ca5ae71c4b76",
+    "title": "78 Cabinet",
+    "content": {
+      "image": "25200b7e-9b4a-4755-85d4-bdc8d841f492",
+      "title": {
+        "de-DE": "Kabinettschrank",
+        "en-US": "Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 178,
+      "primary_segment": "2fce66ac-feb1-47bb-8a27-d3886e1a2cde",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7a155ced9a790d6992188675c02dfa880bbd3f63",
+      "title": "78 Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:45:24.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "25200b7e-9b4a-4755-85d4-bdc8d841f492"
+        ],
+        "audio_segment": [
+          "2fce66ac-feb1-47bb-8a27-d3886e1a2cde"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

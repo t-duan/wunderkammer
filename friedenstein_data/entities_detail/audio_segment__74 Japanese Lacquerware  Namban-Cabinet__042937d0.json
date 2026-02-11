@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079827,
+    "uuid": "042937d0-5449-4ea3-8ce6-9897d183011d",
+    "title": "74 Japanese Lacquerware – Namban-Cabinet",
+    "content": {
+      "title": {
+        "de-DE": "74 Japanese Lacquerware – Namban-Cabinet",
+        "en-US": "74 Japanese Lacquerware – Namban-Cabinet"
+      },
+      "audiofile": {
+        "de-DE": "969732e2-62f3-47fe-9740-10a64ab493ea",
+        "en-US": "4e65ba49-03c4-4e14-a7fb-73e5f2b2c20f"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8bc33e5662b4f08aa71aa3d963343d74a34431b0",
+      "title": "74 Japanese Lacquerware – Namban-Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:37:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4e65ba49-03c4-4e14-a7fb-73e5f2b2c20f",
+          "969732e2-62f3-47fe-9740-10a64ab493ea"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 29765,
+    "uuid": "b2113286-2a77-49f4-bd6f-b69a5af175b8",
+    "title": "Cas_32 DE Audienzzimmer Herzogin.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/b2113286-2a77-49f4-bd6f-b69a5af175b8/Cas_32%20DE%20Audienzzimmer%20Herzogin.mp3",
+      "file_name": "Cas_32 DE Audienzzimmer Herzogin.mp3",
+      "file_size": 2655417,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "13268b9b5f298a79736180d3d9b59b0e487dae98",
+      "title": "Cas_32 DE Audienzzimmer Herzogin.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:16.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

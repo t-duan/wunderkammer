@@ -1,0 +1,44 @@
+[
+  {
+    "id": 22029,
+    "uuid": "ba11e3fe-7a58-42b8-90ef-c448323a0cdc",
+    "title": "Mus_45.jpg",
+    "content": {
+      "width": 640,
+      "height": 640,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/ba11e3fe-7a58-42b8-90ef-c448323a0cdc/Mus_45.jpg",
+      "variants": {
+        "iiif-tiles": {
+          "source": "https://media.tapart.me/media/friedenstein-stiftung/ba11e3fe-7a58-42b8-90ef-c448323a0cdc/variants/iiif-tiles/iiif/tiles/info.json",
+          "status": "ready"
+        }
+      },
+      "file_name": "Mus_45.jpg",
+      "file_size": 73771,
+      "mime_type": {
+        "template": "image/jpeg",
+        "extension": "jpg"
+      },
+      "content_type": "image/jpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "713ef1988d5b2d5df31c96dd01e08b15a9fa15b7",
+      "title": "Mus_45.jpg",
+      "locales": [],
+      "createdAt": "2025-05-15T08:21:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

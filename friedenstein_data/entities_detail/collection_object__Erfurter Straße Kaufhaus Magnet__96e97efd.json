@@ -1,0 +1,62 @@
+[
+  {
+    "id": 35346,
+    "uuid": "96e97efd-5bed-5f82-9e83-ea69097ca042",
+    "title": "Erfurter Straße, Kaufhaus \"Magnet\"",
+    "content": {
+      "title": {
+        "de-DE": "Erfurter Straße, Kaufhaus \"Magnet\"",
+        "en-US": "Erfurter Straße, Kaufhaus \"Magnet\""
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.5 cm",
+          "Breite 17.5 cm"
+        ],
+        "en-US": [
+          "Höhe 11.5 cm",
+          "Breite 17.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00970445%2F871347_00247814_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "16253"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "89e70989136184b0e6803e3438930a8ea884f12e",
+      "title": "Erfurter Straße, Kaufhaus \"Magnet\"",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:34.986Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "787ADCD736B641F8BA7DBAA1A5B004C4"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

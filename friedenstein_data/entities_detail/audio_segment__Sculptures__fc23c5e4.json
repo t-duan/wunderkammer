@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080157,
+    "uuid": "fc23c5e4-e22e-41dc-807c-def2ebacd839",
+    "title": "Sculptures",
+    "content": {
+      "title": {
+        "de-DE": "Sculptures",
+        "en-US": "Sculptures"
+      },
+      "audiofile": {
+        "de-DE": "84a430d4-e2c3-454b-86ce-51b3cd257720",
+        "en-US": "5833d3ff-f950-4d18-816c-df5330040334"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d5f39c9b4bc77abec2ddcfd4fb74dabdabc98daa",
+      "title": "Sculptures",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:00:14.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "5833d3ff-f950-4d18-816c-df5330040334",
+          "84a430d4-e2c3-454b-86ce-51b3cd257720"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22245,
+    "uuid": "436c10be-ae86-4f76-8d79-cab2cf631ad4",
+    "title": "Cas_2 ENG The East Anteroom.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/436c10be-ae86-4f76-8d79-cab2cf631ad4/Cas_2%20ENG%20The%20East%20Anteroom.mp3",
+      "file_name": "Cas_2 ENG The East Anteroom.mp3",
+      "file_size": 2178352,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "f0e145f9a65b99327b663f6fa780d0d7591cc90e",
+      "title": "Cas_2 ENG The East Anteroom.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:19.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

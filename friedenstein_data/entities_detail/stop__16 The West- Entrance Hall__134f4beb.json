@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080472,
+    "uuid": "134f4beb-ac1e-4b4f-8001-c79845eb5980",
+    "title": "16 The West- Entrance Hall",
+    "content": {
+      "image": "e2486c66-2534-4b31-bbdb-0fc49bea9b04",
+      "title": {
+        "de-DE": "Westvorsaal / Kunstkammer",
+        "en-US": "The West- Entrance Hall"
+      },
+      "preview": false,
+      "stopnumber": 16,
+      "primary_segment": "5f46e25c-517b-4e41-850e-8a119a8fea99",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "280b566e00956f2a29f24bfd2cb19c1e1d744a99",
+      "title": "16 The West- Entrance Hall",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:20:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "e2486c66-2534-4b31-bbdb-0fc49bea9b04"
+        ],
+        "audio_segment": [
+          "5f46e25c-517b-4e41-850e-8a119a8fea99"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

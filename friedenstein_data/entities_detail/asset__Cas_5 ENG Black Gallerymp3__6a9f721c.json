@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22242,
+    "uuid": "6a9f721c-726c-4a92-8786-f51f3d8f54c9",
+    "title": "Cas_5 ENG Black Gallery.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/6a9f721c-726c-4a92-8786-f51f3d8f54c9/Cas_5%20ENG%20Black%20Gallery.mp3",
+      "file_name": "Cas_5 ENG Black Gallery.mp3",
+      "file_size": 2603109,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "5408e6918c1b23584e7784608bf968e068cc23e9",
+      "title": "Cas_5 ENG Black Gallery.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

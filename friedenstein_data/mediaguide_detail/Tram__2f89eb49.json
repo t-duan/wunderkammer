@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070516,
+    "uuid": "2f89eb49-c8d5-465d-8a20-d78640764be7",
+    "title": "Tram",
+    "content": {
+      "key": "tram",
+      "icon": "cb0eed01-e414-4aa1-88cb-50d9d4555a2a",
+      "label": {
+        "ar-AE": "ترام",
+        "ar-SA": "ترام",
+        "de-DE": "Tram",
+        "en-GB": "TramTram",
+        "en-US": "Tram",
+        "es-ES": "Tranvía",
+        "fa-IR": "تراموا",
+        "fr-FR": "Tram",
+        "it-IT": "Tram",
+        "ja-JP": "トラム",
+        "nl-NL": "Tram",
+        "zh-CN": "电车",
+        "nl-NL-AD": "Tram",
+        "nl-NL-sl": "Tram"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "60b2e19f7c8a0ea38bf9d7b6558e1a6dd0925311",
+      "title": "Tram",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:56:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "cb0eed01-e414-4aa1-88cb-50d9d4555a2a"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

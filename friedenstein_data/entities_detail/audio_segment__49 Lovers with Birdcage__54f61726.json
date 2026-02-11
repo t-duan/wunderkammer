@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079977,
+    "uuid": "54f61726-5f8a-44c4-bb15-0bb342e4aee4",
+    "title": "49 Lovers with Birdcage",
+    "content": {
+      "title": {
+        "de-DE": "49 Lovers with Birdcage",
+        "en-US": "49 Lovers with Birdcage"
+      },
+      "audiofile": {
+        "de-DE": "4d312b9e-691f-48d3-aef8-deaf6e476405",
+        "en-US": "7d9e4db1-fe13-46e1-a12a-5b71d3cf94bd"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b0b3a6bb788c1d5da6482a172e4097e5d515ccad",
+      "title": "49 Lovers with Birdcage",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:49:37.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4d312b9e-691f-48d3-aef8-deaf6e476405",
+          "7d9e4db1-fe13-46e1-a12a-5b71d3cf94bd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

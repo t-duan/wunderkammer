@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2079755,
+    "uuid": "49cda003-8b35-47e1-9b84-e0ca70e5bfee",
+    "title": "Orangerie",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a0debbdc230d2751c32475e5934fbcb4a8d9fb1a",
+      "title": "Orangerie",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-19T07:18:05.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

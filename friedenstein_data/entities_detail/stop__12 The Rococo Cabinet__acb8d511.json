@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080490,
+    "uuid": "acb8d511-f1a2-4cc0-befb-288217a022ce",
+    "title": "12 The Rococo Cabinet",
+    "content": {
+      "image": "0c701f2e-26cd-4a91-922e-99f629047b91",
+      "title": {
+        "de-DE": "Retirade der Herzogin",
+        "en-US": "The Rococo Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 12,
+      "primary_segment": "b5a40959-d49a-4c51-aafd-0c1a6209cfd6",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "e4c5bc38e62cd4efbae18d69204493bfdea357a3",
+      "title": "12 The Rococo Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:12:52.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "0c701f2e-26cd-4a91-922e-99f629047b91"
+        ],
+        "audio_segment": [
+          "b5a40959-d49a-4c51-aafd-0c1a6209cfd6"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

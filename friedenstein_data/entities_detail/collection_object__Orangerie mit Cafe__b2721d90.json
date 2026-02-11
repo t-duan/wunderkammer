@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35517,
+    "uuid": "b2721d90-1523-5081-8b8d-1329ce7795a8",
+    "title": "Orangerie mit Cafe",
+    "content": {
+      "title": {
+        "de-DE": "Orangerie mit Cafe",
+        "en-US": "Orangerie mit Cafe"
+      },
+      "period": {
+        "de-DE": [
+          "1968"
+        ],
+        "en-US": [
+          "1968"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 14.5 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 14.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01064963%2F871347_00251457_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "44876"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "48f95315c3e65182c9fa7275609bff595855ae30",
+      "title": "Orangerie mit Cafe",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:33.302Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "F0D8EAFE9356490F876F1C01DA4183E7"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

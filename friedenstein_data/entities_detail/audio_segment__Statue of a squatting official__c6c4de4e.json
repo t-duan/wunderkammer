@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080280,
+    "uuid": "c6c4de4e-191e-4c7d-93c1-4bb8eec7074e",
+    "title": "Statue of a squatting official",
+    "content": {
+      "title": {
+        "de-DE": "Statue of a squatting official",
+        "en-US": "Statue of a squatting official"
+      },
+      "audiofile": {
+        "de-DE": "7e769874-3aef-4044-b4a9-4a5d007ee19e",
+        "en-US": "b8c966e2-4a70-4548-b3f6-d3b35dbe1020"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "4e0b9dd78a58a29d3724ab284ab45bf1d4bd235a",
+      "title": "Statue of a squatting official",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:33:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "7e769874-3aef-4044-b4a9-4a5d007ee19e",
+          "b8c966e2-4a70-4548-b3f6-d3b35dbe1020"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

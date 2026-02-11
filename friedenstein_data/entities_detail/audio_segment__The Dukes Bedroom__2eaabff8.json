@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080511,
+    "uuid": "2eaabff8-2acb-42ca-9f26-4f45d1e4e15e",
+    "title": "The Duke’s Bedroom",
+    "content": {
+      "title": {
+        "de-DE": "The Duke’s Bedroom",
+        "en-US": "The Duke’s Bedroom"
+      },
+      "audiofile": {
+        "de-DE": "7562cc00-421f-4547-84ae-c11abf8e26a4",
+        "en-US": "a9405e0f-e1d5-4b17-af41-13ebd1d320d8"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0bda47e3bf96d075fef394af44ebe63ad04d055c",
+      "title": "The Duke’s Bedroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:07:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "7562cc00-421f-4547-84ae-c11abf8e26a4",
+          "a9405e0f-e1d5-4b17-af41-13ebd1d320d8"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

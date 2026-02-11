@@ -1,0 +1,173 @@
+[
+  {
+    "id": 2080622,
+    "uuid": "39172b7c-1243-4001-9586-641089fe8f60",
+    "title": "Neumarkt und Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt und Margarethenkirche",
+        "en-US": "Neumarkt and St Margaret's Church"
+      },
+      "audiofile": {
+        "de-DE": "f6b2cc5f-1aba-4f7c-926a-8c7877183715",
+        "en-US": "174422cd-1345-41b6-8467-b2abbc57ec0d"
+      },
+      "timed_images": [
+        {
+          "id": "b07b3476-5cf8-43b5-be57-538268c470e6",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Neumarkt1",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "6cbc0cbc-4aac-5523-950f-9ecf7a24bc82"
+        },
+        {
+          "id": "e205f7fa-1c38-485f-86c8-30dace32bb50",
+          "hide_at": {
+            "de-DE": 12,
+            "en-US": 12
+          },
+          "show_at": {
+            "de-DE": 8,
+            "en-US": 8
+          },
+          "blockName": "Timed image Neumarkt2",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "11e23873-99d0-5c22-bb09-a20ddcf6441c"
+        },
+        {
+          "id": "6b51f83f-d416-46fd-afd4-898e0f422220",
+          "hide_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "show_at": {
+            "de-DE": 12,
+            "en-US": 12
+          },
+          "blockName": "Timed image Neumarkt3",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "ae4d5b25-438a-5901-baa7-89f9e2817f7d"
+        },
+        {
+          "id": "bbc39939-f6d6-497d-a01a-d36107d6d417",
+          "hide_at": {
+            "de-DE": 20,
+            "en-US": 20
+          },
+          "show_at": {
+            "de-DE": 16,
+            "en-US": 16
+          },
+          "blockName": "Timed image Neumarkt4",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "ba61ca1b-a42e-510d-990a-0c9b93276aaf"
+        },
+        {
+          "id": "d9297462-9190-419d-8c92-2549e351a4fb",
+          "hide_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "show_at": {
+            "de-DE": 20,
+            "en-US": 20
+          },
+          "blockName": "Timed image Neumarkt5",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "54b78ac3-b7a6-514b-804d-49ab02dbfbcc"
+        },
+        {
+          "id": "5a0c5d8e-263c-4a97-97ec-25ee4d321870",
+          "hide_at": {
+            "de-DE": 28,
+            "en-US": 28
+          },
+          "show_at": {
+            "de-DE": 24,
+            "en-US": 24
+          },
+          "blockName": "Timed image Neumarkt6",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "0ee4f96b-70d2-58a0-b5d0-51dfe63cb4c0"
+        },
+        {
+          "id": "8381fb93-c396-40e7-86fa-be26d7bc8b4a",
+          "hide_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "show_at": {
+            "de-DE": 28,
+            "en-US": 28
+          },
+          "blockName": "Timed image Neumarkt7",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "a873773b-6119-506b-adab-e2f62b34f984"
+        },
+        {
+          "id": "3915a9d8-b2de-4f32-9654-79ce1110ea49",
+          "hide_at": {
+            "de-DE": 35,
+            "en-US": 35
+          },
+          "show_at": {
+            "de-DE": 32,
+            "en-US": 32
+          },
+          "blockName": "Timed image Neumarkt8",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "f561a980-a837-51cb-b0e5-f556830edf2d"
+        },
+        {
+          "id": "f1e57e3b-2f9a-4600-8f65-c678550e1c75",
+          "hide_at": {
+            "de-DE": 39,
+            "en-US": 39
+          },
+          "show_at": {
+            "de-DE": 35,
+            "en-US": 35
+          },
+          "blockName": "Timed image Neumarkt9",
+          "blockType": "timed_images_collection_object",
+          "collection_object": "d63012f1-3a8d-5e73-baef-b3bffa1211c7"
+        }
+      ],
+      "transcription": {
+        "de-DE": "„Vor Ihnen erhebt sich die imposante Margarethenkirche, ihre gotischen Türme ragen seit Jahrhunderten gen Himmel. Dies ist eines der ältesten Gebäude Gothas – ein Ort, an dem Glaube, Macht und der Wandel der Zeiten aufeinandertreffen.“\n\n„Stellen Sie sich vor… Wir schreiben das Jahr 1494. Die Fundamente einer alten romanischen Basilika werden abgetragen, um Platz für eine neue Kirche zu schaffen. Handwerker meißeln geduldig das kunstvolle Maßwerk in die Fenster. Die Stadt wächst – und mit ihr der Wunsch nach einem Gotteshaus, das ihre Bedeutung widerspiegelt.“\n\n„Im Jahr 1517, während die letzten Steine des Kirchturms gesetzt werden, bricht die Reformation aus. Hier, in dieser Kirche, beginnt Pfarrer Johann Langenhan bereits 1522, nach den Lehren Martin Luthers zu predigen. Eine mutige Tat. Gotha wird eine der ersten Städte, in denen sich die Reformation durchsetzt“\n\n„Doch nicht alle stehen hinter diesem Wandel. Die Spannungen nehmen zu, die Stadt ist gespalten. Sogar der Turmbau kommt zum Stillstand – die Geldgeber ziehen sich zurück. Erst 1542 wird er endlich vollendet“\n\n„Im Laufe der Jahrhunderte übersteht die Margarethenkirche viele Katastrophen. 1646 brennt die ursprüngliche Turmhaube nieder. 1945 treffen Bomben Teile der Kirche. Doch immer wieder wird sie aufgebaut, ihre Fundamente tief verwurzelt in der Geschichte Gothas.“\n\n„Heute steht die Margarethenkirche weiterhin stolz am Rand der Altstadt. Ihre Mauern erzählen Geschichten von Glaube, Kampf und Erneuerung.“",
+        "en-US": "\"Before you stands the imposing St Margaret's Church, its Gothic towers reaching toward the sky for centuries. This is one of the oldest buildings in Gotha – a place where faith, power, and the passage of time converge.\"\n\n\"Imagine… It is the year 1494. The foundations of an old Romanesque Basilica are being dismantled to make way for a new church. Craftspeople patiently carve intricate ornamental stone openwork into the windows. The city is growing – and with it, the desire for a house of worship that reflects its importance.\"\n\n\"By 1517, as the last stones of the church tower are being set, the Reformation begins. Here, in this very church, Pastor Johann Langenhan starts preaching Martin Luther’s teachings in 1522 – a bold act. Gotha becomes one of the first cities where the Reformation takes hold.\"\n\n\"But not everyone supports this change. Tensions rise, and the city is divided. Even the tower construction comes to a halt – financial backers withdraw their support. Only in 1542 is it finally completed.\"\n\n\"Over the centuries, St Margaret's Church has endured many trials. In 1646, its original tower roof burned down. In 1945, bombs damaged parts of the church. But time and again, it was rebuilt, its foundations deeply rooted in Gotha’s history.\"\n\n\"Today, St Margaret's Church still stands proudly at the edge of the old town. Its walls whisper stories of faith, struggle, and renewal.\""
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "b938fff1cb2b4a9073756f262b6b1ad22a3d86ae",
+      "title": "Neumarkt und Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-04-15T14:57:30.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "174422cd-1345-41b6-8467-b2abbc57ec0d",
+          "f6b2cc5f-1aba-4f7c-926a-8c7877183715"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080421,
+    "uuid": "ae6f026f-3e9d-4525-b4f7-c3c2baa37087",
+    "title": "25 Wax Portraits of Gotha Royal Couples",
+    "content": {
+      "image": "c8831066-2417-4486-a2bf-8486a5e9b1bf",
+      "title": {
+        "de-DE": "Wachsporträts eines Gothaer Fürstenpaares",
+        "en-US": "Wax Portraits of Gotha Royal Couples"
+      },
+      "preview": false,
+      "stopnumber": 25,
+      "primary_segment": "ecb06451-63ba-45b7-b4b6-8fc8654a56fd",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d34075bc39b772a9a9df2b560137207afcbf704a",
+      "title": "25 Wax Portraits of Gotha Royal Couples",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T11:02:07.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "c8831066-2417-4486-a2bf-8486a5e9b1bf"
+        ],
+        "audio_segment": [
+          "ecb06451-63ba-45b7-b4b6-8fc8654a56fd"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

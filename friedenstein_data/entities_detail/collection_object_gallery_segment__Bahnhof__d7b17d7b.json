@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2079788,
+    "uuid": "d7b17d7b-4710-4cb5-9889-0ca440412a5b",
+    "title": "Bahnhof",
+    "content": {
+      "title": {
+        "de-DE": "Fotosammlung",
+        "en-US": "Photo collection"
+      },
+      "objects": [
+        "9afc14af-7553-5aa4-8871-6d25251ecd98",
+        "53f85c2a-5a58-5c2d-91a7-1db9406dc2a2",
+        "a05267ea-2e1e-5916-a3d8-f37bc1e4cce4",
+        "1d0e4eb7-cf7f-5a13-a79f-5ece5e9dc7d1",
+        "be990836-681b-5a71-897d-78222016bf3e",
+        "2ceed002-63bc-53ad-bc38-48951eabec74",
+        "a362ccf7-a745-58ca-aa2a-5065b8d5df92",
+        "aa701caa-ff4d-5fb3-840e-5f350f9e625c",
+        "7d418825-0d96-5fe2-8fec-68ed84dbb949",
+        "c0e6f09a-1cf1-5955-88a2-544614ae6b14"
+      ]
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "f69bbbd6df71fe85f333f96c96cd2585f971ed5d",
+      "title": "Bahnhof",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-16T14:27:43.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object_gallery_segment",
+    "status": "published"
+  }
+]

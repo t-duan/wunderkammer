@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080529,
+    "uuid": "c826f607-724e-413a-aa96-288d83277f7c",
+    "title": "The Duke’s Audience Room",
+    "content": {
+      "title": {
+        "de-DE": "The Duke’s Audience Room",
+        "en-US": "The Duke’s Audience Room"
+      },
+      "audiofile": {
+        "de-DE": "d22b4a19-0bd4-44fd-aa8e-9504fbefdd2b",
+        "en-US": "1e7ec950-272a-4a0d-8636-6e94d78ec6eb"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d5feba8d14eb659f910eada658562d34aab1fe55",
+      "title": "The Duke’s Audience Room",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:51:56.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1e7ec950-272a-4a0d-8636-6e94d78ec6eb",
+          "d22b4a19-0bd4-44fd-aa8e-9504fbefdd2b"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

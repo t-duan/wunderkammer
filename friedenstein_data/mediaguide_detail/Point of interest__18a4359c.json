@@ -1,0 +1,61 @@
+[
+  {
+    "id": 2070726,
+    "uuid": "18a4359c-0367-462c-89c7-aca0c3ff1fda",
+    "title": "Point of interest",
+    "content": {
+      "key": "point_of_interest",
+      "icon": "9e021724-ea89-4696-b3cc-2da479b46a04",
+      "label": {
+        "ar-AE": "نقطة اهتمام",
+        "ar-SA": "نقطة اهتمام",
+        "de-DE": "Sehenswürdigkeit",
+        "en-GB": "Point of interest",
+        "en-US": "Point of interest",
+        "es-ES": "Punto de interés",
+        "fa-IR": "نقطه جذاب",
+        "fr-FR": "Point d’intérêt",
+        "it-IT": "Punto di interesse",
+        "ja-JP": "興味ポイント",
+        "nl-NL": "Bezienswaardigheid",
+        "zh-CN": "兴趣点",
+        "nl-NL-AD": "Bezienswaardigheid",
+        "nl-NL-sl": "Bezienswaardigheid"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "6c886c88d7d2fbcf4c643c559666e163ecd6202b",
+      "title": "Point of interest",
+      "locales": [
+        "nl-NL",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ar-AE",
+        "fa-IR",
+        "it-IT",
+        "en-US",
+        "ar-SA",
+        "nl-NL-sl",
+        "nl-NL-AD",
+        "zh-CN",
+        "ja-JP",
+        "es-ES"
+      ],
+      "createdAt": "2025-04-17T07:51:01.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "9e021724-ea89-4696-b3cc-2da479b46a04"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "location_type",
+    "status": "published"
+  }
+]

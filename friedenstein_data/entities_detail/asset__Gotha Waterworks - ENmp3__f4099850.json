@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22327,
+    "uuid": "f4099850-0291-4f10-9226-4409139b7b24",
+    "title": "Gotha Waterworks - EN.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/f4099850-0291-4f10-9226-4409139b7b24/Gotha%20Waterworks%20-%20EN.mp3",
+      "file_name": "Gotha Waterworks - EN.mp3",
+      "file_size": 3814283,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "32363576b3ffd78cbc7b6e3c9dabdb74820631a7",
+      "title": "Gotha Waterworks - EN.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:39:56.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

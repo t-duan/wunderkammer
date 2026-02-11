@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079875,
+    "uuid": "09a6c0f8-cd06-4171-a851-cdefd5bff09b",
+    "title": "66 Jan Davidz. de Heem: Still-life",
+    "content": {
+      "title": {
+        "de-DE": "66 Jan Davidz. de Heem: Still-life",
+        "en-US": "66 Jan Davidz. de Heem: Still-life"
+      },
+      "audiofile": {
+        "de-DE": "4fef7749-059e-4f89-b034-d4d29b00ce65",
+        "en-US": "e83e117f-b397-4d3f-b9cb-9fe4baa02bb3"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "ea9a004b21e041e81d6fa03f8663e88223657e4e",
+      "title": "66 Jan Davidz. de Heem: Still-life",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:14:34.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "4fef7749-059e-4f89-b034-d4d29b00ce65",
+          "e83e117f-b397-4d3f-b9cb-9fe4baa02bb3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

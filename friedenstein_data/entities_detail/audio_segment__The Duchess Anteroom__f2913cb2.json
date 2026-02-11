@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080547,
+    "uuid": "f2913cb2-2578-4c5c-aaa4-34078c3ca901",
+    "title": "The Duchess’ Anteroom",
+    "content": {
+      "title": {
+        "de-DE": "The Duchess’ Anteroom",
+        "en-US": "The Duchess’ Anteroom"
+      },
+      "audiofile": {
+        "de-DE": "f564eb08-6340-485a-8587-86f8d1d6c7f7",
+        "en-US": "8487855b-8882-4c44-90e9-a9952f908849"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "9a4f42dcfb9230590b575158ad1a7abac2611f81",
+      "title": "The Duchess’ Anteroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T09:47:21.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8487855b-8882-4c44-90e9-a9952f908849",
+          "f564eb08-6340-485a-8587-86f8d1d6c7f7"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

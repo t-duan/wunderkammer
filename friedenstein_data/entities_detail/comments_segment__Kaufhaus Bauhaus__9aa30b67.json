@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080190,
+    "uuid": "9aa30b67-b182-4c7c-9a2f-adc58178b4dc",
+    "title": "Kaufhaus Bauhaus",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "42a4cef660412705d5ebd98580ac8ff85cd6480f",
+      "title": "Kaufhaus Bauhaus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:41:33.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

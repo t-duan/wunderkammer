@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080493,
+    "uuid": "0ddf0947-78b1-47c9-9d41-dd21f905c32b",
+    "title": "13 The Duchess’ Cabinet",
+    "content": {
+      "image": "2c92446a-0a16-42a5-9332-217be9718e31",
+      "title": {
+        "de-DE": "Kabinett der Herzogin",
+        "en-US": "The Duchess’ Cabinet"
+      },
+      "preview": false,
+      "stopnumber": 13,
+      "primary_segment": "58820a09-6958-4d65-857b-8bd4af1bc7c3",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7aada5e98775fdd00d6e3667fe07bdc89797cfdd",
+      "title": "13 The Duchess’ Cabinet",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:12:41.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "2c92446a-0a16-42a5-9332-217be9718e31"
+        ],
+        "audio_segment": [
+          "58820a09-6958-4d65-857b-8bd4af1bc7c3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22263,
+    "uuid": "1d3ce379-767e-454c-b147-a9a70c32d58d",
+    "title": "Cas_25 DE Wachsportrats Gothaer Fustenpaares.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/1d3ce379-767e-454c-b147-a9a70c32d58d/Cas_25%20DE%20Wachsportrats%20Gothaer%20Fustenpaares.mp3",
+      "file_name": "Cas_25 DE Wachsportrats Gothaer Fustenpaares.mp3",
+      "file_size": 1660038,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "a3cf836bfe552f8589ac3402d5273e5038a22f58",
+      "title": "Cas_25 DE Wachsportrats Gothaer Fustenpaares.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:30:13.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080187,
+    "uuid": "549041c7-fb81-4b20-8cf3-1921f72da8b2",
+    "title": "17 Model made of cork",
+    "content": {
+      "title": {
+        "de-DE": "17 Model made of cork",
+        "en-US": "17 Model made of cork"
+      },
+      "audiofile": {
+        "de-DE": "9470435e-6266-4eb6-8643-4bc57bd88be7",
+        "en-US": "8d8ac9b5-9745-4cd5-9766-2bfc57030c39"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "227bfc769e5d2d61a4539e8527ec6fb247baec12",
+      "title": "17 Model made of cork",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:51:03.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "8d8ac9b5-9745-4cd5-9766-2bfc57030c39",
+          "9470435e-6266-4eb6-8643-4bc57bd88be7"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

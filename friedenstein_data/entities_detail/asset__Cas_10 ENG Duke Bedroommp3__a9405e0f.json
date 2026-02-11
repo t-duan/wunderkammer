@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22238,
+    "uuid": "a9405e0f-e1d5-4b17-af41-13ebd1d320d8",
+    "title": "Cas_10 ENG Duke Bedroom.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/a9405e0f-e1d5-4b17-af41-13ebd1d320d8/Cas_10%20ENG%20Duke%20Bedroom.mp3",
+      "file_name": "Cas_10 ENG Duke Bedroom.mp3",
+      "file_size": 1318563,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "133c191146f1194675256740f85475bbb78a6805",
+      "title": "Cas_10 ENG Duke Bedroom.mp3",
+      "locales": [],
+      "createdAt": "2025-05-08T09:32:23.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2079854,
+    "uuid": "ab9dd809-38b7-4a91-bd34-7658e5862e94",
+    "title": "69 Ma Gu on the Lion",
+    "content": {
+      "image": "d56608f2-3e42-41f0-a9a2-dfeb92d61a19",
+      "title": {
+        "de-DE": "Magu auf dem Löwen",
+        "en-US": "Ma Gu on the Lion"
+      },
+      "preview": false,
+      "stopnumber": 169,
+      "primary_segment": "084d2759-83ee-4733-a381-c8540bf74973",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "c14164c3f47b56b7467948c3edb7e287797176cb",
+      "title": "69 Ma Gu on the Lion",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T09:30:05.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "d56608f2-3e42-41f0-a9a2-dfeb92d61a19"
+        ],
+        "audio_segment": [
+          "084d2759-83ee-4733-a381-c8540bf74973"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

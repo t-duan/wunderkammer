@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080250,
+    "uuid": "b5b7153c-7140-401e-9f09-fccf4f9b853c",
+    "title": "Fragment of a sarcophagus",
+    "content": {
+      "title": {
+        "de-DE": "Fragment of a sarcophagus",
+        "en-US": "Fragment of a sarcophagus"
+      },
+      "audiofile": {
+        "de-DE": "79925f36-66c2-4a3f-9852-921bf259b0b0",
+        "en-US": "332517d7-4e4c-4e8e-bb90-2e845d3270d6"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "1215907b494f1c5151667e5620a65edd6ca0bbca",
+      "title": "Fragment of a sarcophagus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T14:40:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "332517d7-4e4c-4e8e-bb90-2e845d3270d6",
+          "79925f36-66c2-4a3f-9852-921bf259b0b0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

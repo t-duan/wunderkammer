@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6303,
+    "uuid": "72db8cca-ab6b-45eb-9f9b-6bed7f4103a6",
+    "title": "shop.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/mediaguide/72db8cca-ab6b-45eb-9f9b-6bed7f4103a6/shop.svg",
+      "file_name": "shop.svg",
+      "file_size": 2500,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "5666cd5d9fcef567ec95024952cedd33729a13c8",
+      "title": "shop.svg",
+      "locales": [],
+      "createdAt": "2025-04-17T07:41:39.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "mediaguide",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

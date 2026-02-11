@@ -1,0 +1,31 @@
+[
+  {
+    "id": 2080103,
+    "uuid": "044ebb65-ed23-4ba1-ae18-5be081a3b4be",
+    "title": "Schloss Friedenstein",
+    "content": {
+      "title": {
+        "de-DE": "Ihre Gedanken",
+        "en-US": "Your thoughts"
+      }
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "43825f377728c5d683b6f0c8f16c25b46eeac3d3",
+      "title": "Schloss Friedenstein",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:11:45.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "comments_segment",
+    "status": "published"
+  }
+]

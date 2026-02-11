@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2079953,
+    "uuid": "9e222b25-6ac2-4ee9-8ca6-1f05814812d4",
+    "title": "53 Plate with Mars and Venus",
+    "content": {
+      "title": {
+        "de-DE": "53 Plate with Mars and Venus",
+        "en-US": "53 Plate with Mars and Venus"
+      },
+      "audiofile": {
+        "de-DE": "fa4b1e0b-98ed-48a2-a74e-1be89e3cff96",
+        "en-US": "dd923c3e-2d72-4823-9a92-c396201e16cb"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "264fbc56b046d05036c35e7a4321401531bae97a",
+      "title": "53 Plate with Mars and Venus",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:57:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "dd923c3e-2d72-4823-9a92-c396201e16cb",
+          "fa4b1e0b-98ed-48a2-a74e-1be89e3cff96"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

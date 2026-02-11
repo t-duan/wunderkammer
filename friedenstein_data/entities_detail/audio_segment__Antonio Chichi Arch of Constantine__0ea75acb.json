@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2080163,
+    "uuid": "0ea75acb-268d-4d23-8cb1-2f6b3c3eae4e",
+    "title": "Antonio Chichi: Arch of Constantine",
+    "content": {
+      "title": {
+        "de-DE": "Antonio Chichi: Arch of Constantine",
+        "en-US": "Antonio Chichi: Arch of Constantine"
+      },
+      "audiofile": {
+        "de-DE": "ae6385c8-dd96-406c-b3f8-359b1cad69a0",
+        "en-US": "7ee69e4d-98ae-4f24-88ae-df1b01eae473"
+      },
+      "image_is_fullscreen": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8b4ef8f98b209c84e889c9e8dbb638810a115730",
+      "title": "Antonio Chichi: Arch of Constantine",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T07:59:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "7ee69e4d-98ae-4f24-88ae-df1b01eae473",
+          "ae6385c8-dd96-406c-b3f8-359b1cad69a0"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "audio_segment",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080052,
+    "uuid": "baf8bbc9-c888-4841-9c35-4388fcb007ca",
+    "title": "36 Barth. Bruyn: Portrait of a couple",
+    "content": {
+      "image": "1438b1fc-fda9-49f0-b20e-6e7a90a5c6e0",
+      "title": {
+        "de-DE": "Barth. Bruyn: Portrait eines Paares",
+        "en-US": "Barth. Bruyn: Portrait of a couple"
+      },
+      "preview": false,
+      "stopnumber": 136,
+      "primary_segment": "b62016db-fafe-4d80-bb49-08d2ad2424a3",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "a8c4c7300070fb25b4fe4d6f0e2b1c831bc9dd66",
+      "title": "36 Barth. Bruyn: Portrait of a couple",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:27:43.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "1438b1fc-fda9-49f0-b20e-6e7a90a5c6e0"
+        ],
+        "audio_segment": [
+          "b62016db-fafe-4d80-bb49-08d2ad2424a3"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

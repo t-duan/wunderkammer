@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080076,
+    "uuid": "429e1e25-ca80-4780-919d-3ee5ad8d1ba0",
+    "title": "32 The Gotha Panel Altarpiece",
+    "content": {
+      "image": "54243444-836e-4b6d-b838-36dbef60da33",
+      "title": {
+        "de-DE": "Der Gothaer Tafelaltar",
+        "en-US": "The Gotha Panel Altarpiece"
+      },
+      "preview": false,
+      "stopnumber": 132,
+      "primary_segment": "0d8ec729-4b8b-4d3b-92d2-fb4fe42f3d73",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "7e65d7d0aa659207cd18b35beb788bc70c0cd0de",
+      "title": "32 The Gotha Panel Altarpiece",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-15T08:19:12.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "54243444-836e-4b6d-b838-36dbef60da33"
+        ],
+        "audio_segment": [
+          "0d8ec729-4b8b-4d3b-92d2-fb4fe42f3d73"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2080508,
+    "uuid": "694b0365-4e8d-49ec-9952-a3fd7dab7ce4",
+    "title": "10 The Duke’s Bedroom",
+    "content": {
+      "image": "25305891-44ab-4b95-8d52-390e3a461888",
+      "title": {
+        "de-DE": "Schlafzimmer des Herzogspaares",
+        "en-US": "The Duke’s Bedroom"
+      },
+      "preview": false,
+      "stopnumber": 10,
+      "primary_segment": "2eaabff8-2acb-42ca-9f26-4f45d1e4e15e",
+      "image_is_fullscreen": false,
+      "is_high_resolution_image": false
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "8901f0321a8f779d279e0c971b18df5f01ba6a64",
+      "title": "10 The Duke’s Bedroom",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-05-08T10:08:08.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {
+        "asset": [
+          "25305891-44ab-4b95-8d52-390e3a461888"
+        ],
+        "audio_segment": [
+          "2eaabff8-2acb-42ca-9f26-4f45d1e4e15e"
+        ]
+      },
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "stop",
+    "status": "published"
+  }
+]

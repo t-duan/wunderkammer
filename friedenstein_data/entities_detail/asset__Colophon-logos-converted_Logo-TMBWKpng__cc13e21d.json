@@ -1,0 +1,44 @@
+[
+  {
+    "id": 22351,
+    "uuid": "cc13e21d-ecb4-4c34-b217-c82fcee8d417",
+    "title": "Colophon-logos-converted_Logo-TMBWK.png",
+    "content": {
+      "width": 1750,
+      "height": 375,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/cc13e21d-ecb4-4c34-b217-c82fcee8d417/Colophon-logos-converted_Logo-TMBWK.png",
+      "variants": {
+        "iiif-tiles": {
+          "source": "https://media.tapart.me/media/friedenstein-stiftung/cc13e21d-ecb4-4c34-b217-c82fcee8d417/variants/iiif-tiles/iiif/tiles/info.json",
+          "status": "ready"
+        }
+      },
+      "file_name": "Colophon-logos-converted_Logo-TMBWK.png",
+      "file_size": 52419,
+      "mime_type": {
+        "template": "image/png",
+        "extension": "png"
+      },
+      "content_type": "image/png",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "20d192a5cef71d365f3d28226ee0344268447a15",
+      "title": "Colophon-logos-converted_Logo-TMBWK.png",
+      "locales": [],
+      "createdAt": "2025-04-08T11:36:38.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

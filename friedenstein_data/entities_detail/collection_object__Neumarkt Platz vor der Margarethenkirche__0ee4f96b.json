@@ -1,0 +1,70 @@
+[
+  {
+    "id": 35556,
+    "uuid": "0ee4f96b-70d2-58a0-b5d0-51dfe63cb4c0",
+    "title": "Neumarkt, Platz vor der Margarethenkirche",
+    "content": {
+      "title": {
+        "de-DE": "Neumarkt, Platz vor der Margarethenkirche",
+        "en-US": "Neumarkt, Platz vor der Margarethenkirche"
+      },
+      "period": {
+        "de-DE": [
+          "um 1900"
+        ],
+        "en-US": [
+          "um 1900"
+        ]
+      },
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 11.0 cm",
+          "Breite 15.5 cm"
+        ],
+        "en-US": [
+          "Höhe 11.0 cm",
+          "Breite 15.5 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_01037966%2F871347_00248809_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "55396"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "d21e030e24582b49966cc7c65aa4063caab480c3",
+      "title": "Neumarkt, Platz vor der Margarethenkirche",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.878Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "1FF808E30D3246D5BA09B93E849E4B47"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

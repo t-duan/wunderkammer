@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22338,
+    "uuid": "e3c4ee03-bffc-49ac-b639-5db384827f98",
+    "title": "Innungshalle Handelsschule - DE.mp3",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/e3c4ee03-bffc-49ac-b639-5db384827f98/Innungshalle%20Handelsschule%20-%20DE.mp3",
+      "file_name": "Innungshalle Handelsschule - DE.mp3",
+      "file_size": 4970891,
+      "mime_type": {
+        "template": "audio/mpeg",
+        "extension": "mp3"
+      },
+      "content_type": "audio/mpeg",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "ec4496a0028a73fb30e450db157b21fc7af5a767",
+      "title": "Innungshalle Handelsschule - DE.mp3",
+      "locales": [],
+      "createdAt": "2025-04-14T08:27:09.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]

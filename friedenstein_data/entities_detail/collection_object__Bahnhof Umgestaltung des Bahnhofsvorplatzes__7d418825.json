@@ -1,0 +1,73 @@
+[
+  {
+    "id": 35583,
+    "uuid": "7d418825-0d96-5fe2-8fec-68ed84dbb949",
+    "title": "Bahnhof, Umgestaltung des Bahnhofsvorplatzes",
+    "content": {
+      "title": {
+        "de-DE": "Bahnhof, Umgestaltung des Bahnhofsvorplatzes",
+        "en-US": "Bahnhof, Umgestaltung des Bahnhofsvorplatzes"
+      },
+      "period": {
+        "de-DE": [
+          "2007"
+        ],
+        "en-US": [
+          "2007"
+        ]
+      },
+      "creator": [
+        "Lutz Ebhardt"
+      ],
+      "material": {
+        "de-DE": [
+          "Photopapier"
+        ],
+        "en-US": [
+          "Photopapier"
+        ]
+      },
+      "dimensions": {
+        "de-DE": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ],
+        "en-US": [
+          "Höhe 10.0 cm",
+          "Breite 15.0 cm"
+        ]
+      },
+      "object_type": {
+        "de-DE": [
+          "Abzug <Fotografie>"
+        ],
+        "en-US": [
+          "Abzug <Fotografie>"
+        ]
+      },
+      "image_sources": [
+        "https://digicult2.thulb.uni-jena.de/api/iiif/image/v2/digicult_derivate_00969683%2F871347_00223730_001_am.tif/full/max/0/default.png"
+      ],
+      "additional_identifier": "58068"
+    },
+    "locale": "*",
+    "metadata": {
+      "hash": "0a9952dbe7846293c311fbdfd0e07a8c676593ac",
+      "title": "Bahnhof, Umgestaltung des Bahnhofsvorplatzes",
+      "locales": [
+        "de-DE",
+        "en-US"
+      ],
+      "createdAt": "2025-10-01T11:18:32.586Z",
+      "contentSource": {
+        "type": "content-integration",
+        "sourceId": "337E9859730D4DD9AFFCCE129C3327A3"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "collection_object",
+    "status": "published"
+  }
+]

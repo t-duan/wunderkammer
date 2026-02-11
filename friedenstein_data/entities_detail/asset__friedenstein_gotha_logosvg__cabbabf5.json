@@ -1,0 +1,44 @@
+[
+  {
+    "id": 22366,
+    "uuid": "cabbabf5-e4b6-4fe0-afee-e41663f57a5b",
+    "title": "friedenstein_gotha_logo.svg",
+    "content": {
+      "width": 0,
+      "height": 0,
+      "source": "https://media.tapart.me/media/friedenstein-stiftung/cabbabf5-e4b6-4fe0-afee-e41663f57a5b/friedenstein_gotha_logo.svg",
+      "variants": {
+        "iiif-tiles": {
+          "source": "https://media.tapart.me/media/friedenstein-stiftung/cabbabf5-e4b6-4fe0-afee-e41663f57a5b/variants/iiif-tiles/iiif/tiles/info.json",
+          "status": "ready"
+        }
+      },
+      "file_name": "friedenstein_gotha_logo.svg",
+      "file_size": 36963,
+      "mime_type": {
+        "template": "image/svg+xml",
+        "extension": "svg"
+      },
+      "content_type": "image/svg+xml",
+      "focal_point_normalized": {
+        "vertical": 50,
+        "horizontal": 50
+      }
+    },
+    "locale": null,
+    "metadata": {
+      "hash": "3abf825a429c996b506d684442defa2a8c2d231c",
+      "title": "friedenstein_gotha_logo.svg",
+      "locales": [],
+      "createdAt": "2025-03-05T13:07:15.000Z",
+      "contentSource": {
+        "type": "payload"
+      },
+      "referenceUuids": {},
+      "referenceDamAssets": []
+    },
+    "organizationSlug": "friedenstein-stiftung",
+    "contentTypeSlug": "asset",
+    "status": "published"
+  }
+]
