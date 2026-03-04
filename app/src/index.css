@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+:root {
+  --color-graphitschwarz: #212020;
+  --color-verkehrsweiss: #ffffff;
+  --color-seidengruen: #8dc9a4;
+  --color-trollingerblau: #121f62;
+  --color-gerberarot: #e13e13;
+  --color-zitronengelb: #f3d548;
+  --color-loungeviolett: #580d82;
+  --color-lichtrot: #CB295C;
+  --color-perlrosa: #bd544e;
+  --color-lehmbraun: #916046;
+  --color-bambustiefgelb: #cf964c;
+  --font-family: 'Raleway', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 1.2;
+  color: var(--color-graphitschwarz);
+  background: var(--color-verkehrsweiss);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Leaflet popup styling */
+.leaflet-popup-content-wrapper {
+  font-family: var(--font-family);
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  margin: 8px 12px;
+  font-size: 14px;
+}
+
+/* Collapsible details arrow rotation */
+details summary {
+  list-style: none;
+}
+details summary::-webkit-details-marker {
+  display: none;
+}
+details[open] summary span:first-child {
+  display: inline-block;
+  transform: rotate(90deg);
+}
