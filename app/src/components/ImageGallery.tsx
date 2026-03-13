@@ -3,11 +3,16 @@ import { useCommons } from '../hooks/useCommons';
 
 interface ImageGalleryProps {
   category: string | null;
+  allowedImages?: string[] | null; // null = show all, string[] = only these filenames
 }
 
-export default function ImageGallery({ category }: ImageGalleryProps) {
+export default function ImageGallery({ category, allowedImages }: ImageGalleryProps) {
   const { t } = useTranslation();
-  const { images, loading } = useCommons(category);
+  const { images: allImages, loading } = useCommons(category);
+
+  const images = allowedImages !== null && allowedImages !== undefined
+    ? allImages.filter((img) => allowedImages.includes(img.title))
+    : allImages;
 
   if (!category || (images.length === 0 && !loading)) return null;
 

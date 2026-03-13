@@ -10,9 +10,9 @@ export const pois: POIBase[] = [
     lng: 10.712481,
     uuid: '55429306-2065-41c9-96ef-65c1d80b8839',
     factgrid_id: null,
-    wikipedia_de: 'Gotha_Hauptbahnhof',
+    wikipedia_de: 'Bahnhof_Gotha',
     wikipedia_en: null,
-    wikidata_id: 'Q800026',
+    wikidata_id: 'Q800830',
     commons_category: 'Bahnhof Gotha',
   },
   {
@@ -26,7 +26,7 @@ export const pois: POIBase[] = [
     factgrid_id: 'Q195046',
     wikipedia_de: 'Gothaer_Versicherungsbank',
     wikipedia_en: 'Gothaer',
-    wikidata_id: 'Q879405',
+    wikidata_id: 'Q1538743',
     commons_category: null,
   },
   {
@@ -40,7 +40,7 @@ export const pois: POIBase[] = [
     factgrid_id: null,
     wikipedia_de: 'Orangerie_(Gotha)',
     wikipedia_en: null,
-    wikidata_id: 'Q1780800',
+    wikidata_id: 'Q2028180',
     commons_category: 'Orangerie (Gotha)',
   },
   {
@@ -54,7 +54,7 @@ export const pois: POIBase[] = [
     factgrid_id: 'Q172248',
     wikipedia_de: 'Ekhof-Theater',
     wikipedia_en: 'Ekhof_Theatre',
-    wikidata_id: 'Q875571',
+    wikidata_id: 'Q1322542',
     commons_category: 'Ekhof-Theater',
   },
   {
@@ -69,7 +69,7 @@ export const pois: POIBase[] = [
     wikipedia_de: null,
     wikipedia_en: null,
     wikidata_id: null,
-    commons_category: null,
+    commons_category: 'Kaufhaus_Conitzer_(Gotha)',
   },
   {
     id: 6,
@@ -82,7 +82,7 @@ export const pois: POIBase[] = [
     factgrid_id: 'Q15298',
     wikipedia_de: 'Margarethenkirche_(Gotha)',
     wikipedia_en: null,
-    wikidata_id: 'Q1894502',
+    wikidata_id: 'Q1416390',
     commons_category: 'Margarethenkirche (Gotha)',
   },
   {
@@ -97,7 +97,7 @@ export const pois: POIBase[] = [
     wikipedia_de: null,
     wikipedia_en: null,
     wikidata_id: null,
-    commons_category: null,
+    commons_category: 'Hauptmarkt_2_(Gotha)',
   },
   {
     id: 8,
@@ -111,7 +111,7 @@ export const pois: POIBase[] = [
     wikipedia_de: null,
     wikipedia_en: null,
     wikidata_id: null,
-    commons_category: null,
+    commons_category: 'Jüdenstraße_(Gotha)',
   },
   {
     id: 9,
@@ -122,9 +122,9 @@ export const pois: POIBase[] = [
     lng: 10.701768,
     uuid: '62149d63-3819-4ee6-b258-ed570927ab95',
     factgrid_id: null,
-    wikipedia_de: 'Rathaus_Gotha',
+    wikipedia_de: 'Altes_Rathaus_(Gotha)',
     wikipedia_en: null,
-    wikidata_id: 'Q2135870',
+    wikidata_id: 'Q25478234',
     commons_category: 'Rathaus Gotha',
   },
   {
@@ -136,9 +136,9 @@ export const pois: POIBase[] = [
     lng: 10.703048,
     uuid: '34616ecb-d2e5-45d2-a9cd-f041e38223c2',
     factgrid_id: null,
-    wikipedia_de: 'Wasserkunst_(Gotha)',
+    wikipedia_de: 'Wasserkunst_Gotha',
     wikipedia_en: null,
-    wikidata_id: 'Q2544961',
+    wikidata_id: 'Q21036949',
     commons_category: null,
   },
   {
@@ -164,9 +164,9 @@ export const pois: POIBase[] = [
     lng: 10.705621,
     uuid: '28b3d832-44ea-4cd8-8e07-10b06b72a99a',
     factgrid_id: 'Q35994',
-    wikipedia_de: 'Herzogliches_Museum_(Gotha)',
+    wikipedia_de: 'Herzogliches_Museum_Gotha',
     wikipedia_en: null,
-    wikidata_id: 'Q1613066',
+    wikidata_id: 'Q1615331',
     commons_category: 'Herzogliches Museum (Gotha)',
   },
 ];

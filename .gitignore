@@ -3,3 +3,6 @@ friedenstein_data/media/
 __pycache__/
 *.pyc
 doc/
+data/admin-config.json
+data/admin-users.json
+dev.log

@@ -10,6 +10,7 @@ interface StatementsPanelProps {
   bgColor: string;
   title: string;
   fetchLabels: (ids: string[], lang: string) => Promise<Record<string, string>>;
+  allowedProperties?: string[] | null; // null = show all, string[] = only these property IDs
 }
 
 const SKIP_DATATYPES = new Set(['commonsMedia', 'geo-shape', 'tabular-data', 'math']);
@@ -99,6 +100,7 @@ export default function StatementsPanel({
   bgColor,
   title,
   fetchLabels,
+  allowedProperties,
 }: StatementsPanelProps) {
   const { t, i18n } = useTranslation();
   const [labels, setLabels] = useState<Record<string, string>>({});
@@ -148,6 +150,7 @@ export default function StatementsPanel({
     if (!claimList || claimList.length === 0) return false;
     const dt = claimList[0].mainsnak.datatype;
     if (dt && SKIP_DATATYPES.has(dt)) return false;
+    if (allowedProperties !== null && allowedProperties !== undefined && !allowedProperties.includes(propId)) return false;
     return true;
   });
 

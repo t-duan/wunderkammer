@@ -67,6 +67,7 @@ export interface POIPrebuilt {
   summary_de: string;
   summary_en: string;
   thumbnail: string | null;
+  marker_image: string | null;
   wikidata_label: string | null;
   wikidata_description_de: string | null;
   wikidata_description_en: string | null;
@@ -77,3 +78,16 @@ export interface POIPrebuilt {
 }
 
 export type ViewMode = 'map' | 'list';
+
+export interface AdminPOIConfig {
+  enabled: boolean;
+  previewLength: number | null; // max chars for Wikipedia extract, null = full
+  wikidataProperties: string[] | null; // property IDs to show, null = all
+  factgridProperties: string[] | null; // property IDs to show, null = all
+  selectedImages: string[] | null; // image filenames to show, null = all
+}
+
+export interface AdminConfig {
+  pois: Record<number, AdminPOIConfig>;
+  customPois?: POIBase[];
+}

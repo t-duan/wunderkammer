@@ -22,6 +22,7 @@ interface PrebuiltPOI {
   summary_de: string;
   summary_en: string;
   thumbnail: string | null;
+  marker_image: string | null;
   wikidata_label: string | null;
   wikidata_description_de: string | null;
   wikidata_description_en: string | null;
@@ -114,6 +115,22 @@ async function getFactGridEntity(entityId: string): Promise<{
   }
 }
 
+async function getCommonsMarkerThumb(category: string): Promise<string | null> {
+  try {
+    const data = await fetchJSON(
+      `https://commons.wikimedia.org/w/api.php?action=query&generator=categorymembers` +
+      `&gcmtitle=Category:${encodeURIComponent(category)}&gcmtype=file&gcmlimit=1` +
+      `&prop=imageinfo&iiprop=url&iiurlwidth=80&format=json&origin=*`
+    ) as { query?: { pages?: Record<string, { imageinfo?: Array<{ thumburl: string }> }> } } | null;
+    const pages = data?.query?.pages;
+    if (!pages) return null;
+    const page = Object.values(pages)[0];
+    return page?.imageinfo?.[0]?.thumburl || null;
+  } catch {
+    return null;
+  }
+}
+
 async function getCommonsImages(category: string, limit = 4): Promise<string[]> {
   try {
     const data = await fetchJSON(
@@ -138,19 +155,22 @@ async function main() {
   for (const poi of pois) {
     console.log(`  ${poi.id}: ${poi.title_de}`);
 
-    const [wikiDe, wikiEn, wikidata, factgrid, images] = await Promise.all([
+    const [wikiDe, wikiEn, wikidata, factgrid, images, markerThumb] = await Promise.all([
       poi.wikipedia_de ? getWikipediaSummary(poi.wikipedia_de, 'de') : null,
       poi.wikipedia_en ? getWikipediaSummary(poi.wikipedia_en, 'en') : null,
       poi.wikidata_id ? getWikidataEntity(poi.wikidata_id) : null,
       poi.factgrid_id ? getFactGridEntity(poi.factgrid_id) : null,
       poi.commons_category ? getCommonsImages(poi.commons_category) : Promise.resolve([]),
+      poi.commons_category ? getCommonsMarkerThumb(poi.commons_category) : Promise.resolve(null),
     ]);
 
+    const thumbnail = wikiDe?.thumbnail || wikiEn?.thumbnail || null;
     results.push({
       id: poi.id,
       summary_de: wikiDe?.extract || '',
       summary_en: wikiEn?.extract || '',
-      thumbnail: wikiDe?.thumbnail || wikiEn?.thumbnail || null,
+      thumbnail,
+      marker_image: markerThumb || thumbnail || null,
       wikidata_label: wikidata?.label || null,
       wikidata_description_de: wikidata?.description_de || null,
       wikidata_description_en: wikidata?.description_en || null,

@@ -1,12 +1,13 @@
 [
   {
     "id": 1,
-    "summary_de": "",
+    "summary_de": "Der Bahnhof Gotha ist der wichtigste Bahnhof der thüringischen Stadt Gotha. Er ist Halt von ICs sowie zweistündlich von ICEs auf der Thüringer Bahn. Weitere anliegende Strecke ist die Bahnstrecke Gotha–Leinefelde nach Norden.",
     "summary_en": "",
-    "thumbnail": null,
-    "wikidata_label": null,
-    "wikidata_description_de": null,
-    "wikidata_description_en": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg/330px-Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/004_Bahnhof_Gotha.jpg/120px-004_Bahnhof_Gotha.jpg",
+    "wikidata_label": "Bahnhof Gotha",
+    "wikidata_description_de": "Bahnhof der thüringischen Stadt Gotha",
+    "wikidata_description_en": "railway station in Gotha, Germany",
     "factgrid_label": null,
     "factgrid_description": null,
     "images": [
@@ -15,29 +16,31 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/006_Bahnhof_Gotha.jpg/500px-006_Bahnhof_Gotha.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/007_Bahnhof_Gotha.jpg/500px-007_Bahnhof_Gotha.jpg"
     ],
-    "fetched_at": "2026-03-04T00:41:13.295Z"
+    "fetched_at": "2026-03-13T06:20:21.930Z"
   },
   {
     "id": 2,
     "summary_de": "Die Gothaer Versicherungsbank VVaG ist ein deutsches Versicherungsunternehmen. Der Versicherungsverein auf Gegenseitigkeit hat seinen Sitz in Köln. Seit 2024 gehört die Gothaer zur BarmeniaGothaer Gruppe, die sie gemeinsam mit dem Versicherungsverein Barmenia führt.",
     "summary_en": "",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gothaer.svg/langde-330px-Gothaer.svg.png",
-    "wikidata_label": "Liste der Staatsoberhäupter 88",
-    "wikidata_description_de": "Wikimedia-Liste",
-    "wikidata_description_en": "Wikimedia list article",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gothaer.svg/langde-330px-Gothaer.svg.png",
+    "wikidata_label": "Gothaer Versicherungsbank",
+    "wikidata_description_de": "Versicherungskonzern",
+    "wikidata_description_en": "German insurance company",
     "factgrid_label": "Gothaer Feuer (insurance)",
     "factgrid_description": "insurance company founded in Gotha in 1820",
     "images": [],
-    "fetched_at": "2026-03-04T00:41:13.654Z"
+    "fetched_at": "2026-03-13T06:20:22.166Z"
   },
   {
     "id": 3,
     "summary_de": "Die Orangerie Gotha ist eine zum Schlosspark des Schlosses Friedenstein im thüringischen Gotha gehörende, spätbarocke Gartenanlage. Sie entstand im 18. Jahrhundert im Auftrag von Herzog Friedrich III. von Sachsen-Gotha-Altenburg mit dem Ziel der Sammlung, Aufzucht und Präsentation exotischer Pflanzen. Sie ist nicht nur die größte Orangerie Thüringens, sondern auch eine der größten derartigen Anlagen im deutschsprachigen Raum.",
     "summary_en": "",
     "thumbnail": null,
-    "wikidata_label": "Komparator (Digitaltechnik)",
-    "wikidata_description_de": null,
-    "wikidata_description_en": "digital electronic component which compares two binary numbers",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-37295-0001%2C_Gotha%2C_Orangerie.jpg/120px-Bundesarchiv_Bild_183-37295-0001%2C_Gotha%2C_Orangerie.jpg",
+    "wikidata_label": "Orangerie Gotha",
+    "wikidata_description_de": "Schloss in Deutschland",
+    "wikidata_description_en": "Gotha",
     "factgrid_label": null,
     "factgrid_description": null,
     "images": [
@@ -46,42 +49,50 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GLAM_Gotha_Orangerie-6574.jpg/500px-GLAM_Gotha_Orangerie-6574.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/GLAM_Gotha_Orangerie-6573.jpg/500px-GLAM_Gotha_Orangerie-6573.jpg"
     ],
-    "fetched_at": "2026-03-04T00:41:13.818Z"
+    "fetched_at": "2026-03-13T06:20:22.323Z"
   },
   {
     "id": 4,
     "summary_de": "Das Ekhof-Theater ist eines der ältesten Barocktheater mit einer funktionstüchtigen Bühnenmaschinerie aus dem 17. Jahrhundert, die bis heute manuell bedient wird. Es befindet sich im Westturm von Schloss Friedenstein in Gotha.",
     "summary_en": "",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/B%C3%BChne_des_Ekhof-Theaters.JPG/330px-B%C3%BChne_des_Ekhof-Theaters.JPG",
-    "wikidata_label": "Rödingsmarkt",
-    "wikidata_description_de": "U-Bahnhof in Hamburg",
-    "wikidata_description_en": "railway station in Altstadt, Germany",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/B%C3%BChne_des_Ekhof-Theaters.JPG/330px-B%C3%BChne_des_Ekhof-Theaters.JPG",
+    "wikidata_label": "Stiftung Schloß Friedenstein Gotha / Ekhof-Theater",
+    "wikidata_description_de": "Theater im Schloss Friedenstein in Gotha, Thüringen",
+    "wikidata_description_en": "theatre in Friedenstein Palace in Gotha, Germany",
     "factgrid_label": "Ekhof Theatre/ Theater of Schloss Friedenstein",
     "factgrid_description": "one of the oldest baroque theatres, in the west tower of Friedenstein Castle in Gotha, built under Duke Friedrich I. of Sachsen-Gotha-Altenburg from 1681-1683",
     "images": [],
-    "fetched_at": "2026-03-04T00:41:14.648Z"
+    "fetched_at": "2026-03-13T06:20:22.634Z"
   },
   {
     "id": 5,
     "summary_de": "",
     "summary_en": "",
     "thumbnail": null,
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Conitzer_Gotha_1948.jpg/120px-Conitzer_Gotha_1948.jpg",
     "wikidata_label": null,
     "wikidata_description_de": null,
     "wikidata_description_en": null,
     "factgrid_label": null,
     "factgrid_description": null,
-    "images": [],
-    "fetched_at": "2026-03-04T00:41:14.648Z"
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kaufhaus_Conitzer_Gotha.JPG/500px-Kaufhaus_Conitzer_Gotha.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kaufhaus_Conitzer_und_S%C3%B6hne_Gotha.jpg/500px-Kaufhaus_Conitzer_und_S%C3%B6hne_Gotha.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gotha_Kaufhaus_moses.jpg/500px-Gotha_Kaufhaus_moses.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Conitzer_Gotha_1948.jpg/500px-Conitzer_Gotha_1948.jpg"
+    ],
+    "fetched_at": "2026-03-13T06:20:22.772Z"
   },
   {
     "id": 6,
     "summary_de": "Die evangelische Margarethenkirche, eine spätgotische Hallenkirche in Gotha am Neumarkt, zählt zu den ältesten Gebäuden der Stadt.",
     "summary_en": "",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thuringia_Gotha_asv2020-07_img22_Margarethenkirche.jpg/330px-Thuringia_Gotha_asv2020-07_img22_Margarethenkirche.jpg",
-    "wikidata_label": "Apophylia dilaticornis",
-    "wikidata_description_de": "Art der Gattung Apophylia",
-    "wikidata_description_en": "species of insect",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gotha_kosciol_sw_Malgorzaty_1.jpg/120px-Gotha_kosciol_sw_Malgorzaty_1.jpg",
+    "wikidata_label": "Margarethenkirche",
+    "wikidata_description_de": "Kirchengebäude in Gotha",
+    "wikidata_description_en": "church",
     "factgrid_label": "St. Margarethen, Gotha",
     "factgrid_description": "St Margaret",
     "images": [
@@ -90,84 +101,98 @@
       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gotha_kosciol_sw_Malgorzaty_3.jpg/500px-Gotha_kosciol_sw_Malgorzaty_3.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gotha_kosciol_sw_Malgorzaty_1.jpg/500px-Gotha_kosciol_sw_Malgorzaty_1.jpg"
     ],
-    "fetched_at": "2026-03-04T00:41:14.824Z"
+    "fetched_at": "2026-03-13T06:20:22.915Z"
   },
   {
     "id": 7,
     "summary_de": "",
     "summary_en": "",
     "thumbnail": null,
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gotha_Hauptmarkt-2_20240615_172427.jpg/120px-Gotha_Hauptmarkt-2_20240615_172427.jpg",
     "wikidata_label": null,
     "wikidata_description_de": null,
     "wikidata_description_en": null,
     "factgrid_label": null,
     "factgrid_description": null,
-    "images": [],
-    "fetched_at": "2026-03-04T00:41:14.824Z"
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gotha_Innungshalle.jpg/500px-Gotha_Innungshalle.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gotha_Hauptmarkt-2-3_20240615_162100.jpg/500px-Gotha_Hauptmarkt-2-3_20240615_162100.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gotha_Hauptmarkt-2-3_20240615_162121.jpg/500px-Gotha_Hauptmarkt-2-3_20240615_162121.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gotha_Hauptmarkt-2_20240615_172427.jpg/500px-Gotha_Hauptmarkt-2_20240615_172427.jpg"
+    ],
+    "fetched_at": "2026-03-13T06:20:23.061Z"
   },
   {
     "id": 8,
     "summary_de": "",
     "summary_en": "",
     "thumbnail": null,
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010_Kerzen_im_Kilo%2C_Gothaer_Kerzenfabrik_Filiale_J%C3%BCdenstra%C3%9Fe.JPG/120px-2010_Kerzen_im_Kilo%2C_Gothaer_Kerzenfabrik_Filiale_J%C3%BCdenstra%C3%9Fe.JPG",
     "wikidata_label": null,
     "wikidata_description_de": null,
     "wikidata_description_en": null,
     "factgrid_label": null,
     "factgrid_description": null,
-    "images": [],
-    "fetched_at": "2026-03-04T00:41:14.824Z"
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010_Kerzen_im_Kilo%2C_Gothaer_Kerzenfabrik_Filiale_J%C3%BCdenstra%C3%9Fe.JPG/500px-2010_Kerzen_im_Kilo%2C_Gothaer_Kerzenfabrik_Filiale_J%C3%BCdenstra%C3%9Fe.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/J%C3%BCdenstra%C3%9Fe_Gotha.jpg/500px-J%C3%BCdenstra%C3%9Fe_Gotha.jpg"
+    ],
+    "fetched_at": "2026-03-13T06:20:23.203Z"
   },
   {
     "id": 9,
-    "summary_de": "",
+    "summary_de": "Das Alte Rathaus ist ein denkmalgeschütztes Gebäude am Standort Hauptmarkt 1 in Gotha und das historische Rathaus der Stadt. Aufgrund seiner roten Fassadenfarbe wird das Gebäude inoffiziell auch Rotes Rathaus genannt.",
     "summary_en": "",
-    "thumbnail": null,
-    "wikidata_label": "RedIT",
-    "wikidata_description_de": null,
-    "wikidata_description_en": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gotha_Historisches_Rathaus_2015-08_--2.JPG/330px-Gotha_Historisches_Rathaus_2015-08_--2.JPG",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gotha_Historisches_Rathaus_2015-08_--2.JPG/330px-Gotha_Historisches_Rathaus_2015-08_--2.JPG",
+    "wikidata_label": "Altes Rathaus",
+    "wikidata_description_de": "Gebäude in Gotha in Thüringen",
+    "wikidata_description_en": "office building in Gotha, Germany",
     "factgrid_label": null,
     "factgrid_description": null,
     "images": [],
-    "fetched_at": "2026-03-04T00:41:15.204Z"
+    "fetched_at": "2026-03-13T06:20:23.349Z"
   },
   {
     "id": 10,
-    "summary_de": "",
+    "summary_de": "Die Wasserkunst Gotha ist ein 1895 fertiggestelltes System zur Bewässerung von Brunnen und Springbrunnen sowie zur örtlichen Wasserversorgung und zugleich eine Sehenswürdigkeit in der historischen Altstadt Gothas.",
     "summary_en": "",
-    "thumbnail": null,
-    "wikidata_label": "Élite Ligue 1995/96",
-    "wikidata_description_de": "74. Spielzeit der Élite Ligue",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gotha-Wasserkunst-1-CTH.JPG/330px-Gotha-Wasserkunst-1-CTH.JPG",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gotha-Wasserkunst-1-CTH.JPG/330px-Gotha-Wasserkunst-1-CTH.JPG",
+    "wikidata_label": "Wasserkunst Gotha",
+    "wikidata_description_de": "Wasserversorgungssystem",
     "wikidata_description_en": null,
     "factgrid_label": null,
     "factgrid_description": null,
     "images": [],
-    "fetched_at": "2026-03-04T00:41:15.802Z"
+    "fetched_at": "2026-03-13T06:20:23.495Z"
   },
   {
     "id": 11,
     "summary_de": "Das Schloss Friedenstein ist die ehemalige Residenz der Herzöge von Sachsen-Coburg und Gotha in der thüringischen Stadt Gotha. Die Vierflügelanlage im frühbarocken Stil wurde ab 1643 an der Stelle des geschleiften landesherrlichen Schlosses Grimmenstein errichtet. Es ist einer der bedeutendsten Schlossneubauten Deutschlands aus dem 17. Jahrhundert und beherbergt heute mehrere Museen und Einrichtungen. Eigentümer ist die Stiftung Thüringer Schlösser und Gärten, Hauptnutzer ist die Friedenstein Stiftung Gotha.",
     "summary_en": "Friedenstein Palace is an early Baroque palace in the city of Gotha, built in the mid-17th century by Ernest I, Duke of Saxe-Gotha at Gotha, Thuringia, Germany. In Germany, Friedenstein was one of the largest palaces of its time and one of the first Baroque palaces ever built. Friedenstein served as the main seat of the Dukes of Saxe-Gotha and later as one of the residences of the Dukes of Saxe-Coburg and Gotha, closely linked with the royal family of Great Britain through the marriage of Queen Victoria and Prince Albert. The final two ruling Dukes were both princes of the United Kingdom.",
     "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gotha-schloss-friedenstein-westen.jpg/330px-Gotha-schloss-friedenstein-westen.jpg",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gotha-schloss-friedenstein-westen.jpg/330px-Gotha-schloss-friedenstein-westen.jpg",
     "wikidata_label": "Schloss Friedenstein",
     "wikidata_description_de": "Schloss in Gotha (Thüringen), beherbergt heute Museen und Kunstsammlungen",
     "wikidata_description_en": "Castle in Gotha",
     "factgrid_label": "Friedenstein Palace, Gotha",
     "factgrid_description": "palace in Gotha",
     "images": [],
-    "fetched_at": "2026-03-04T00:41:16.040Z"
+    "fetched_at": "2026-03-13T06:20:23.734Z"
   },
   {
     "id": 12,
-    "summary_de": "",
+    "summary_de": "Das am Schlosspark südlich gegenüber von Schloss Friedenstein gelegene Herzogliche Museum Gotha ist ein Museumsgebäude im Stil der Neorenaissance aus dem 19. Jahrhundert. Seit der Wiedereröffnung 2013 zeigt es die Kunstsammlung der Herzöge von Sachsen-Gotha mit ägyptischen und griechisch-römischen Antiken, Malerei der Renaissance, ostasiatischer Kunst aus China und Japan sowie Skulpturen aus verschiedenen Epochen. Ein Meisterwerk der Ausstellung ist das Gothaer Liebespaar, ein Gemälde von 1480.",
     "summary_en": "",
-    "thumbnail": null,
-    "wikidata_label": "Hermann Weyland",
-    "wikidata_description_de": "deutscher Paläobotaniker",
-    "wikidata_description_en": "German botanist and paleontologist (1888-1974)",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/330px-Ducal_Museum_in_Gotha_18.jpg",
+    "marker_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/330px-Ducal_Museum_in_Gotha_18.jpg",
+    "wikidata_label": "Herzogliches Museum Gotha",
+    "wikidata_description_de": "Museum auf Schloss Friedenstein in Gotha, Thüringen",
+    "wikidata_description_en": "museum at Friedenstein Castle in Gotha, Thuringia, Germany",
     "factgrid_label": "Ducal Museum, Gotha",
     "factgrid_description": "Museum at the south side of Gotha's palace",
     "images": [],
-    "fetched_at": "2026-03-04T00:41:16.355Z"
+    "fetched_at": "2026-03-13T06:20:23.980Z"
   }
 ]

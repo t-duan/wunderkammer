@@ -4,6 +4,7 @@ import type { POIBase } from '../types';
 import { useWikipedia } from '../hooks/useWikipedia';
 import { useWikidata } from '../hooks/useWikidata';
 import { useFactGrid } from '../hooks/useFactGrid';
+import { useAdmin } from '../admin/useAdmin';
 import { fetchWikidataLabels, fetchFactGridLabels } from '../api/wikidata';
 import ImageGallery from './ImageGallery';
 import StatementsPanel from './StatementsPanel';
@@ -15,6 +16,8 @@ interface POIDetailProps {
 
 export default function POIDetail({ poi }: POIDetailProps) {
   const { t, i18n } = useTranslation();
+  const { getConfig } = useAdmin();
+  const adminCfg = getConfig(poi.id);
   const lang = i18n.language as 'de' | 'en';
   const title = lang === 'en' ? poi.title_en : poi.title_de;
 
@@ -79,7 +82,9 @@ export default function POIDetail({ poi }: POIDetailProps) {
         <p style={{ color: '#999' }}>{t('loading')}</p>
       ) : wiki?.extract ? (
         <p style={{ fontSize: 15, lineHeight: 1.5, color: '#333', marginTop: 12 }}>
-          {wiki.extract}
+          {adminCfg.previewLength !== null && wiki.extract.length > adminCfg.previewLength
+            ? wiki.extract.slice(0, adminCfg.previewLength) + '…'
+            : wiki.extract}
         </p>
       ) : (
         <p style={{ color: '#999', marginTop: 12 }}>{t('no_description')}</p>
@@ -116,6 +121,7 @@ export default function POIDetail({ poi }: POIDetailProps) {
           bgColor="#f0f4ff"
           title={t('wikidata_statements')}
           fetchLabels={fetchWdLabels}
+          allowedProperties={adminCfg.wikidataProperties}
         />
       )}
 
@@ -129,11 +135,12 @@ export default function POIDetail({ poi }: POIDetailProps) {
           bgColor="#f8f6ff"
           title={t('factgrid_statements')}
           fetchLabels={fetchFgLabels}
+          allowedProperties={adminCfg.factgridProperties}
         />
       )}
 
       {/* Image gallery */}
-      <ImageGallery category={poi.commons_category} />
+      <ImageGallery category={poi.commons_category} allowedImages={adminCfg.selectedImages} />
     </div>
   );
 }

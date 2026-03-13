@@ -5,9 +5,10 @@ import { useWikipedia } from '../hooks/useWikipedia';
 interface POICardProps {
   poi: POIBase;
   onClick: (poi: POIBase) => void;
+  fallbackImage?: string | null;
 }
 
-export default function POICard({ poi, onClick }: POICardProps) {
+export default function POICard({ poi, onClick, fallbackImage }: POICardProps) {
   const { i18n } = useTranslation();
   const lang = i18n.language as 'de' | 'en';
   const title = lang === 'en' ? poi.title_en : poi.title_de;
@@ -30,9 +31,9 @@ export default function POICard({ poi, onClick }: POICardProps) {
         fontFamily: 'var(--font-family)',
       }}
     >
-      {wiki?.thumbnail && (
+      {(wiki?.thumbnail?.source || fallbackImage) && (
         <img
-          src={wiki.thumbnail.source}
+          src={wiki?.thumbnail?.source || fallbackImage!}
           alt={title}
           style={{
             width: 72,
